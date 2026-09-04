@@ -1,0 +1,31 @@
+- id: ms-q1
+  question: >-
+    What policies, if any, do you support in regulating artificial intelligence use?
+  tag: Artificial Intelligence
+
+- id: ms-q2
+  question: >-
+    Mississippi has an energy-intensive economy; about 78% of energy generated in the state in 2024 was natural gas-focused. What role, if any, do you see alternative forms of energy (such as wind, solar, hydroelectric, and geothermal) playing in the mix of both Mississippian and American energy sources in the long term?
+  tag: Energy
+
+- id: ms-q3
+  question: >-
+    Mississippi currently has approximately 20 data centers, with companies recently announcing major investments of $750 million to $25 billion to build data centers in the state. How do you see data centers impacting Mississippi's, and the wider United States', economy, livelihoods and environment?
+  tag:
+    - Artificial Intelligence
+    - Energy
+
+- id: ms-q4
+  question: >-
+    What policies, if any, do you support to sustain the agriculture, fisheries, and wildlife of both Mississippi and the United States
+  tag: Environment
+
+- id: ms-q5
+  question: >-
+    Do you see community-based institutions like K–12 schools and community colleges playing a role in strengthening science and research across our state? If so, what policies do you support regarding these institutions?
+  tag: K-12 Science Education
+
+- id: ms-q6
+  question: >-
+    Do you think elected officials have a role in working with scientists to build the general public's trust in science? If so, what plans do you have to work with scientists?
+  tag: Trust in Science
