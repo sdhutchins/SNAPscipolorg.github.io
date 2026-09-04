@@ -1,0 +1,30 @@
+- id: nc-q1
+  question: >-
+    The cost of electricity and water are on the rise with nearby data centers straining current resources in combination with increased energy costs to consumers. How will you navigate the economic, public health, and environmental impacts when considering new data centers and data center permissions, in general?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+    - Public Health
+
+- id: nc-q2
+  question: >-
+    North Carolina is a growing hub for science and biotechnology industry and education. How will you ensure science workforce preparedness in community-based institutions like K–12 schools and community colleges across our state?
+  tag:
+    - Investment in Higher Education
+    - Jobs and Workforce
+    - K-12 Science Education
+
+- id: nc-q3
+  question: >-
+    What steps, if any, do you believe government should take to protect public health and community wellbeing (e.g., vaccine access, environmental health risks such as PFAS or asbestos, disease prevention, or emergency preparedness)?
+  tag:
+    - Environment
+    - Public Health
+
+- id: nc-q4
+  question: >-
+    As the world is becoming more information dense, science mistrust has grown. How do you think elected officials can work with scientists to build the general public’s trust in science?
+  tag:
+    - Policymaking Process
+    - Trust in Science
