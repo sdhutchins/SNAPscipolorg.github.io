@@ -180,18 +180,24 @@
     - Jobs and Workforce
     - K-12 Science Education
     - Science Funding
+  races:
+    - State Legislature
 
 - id: ne-q15
   question: >-
     Legislative appropriations for Nebraska's public universities have not kept pace with inflation, and state universities are now being asked to further reduce their budgets (Peal, 2026). What role should the Legislature play in providing funding for higher education? What policies, if any, would you support to balance the state budget while also supporting Nebraska's research capacity and student opportunities?
   tag:
     - Investment in Higher Education
+  races:
+    - State Legislature
 
 - id: ne-q16
   question: >-
     What role do you believe science, research, innovation, and STEM workforce development should play in Nebraska's economy, state revenues, and accountable investments in the infrastructure and services that improve quality of life?
   tag:
     - Jobs and Workforce
+  races:
+    - State Legislature
 
 - id: ne-q17
   question: >-
@@ -199,4 +205,111 @@
   tag:
     - Policymaking Process
     - Trust in Science
-    
+  races:
+    - State Legislature
+
+- id: ne-q18
+  question: >-
+    State education standards are periodically updated to reflect advances in
+    scientific knowledge. Would you, and if so how, ensure that decisions
+    about science standards and curriculum are transparent and based on
+    established evidence? What sources, if any, (ex. scientific experts,
+    educators, community members, etc) would you consider when developing
+    science education standards?
+  tag:
+    - K-12 Science Education
+    - Trust in Science
+  races:
+    - State Board of Education
+
+- id: ne-q19
+  question: >-
+    What opportunities, if any, do you see for partnerships between state
+    government, universities, industry, and nonprofit organizations to
+    strengthen scientific education?
+  tag: K-12 Science Education
+  races:
+    - State Board of Education
+    - University Board of Regents
+
+- id: ne-q20
+  question: >-
+    What investments, if any, do you believe would have the greatest impact on
+    improving science education across the state?
+  tag: K-12 Science Education
+  races:
+    - State Board of Education
+
+- id: ne-q21
+  question: >-
+    Please explain if and how you would support high-quality science
+    instruction for students in both urban and rural schools, and explain why
+    these are your policies?
+  tag: K-12 Science Education
+  races:
+    - State Board of Education
+
+- id: ne-q22
+  question: >-
+    Can you tell me about a time when you misunderstood something scientific,
+    realized that you were wrong, and updated your understanding?
+  tag: Trust in Science
+  races:
+    - State Board of Education
+
+- id: ne-q23
+  question: >-
+    Both research universities and government-funded research programs play a
+    critical role in advancing scientific discovery, training the future
+    workforce, and driving economic development. How would you approach
+    funding and oversight of research universities and government-funded
+    research programs, and what outcomes would you hope to achieve through
+    those investments?
+  tag:
+    - Investment in Higher Education
+    - Policymaking Process
+    - Science Funding
+  races:
+    - University Board of Regents
+
+- id: ne-q24
+  question: >-
+    In order to avoid sweeping cuts and promote long-term financial stability,
+    some academic departments at the University of Nebraska-Lincoln have been
+    eliminated, which has raised concerns about the consequences to
+    educational quality, workforce preparedness, and loss of life-saving data
+    (Wendling, 2025). Are you concerned about the immediate and long-term
+    effects of cuts to research and education- why or why not? How should
+    university leaders evaluate budget reductions and what are your
+    suggestions?
+  tag:
+    - Investment in Higher Education
+    - Policymaking Process
+    - Science Funding
+  races:
+    - University Board of Regents
+
+- id: ne-q25
+  question: >-
+    The federal government is pursuing large-scale changes to student visa
+    approval, including increased visa denials, revoking existing visas,
+    restricting travel from certain countries, and decreasing student visa
+    durations. How, if at all, should Nebraska respond to federal visa changes
+    affecting international STEM students and researchers?
+  tag:
+    - Investment in Higher Education
+    - Jobs and Workforce
+    - Policymaking Process
+  races:
+    - University Board of Regents
+
+- id: ne-q26
+  question: >-
+    What programs, if any, should the University of Nebraska school systems
+    implement to attempt to reduce the financial burden of attending a college
+    or graduate school for STEM-affiliated degrees in Nebraska?
+  tag:
+    - Investment in Higher Education
+    - Jobs and Workforce
+  races:
+    - University Board of Regents
