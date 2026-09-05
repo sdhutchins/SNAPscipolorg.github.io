@@ -128,10 +128,20 @@ published: true
   <p><small><sup>1</sup> These primary elections were prioritized because
   they have more than one official candidate on the ballot.</small></p>
 
-  <p>Prior to the <u>general election in November 2026</u>,
-  additional candidates will be contacted across all state districts. For a
-  complete list of which elections will be targeted at that time, please
-  check back in Fall 2026.</p>
+  <p><u>For the <strong>November 2026 General Election</strong></u>, only candidates in
+  the following elections were contacted:</p>
+  {%- comment -%}
+    For races that have district/party sub-bullets, wrap them in a
+    <details class="stance-race-group"> so the sub-list collapses by default.
+    For a race with no sub-bullets, use <div class="stance-race-flat">.
+  {%- endcomment -%}
+  <div>
+    <div class="stance-race-flat">Minnesota Governor</div>
+    <div class="stance-race-flat">U.S. Senator (MN)</div>
+    <div class="stance-race-flat">U.S. House of Representatives (MN)</div>
+    <div class="stance-race-flat">Minnesota State Senator</div>
+    <div class="stance-race-flat">Minnesota State House of Representatives</div>
+  </div>
   </div>
 </details>
 
@@ -177,7 +187,7 @@ published: true
 
 <hr class="stance-rule"/>
 
-{% include stance/response_explorer.html heading="August 2026 Primary Election" %}
+{% include stance/response_explorer.html heading="November 2026 General Election" %}
 
 {% include stance/press_mentions.html state=page.state %}
 
