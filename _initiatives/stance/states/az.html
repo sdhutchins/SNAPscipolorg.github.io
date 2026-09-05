@@ -2,14 +2,17 @@
 layout: gridlay
 collection: initiatives
 sitemap: true
-state: mn
-state_name: Minnesota
-demonym_plural: Minnesotans
-team_email: stanceonscienceminnesota@gmail.com
-ballot_lookup_url: https://myballotmn.sos.mn.gov/
-ballot_lookup_label: Minnesota Voting Information Portal
+# `state` and `state_name` are used by the global search and map to look up
+# this page from a USPS code. Keep them in sync with the YAML responses file
+# at _data/stance_responses/az.yml.
+state: az
+state_name: Arizona
+demonym_plural: Arizonans
+team_email: stanceonscience.arizona@gmail.com
+ballot_lookup_url: https://www.azcleanelections.gov/arizona-election/voter-education-guide/district-locator
+ballot_lookup_label: Clean Elections Commission
 # Socials (optional — leave blank to hide a link, or all blank to hide the footer):
-instagram_url: https://www.instagram.com/stanceonscience.mn/
+instagram_url:
 facebook_url:
 tiktok_url:
 x_url:
@@ -86,6 +89,12 @@ published: true
   <li>Encourage thoughtful engagement between communities and policymakers on science policy-related topics in our state.</li>
 </ol>
 
+<figure class="stance-state-graphic">
+  <img src="{{ '/images/stance_states/az/az_logo.png' | relative_url }}"
+       alt="Arizona Stance on Science logo: a green saguaro cactus and a grey desert mountain beneath a yellow sun reading &quot;AZ Stance on Science&quot;."
+       loading="lazy">
+</figure>
+
 <p>Through Stance on Science, we hope to help {{ page.demonym_plural }} understand how their elected representatives will utilize science to improve the state that they love. Learn more about this initiative on the <a href="{{ '/initiatives/stance-on-science' | relative_url }}">home page</a>.</p>
 
 <details class="info">
@@ -94,41 +103,12 @@ published: true
   <p>This webpage houses the responses to {{ questions.size }} questions
   crafted by the {{ team_name }} team.</p>
   <p>Only official candidates who will appear on ballots were contacted.</p>
-  <p>Candidates were contacted in July 2026 (with a follow-up to those who
+  <p>Candidates were contacted in August 2026 (with a follow-up to those who
   did not initially respond) and given the opportunity to answer all questions. Only the responses of candidates who answered the questions are
   included. None of the candidates' responses were modified in any way before
   being published on this resource page.</p>
 
-  <p><u>For the <strong>August 2026 Primary Election</strong></u>, only candidates in
-  the following elections were contacted<sup>1</sup>:</p>
-  {%- comment -%}
-    For races that have district/party sub-bullets, wrap them in a
-    <details class="stance-race-group"> so the sub-list collapses by default.
-    For a race with no sub-bullets, use <div class="stance-race-flat">.
-  {%- endcomment -%}
-  <div>
-    <div class="stance-race-flat">Minnesota Governor</div>
-    <div class="stance-race-flat">U.S. Senator (MN)</div>
-    <div class="stance-race-flat">U.S. House of Representatives (MN)</div>
-    <details class="stance-race-group">
-      <summary>Minnesota State Senator</summary>
-        <ul>
-          <li>Republican Party Primary for Districts 5, 10, 13, 19, 20, and 56</li>
-          <li>Democratic Party Primary for Districts 19, 23, 29, 37, 38, 44, 46, 50, 62, and 65</li>
-        </ul>
-    </details>
-    <details class="stance-race-group">
-      <summary>Minnesota State House of Representatives</summary>
-        <ul>
-          <li>Republican Party Primary for Districts 6B, 9B, 10A, 14A, 17A, 20B, 38A, and 54B</li>
-          <li>Democratic Party Primary for Districts 4A, 14A, 15B, 20B, 23A, 29B, 38A, 39B, 40A, 55B, 60B, and 65B</li>
-        </ul>
-    </details>
-  </div>
-  <p><small><sup>1</sup> These primary elections were prioritized because
-  they have more than one official candidate on the ballot.</small></p>
-
-  <p><u>For the <strong>November 2026 General Election</strong></u>, only candidates in
+  <p><u>For the <strong>November Midterm Election</strong></u>, only candidates in
   the following elections were contacted:</p>
   {%- comment -%}
     For races that have district/party sub-bullets, wrap them in a
@@ -136,12 +116,13 @@ published: true
     For a race with no sub-bullets, use <div class="stance-race-flat">.
   {%- endcomment -%}
   <div>
-    <div class="stance-race-flat">Minnesota Governor</div>
-    <div class="stance-race-flat">U.S. Senator (MN)</div>
-    <div class="stance-race-flat">U.S. House of Representatives (MN)</div>
-    <div class="stance-race-flat">Minnesota State Senator</div>
-    <div class="stance-race-flat">Minnesota State House of Representatives</div>
+    <div class="stance-race-flat">AZ Governor</div>
+    <div class="stance-race-flat">US House of Representatives</div>
+    <div class="stance-race-flat">AZ State House</div>
+    <div class="stance-race-flat">AZ State Senate</div>
   </div>
+
+  <p>No candidates for the primary election were contacted.</p>
   </div>
 </details>
 
@@ -180,16 +161,13 @@ published: true
 
 <div class="ballot-lookup-callout">
   <p>To find your districts for state and federal races and see who is on your ballot, please visit the
-    <a href="{{ page.ballot_lookup_url }}" target="_blank" rel="noopener">{{ page.ballot_lookup_label }}</a>.</p>
+    <a href="{{ page.ballot_lookup_url }}" target="_blank" rel="noopener">{{ page.ballot_lookup_label }} website</a>.</p>
 </div>
 
 </div><!-- /.stance-intro -->
 
 <hr class="stance-rule"/>
 
-{% include stance/response_explorer.html heading="November 2026 General Election" %}
+{% include stance/response_explorer.html heading="November Midterm Election" %}
 
 {% include stance/press_mentions.html state=page.state %}
-
-{% include stance/meet_the_team.html state=page.state %}
-  

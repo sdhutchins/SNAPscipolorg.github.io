@@ -2,14 +2,17 @@
 layout: gridlay
 collection: initiatives
 sitemap: true
-state: mn
-state_name: Minnesota
-demonym_plural: Minnesotans
-team_email: stanceonscienceminnesota@gmail.com
-ballot_lookup_url: https://myballotmn.sos.mn.gov/
-ballot_lookup_label: Minnesota Voting Information Portal
+# `state` and `state_name` are used by the global search and map to look up
+# this page from a USPS code. Keep them in sync with the YAML responses file
+# at _data/stance_responses/ks.yml.
+state: ks
+state_name: Kansas
+demonym_plural: Kansans
+team_email: stanceonscienceKS@gmail.com
+ballot_lookup_url: https://myvoteinfo.voteks.org/VoterView
+ballot_lookup_label: Kansas Secretary of State "Voter View" website
 # Socials (optional — leave blank to hide a link, or all blank to hide the footer):
-instagram_url: https://www.instagram.com/stanceonscience.mn/
+instagram_url:
 facebook_url:
 tiktok_url:
 x_url:
@@ -94,41 +97,13 @@ published: true
   <p>This webpage houses the responses to {{ questions.size }} questions
   crafted by the {{ team_name }} team.</p>
   <p>Only official candidates who will appear on ballots were contacted.</p>
-  <p>Candidates were contacted in July 2026 (with a follow-up to those who
-  did not initially respond) and given the opportunity to answer all questions. Only the responses of candidates who answered the questions are
+  <p>Candidates were contacted in September 2026 (with a follow-up to those who
+  did not initially respond) and given the opportunity to answer the questions
+  selected for their race. Only the responses of candidates who answered the questions are
   included. None of the candidates' responses were modified in any way before
   being published on this resource page.</p>
 
-  <p><u>For the <strong>August 2026 Primary Election</strong></u>, only candidates in
-  the following elections were contacted<sup>1</sup>:</p>
-  {%- comment -%}
-    For races that have district/party sub-bullets, wrap them in a
-    <details class="stance-race-group"> so the sub-list collapses by default.
-    For a race with no sub-bullets, use <div class="stance-race-flat">.
-  {%- endcomment -%}
-  <div>
-    <div class="stance-race-flat">Minnesota Governor</div>
-    <div class="stance-race-flat">U.S. Senator (MN)</div>
-    <div class="stance-race-flat">U.S. House of Representatives (MN)</div>
-    <details class="stance-race-group">
-      <summary>Minnesota State Senator</summary>
-        <ul>
-          <li>Republican Party Primary for Districts 5, 10, 13, 19, 20, and 56</li>
-          <li>Democratic Party Primary for Districts 19, 23, 29, 37, 38, 44, 46, 50, 62, and 65</li>
-        </ul>
-    </details>
-    <details class="stance-race-group">
-      <summary>Minnesota State House of Representatives</summary>
-        <ul>
-          <li>Republican Party Primary for Districts 6B, 9B, 10A, 14A, 17A, 20B, 38A, and 54B</li>
-          <li>Democratic Party Primary for Districts 4A, 14A, 15B, 20B, 23A, 29B, 38A, 39B, 40A, 55B, 60B, and 65B</li>
-        </ul>
-    </details>
-  </div>
-  <p><small><sup>1</sup> These primary elections were prioritized because
-  they have more than one official candidate on the ballot.</small></p>
-
-  <p><u>For the <strong>November 2026 General Election</strong></u>, only candidates in
+  <p><u>For the <strong>November 2026 General Mid-term Election</strong></u>, only candidates in
   the following elections were contacted:</p>
   {%- comment -%}
     For races that have district/party sub-bullets, wrap them in a
@@ -136,11 +111,10 @@ published: true
     For a race with no sub-bullets, use <div class="stance-race-flat">.
   {%- endcomment -%}
   <div>
-    <div class="stance-race-flat">Minnesota Governor</div>
-    <div class="stance-race-flat">U.S. Senator (MN)</div>
-    <div class="stance-race-flat">U.S. House of Representatives (MN)</div>
-    <div class="stance-race-flat">Minnesota State Senator</div>
-    <div class="stance-race-flat">Minnesota State House of Representatives</div>
+    <div class="stance-race-flat">US Senate</div>
+    <div class="stance-race-flat">US House of Representatives</div>
+    <div class="stance-race-flat">Kansas Governor</div>
+    <div class="stance-race-flat">Kansas Attorney General</div>
   </div>
   </div>
 </details>
@@ -148,6 +122,10 @@ published: true
 <details class="info">
   <summary><span class="ic"><i class="fa-solid fa-list-check"></i></span> The questions posed<i class="fa-solid fa-chevron-right chev"></i></summary>
   <div class="info__body">
+    <p>Note: not every question below was posed to every candidate. The race or races each question was asked of are listed beneath it.</p>
+
+    <p>If you want to know how a candidate would answer a question they were not asked, we encourage you to reach out to that candidate directly. Contact us at <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a> if you need help reaching out.</p>
+
     <ol class="qlist">
       {%- for q in questions -%}
         {%- if q.tag.first -%}
@@ -158,6 +136,9 @@ published: true
         <li>
           <div>
             {{ q.question | markdownify | remove_first: "<p>" | remove: "</p>" | strip }}{% if q_tag_list.size > 0 %} (<em>see{% for t in q_tag_list %}{% if forloop.first %} "{{ t }}"{% elsif forloop.last %}{% if q_tag_list.size > 2 %}, and "{{ t }}"{% else %} and "{{ t }}"{% endif %}{% else %}, "{{ t }}"{% endif %}{% endfor %}</em>){% endif %}
+            {%- if q.races and q.races.size > 0 -%}
+              <span class="question-applicability">Asked of: {{ q.races | join: ", " }} candidates.</span>
+            {%- endif -%}
           </div>
         </li>
       {%- endfor -%}
@@ -187,9 +168,6 @@ published: true
 
 <hr class="stance-rule"/>
 
-{% include stance/response_explorer.html heading="November 2026 General Election" %}
+{% include stance/response_explorer.html heading="November 2026 General Mid-term Election" %}
 
 {% include stance/press_mentions.html state=page.state %}
-
-{% include stance/meet_the_team.html state=page.state %}
-  
