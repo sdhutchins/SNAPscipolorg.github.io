@@ -1,0 +1,173 @@
+- id: ks-q1
+  question: >-
+    How would you weigh scientific evidence alongside economic, ethical, and
+    policy preferences when making decisions?
+  tag: Policymaking Process
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: ks-q2
+  question: >-
+    Federal grants from the National Institutes of Health (NIH) and National
+    Science Foundation (NSF) fund a substantial share of the scientific
+    research conducted at Kansas universities, hospitals, and research
+    institutions (approximately $195 million per year). What policies, if any,
+    do you support regarding federal funding for scientific research agencies
+    like the NIH and NSF?
+  tag:
+    - Investment in Higher Education
+    - Science Funding
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: ks-q3
+  question: >-
+    What role do you believe science, research, and innovation should play in
+    Kansas's economy, state revenues, and accountable investments in
+    infrastructure and services?
+  tag: Jobs and Workforce
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: ks-q4
+  question: >-
+    Kansas, as well as other states, experiences severe weather and natural
+    disasters in many forms including tornados, flooding, fires, and winter
+    storms, all of which can impact lives, property, and the environment. In
+    what ways, if any, will you consult with scientists and experts to
+    prevent/ mitigate the risk and damage from natural disasters and in the
+    response to natural disasters?
+  tag:
+    - Climate
+    - Environment
+  races:
+    - US Senate
+    - US House of Representatives
+    - Governor
+
+- id: ks-q5
+  question: >-
+    Pesticides, herbicides, and fertilizers are becoming increasingly
+    prevalent in Kansas waters. At high levels, these can pose public health
+    risks, contribute to algae blooms, and have other off-target consequences.
+    What do you think the balance between limiting chemical exposure and
+    maintaining necessary uses should be, and what policies do you support to
+    accomplish this?
+  tag:
+    - Agriculture
+    - Environment
+    - Public Health
+  races:
+    - US Senate
+    - US House of Representatives
+    - Attorney General
+
+- id: ks-q6
+  question: >-
+    In 2025, Kansas experienced its largest measles outbreak in over 30 years,
+    with 91 total cases reported that year by the Kansas Department of Health
+    and Environment (KDHE). What policies, if any, would you implement to
+    prevent and/or control a measles outbreak in the future?
+  tag: Public Health
+  races:
+    - US Senate
+    - US House of Representatives
+    - Governor
+
+- id: ks-q7
+  question: >-
+    Rapid expansion of artificial intelligence and large-scale data centers
+    are increasing electricity demand and placing new pressures on energy and
+    water infrastructure. Kansas has recently decided to use tariffs on large
+    energy consumers to address the economic aspect of increased energy needs
+    (Chilson, 2025), although this is just one of the issues associated with
+    data center development. What policies, if any, would you support to
+    balance technological growth with infrastructure reliability and
+    environmental sustainability?
+  tag:
+    - Artificial Intelligence
+    - Energy
+  races:
+    - US Senate
+    - US House of Representatives
+    - Governor
+
+- id: ks-q8
+  question: >-
+    America has a growing artificial intelligence (AI) industry, supporting
+    cutting edge innovation and reshaping businesses, but raising concerns
+    about education, ownership, and security. What are your policy positions
+    in regards to data centers and AI? What are your reasons for supporting
+    these policies?
+  tag: Artificial Intelligence
+  races:
+    - US Senate
+    - US House of Representatives
+    - Governor
+
+- id: ks-q9
+  question: >-
+    What steps, if any, would you take to ensure state agencies have access to
+    reliable scientific expertise when implementing policies and that
+    scientific evidence considered during policymaking is communicated clearly
+    and transparently to the public?
+  tag:
+    - Policymaking Process
+    - Trust in Science
+  races:
+    - Governor
+
+- id: ks-q10
+  question: >-
+    Kansas adopted the Next Generation Science Standards (NGSS) in 2013 and
+    reviewed these standards in 2025. These guide the learning expectations
+    for students across the state (Kansas State Department of Education,
+    2026). What investments, if any, do you believe would have the greatest
+    impact on meeting those expectations for science education in Kansas,
+    especially considering the resources currently available in different
+    regions of the state?
+  tag: K-12 Science Education
+  races:
+    - Governor
+
+- id: ks-q11
+  question: >-
+    The governor represents Kansas in formal dealings with other states (such
+    as water management agreements affecting the Republican River Basin with
+    Nebraska and Colorado). What policies would you implement to keep water
+    from the Ogallala aquifer and rivers passing through the state clean, and
+    how would you balance maintaining necessary water levels in KS with
+    sharing water resources with other states?
+  tag:
+    - Environment
+    - Science Diplomacy
+  races:
+    - Governor
+
+- id: ks-q12
+  question: >-
+    Please provide examples, if any, of the type of experts from scientific
+    disciplines you would source information from when providing legal
+    counsel. Describe the context you would ask for scientific expertise in.
+  tag: Trust in Science
+  races:
+    - Attorney General
+
+- id: ks-q13
+  question: >-
+    Modern farms increasingly generate large amounts of operational data including global positioning system (GPS) and supply chain records. What role, if any, should the Attorney General play in protecting farmers' data privacy while encouraging innovation and research?
+  tag: Agriculture
+  races:
+    - Attorney General
+
+- id: ks-q14
+  question: >-
+    Scientific advancements are constantly evolving. What standards would your office use to determine whether information based on scientific research provides a sufficient basis for litigation, legal opinions, or enforcement actions?
+  tag: 
+    - Policymaking Process
+    - Trust in Science
+  races:
+    - Attorney General

@@ -1,0 +1,44 @@
+- id: az-q1
+  question: >-
+    What advisory mechanisms will you implement to ensure that evidence and
+    scientific findings play a crucial role in your policymaking process?
+  tag: Policymaking Process
+
+- id: az-q2
+  question: >-
+    What initiatives will you take to support investment in innovation via
+    federal science funding?
+  tag: Science Funding
+
+- id: az-q3
+  question: >-
+    Arizona faces many environmental issues, including extreme heat, mining
+    extraction waste, and water scarcity, especially with the rise of AI data
+    centers. What strategies, if any, do you support to tackle these issues?
+  tag:
+    - Climate
+    - Environment
+
+- id: az-q4
+  question: >-
+    Arizona saw the second-largest measles outbreak in the nation last
+    November. Do you have any plans or support any policies to prevent future
+    public health outbreaks?
+  tag: Public Health
+
+- id: az-q5
+  question: >-
+    Arizona youth regularly use social media. Given that social media profiles
+    may spread information about science and policy matters, do you support
+    any policies that regulate these platforms for younger audiences?
+  tag: Social Media
+
+- id: az-q6
+  question: >-
+    According to Consumer Affairs and the National Education Association
+    (NEA), Arizona is ranked last in public school education and has the
+    lowest high school graduation rate in the nation. Arizona is also one of
+    the US states with the least funding put into public schools. What are
+    your opinions on the current state of public school funding in Arizona,
+    and how do you view the role of science in K-12 education?
+  tag: K-12 Science Education
