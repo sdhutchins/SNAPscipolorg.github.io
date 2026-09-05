@@ -97,7 +97,7 @@ published: true
   <p>This webpage houses the responses to {{ questions.size }} questions
   crafted by the {{ team_name }} team.</p>
   <p>Only official candidates who will appear on ballots were contacted.</p>
-  <p>Candidates were contacted in August 2026 (with a follow-up to those who
+  <p>Candidates were contacted in August and September 2026 (with a follow-up to those who
   did not initially respond) and given the opportunity to answer the questions
   selected for their race. Only the responses of candidates who answered the questions are
   included. None of the candidates' responses were modified in any way before
@@ -122,8 +122,21 @@ published: true
     <details class="stance-race-group">
       <summary>State Legislature</summary>
         <ul>
-          <li>Districts 2, 4, 6, 8, 10,12, 14, 16, 18, 20, 24, 26, 28, 30, 32, 34, 36, 38, 41, 42, 48</li>
+          <li>Districts 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 24, 26, 28, 30, 32, 34, 36, 38, 41, 42, 48</li>
         </ul>
+    </details>
+    <details class="stance-race-group">
+      <summary>Nebraska State Board of Education</summary>
+        <ul>
+          <li>Districts 5, 6, and 8</li>
+        </ul>
+    </details>
+    <details class="stance-race-group">
+      <summary>University of Nebraska Board of Regents</summary>
+        <ul>
+          <li>Districts 1, 2, and 4</li>
+        </ul>
+    </details>
   </div>
   </div>
 </details>
@@ -132,7 +145,7 @@ published: true
   <summary><span class="ic"><i class="fa-solid fa-list-check"></i></span> The questions posed<i class="fa-solid fa-chevron-right chev"></i></summary>
 
   <div class="info__body">
-    <p>Note: not every question below was posed to every candidate. Questions 1-6 were only asked of candidates for the US Senate and US House of Representatives, and questions 7-11 were only asked of candidates for Nebraska Governor.</p>
+    <p>Note: not every question below was posed to every candidate. Questions 1-6 were asked of candidates for the US Senate and US House of Representatives; questions 7-11 were asked of candidates for Nebraska Governor; questions 12-17 were asked of candidates for the Nebraska State Legislature; questions 18 and 20-22 were asked of candidates for the Nebraska State Board of Education; question 19 was asked of candidates for both the Nebraska State Board of Education and University of Nebraska Board of Regents; and questions 23-26 were asked of candidates for the University of Nebraska Board of Regents.</p>
 
     <p> If you want to know how a candidate would answer a question they were not asked, we encourage you to reach out to that candidate directly. Contact us at <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a> if you need help reaching out.</p>
 
@@ -178,4 +191,3 @@ published: true
 {% include stance/response_explorer.html heading="November 2026 General Election" %}
 
 {% include stance/press_mentions.html state=page.state %}
-  
