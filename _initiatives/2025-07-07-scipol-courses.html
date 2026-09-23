@@ -12,7 +12,97 @@ permalink: /initiatives/scipol-courses
 
 <p>SNAP is developing a modular science policy curriculum covering topics such as: What is Science Policy?, How Government Works, Science Communication, and more. These resources can be used to educate students at our home institutions and encourage the creation of new university science policy groups. More intensive course development will take place this fall.</p>
 
-<div class="jumbotron">
+<div class="scipol-course">
+  <header class="scipol-course__intro">
+    <p class="scipol-course__eyebrow">Open-access learning from SNAP</p>
+    <h2>A practical introduction to science policy</h2>
+    <p>Explore five modular slide decks created to help students, scientists, and community groups understand and engage with science policy. Each module can stand alone or be combined into a complete course.</p>
+  </header>
+
+  <div class="scipol-course__launch">
+    <strong>Course modules launch October 1, 2026.</strong>
+    <span>Preview the five topics below.</span>
+  </div>
+
+  <ol class="scipol-course__modules" aria-label="Science policy course modules">
+    <li class="scipol-course__module">
+      <img src="{{ '/images/scipol-course/what-is-science-policy.svg' | relative_url }}"
+           alt="" width="960" height="540">
+      <div class="scipol-course__module-body">
+        <p class="scipol-course__module-number">Module 1</p>
+        <h3>What is Science Policy?</h3>
+        <p class="scipol-course__availability">Available October 1</p>
+      </div>
+    </li>
+
+    <li class="scipol-course__module">
+      <img src="{{ '/images/scipol-course/how-government-works.svg' | relative_url }}"
+           alt="" width="960" height="540" loading="lazy">
+      <div class="scipol-course__module-body">
+        <p class="scipol-course__module-number">Module 2</p>
+        <h3>How Government Works</h3>
+        <p class="scipol-course__availability">Available October 1</p>
+      </div>
+    </li>
+
+    <li class="scipol-course__module">
+      <img src="{{ '/images/scipol-course/science-communication.svg' | relative_url }}"
+           alt="" width="960" height="540" loading="lazy">
+      <div class="scipol-course__module-body">
+        <p class="scipol-course__module-number">Module 3</p>
+        <h3>Science Communication</h3>
+        <p class="scipol-course__availability">Available October 1</p>
+      </div>
+    </li>
+
+    <li class="scipol-course__module">
+      <img src="{{ '/images/scipol-course/writing-for-science-policy.svg' | relative_url }}"
+           alt="" width="960" height="540" loading="lazy">
+      <div class="scipol-course__module-body">
+        <p class="scipol-course__module-number">Module 4</p>
+        <h3>Writing for Science Policy</h3>
+        <p class="scipol-course__availability">Available October 1</p>
+      </div>
+    </li>
+
+    <li class="scipol-course__module">
+      <img src="{{ '/images/scipol-course/science-diplomacy.svg' | relative_url }}"
+           alt="" width="960" height="540" loading="lazy">
+      <div class="scipol-course__module-body">
+        <p class="scipol-course__module-number">Module 5</p>
+        <h3>Science Diplomacy</h3>
+        <p class="scipol-course__availability">Available October 1</p>
+      </div>
+    </li>
+  </ol>
+
+  <section class="scipol-course__guidance" aria-labelledby="course-guidance-heading">
+    <h2 id="course-guidance-heading">Before using these modules</h2>
+    <ul>
+      <li>These slide decks are <strong>view only</strong>. Download or copy to make changes.</li>
+      <li>Speaker notes are provided to guide you through each topic.</li>
+      <li>Hidden slides are optional and can be omitted for time.</li>
+      <li>Please keep the SNAP acknowledgements slide when presenting, sharing, or altering slides for further distribution, or credit SNAP when borrowing slides for other presentations.</li>
+      <li>If you have questions about the content, contact us at <a href="mailto:snapscipolorg@gmail.com">snapscipolorg@gmail.com</a>.</li>
+    </ul>
+  </section>
+
+  <section class="scipol-course__doi" aria-labelledby="course-doi-heading">
+    <h2 id="course-doi-heading">Cite this course</h2>
+
+    <div class="scipol-course__doi-control">
+      <code id="scipol-course-doi">10.0000/snap.science-policy-course.2026</code>
+      <button type="button" class="scipol-course__copy-button"
+              data-copy-target="scipol-course-doi">
+        <i class="fa-regular fa-copy" aria-hidden="true"></i>
+        <span data-copy-label>Copy DOI</span>
+      </button>
+    </div>
+    <p class="scipol-course__copy-status" aria-live="polite"></p>
+  </section>
+</div>
+
+<div class="jumbotron scipol-course__press">
   <h2>Press Mentions</h2>
   <ul>
     {% assign found = 0 %}
@@ -30,3 +120,5 @@ permalink: /initiatives/scipol-courses
     {% endif %}
   </ul>
 </div>
+
+<script src="{{ '/assets/javascript/scipol-course.js' | relative_url }}" defer></script>
