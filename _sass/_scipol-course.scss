@@ -3,6 +3,13 @@
 .scipol-course {
   margin-bottom: 2.5rem;
 
+  &__tagline {
+    margin: 0 0 0.9rem;
+    color: #4d5562;
+    font-size: 1.08rem;
+    line-height: 1.55;
+  }
+
   &__intro {
     max-width: 760px;
     margin-bottom: 1.5rem;
@@ -64,7 +71,7 @@
     overflow: hidden;
     border: 1px solid #d9dee7;
     border-radius: 8px;
-    background: #fff;
+    background: rgba($snap-light-blue, 0.08);
     box-shadow: 0 5px 16px rgba($snap-blue, 0.09);
 
     grid-column: span 2;
