@@ -107,15 +107,32 @@
     margin-bottom: 0;
   }
 
-  &__availability {
-    display: inline-block;
+  &__module-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     margin: 0;
-    border-radius: 999px;
-    padding: 0.28rem 0.7rem;
-    color: $snap-blue;
-    background: rgba($snap-light-blue, 0.16);
-    font-size: 0.82rem;
+    border: 2px solid $snap-blue;
+    border-radius: 5px;
+    padding: 0.48rem 0.8rem;
+    color: #fff;
+    background: $snap-blue;
+    font-size: 0.88rem;
     font-weight: 700;
+    line-height: 1.2;
+    text-decoration: none;
+
+    &:hover {
+      border-color: $snap-orange-dark;
+      color: #fff;
+      background: $snap-orange-dark;
+      text-decoration: none;
+    }
+
+    &:focus-visible {
+      outline: 3px solid rgba($snap-orange, 0.55);
+      outline-offset: 2px;
+    }
   }
 
   &__guidance {
