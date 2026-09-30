@@ -14,7 +14,7 @@ If you have information that you believe should be included on this page, please
 ## Learn more about Science Policy
 
 - [Learning Hub from the American Association for the Advancement of Science (AAAS)](https://learninghub.aaas.org/?adobe_mc=MCMID%3D59115423208208845660717175741397313264%7CMCORGID%3D242B6472541199F70A4C98A6%2540AdobeOrg%7CTS%3D1775240323)
-- SNAP's internally developed science policy 101 courses ([coming soon on our website](https://snapcoalition.org/initiatives/scipol-courses))
+- [SNAP's open-access SciPol 101 curriculum](https://snapcoalition.org/initiatives/scipol-courses)
 - [8-week e-series on Science & Policy](https://www.acs.org/policy/acs-science-and-policy-e-series.html?sc=260209_sc_sponsorcontent_GovAffairsE-Series_li_brandlab_acsgradspostdocs) from the American Chemical Society (ACS)
 - [Science Policy Bootcamp](https://ocw.mit.edu/courses/res-stp-001-science-policy-bootcamp-january-iap-2011/?utm_source=mit-learn&utm_medium=referral&utm_content=science-policy-bootcamp) through MIT's MOOC
 
@@ -38,7 +38,7 @@ SNAPpers have attended AAAS' [Catalyzing Advocacy in Science and Engineering Wor
 
 SNAP has outlined some steps to start a science policy group [here](https://docs.google.com/document/d/1LMuge9HOy-K3Uv7UBcukeKIFMZTAgdV85R_SFyxZgvU/edit?usp=sharing). We are always motivated to help support this process, so we recommend that you reach out to chat with us at [snapcoalition@gmail.com](mailto:snapcoalition@gmail.com)! Several SNAP Organizing Members have started groups at their universities and may be able to offer direct advice. If you are interested, you can also [sign up for our newsletter](https://docs.google.com/forms/d/e/1FAIpQLSclm6qDeLHbwRk4QPuZR34x77xx5dlKz3tHuHitBdWAiWe5vg/viewform) and [join SNAP as an Organizing Member](https://docs.google.com/forms/d/e/1FAIpQLSclm6qDeLHbwRk4QPuZR34x77xx5dlKz3tHuHitBdWAiWe5vg/viewform) for more support and assistance along this process and to help us grow and instigate meaningful change!
 
-Additionally, feel free to utilize our [open-access course material](https://snapcoalition.org/initiatives/scipol-courses) (in development) to educate yourself or hold meetings for your new group. These courses range from how the U.S. government works to science communication and writing.
+Additionally, feel free to use our [open-access SciPol 101 curriculum](https://snapcoalition.org/initiatives/scipol-courses) to educate yourself or hold meetings for your new group. These courses range from how the U.S. government works to science communication and writing.
 
 ## Groups We Admire
 
