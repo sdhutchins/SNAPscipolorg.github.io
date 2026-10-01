@@ -141,12 +141,6 @@
     color: #313946;
     background: #f4f6f9;
 
-    h2 {
-      margin-top: 0;
-      color: $snap-blue;
-      font-size: 1.45rem;
-    }
-
     ul {
       margin-bottom: 0;
       padding-left: 1.25rem;
@@ -157,52 +151,76 @@
     }
   }
 
-  &__doi {
-    margin-top: 1.5rem;
-    border-radius: 8px;
-    padding: 1.4rem 1.5rem;
-    background: rgba($snap-cream, 0.35);
+  &__section-heading {
+    margin: 0 0 0.75rem;
+    color: #212529;
+    font-size: 1.45rem;
+    line-height: 1.25;
+  }
 
-    h2 {
-      margin: 0 0 0.75rem;
-      color: $snap-blue;
-      font-size: 1.45rem;
+  &__feedback {
+    margin-top: 2rem;
+
+    p {
+      margin: 0 0 1rem;
+      color: #313946;
     }
   }
 
-  &__doi-control {
-    display: flex;
-    gap: 0.65rem;
-    align-items: stretch;
-    max-width: 660px;
+  &__acknowledgements {
+    margin-top: 2rem;
 
-    code {
-      display: flex;
-      flex: 1 1 auto;
-      align-items: center;
-      min-width: 0;
+    p {
+      margin-bottom: 0.75rem;
+    }
+
+    ul {
+      margin-bottom: 0;
+      padding-left: 1.25rem;
+    }
+
+    li + li {
+      margin-top: 0.4rem;
+    }
+  }
+
+  &__doi {
+    margin-top: 2rem;
+    border-radius: 8px;
+    padding: 1.4rem 1.5rem;
+    background: rgba($snap-cream, 0.35);
+  }
+
+  &__doi-control {
+    max-width: 100%;
+
+    .scipol-course__citation {
+      margin: 0;
       overflow-wrap: anywhere;
       border: 1px solid #cbd2de;
       border-radius: 5px;
       padding: 0.68rem 0.85rem;
-      color: $snap-blue;
+      color: #313946;
       background: #f7f8fa;
       font-size: 0.92rem;
     }
   }
 
   &__copy-button {
-    display: inline-flex;
-    flex: 0 0 auto;
+    display: flex;
     gap: 0.45rem;
     align-items: center;
     justify-content: center;
+    width: fit-content;
+    margin: 0.75rem 0 0 auto;
     border: 2px solid $snap-blue;
     border-radius: 5px;
-    padding: 0.6rem 0.9rem;
+    padding: 0.35rem 0.6rem;
     color: #fff;
     background: $snap-blue;
+    font-size: 0.8rem;
     font-weight: 700;
+    line-height: 1.2;
     cursor: pointer;
 
     &:hover {
@@ -255,12 +273,5 @@
       padding: 1.15rem;
     }
 
-    &__doi-control {
-      flex-direction: column;
-    }
-
-    &__copy-button {
-      align-self: flex-start;
-    }
   }
 }

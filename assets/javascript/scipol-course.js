@@ -5,7 +5,7 @@
   if (!copyButton) return;
 
   var targetId = copyButton.getAttribute("data-copy-target");
-  var doiElement = document.getElementById(targetId);
+  var citationElement = document.getElementById(targetId);
   var label = copyButton.querySelector("[data-copy-label]");
   var status = document.querySelector(".scipol-course__copy-status");
   var resetTimer;
@@ -26,7 +26,7 @@
     if (!copied) throw new Error("Copy command was not accepted");
   }
 
-  function copyDoi(value) {
+  function copyCitation(value) {
     if (navigator.clipboard && navigator.clipboard.writeText) {
       return navigator.clipboard.writeText(value);
     }
@@ -36,19 +36,19 @@
   }
 
   copyButton.addEventListener("click", function () {
-    var doi = doiElement.textContent.trim();
+    var citation = citationElement.textContent.trim();
 
-    copyDoi(doi).then(function () {
+    copyCitation(citation).then(function () {
       window.clearTimeout(resetTimer);
       label.textContent = "Copied";
-      status.textContent = "Placeholder DOI copied to the clipboard.";
+      status.textContent = "Citation copied to the clipboard.";
       resetTimer = window.setTimeout(function () {
-        label.textContent = "Copy DOI";
+        label.textContent = "Copy citation";
         status.textContent = "";
       }, 2500);
     }).catch(function () {
       label.textContent = "Copy failed";
-      status.textContent = "Select the placeholder DOI and copy it manually.";
+      status.textContent = "Select the citation and copy it manually.";
     });
   });
 }());
