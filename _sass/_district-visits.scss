@@ -1,0 +1,31 @@
+// Outcome cards use Bootstrap's responsive grid while keeping their visual
+// treatment scoped to the Congressional District Visits page.
+.district-visit-stats {
+  margin: 1.75rem 0 2rem;
+
+  h2 {
+    margin-bottom: 1rem;
+  }
+
+  &__number {
+    margin: 0 0 0.5rem;
+    color: $snap-blue;
+    font-size: clamp(2.25rem, 5vw, 3rem);
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  &__label {
+    margin: 0;
+    color: #313946;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+
+  &__detail {
+    margin: 0.35rem 0 0;
+    color: #59616d;
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+}
