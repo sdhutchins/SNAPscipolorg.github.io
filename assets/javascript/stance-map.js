@@ -1,6 +1,7 @@
 // Renders the US states map for /initiatives/stance-on-science/map.
 //
-// Requires d3 v7 and topojson-client v3 already loaded on the page, plus the
+// Requires d3 v7 and topojson-client v3 already loaded on the page; Bootstrap
+// provides hover/focus tooltips when available. Also uses the
 // window globals:
 //   window.STANCE_ACTIVE_STATES — array of two-letter USPS codes (lowercase)
 //   window.STANCE_STATES_URL    — base URL for per-state pages (e.g.
@@ -100,19 +101,64 @@
           })
           .on("click", onActivate)
           .on("keydown", function (event) {
+            if (event.key === "Escape" && window.bootstrap && window.bootstrap.Tooltip) {
+              var tooltip = window.bootstrap.Tooltip.getInstance(this);
+              if (tooltip) tooltip.hide();
+            }
             if (event.key === "Enter" || event.key === " ") {
               event.preventDefault();
               onActivate.call(this, event);
             }
           })
-        .append("title")
-          .text(function (d) {
+          .each(function (d) {
             var usps = FIPS_TO_USPS[String(d.id).padStart(2, "0")];
             var name = STATE_NAMES[usps] || "";
-            if (usps && active.has(usps)) {
-              return name + " — view responses";
+            var label = name + (usps && active.has(usps) ? " — view responses" : " — no responses yet");
+            this.setAttribute("aria-label", label);
+
+            if (window.bootstrap && window.bootstrap.Tooltip) {
+              // Render outside the SVG so HTML tooltips position correctly.
+              // Avoid an SVG title here, which would show a second native tooltip.
+              var pointer = null;
+              var tooltip = new window.bootstrap.Tooltip(this, {
+                title: label,
+                container: "body",
+                trigger: "hover focus",
+                placement: "top",
+                customClass: "stance-map-tooltip",
+                offset: [0, 8],
+                popperConfig: function (config) {
+                  // Fixed positioning uses viewport coordinates, just like clientX/Y.
+                  // Without a pointer, Popper keeps the state as its keyboard anchor.
+                  return Object.assign({}, config, {
+                    strategy: "fixed",
+                    modifiers: config.modifiers.concat([{
+                      name: "cursorAnchor",
+                      enabled: true,
+                      phase: "beforeRead",
+                      fn: function (context) {
+                        if (pointer) {
+                          context.state.rects.reference = {
+                            x: pointer.x, y: pointer.y, width: 0, height: 0
+                          };
+                        }
+                      }
+                    }])
+                  });
+                },
+                html: false
+              });
+              this.addEventListener("mousemove", function (event) {
+                pointer = { x: event.clientX, y: event.clientY };
+                tooltip.update();
+              });
+              this.addEventListener("mouseleave", function () {
+                pointer = null;
+                tooltip.update();
+              });
+            } else {
+              d3.select(this).append("title").text(label);
             }
-            return name + " — no responses yet";
           });
 
       // Draw the interior state borders on top so neighboring active states

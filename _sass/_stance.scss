@@ -63,6 +63,18 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   scroll-margin-top: 84px;
 }
 
+.stance-map-tooltip {
+  --bs-tooltip-bg: #{$snap-blue};
+  --bs-tooltip-font-size: 0.75rem;
+
+  // Explicit properties also override the site's legacy Bootstrap tooltip rules.
+  font-size: var(--bs-tooltip-font-size);
+
+  .tooltip-inner {
+    background-color: var(--bs-tooltip-bg);
+  }
+}
+
 .stance-map {
   margin: 1rem 0 0.5rem;
   min-height: 200px;
