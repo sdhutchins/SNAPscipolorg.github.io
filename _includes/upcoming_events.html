@@ -23,6 +23,9 @@
   Pass `compact=true` to render a condensed list — just date, name, and
   category bubble per row — with a toggle to expand a row and show its flyer
   and remaining details (description, link).
+
+  Pass `accordion=true` for Bootstrap accordion headers and collapsible details.
+
   Pass `heading_level=3` under an h2 section; other callers retain h4 titles.
 {%- endcomment -%}
 {%- assign now_seconds = 'now' | date: '%s' | plus: 0 -%}
@@ -35,7 +38,7 @@
   {%- assign event_heading = 'h3' -%}
 {%- endif -%}
 
-<div class="snap-events{% if compact %} snap-events--compact{% endif %}" id="snap-events">
+<div class="snap-events{% if include.accordion %} accordion snap-events--accordion{% endif %}{% if compact %} snap-events--compact{% endif %}" id="snap-events">
   {%- assign shown = 0 -%}
   {%- for event in events -%}
     {%- assign cutoff = event.date | date: '%s' | plus: 86400 -%}
@@ -56,6 +59,32 @@
       {%- if event.flyer or event.description or event.website -%}
         {%- assign has_extra = true -%}
       {%- endif -%}
+      {%- if include.accordion -%}
+      <div class="snap-event accordion-item d-block p-0" data-event-cutoff="{{ cutoff }}">
+        <{{ event_heading }} class="accordion-header m-0" id="snap-event-heading-{{ forloop.index }}">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#snap-event-panel-{{ forloop.index }}" aria-expanded="false" aria-controls="snap-event-panel-{{ forloop.index }}">
+            <span class="d-flex flex-wrap align-items-center gap-2 gap-lg-3 me-3 flex-grow-1">
+              <span class="snap-event__date mb-0 flex-shrink-0">{{ event.date | date: '%B %-d, %Y' }}</span>
+              <span class="fw-semibold snap-event__accordion-title">{{ event.name }}</span>
+              {% if event.category %}<span class="snap-event__categories mb-0">{% for cat in event_categories %}<span class="snap-event__category">{{ cat }}</span>{% endfor %}</span>{% endif %}
+            </span>
+          </button>
+        </{{ event_heading }}>
+        <div id="snap-event-panel-{{ forloop.index }}" class="accordion-collapse collapse" aria-labelledby="snap-event-heading-{{ forloop.index }}" data-bs-parent="#snap-events">
+          <div class="accordion-body d-flex flex-column flex-md-row gap-4">
+            {% if event.flyer %}
+            <div class="snap-event__flyer">
+              <img class="snap-event__flyer-img" src="{{ event.flyer | relative_url }}" alt="Flyer for {{ event.name | escape }}" loading="lazy">
+            </div>
+            {% endif %}
+            <div class="snap-event__body">
+              {% if event.description %}<div class="snap-event__description">{{ event.description | markdownify }}</div>{% endif %}
+              {% if event.website %}<p class="snap-event__link"><a href="{{ event.website }}">More information &raquo;</a></p>{% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+      {%- else -%}
       <div class="snap-event{% if compact %} snap-event--compact{% endif %}" data-event-cutoff="{{ cutoff }}">
         {%- if event.flyer -%}
           <div class="snap-event__flyer"{% if compact %} hidden{% endif %}>
@@ -98,6 +127,7 @@
           {%- endif -%}
         </div>
       </div>
+      {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
 

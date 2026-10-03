@@ -222,3 +222,23 @@
     }
   }
 }
+
+
+.snap-events--accordion {
+  --bs-accordion-btn-color: #{$snap-blue};
+  --bs-accordion-active-color: #{$snap-blue};
+
+  .accordion-button {
+    margin: 0;
+  }
+
+  .snap-event__accordion-title {
+    flex: 1 1 16rem;
+  }
+
+  // Separate event cards retain a complete outline even after the first item.
+  .accordion-item {
+    border: 1px solid #ddd;
+    overflow: hidden;
+  }
+}
