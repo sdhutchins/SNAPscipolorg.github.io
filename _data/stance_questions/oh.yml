@@ -1,0 +1,41 @@
+- id: oh-q1
+  question: >-
+    Q1 (Scientific Expertise and Governance): Scientific and technical
+    expertise can inform decisions related to healthcare, energy,
+    infrastructure, manufacturing, and emerging technologies. What role,
+    if any, should scientific evidence and expert input play in your
+    policymaking process, and how would you communicate scientific
+    uncertainty or evolving evidence to the public?
+  tag: Science Diplomacy
+
+- id: oh-q2
+  question: >-
+    Q2 (Artificial Intelligence):  Rapid expansion of artificial
+    intelligence and large-scale data centers are increasing demand for
+    energy and water infrastructure. Over 100 local Ohio communities have
+    active moratoriums on data centers. What policies, if any, would you
+    support to balance technological growth and economic opportunities
+    with infrastructure reliability and environmental sustainability?
+  tag: Artificial Intelligence
+
+- id: oh-q3
+  question: >-
+    Q3 (Science Funding): Government research funding supports
+    universities, medical centers, and technology development across Ohio
+    and the nation. What role, if any, should the government play in
+    supporting scientific research and innovation, and what outcomes would
+    you prioritize when evaluating those investments?
+  tag: Science Funding
+
+- id: oh-q4
+  question: >-
+    Q4 (Jobs & Workforce): Ohio has the ninth largest international
+    student population in the U.S., the majority of which study in STEM
+    fields.The federal government is pursuing large-scale changes to
+    student visa approval, including increased visa denials, revoking
+    existing visas, restricting travel from certain countries, and
+    decreasing student visa durations. How, if at all, should Ohio respond
+    to federal visa changes affecting international STEM students and
+    researchers, and the resulting projected changes in the scientific
+    workforce supply?
+  tag: Jobs and Workforce

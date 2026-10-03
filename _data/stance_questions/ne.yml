@@ -368,3 +368,45 @@
   tag: Environment
   races:
     - Attorney General
+
+- id: ne-q32
+  question: >-
+    Energy and its management play a role in local economic and environmental
+    sustainability through creating jobs, incorporating sources considered
+    sustainable, and updating infrastructure. Which of these, or others, are
+    your priorities for your Public Power District? And what scientific
+    evidence informed your priorities?
+  tag:
+    - Environment
+    - Jobs and Workforce
+    - Policymaking Process
+  races:
+    - Nebraska Public Power District
+
+- id: ne-q33
+  question: >-
+    Please discuss your professional views on different energy sources (ex.
+    nuclear, solar, wind, hydropower, geothermal, biofuel, coal, natural gas,
+    oil/petroleum) and what policies you will support related to the potential
+    use of these energy sources, if at all?
+  tag: Energy
+  races:
+    - Nebraska Public Power District
+
+- id: ne-q34
+  question: >-
+    National discussion on data centers and their energy sources range from
+    their potential to support cutting edge innovation to concerns on resource
+    use, ownership, and raising utility costs. Nebraska's energy
+    infrastructure provides affordable and reliable energy, however projected
+    significant increases in electricity demand, from data centers and other
+    industries, will require more power than NE currently generates (NE
+    Chamber Foundation). Do you think your Public Power District is prepared
+    to address the growing demand for electricity and changes to water and
+    land quality? What scientific evidence, if any, would you consider when
+    making policy for your Public Power District related to data centers?
+  tag:
+    - Energy
+    - Environment
+  races:
+    - Nebraska Public Power District

@@ -1,347 +1,158 @@
-- candidate_first_name: David
-  candidate_last_name: Ganezer
+- candidate_first_name: Jackie # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Elward # used for alphabetical sorting
   state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
+  race: State Assembly # must match one of the options!
+  district: 12 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic # must match one of the options!
   question: ca-q1
-  date: 
+  date: 2026-09-27 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
   response: |
-    “I support a balanced approach to land management that protects California's natural resources while allowing responsible economic activity. California is rich in both natural beauty and resources, including being the 7th largest oil-producing state.We should continue conserving sensitive ecosystems, coastal areas, and wilderness, but we must avoid extreme “lock-it-all-up” policies that drive up energy costs for working families and hurt our economy. Responsible development, using modern environmental standards and technology, allows us to protect the environment while maintaining a strong economy and energy security.” 
+    "California’s natural resources are one of our greatest assets, safeguarded by generations that came before us, and we have a responsibility to manage them in ways that protect biodiversity, strengthen climate resilience, and preserve them for future generations. I strongly support California’s 30x30 goal and investment in protecting and restoring open space, wetlands, forests, coastal areas, wildlife habitat, and working lands.
+
+    In Assembly District 12, protecting open space and preventing sprawl are important. Before serving on the Rohnert Park City Council, I worked on the campaign to establish a permanent urban growth boundary. I would bring that same commitment to the Legislature by supporting habitat and watershed restoration, wildfire resilience, sustainable agriculture, Tribal stewardship, and equitable public access to nature.
+
+    We also need responsible land use planning as California transitions to clean energy. Renewable energy, transmission, and storage projects should be accelerated, but should prioritize already developed, disturbed, or degraded lands rather than sacrificing sensitive habitat or protected public lands.
+
+    California should also continue moving away from fossil fuel extraction. I support ending new oil drilling permits and transitioning existing production responsibly, while ensuring workers and communities dependent on those industries have pathways to good union jobs in clean energy, environmental restoration, and climate resilience."
     
-    KEYWORDS: balanced land management, responsible resource use, environmental protection, economic reality
+    KEYWORDS: 30x30 Conservation, Climate Resilience, Just Transition
 
-- candidate_first_name: David
-  candidate_last_name: Ganezer
+- candidate_first_name: Jackie
+  candidate_last_name: Elward
   state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q2
-  date: 
-  response: |
-    “Data centers are essential infrastructure for San Francisco's tech economy, but they must be managed responsibly. I support policies that require new and existing data centers to adopt water recycling technology, energy-efficient cooling systems, and strict noise mitigation standards for neighboring communities.Rather than blocking data centers, we should direct them toward locations with better infrastructure and access to renewable energy. The goal should be smart, sustainable growth that supports innovation and job creation while protecting public health and minimizing environmental impact.”
-    
-    KEYWORDS: sustainable data centers, water recycling, energy efficiency, tech economy
-
-- candidate_first_name: David
-  candidate_last_name: Ganezer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q3
-  date: 
-  response: |
-    "Public transportation is vital for reducing congestion and improving air quality, but agencies like BART are facing serious financial problems due to declining ridership and high costs.I support targeted federal investment in transit infrastructure repair and modernization — but only with strong accountability and performance standards. We must also address the core reasons ridership has dropped: safety, cleanliness, and reliability. Simply giving more money to failing systems without fixing management, security, and service quality will not create long-term solutions."
-    
-    KEYWORDS: accountable transit funding, public safety on transit, sustainable infrastructure
-
-- candidate_first_name: David
-  candidate_last_name: Ganezer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q4
-  date: 
-  response: |
-    “California’s K-12 education system is failing too many students, with only about 33% meeting or exceeding science standards. This is unacceptable. We must prioritize real results over ideology.I support evidence-based policies that focus on core skills: reading, math, and science. This includes expanding school choice options (charters, magnet schools, and vocational programs), paying high-performing teachers more, and removing bureaucratic barriers that prevent talented people from entering the teaching profession — especially in math and science.We should also restore phonics-based reading instruction and rigorous science curricula instead of diluting standards for political reasons. Students deserve an education system that prepares them for the real world, not one that prioritizes political narratives.”
-    
-    KEYWORDS: evidence-based education, school choice, science proficiency, teacher quality, phonics
-
-- candidate_first_name: David
-  candidate_last_name: Ganezer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q5
-  date: 
-  response: |
-   “Healthcare in California receives a “C” grade for cost, quality, and access. With Medi-Cal covering roughly half the state’s population, we must focus on improving outcomes rather than just expanding spending.I support policies that address the real drivers of high costs and poor access: reducing administrative bureaucracy, tackling healthcare fraud and waste, and increasing the supply of doctors and nurses through streamlined licensing and incentives for practicing in underserved areas. We should also prioritize preventive care and mental health treatment, especially for addiction and severe mental illness.Expanding government programs alone has not solved California’s healthcare challenges. We need smarter, more efficient systems that deliver better care at lower cost while protecting those who truly need help.” 
-    
-    KEYWORDS: healthcare access, cost reduction, fraud prevention, workforce shortages, preventive care
-
-- candidate_first_name: David
-  candidate_last_name: Ganezer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q6
-  date: 
-  response: |
-    "My brother, Kenneth Ganezer, PhD, was a theoretical physicist and longtime chairman of the Physics Department at CSU Dominguez Hills. Although he has passed, he instilled in me a deep appreciation for the importance of basic scientific research and technological advancement.I support evidence-based, transparent, and accountable funding for scientific research. While I have not taken a final position on every detail of Senate Bill 895, I believe California should prioritize funding scientific research that delivers measurable benefits to public health, environmental quality, and economic growth.Any major changes to science funding — including the creation of a new California Foundation — should include strong safeguards such as: Competitive, peer-reviewed grant processes, Clear metrics for success and accountability, Protection against political interference in research priorities, A focus on practical, applied science that solves real California problems (wildfire prevention, drought resilience, public health, clean energy innovation, etc.). I am generally supportive of increasing investment in science and innovation, but only if the funding is managed responsibly and delivers tangible results for taxpayers. Too often, government science funding becomes captured by special interests or ideological priorities rather than rigorous, objective research."
-    
-    KEYWORDS: evidence-based science funding, research accountability, practical innovation
-    
-- candidate_first_name: Jingchao
-  candidate_last_name: Xiong
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q1
-  date: 
-  response: |
-    "My platform begins with the Equal Land Act, which allocates land according to population size and ethnicity to guarantee people's right to housing. The ratio is 2000 people per 160 acres, similar to Lincoln's Homestead Act. Environmental protection is about protecting human life and the living environment. The three key elements of a healthy living environment are freshwater storage, forestry, and waste sorting. 
-    
-    California experiences wildfires every year due to a lack of land management capacity. My focus is on land allocation, ensuring that every piece of land can be developed and utilized, and that every piece of land has someone responsible for it. Sovereign land will be exempt from property taxes, and leased land will be planted with at least 60% trees, with all profits belonging to the leaseholder."
-
-    KEYWORDS: freshwater storage, forestry, waste sorting
-
-- candidate_first_name: Jingchao
-  candidate_last_name: Xiong
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q2
-  date: 
-  response: |
-    "Regarding data center management, it remains within the scope of land management capabilities. The government has no right to interfere in the economy, nor does it have the right to interfere in sovereign land use. The government is an organization of compromise among different groups. Social management science has designed a course on ""Energy Conservation"" to ensure that every legislator grasps the laws of energy conservation and avoids being held hostage by environmentalism and cliques.
-
-    Regarding noise, those who are unsuitable are responsible for arranging for them to live in quiet environments. As for energy, nature provides wind and solar power, underground resources include coal and oil, and technology offers nuclear power generation."
-
-    KEYWORDS: energy conservation
-
-- candidate_first_name: Jingchao
-  candidate_last_name: Xiong
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q3
-  date: 
-  response: |
-    "On August 16, 2022, I registered with the San Francisco Bay Area Home (SFBA Home), a government organization that merges the six counties in the San Francisco Bay Area. Its aim is to redistribute resources within the Bay Area and upgrade it into an efficient metropolitan area.
-
-    SFBA Home not only reduces government employees by over 90% and avoids a heavy tax burden, but we also have sufficient resources to build a metropolitan transportation system, improve the efficiency and management of BART, and even eliminate tolls on the three bridges connecting the East Bay to San Francisco.
-
-    The Home government structure represents a leap forward in human civilization, ensuring equal participation in government governance and allowing everyone to have housing within a 10-minute radius of their home, avoiding traffic congestion and reducing environmental pollution caused by car use."
-
-    KEYWORDS: San Francisco Bay Area Home
-
-- candidate_first_name: Jingchao
-  candidate_last_name: Xiong
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q4
-  date: 
-  response: |
-    "I published *Automated Era* in 2023, and a supplier to the San Francisco Library has an agency representing the book. In 2026, another publisher plans to handle the promotion of *Automated Era*, and it's already in the typesetting stage.
-
-    Automated Era not only uses video lessons and a fully residential, elite school to ensure minors receive a holistic education, but this system also eliminates the need for a large number of teachers, providing more specialized counselors to help children discover their talents and interests and develop their potential. It will also ensure that everyone, as adults, understands social structures, possesses communication skills, and the ability to learn new knowledge.
-
-    Most importantly, under this holistic education system, it ensures that everyone is safe and will not commit crimes or harm others or society."
-
-    KEYWORDS: Quality education, Automated Era
-
-- candidate_first_name: Jingchao
-  candidate_last_name: Xiong
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q5
-  date: 
-  response: |
-    “The 2026 version of Automated Era introduced Common Economics. Common Economics consists of natural family organizations with a tax unit of 20,000-50,000 people, called a common family.
-
-    I provide common families with land and management support, ensuring that each common family can provide for all its members' needs from cradle to grave, including medical care, sanitation, and healthcare. There will be no more low-income individuals or unemployment. The healthcare system and public health insurance system controlled by large pharmaceutical companies will collapse, and the quality of doctors will improve.
-
-    Common families possess their own healthcare capabilities; serious illnesses will be treated in high-end hospitals, and common families will have the ability to pay for medical expenses.”
-
-    KEYWORDS: Common family, Common Economics
-
-- candidate_first_name: Jingchao
-  candidate_last_name: Xiong
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Republican
-  question: ca-q6
-  date: 
-  response: |
-    “Scientific research projects meet the needs of human production and life. When a common economy begins, common families and companies formed by them possess sufficient research personnel and funding. In advanced societies, law serves as a means of human life and development, reviewed and updated every five years. Laws not updated for more than 20 years are invalid, and no law enforcement agency or judicial body may rely on invalid laws.
-
-    Regarding initiatives, each individual's initiative must first be implemented within their own common family. Only after success are they qualified to launch broader initiatives. Alternatively, their own family can monopolize the industry they are initiating. For insufficient funds, interest-free loans are available; for insufficient manpower, cooperation with other common families is possible. For cross-regional development, local common families are authorized to act as agents for development.”
-
-    KEYWORDS: Common family
-    
-- candidate_first_name: Nathan
-  candidate_last_name: Deer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: No Party Preference
-  question: ca-q1
-  date: 
-  response: |
-    “Our greatest natural resource is the preservation of our State's natural beauty and ecosystems. We exist in a time of technological development where the extraction of fossil fuels is neither necessary for energy purposes, nor for consumables like plastics. The only limits in how quickly we move away from fossil fuels are the political will to do so, and pricing in the external costs of carbon emissions to encourage transitions to clean energy. I would push for additional taxes on fossil fuel extraction, distribution, and sales, to account for externalized costs. I would additionally push to wind down existing, and prohibit future drilling, while providing federal funding to conserve more land.”
-    
-    KEYWORDS: No more drilling
-
-- candidate_first_name: Nathan
-  candidate_last_name: Deer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: No Party Preference
-  question: ca-q2
-  date: 
-  response: |
-   “While moratoriums on data centers are important at this moment to constrain uncontrolled development, we should be using this time to legislate environmentally protective requirements around their construction. Specifically, all data centers should be responsible for creating self-sufficient, green (i.e. zero carbon renewables only), micro-grids, to protect ratepayers from absorbing the extra generation capacity cost. The generation capacity should be made available to the state at large during heat waves or other power crises, with de-prioritization of data center operations. On the water usage front, all cooling systems should be closed loop, with design preference given to non-water based cooling. For noise, given that most noise comes in limited frequency generation due to the cooling infrastructure, this is a prime opportunity for industrial scale, active noise cancellation."
-    
-    KEYWORDS: green, closed-loop, noise cancellation
-
-- candidate_first_name: Nathan
-  candidate_last_name: Deer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: No Party Preference
-  question: ca-q3
-  date: 
-  response: |
-   "My actions would fall within a framework of ridership rights:
-
-    1) The Right to Transit First infrastructure: I would push for additional federal funding for automated camera enforcement of bus lanes, the expansion of existing transit corridors, constant rail line construction (both surface and subway), Transit Ambassadors on every Muni line and BART train after 8pm, and for 24/7 operation. 
-
-    2) The Right to Frequency (The 15 Minute Rule): I would leverage SB63 funds and federal operating grants to mandate a ""floor"" for frequency of no more than 15 minutes, which cannot be cut by future budget boards. Additionally, I would support federal funding for localized, electric micro-shuttles to connect lower density neighborhoods to the main BART/MUNI lines. 
-
-    3) The Right to a Seamless Network: I would fight for a ""Public Transit Operating Support Act"", which would change federal law to allow MUNI and BART to use federal funds for operations and maintenance. Furthermore, our system should connect easily to the future California High Speed Rail (CHSR), enabling a commuter to take MUNI or BART to CHSR in the same way a New Yorker can get to Penn Station and get on a train to just about anywhere." 
-
-    KEYWORDS: 24/7, 15-Minute Rule, Seamless
-
-- candidate_first_name: Nathan
-  candidate_last_name: Deer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: No Party Preference
-  question: ca-q4
-  date: 
-  response: |
-    "Our education crisis is rooted in our affordability crisis. We don't budget enough for teachers, so we don't pay teachers enough, so teachers can't afford to live where they work. If we want to attract the best teachers, we have to compete for talent by increasing funding to school systems. We also need to restore and strengthen the Department of Education, to ensure equitable access to education nationwide."
-   
-    KEYWORDS: Pay teachers more
-
-- candidate_first_name: Nathan
-  candidate_last_name: Deer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: No Party Preference
-  question: ca-q5
-  date: 
-  response: |
-    “Healthcare is a human right, and everyone should have access to a nationalized, single payer health system. Beyond the moral obligation to provide coverage for everyone, under and uninsured individuals indirectly drive up costs by only seeking acute care. The lack of focus on prevention, and increased costs of emergency treatment, drive up overall costs for everyone. Additionally, private insurers innate profit incentive adds to these cost runups. So if we want to bring healthcare costs down, we need to focus on access for all, and preventative care.” 
-    
-    KEYWORDS: Universal healthcare, prevention
-
-- candidate_first_name: Nathan
-  candidate_last_name: Deer
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: No Party Preference
-  question: ca-q6
-  date: 
-  response: |
-    “I would support initiatives, like SB895, which ensure access to funding for scientific research. In an ideal world, scientific research would be treated as the apolitical topic that it is, but the unfortunate reality is that we've seen significant contraction in research funding at the federal level. California deserves to remain at the forefront of research, and owes it to her residents to continue doing so.”
-    
-    KEYWORDS: more research funding
-
-- candidate_first_name: Saikat
-  candidate_last_name: Chakrabarti
-  state: ca
-  race: State House of Representatives
-  district: 11
-  party: Democratic
-  question: ca-q1
-  date: 
-  response: |
-    "California's land use choices matter for the entire country and San Francisco deserves a fighter in Congress who will protect these lands. I support ending new oil and gas leases on federal public lands and waters, and managing down existing production as we build out the clean energy economy. I have been proudly endorsed by Center for Biological Diversity Action Fund, Clean Water Action, and Oil Change Action because of my longtime leadership in the climate movement, from helping author the Green New Deal as Representative Ocasio-Cortez’s Chief of Staff to leading the Mission for America project at New Consensus.
-
-    Beyond phasing out fossil fuel extraction, the federal government has to be a serious steward of the public lands we already have. I support the national 30x30 conservation goal, defending national monuments and protected areas from Trump's rollback efforts, and meaningful Tribal co-management of federal lands and waters."
-    
-    KEYWORDS: California Land Conservation, Clean Energy Transition, Federal Climate Policy
-
-- candidate_first_name: Saikat
-  candidate_last_name: Chakrabarti
-  state: ca
-  race: State House of Representatives
-  district: 11
+  race: State Assembly
+  district: 12
   party: Democratic
   question: ca-q2
-  date: 
+  date: 2026-09-27
+  primary_candidate: false
   response: |
-    “I support a moratorium on data centers until we pass legislation requiring AI companies to do the following:  fully pay for any grid upgrades their facilities require, utilize 100% clean electricity for data center operations, and adopt closed-loop liquid cooling (which has been proven to save water). Ratepayers should not be subsidizing the infrastructure costs of some of the most profitable companies in the world. Once these conditions have been met, I support lifting the moratorium and resuming data center construction under this new framework. I also believe that the federal government should operate its own data centers and computing power for challenges like curing rare diseases and modeling climate systems, and use publicly owned AI to deliver public services at the actual cost of running them.”
-    
-    KEYWORDS: Clean energy, public AI, grid upgrades
+    "The proliferation of data centers has greatly outpaced our state’s capacity for meaningful oversight. Their rapid expansion, particularly with the growth of artificial intelligence, raises serious questions about energy demand, water consumption, noise, and impacts on surrounding communities. I support a moratorium on new large-scale AI data centers until California establishes clear standards to address those impacts and ensures that their growth does not undermine our climate and clean-energy goals.
 
-- candidate_first_name: Saikat
-  candidate_last_name: Chakrabarti
+    Existing facilities should be subject to greater transparency regarding their energy and water use and held to strong environmental and public health standards. California should also ensure that data centers are not increasing electricity costs for working families or placing additional strain on communities already facing water or energy challenges.
+
+    This is not about rejecting technology or innovation. It is about making sure California understands the consequences of this rapidly growing industry and implements policies that work for our state before allowing unchecked expansion. Any future data center development should show it can operate responsibly and efficiently, protecting our natural resources, our electrical grid, and the communities where these facilities are located. Stakeholders from all sides of this conversation need to be at the table to ensure we get this right."
+    
+    KEYWORDS: AI Oversight, Resource Sustainability, Community Protection
+
+- candidate_first_name: Jackie
+  candidate_last_name: Elward
   state: ca
-  race: State House of Representatives
-  district: 11
+  race: State Assembly
+  district: 12
   party: Democratic
   question: ca-q3
-  date: 
+  date: 2026-09-27
+  primary_candidate: false
   response: |
-    “In Congress, I will fight to repurpose funding from new highway projects to instead subsidize the day-to-day operations of transit agencies — something that has not been done since the 1990s. But more funding is not enough. I want to set Muni and BART on a path to thrive for decades to come. For example, I call for using federal incentives to build hundreds of units of affordable housing on Muni-owned land. This would allow Muni to generate more revenue and help solve our housing crisis. Furthermore, I also support providing increased public transit subsidies for cities that adopt transit-oriented development reforms, creating a cycle where better housing and better transportation reinforce one another.”
-    
-    KEYWORDS: Operating subsidies, housing, transit-oriented development
+    "As a longtime classroom educator, I believe improving science proficiency starts with ensuring every student has access to qualified educators, a strong curriculum, and the resources needed for hands-on learning. California should continue investing in evidence-based teacher recruitment and retention strategies, including paid teacher residencies, scholarships and credentialing support, and pathways for classified employees and paraprofessionals to become credentialed teachers, particularly in high-need fields like math and science.
 
-- candidate_first_name: Saikat
-  candidate_last_name: Chakrabarti
+    We also need to retain the educators we already have through competitive compensation, manageable class sizes, mentoring, professional development, and strong working conditions. Simply lowering preparation standards to address shortages is not a sustainable solution.
+
+    For students, I support greater investment in hands-on, inquiry-based science instruction; modern laboratories and classroom materials; tutoring and extended learning opportunities; and stronger connections between science education and career technical education. Those opportunities must be available in every community, not determined by a student’s ZIP code.
+
+    Finally, we should provide additional support for multilingual learners and students who have historically had less access to advanced STEM coursework. Raising science proficiency requires both high expectations and equitable access to the resources that allow students to meet them."
+    
+    KEYWORDS: Teacher Recruitment, STEM Access, Hands-On Learning
+
+- candidate_first_name: Jackie
+  candidate_last_name: Elward
   state: ca
-  race: State House of Representatives
-  district: 11
+  race: State Assembly
+  district: 12
   party: Democratic
   question: ca-q4
-  date: 
+  date: 2026-09-27
+  primary_candidate: false
   response: |
-   "Closing this gap requires investing on two fronts: directly expanding science learning opportunities for students, and recruiting and keeping the best teachers in our public schools.
+    "I believe healthcare is a human right, and I support moving California toward universal, single-payer healthcare through CalCare so access to care is based on need, not income or employment. Until we achieve that goal, we must protect and strengthen Medi-Cal, expand coverage, reduce out-of-pocket costs, and ensure Californians can access mental health, reproductive, preventive, and primary care.
 
-    On student access, STEM and science-based after-school and tutoring programs are not equitably distributed across our district. Neighborhoods like Bayview-Hunters Point have almost no STEM-based after-school programs available to students, while schools in wealthier neighborhoods do. In Congress, I will fight for new federal grants for tutoring, after-school programs, and summer learning, with funding targeted to the schools and neighborhoods that have the least access today. Furthermore, I will fight to double funding for Title 1 schools to improve outcomes at schools in low-income areas. 
+    We also need to address our healthcare workforce shortage. I support strong staffing standards, investments in healthcare education and training, and efforts to recruit and retain providers in rural and underserved communities. Healthcare workers should have the staffing, protections, and working conditions necessary to provide quality care.
 
-    We also need to make teaching in San Francisco a viable and attractive career for the highest-qualified people in our society. I support establishing a national minimum teacher salary with annual cost-of-living increases, canceling student debt for school staff after five years of service, and providing rental and mortgage assistance to school employees in high-cost areas like San Francisco. Every teacher who teaches in San Francisco deserves to be able to live in San Francisco." 
+    Public health also extends beyond the healthcare system. Clean air, safe drinking water, healthy housing, and protection from toxic pollution directly affect health outcomes. California should continue holding polluters accountable and investing in communities that have experienced disproportionate environmental and public health burdens.
 
-    KEYWORDS: STEM Access, Teacher Retention, Educational Equity
-
-- candidate_first_name: Saikat
-  candidate_last_name: Chakrabarti
+    Our goal should be a healthcare system that puts patients and public health ahead of profit and ensures quality care is accessible to every Californian."
+    
+    KEYWORDS: Universal Healthcare, Healthcare Workforce, Health Equity
+    
+- candidate_first_name: Jackie
+  candidate_last_name: Elward
   state: ca
-  race: State House of Representatives
-  district: 11
+  race: State Assembly
+  district: 12
   party: Democratic
   question: ca-q5
-  date: 
+  date: 2026-09-27
+  primary_candidate: false
   response: |
-    "I support Medicare for All as the long-term answer, because the only way to guarantee high-quality healthcare for everyone is to take the profit motive out of coverage. But insurance reform is only half the problem, and I want to focus here on the other half: actually delivering care.
+    "Prevention is one of the most effective investments we can make in public health. I support maintaining California’s evidence-based vaccination requirements for schools and childcare, while making vaccines and reliable health information accessible in every community. We should also strengthen local public health departments, so they have the staffing, laboratory capacity, and resources to identify outbreaks quickly, conduct contact tracing, and respond before isolated cases become larger emergencies.
 
-    We have a serious doctor shortage in this country, especially in primary care, mental health, and rural and underserved communities. In Congress, I will fight to massively expand federal investment in training new doctors, nurses, and mental health providers, and significantly grow the National Health Service Corps to place them in the communities that need them most through loan repayment and scholarship programs.
+    California also has a responsibility to protect our food supply, especially at a time when the federal government is negligent in its oversight responsibilities. As one of the country’s largest agricultural producers, we should invest in disease surveillance, testing, inspection, and rapid response systems throughout the food supply chain. We should continue working with growers, farmworkers, researchers, and public health agencies to identify contamination sources and improve prevention, including protecting agricultural water quality and strengthening worker training and safety.
 
-    I also support creating government-owned clinics in places with the deepest provider shortages — particularly rural communities and underserved urban neighborhoods — to provide care directly. This is not a radical idea. The federal government built out direct care delivery extensively during the New Deal and Great Society eras, and we still see it work today in the VA system. We should expand that approach.
-
-    Finally, on affordability, we need national reforms to bring down the cost of care and prescription drugs. I support letting Medicare negotiate prices on all drugs, not just the limited list under current law. I also support creating a public corporation to manufacture common generic drugs and sell them at cost, ending the price-gouging that puts lifesaving medications out of reach." 
-
-    KEYWORDS: Medicare for All, National Health Service Corps
-
-- candidate_first_name: Saikat
-  candidate_last_name: Chakrabarti
+    State and local public health agencies, healthcare providers, schools, agricultural agencies, and producers should also be able to share information quickly during outbreaks. Strong prevention protects public health, keeps children in school, protects workers and consumers, and helps avoid the greater economic costs of widespread outbreaks."
+    
+    KEYWORDS: Prevention, Vaccination, Food Safety
+    
+- candidate_first_name: Jackie
+  candidate_last_name: Elward
   state: ca
-  race: State House of Representatives
-  district: 11
+  race: State Assembly
+  district: 12
   party: Democratic
   question: ca-q6
-  date: 
+  date: 2026-09-27
+  primary_candidate: false
   response: |
-    "Yes, I support SB 895. The Trump administration has launched an unprecedented assault on federal science funding, withholding billions from California universities and revoking grants for research into cancer, Alzheimer's, HIV, and more. California cannot wait for Washington to come to its senses. A state bond is an effective stopgap for this crisis — but it will ultimately be insufficient to solve the broader problem. There is no substitute for the federal investment in science that built modern American research in the first place. Federal funding through the NIH, NSF, DOE, and other agencies dwarfs anything any state can do on its own, and gutting it does long-term damage that takes decades to repair. In Congress, I will fight to reverse Trump's cuts to federal science funding, restore and significantly expand NIH and NSF budgets, and protect scientific integrity at federal agencies from political interference."
+    "As an educator, I have learned that giving people information is not the same as building understanding or trust. Scientists and policymakers need to communicate with people, not just at them. That means explaining research clearly, making information accessible in multiple languages and formats, and giving communities opportunities to ask questions and participate.
+
+    Scientists should be involved earlier in policymaking, not only after policies have already been developed. Policymakers also have a responsibility to listen to experts, understand the evidence, and be honest about what the science tells us, what remains uncertain, and where other considerations come into play.
+
+    Trust also depends on transparency. Scientists should be able to communicate findings without political interference, and policymakers should not cherry-pick evidence to support a preferred outcome. Stronger partnerships between universities, public agencies, schools, healthcare providers, and community organizations can also help trusted local voices communicate scientific information. As an educator, I would also like to see a stronger emphasis in our schools on recognizing and understanding the importance of primary sources and peer reviewed research, which I think is vital in this age of widespread dissemination of misinformation and disinformation.
+
+    Whether we are talking about wildfire, public health, water quality, climate change, or AI, good policy starts with credible evidence and meaningful community engagement."
     
-    KEYWORDS: Science Funding, Research Investment, Scientific Integrity
+    KEYWORDS: Transparency, Evidence Literacy, Community Engagement
+    
+- candidate_first_name: Jackie
+  candidate_last_name: Elward
+  state: ca
+  race: State Assembly
+  district: 12
+  party: Democratic
+  question: ca-BayArea-q1
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+    "Public transportation is essential infrastructure, and we should fund it like the public service it is. California cannot meet its climate, affordability, and mobility goals if transit agencies are trapped in a cycle of service cuts and declining ridership. I support stable, long-term state funding so agencies can provide frequent, reliable, and affordable service.
+
+    We also need to invest in the people who make our transit systems work through strong labor standards, competitive wages and benefits, workforce development, and greater protections for operators and other transit workers.
+
+    Increasing ridership requires service people can depend on. I support better frequency and connections between systems, affordable fares, expanded service in working-class, rural, and underserved communities, and improved access for seniors and people with disabilities.
+
+    California should continue transitioning public fleets to zero-emission technology while ensuring workers receive the training needed as technology changes. Public dollars should strengthen public transit and good union jobs, not encourage privatization or worker displacement.
+
+    In Marin and Sonoma, strengthening bus, ferry, and regional connections is especially important to give residents realistic alternatives to driving while reducing congestion and pollution."
+    
+    KEYWORDS: Transit Funding, Union Workforce, Zero-Emission Transit
+    
+- candidate_first_name: Jackie
+  candidate_last_name: Elward
+  state: ca
+  race: State Assembly
+  district: 12
+  party: Democratic
+  question: ca-BayArea-q2
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+    "California’s investment in scientific research is an investment in our economy, workforce, and ability to solve major challenges. As federal research funding grows increasingly uncertain, California should protect the research capacity of our public universities and prevent the loss of scientists, students, and innovation.
+
+    I support sustained state funding for the University of California and California State University systems, along with targeted investments in areas where California has significant needs and an opportunity to lead, including climate science, wildfire resilience, clean energy, water, agriculture, public health, biotechnology, and emerging technologies. We should also invest in graduate students, early-career researchers, laboratories, and research infrastructure.
+
+    Research is also economic policy. University research creates jobs, helps launch new technologies and industries, improves agriculture and public health, and gives policymakers better tools to address challenges from wildfire to infectious disease. Public investment should produce public benefit through strong partnerships among universities, government, workers, communities, and responsible industry.
+
+    California has built much of its economic strength around education, research, and innovation. Protecting that foundation should remain a state priority."
+    
+    KEYWORDS: Research Investment, Public Universities, Innovation Economy

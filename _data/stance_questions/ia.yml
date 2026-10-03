@@ -1,0 +1,50 @@
+- id: ia-q1
+  question: >-
+    Iowa currently has the nation’s second-highest cancer rate and is one of
+    only a few states where the cancer rate is increasing. What policies, if
+    any, would you support regarding this issue?
+  tag: Public Health
+  races:
+    - US Senate
+    - US House of Representatives
+    - Governor
+
+- id: ia-q2
+  question: >-
+    Iowa’s universities receive roughly $350 million annually in federal
+    research funding. NIH funding for research at the University of Iowa and
+    Iowa State University fell by over $125 million from FY2024 to FY2025.
+    What is your view on these funding reductions, and what policies, if any,
+    would you support regarding funding for scientific research conducted in
+    Iowa?
+  tag: Science Funding
+  races:
+    - US Senate
+    - US House of Representatives
+    - Governor
+
+- id: ia-q3
+  question: >-
+    Scientific evidence is generated through the systematic testing and
+    evaluation of ideas. It provides knowledge that helps us understand the
+    world and predict the likely consequences of different choices, such as
+    policy making related to public health, energy, agriculture, and
+    environmental regulation. What role, if any, should scientific evidence
+    and expert input play in your policymaking process, and how would you
+    evaluate competing or uncertain scientific claims when making policy
+    decisions? What role, if any, should that process play when scientific
+    consensus and public opinion diverge?
+  tag: Policymaking Process
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: ia-q4
+  question: >-
+    What steps, if any, would you take to ensure state agencies have access to
+    reliable scientific expertise when implementing policies and that
+    scientific evidence considered during policymaking is communicated clearly
+    and transparently to the public?
+  tag: Policymaking Process
+  races:
+    - Governor

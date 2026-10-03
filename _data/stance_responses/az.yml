@@ -653,9 +653,9 @@
   district: 28
   party: Democratic
   question: az-q1
-  date: 2026-09-04
+  date: 2026-09-13
   response: |
-    I am primarily an educator, and know the importance of research and the value of expertise. I would rely on universities, organizations such as Sierra Club, and professional organizations. 
+    I would form partnerships with ASU and leading organizations for their expertise in may areas. I would call for hydrologist and climate scientists to be major players in the decisions we make about water for our future.
 
 - candidate_first_name: Barbara
   candidate_last_name: Fike
@@ -664,9 +664,9 @@
   district: 28
   party: Democratic
   question: az-q2
-  date: 2026-09-04
+  date: 2026-09-13
   response: |
-    We need to restore what has been lost.
+    If federal science funding still exists when I am in office, I would partner with CAP, ASU, and any agencies looking at innovative solutions to our water problem.  Likewise, with Data Centers and AI use, traffic control, land management, air, noise, and light pollution in our cities, and more.
 
 - candidate_first_name: Barbara
   candidate_last_name: Fike
@@ -675,9 +675,9 @@
   district: 28
   party: Democratic
   question: az-q3
-  date: 2026-09-04
+  date: 2026-09-13
   response: |
-    I oppose data centers, and would work closely with climate scientists (and believe them!) and hydrologists to come up with plans to mitigate our heat and water shortage and plan for the future.  I support the candidate for State Mine Inspector who seems aware of the role mining plays in our environment.
+    I would ban or seriously curtail data centers, or at least require them to find and use alternative cooling and power systems.  I would push for greater creation and use of reclaimed water, especially for agriculture, and seek experts to advise as to the merits of desalination, cisterns, or other solutions.  Mining companies need to be held to a high standard of waste disposal, or they shouldn't be mining.
 
 - candidate_first_name: Barbara
   candidate_last_name: Fike
@@ -686,9 +686,9 @@
   district: 28
   party: Democratic
   question: az-q4
-  date: 2026-09-04
+  date: 2026-09-13
   response: |
-    We need go back to allowing experts to decide what's best for public health, and not leave it up to individuals - because it is PUBLIC health. I am a polio survivor.  We know HOW to do it, we just need the will to do it again.
+    We need to try to reclaim our sanity when it comes to vaccines. Individuals can choose exemptions only up to the number where it threatens herd immunity.  I am a polio survivor and am so thankful to doctors and vaccines that there are not more people like me or worse.  We can't go back to those times.
 
 - candidate_first_name: Barbara
   candidate_last_name: Fike
@@ -697,9 +697,9 @@
   district: 28
   party: Democratic
   question: az-q5
-  date: 2026-09-04
+  date: 2026-09-13
   response: |
-    As an educator, I see a great need for policies that regulate misinformation as well as policies that teach how to navigate mis- and dis-information on their own as they get older.
+    I believe in free speech, but free speech does carry limits. In the wild west, people sold "snake oil" until truth in advertising came about; radio and television had censors - social media is more pervasive than any of those, yet carries little to no restrictions.  That is a problem for all of us, but especially younger audiences (and others who haven't learned to discern mis- and dis-information) so I believe regulations are necessary.
 
 - candidate_first_name: Barbara
   candidate_last_name: Fike
@@ -708,9 +708,9 @@
   district: 28
   party: Democratic
   question: az-q6
-  date: 2026-09-04
+  date: 2026-09-13
   response: |
-    I have more than 250 words!  Governmental policies from the last several decades of Republican leadership have elevated business interests over the needs of the children and the need for an educated society to improve everyone's lives.  Vouchers, or ESA's, are the latest scam of redirecting tax dollars into private pockets, but school boards, towns, and the state legislature have been chipping away at the integrity of teachers and programs in public schools in the (sadly successful) attempt to make schools "bad" so that they can say they need reformed or eliminated.
+    The lack of funding of schools, and the hemorrhaging of those funds to ESA's, is a crime in Arizona that has been going on for decades, and must be stopped.  The second problem in education is that parents and PACs decide what is taught, not professional educators, and one of the victims of that (along with history) is science.  Our society and world are doomed to fail if we don't educate our youth as to how it works, or to spark the interest of a future scientist who will save us.
 
 - candidate_first_name: Eric
   candidate_last_name: Stafford
@@ -843,3 +843,600 @@
   date: 2026-09-04
   response: |
     The NEA is a propagandist organization. I'm not surprised they'd rank Arizona low, because Arizona is one of the best states for school choice in the nation, and it should remain that way. Parents have a right to choose how to educate their children; parents are their children's primary educator.
+
+- candidate_first_name: Gary
+  candidate_last_name: Swing
+  state: az
+  race: US House of Representatives
+  district: 6
+  party: Green
+  question: az-q1
+  date: 2026-09-15
+  response: |
+    Evidence and science should drive policy, not lobbyists or political pressure. As a Green, I start from the ecology pillar: we face real limits on a finite planet, and ignoring the data on climate, extinction, and pollution is reckless.
+
+    I would rely on independent scientific advice rather than industry-funded studies. That means consulting career scientists at agencies like the EPA, NOAA, and NIH without political interference; requiring transparent disclosure of funding sources for any research used in legislation; and creating public advisory panels that include independent researchers, local experts, and community voices - not just corporate representatives.
+
+    I’d support restoring scientific integrity rules that protect agency scientists from political meddling, and I’d push for open data so the public can see the evidence behind decisions. For major environmental or public-health bills, I’d insist on clear summaries of the consensus science, including uncertainties, so voters and colleagues know what’s settled and what’s still debated.
+
+    Grassroots democracy also matters: town halls, written public comment, and accessible online records so ordinary people can weigh the evidence alongside experts. I’m not a scientist, but I trust the method - observation, testing, peer review - over ideology or donor preferences. Policy that ignores the data on climate, public health, or resource limits fails everyone. This approach keeps decision-making honest and accountable.
+
+- candidate_first_name: Gary
+  candidate_last_name: Swing
+  state: az
+  race: US House of Representatives
+  district: 6
+  party: Green
+  question: az-q2
+  date: 2026-09-15
+  response: |
+    Federal science funding should serve the public interest, not corporate profit or endless military projects. I support strong investment in basic research and innovation, especially in areas that address real ecological and social needs: renewable energy, energy efficiency, climate resilience, public health, sustainable agriculture, and ecosystem restoration.
+
+    The clearest way to free up resources is to cut the military budget by 90 percent, as I have long advocated, and redirect those funds toward civilian science and green technology. We do not need more advanced weapons systems; we need breakthroughs that help us live within planetary limits. I would prioritize competitive grants to universities, national labs, and independent researchers over no-bid contracts to large defense contractors. Public funding should come with open-data requirements and limits on exclusive private patents so the benefits are widely shared.
+
+    I oppose using science budgets as corporate welfare. Innovation thrives when researchers can follow the evidence without political or donor pressure. That means protecting agency scientists, expanding peer-reviewed grant programs, and supporting collaborative international research on climate and biodiversity.
+
+    A steady-state economy needs smart technology, not endless growth. Federal investment should focus on solving concrete problems - clean water, carbon reduction, habitat protection - rather than subsidizing industries that externalize their costs. Redirecting resources from militarism to science is both practical and necessary.
+
+- candidate_first_name: Gary
+  candidate_last_name: Swing
+  state: az
+  race: US House of Representatives
+  district: 6
+  party: Green
+  question: az-q3
+  date: 2026-09-15
+  response: |
+    Arizona’s extreme heat, mining waste, and water scarcity are symptoms of treating the desert as an unlimited resource for extraction and growth. AI data centers that consume vast amounts of water and electricity only intensify the problem.
+
+    I support a steady-state approach based on ecological limits. That means strong protections for public lands, strict limits on new mining that contaminates water and leaves toxic waste, and full cleanup liability for existing operations. Water must be allocated according to science and long-term sustainability, not short-term industrial demand. Data centers and other heavy water users should face strict efficiency standards, public disclosure of consumption, and preference for locations and technologies that minimize desert impact - or be required to fund water-saving offsets.
+
+    Carbon and pollution taxes that reflect true environmental costs would discourage wasteful energy use and encourage renewables and efficiency. Federal policy should prioritize restoring watersheds, protecting aquifers, and funding community-scale adaptation to heat rather than subsidizing more extraction.
+
+    The Green pillars of ecology and social justice require us to stop externalizing costs onto the land, Indigenous communities, and future generations. Growth that depletes finite water and heat-stressed ecosystems is not progress. We need policies grounded in the reality of a desert climate, not the fantasy of endless expansion.
+
+- candidate_first_name: Gary
+  candidate_last_name: Swing
+  state: az
+  race: US House of Representatives
+  district: 6
+  party: Green
+  question: az-q4
+  date: 2026-09-15
+  response: |
+    Public health decisions must follow evidence, not ideology or politics. The measles outbreak in Arizona last year was preventable. Measles is highly contagious and dangerous, and the vaccine is safe and effective according to decades of scientific data.
+
+    I support maintaining high vaccination rates through accessible, science-based immunization programs, strong public-health infrastructure, and clear communication grounded in evidence rather than misinformation. That includes adequate funding for state and local health departments, rapid outbreak response capacity, and protecting the ability of public-health agencies to act on the best available data without political interference.
+
+    Broader access to care also matters. Medicare for All would remove financial barriers that keep people from preventive services, including vaccines and routine check-ups. Healthy communities are more resilient when everyone can get care without worrying about cost.
+
+    I would oppose efforts to weaken vaccine requirements or undercut scientific agencies for political reasons. At the same time, public trust depends on transparency: open data, honest discussion of risks and benefits, and accountability when systems fail. Prevention works best when it is rooted in evidence, equity, and community confidence rather than coercion or corporate influence.
+
+    Ecology and social justice are linked here too - healthy people need healthy environments and reliable public systems.
+
+- candidate_first_name: Gary
+  candidate_last_name: Swing
+  state: az
+  race: US House of Representatives
+  district: 6
+  party: Green
+  question: az-q5
+  date: 2026-09-15
+  response: |
+    Social media has become a major source of information - and misinformation - for young people. I support targeted protections that reduce harm without turning platforms into tools of political control.
+
+    Kids deserve privacy and safety. That means strong limits on data collection from minors, restrictions on addictive design features that keep them scrolling for profit, and clear age-verification tools that do not create a surveillance system. Platforms should face real liability when their algorithms amplify demonstrably false claims that endanger public health or safety, just as we hold other industries accountable for foreseeable harm.
+
+    At the same time, I am wary of broad content regulation. Government or corporate gatekeepers deciding what counts as “approved” science or policy information risks suppressing legitimate debate and dissent. The better path is transparency: require platforms to disclose how their algorithms rank and promote content, fund independent media literacy education, and break up monopolistic power so a handful of corporations cannot dominate the information landscape.
+
+    Public health and democracy both depend on evidence and open discussion. We should protect young users from exploitation and manipulation while preserving the ability to share and challenge ideas. Corporate profit motives that prioritize engagement over accuracy are the core problem - not free inquiry itself.
+
+- candidate_first_name: Gary
+  candidate_last_name: Swing
+  state: az
+  race: US House of Representatives
+  district: 6
+  party: Green
+  question: az-q6
+  date: 2026-09-15
+  response: |
+    Arizona’s ranking at the bottom in school funding and graduation rates is a failure of priorities. Public education is a core public good. Starving schools of resources while subsidizing extraction industries and military spending is shortsighted and unjust. I support substantial, equitable increases in public school funding - paid for in part by cutting the bloated military budget and ending corporate welfare - so every student has access to well-paid teachers, safe facilities, and the tools they need to learn.
+
+    Science belongs at the center of K-12 education. Students should learn the scientific method, evidence-based reasoning, and the basic findings of biology, climate science, and ecology. That means teaching evolution, the reality of human-caused climate change, and the physical limits of our planet without political interference or watered-down standards. Critical thinking and media literacy are just as important so young people can evaluate claims for themselves rather than accept whatever appears on a screen.
+
+    An educated public is essential for grassroots democracy. When schools are underfunded and science is treated as optional or controversial, we produce citizens less equipped to deal with real environmental and social problems. Fully funding public education and grounding it in evidence is both practical and a matter of social justice.
+
+- candidate_first_name: William
+  candidate_last_name: Perry
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: az-q1
+  date: 2026-09-16
+  response: |
+    Establish standing science advisory committees comprising multidisciplinary experts to peer-review data-- Appoint someone to facilitate   communication between researchers   decision-makers
+
+- candidate_first_name: William
+  candidate_last_name: Perry
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: az-q2
+  date: 2026-09-16
+  response: |
+    Providing critical early-stage small business funding and entrepreneurial training
+
+- candidate_first_name: William
+  candidate_last_name: Perry
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: az-q3
+  date: 2026-09-16
+  response: |
+    implementing mandatory water transparency for data centers, scaling closed-loop cooling technologies, and expanding state conservation grants.
+
+- candidate_first_name: William
+  candidate_last_name: Perry
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: az-q4
+  date: 2026-09-16
+  response: |
+    Promoting the two-dose Measles, Mumps, and Rubella (MMR) vaccine as the primary defense against infection.
+
+- candidate_first_name: William
+  candidate_last_name: Perry
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: az-q5
+  date: 2026-09-16
+  response: |
+    the debate over regulating social media platforms for youth in Arizona and across the United States involves several key perspectives from lawmakers, public health officials, and free speech advocates
+
+- candidate_first_name: William
+  candidate_last_name: Perry
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: az-q6
+  date: 2026-09-16
+  response: |
+    cut classes that most kids,  they dont need or want,,school is to learn math reading and writing,,too many extra classes call for more teachers and equipment 
+
+- candidate_first_name: Danielle 'Dani'
+  candidate_last_name: Sterbinsky
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: az-q1
+  date: 2026-09-16
+  response: |
+    I believe good policymaking starts with good information. My academic training taught me to value the scientific method: ask clear questions, examine the evidence, test assumptions, recognize limitations, and be willing to change course when better information becomes available.
+
+    In Congress, I would seek regular input from nonpartisan scientific and technical experts, researchers, federal scientific agencies, universities, and professionals working directly in the fields affected by legislation. For complex issues, I would support advisory groups that include subject-matter experts with diverse professional perspectives and clear conflict-of-interest standards.
+
+    I would also expect my office to evaluate the quality of the evidence behind policy proposals, including whether findings have been peer reviewed, replicated, and supported by a broader body of research rather than relying on a single study or politically convenient statistic.
+
+    Scientific evidence should not be selectively used to justify a predetermined position. When the evidence is uncertain or evolving, policymakers should be transparent about that uncertainty. And when new evidence shows that a policy is not working as intended, we should be willing to reassess it.
+
+    Science will not answer every value judgment Congress has to make, but it should help establish the facts from which those decisions are made.
+
+- candidate_first_name: Danielle 'Dani'
+  candidate_last_name: Sterbinsky
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: az-q2
+  date: 2026-09-16
+  response: |
+    I will support sustained, predictable federal investment in basic and applied research through agencies such as the National Science Foundation, National Institutes of Health, Department of Energy, NASA, and other federal research programs.
+
+    Federal science funding is especially important for early-stage research that may not offer an immediate commercial return but can lead to major breakthroughs, new industries, better health outcomes, and stronger national competitiveness.
+
+    I also support expanding competitive research grants, strengthening partnerships among universities, national laboratories, community colleges, and the private sector, and creating more opportunities for researchers and institutions outside traditional research hubs to compete for federal funding.
+
+    We should invest in the next generation of scientists and technical workers through fellowships, apprenticeships, internships, and STEM education while ensuring that federal grants are awarded through transparent, merit-based processes.
+
+    Finally, Congress should provide researchers with greater funding stability. Scientific discovery often takes years, and repeated uncertainty in federal budgets makes long-term research more difficult. Innovation requires both accountability for taxpayer dollars and the willingness to invest patiently in discoveries whose full value may not yet be known.
+
+- candidate_first_name: Danielle 'Dani'
+  candidate_last_name: Sterbinsky
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: az-q3
+  date: 2026-09-16
+  response: |
+    Arizona’s environmental challenges require solutions that recognize both our natural limits and our economic needs. Water security would be one of my highest priorities. Arizona has experienced decades of long-term drought, and rising temperatures are increasing pressure on already limited water supplies.
+
+    I support stronger water-efficiency standards, expanded wastewater recycling and groundwater recharge, repairs to aging infrastructure, and continued investment in conservation technology. As data centers and other water-intensive industries expand, I support requiring greater transparency about their water and energy use and encouraging technologies such as closed-loop or low-water cooling. Economic development should not come at the expense of long-term water security for residents, agriculture, or existing businesses.
+
+    Mining remains important to Arizona’s economy and to domestic supply chains, but extraction must be paired with responsibility for its environmental impacts. Mining waste can affect surface water and groundwater, and Arizona continues to deal with contamination from legacy mine sites. I support strong cleanup requirements, rigorous monitoring, responsible waste management, and holding operators financially responsible for remediation rather than leaving taxpayers with the bill.
+
+    Finally, extreme heat should be treated as an infrastructure and public-health challenge. I support research and investments in heat-resilient infrastructure, shade, energy efficiency, cooling technologies, and emergency preparedness, with federal resources directed toward solutions proven to work in Arizona’s climate.
+
+- candidate_first_name: Danielle 'Dani'
+  candidate_last_name: Sterbinsky
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: az-q4
+  date: 2026-09-16
+  response: |
+    Preventing outbreaks starts with strong public health infrastructure, accurate information, and access to proven preventive care. Arizona’s recent measles outbreak—the state’s largest since the early 1990s—shows how quickly vaccine-preventable diseases can spread when immunity levels fall.
+
+    I support maintaining strong federal partnerships with state and local health departments for disease surveillance, laboratory capacity, rapid-response teams, and clear public communication. We should also make routine vaccinations easy to access through pediatricians, pharmacies, schools, community clinics, and rural health providers, particularly in areas where geography or cost creates barriers.
+
+    Public health guidance should be grounded in the best available scientific evidence and communicated transparently, including what we know, what remains uncertain, and why recommendations change when new evidence emerges. Building public trust requires answering questions honestly rather than dismissing legitimate concerns.
+
+    I also support protecting the independence of federal scientific agencies, strengthening our ability to track emerging infectious diseases, maintaining strategic medical supplies, and ensuring hospitals and local health departments have preparedness plans before a crisis occurs.
+
+    The goal should be straightforward: prevent outbreaks when we can, identify them quickly when they occur, and give families reliable information so they can make informed health decisions.
+
+- candidate_first_name: Danielle 'Dani'
+  candidate_last_name: Sterbinsky
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: az-q5
+  date: 2026-09-16
+  response: |
+    Yes. I support stronger protections for children and teenagers online, including establishing a minimum age of 16 for independent social media accounts.
+
+    Social media platforms are designed to maximize engagement, and children are particularly vulnerable to misinformation, harmful content, addictive design features, and the social pressures these platforms can amplify. Parents should have more control, and technology companies should bear greater responsibility for protecting young users.
+
+    I support privacy-protective age verification, strong limits on the collection and sale of minors’ personal data, restrictions on targeted advertising to children, and greater transparency about how recommendation algorithms expose young users to content. Any age-verification system should collect as little personal information as possible and prohibit companies from retaining or repurposing that information. The FTC has similarly emphasized privacy safeguards when age-verification technology is used.
+
+    I would also support continued research into how social media affects child development, mental health, learning, and exposure to scientific misinformation so that future policy evolves with the evidence.
+
+    Technology can be an extraordinary educational resource, but protecting children should take priority over maximizing engagement and advertising revenue.
+
+- candidate_first_name: Danielle 'Dani'
+  candidate_last_name: Sterbinsky
+  state: az
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: az-q6
+  date: 2026-09-16
+  response: |
+    Arizona is not investing enough in its public schools. NEA’s 2026 data places Arizona near the bottom nationally in per-student spending, and the U.S. Census Bureau likewise reports Arizona among the lowest-spending states.
+
+    I support increasing investment in public education, with particular attention to teacher recruitment and retention, manageable class sizes, modern instructional materials, career and technical education, and ensuring rural schools have access to the same opportunities as larger districts.
+
+    Science must also remain a fundamental part of K-12 education. Students should learn established scientific knowledge, but just as importantly, they should learn how science works: how to ask questions, evaluate evidence, test ideas, distinguish reliable information from misinformation, and revise conclusions when the evidence changes.
+
+    Arizona’s existing science standards incorporate science and engineering practices alongside core scientific concepts, and I support maintaining rigorous, evidence-based standards.
+
+    A strong science education is not only about preparing future scientists. It prepares students for healthcare, agriculture, advanced manufacturing, technology, skilled trades, and countless other careers and gives every student tools to think critically about the world around them.
+
+- candidate_first_name: Jacob
+  candidate_last_name: Weinberg
+  state: az
+  race: State House of Representatives
+  district: 13
+  party: Democratic
+  question: az-q1
+  date: 2026-09-16
+  response: |
+    In order to have the best information and results for my policymaking decisions I will draw on my experience in both the US Army and as a financial statement auditor. I will work with my team, discuss concepts with experts and stakeholders, and evaluate the options to determine what the best course of action to help the most people possible is.
+
+- candidate_first_name: Jacob
+  candidate_last_name: Weinberg
+  state: az
+  race: State House of Representatives
+  district: 13
+  party: Democratic
+  question: az-q2
+  date: 2026-09-16
+  response: |
+    I believe Arizona has tremendous potential to be a leader in innovation with three world-class universities, cutting edge space/technology programs, and a growing high-tech sector. I would advocate for continued federal investment in basic and applied research for projects which could enhance the already stelar reputation of Arizona R&D while creating whole new industries. I believe we could use these funds to expand our STEM programs which would improve our schools while also growing the pipeline for mandy of the trade and expert career paths new technologies require.
+
+- candidate_first_name: Jacob
+  candidate_last_name: Weinberg
+  state: az
+  race: State House of Representatives
+  district: 13
+  party: Democratic
+  question: az-q3
+  date: 2026-09-16
+  response: |
+    I believe protecting our environment is of the utmost importance. We should focus our resources on things that provide the best return for the people of Arizona while ensuring our long-term future. As an executive of a technology solutions company, I understand the balance needed between our further development and preserving our environment. I believe there is a responsible way to develop instead of the current method of giving subsidies and resources to companies without protections or positive returns for state.
+
+- candidate_first_name: Jacob
+  candidate_last_name: Weinberg
+  state: az
+  race: State House of Representatives
+  district: 13
+  party: Democratic
+  question: az-q4
+  date: 2026-09-16
+  response: |
+    I would work to reverse causes of the outbreak by using evidence-based policies to create requirements while providing evidence for the decision and counters to the misinformation that led to the bad strategies behind the issue.
+
+- candidate_first_name: Jacob
+  candidate_last_name: Weinberg
+  state: az
+  race: State House of Representatives
+  district: 13
+  party: Democratic
+  question: az-q5
+  date: 2026-09-16
+  response: |
+    Yes, I support restrictions on usage of social media platforms by youth of certain ages as it is adverse to their development. I would work to out in restrictions similar to other states and countries in order to protect the children of Arizona. In order to determine the best policies, I will consult with the appropriate experts.
+
+- candidate_first_name: Jacob
+  candidate_last_name: Weinberg
+  state: az
+  race: State House of Representatives
+  district: 13
+  party: Democratic
+  question: az-q6
+  date: 2026-09-16
+  response: |
+    I believe our current public schools need a change of leadership and policy as the current superintendent and legislature are working to actively destroy our public schools for the benefit of the private school system. We first need to support our schools and work to make sure every student in Arizona is given the best opportunity to get ahead instead of only those whose families can afford to send their kids to private schools. When we work to improve public schools in Arizona, we need to focus more on STEM programs which will help students be ready for the world of the future.
+
+- candidate_first_name: Jayme
+  candidate_last_name: Accalia
+  state: az
+  race: State Senate
+  district: 15
+  party: Democratic
+  question: az-q1
+  date: 2026-09-18
+  response: |
+    A good legislator can recognize when they are not the expert on a topic and reach out to those who are for information on the subject. I would seek to establish advisory groups made up of various stakeholders including independent researchers, and those affected. I would also consult peer reviewed articles, and university research labs, or the relevant agencies whenever necessary.
+
+- candidate_first_name: Jayme
+  candidate_last_name: Accalia
+  state: az
+  race: State Senate
+  district: 15
+  party: Democratic
+  question: az-q2
+  date: 2026-09-18
+  response: |
+    As a state senator, I wouldn't have authority over federal science funding, but I can make sure Arizona is positioned to take full advantage of it. I support partnerships between our universities, community colleges, and state agencies to pursue federal research grants and bring those dollars into our communities; Particularly for research and innovation addressing Arizona’s needs, including water conservation, agriculture, extreme heat, energy, infrastructure, and emerging technologies. I would also advocate with Arizona’s congressional delegation for continued federal investment in science and research.
+
+- candidate_first_name: Jayme
+  candidate_last_name: Accalia
+  state: az
+  race: State Senate
+  district: 15
+  party: Democratic
+  question: az-q3
+  date: 2026-09-18
+  response: |
+    As a sustainability student, I have learned is that we cannot look at water, energy, agriculture, development, extreme heat, and industry as separate issues. A decision we make in one area can create consequences across the entire system. I am not an environmental scientist, hydrologist, or engineer, and I won't pretend to be, but what I can do is make sure we are listening to those experts and using the best available science before making decisions that could affect Arizona for generations.
+
+    First I understand we need a comprehensive audit of our water situation and an updated long-term water plan, we also need to do better in protecting agricultural land, investing in conservation and heat resilience, and holding industries responsible for the resources they consume and the environmental impacts they create. I am particularly concerned about the rapid expansion of data centers, which is why I support pausing new development while independent research evaluates their cumulative impacts on our water, electrical grid, environment, and communities
+
+- candidate_first_name: Jayme
+  candidate_last_name: Accalia
+  state: az
+  race: State Senate
+  district: 15
+  party: Democratic
+  question: az-q4
+  date: 2026-09-18
+  response: |
+    I support routine vaccinations that are readily accessible and affordable, strengthening disease surveillance, and ensuring our state and county health departments have the staffing and resources necessary to respond quickly when an outbreak occurs. The MMR vaccine is our most effective protection against measles, and we should make sure families have access to accurate information from trusted medical professionals when making healthcare decisions.
+
+    I also think we need to rebuild trust in public health  People deserve clear, transparent information about what is happening in their communities, and why particular public health recommendations are being made. We cannot wait until an outbreak is already spreading to begin communicating with the public.
+
+- candidate_first_name: Jayme
+  candidate_last_name: Accalia
+  state: az
+  race: State Senate
+  district: 15
+  party: Democratic
+  question: az-q5
+  date: 2026-09-18
+  response: |
+    As a teacher and a parent, I see the effects of social media on kids every day. Personally, I don't think children under 16 should be on social media at all. For kids under 18, I think these platforms need much stronger restrictions. Kids shouldn't be targeted with advertising, have their personal information collected and sold, or be fed content by algorithms designed to keep them scrolling for as long as possible. I also think we need much stronger protections for student privacy, especially when social media and technology cross into our schools.
+
+    I don't have all the answers for what that legislation should look like, and technology changes faster than government ever will. But I do think we need to stop pretending these platforms were designed with kids' best interests in mind and start putting some real protections around how they can interact with young people.
+
+- candidate_first_name: Jayme
+  candidate_last_name: Accalia
+  state: az
+  race: State Senate
+  district: 15
+  party: Democratic
+  question: az-q6
+  date: 2026-09-18
+  response: |
+    We cannot expect world-class outcomes while continuing to defund our schools.
+
+    We need to fully fund public education, pay educators competitively, and give our schools the resources they need to succeed. Students should learn how to ask questions, evaluate evidence, understand the world around them, and think critically, not be shielded from scientific information because it is controversial or politically inconvenient.
+
+- candidate_first_name: Teri
+  candidate_last_name: Hourihan
+  state: az
+  race: Governor
+  party: No Labels Party
+  question: az-q1
+  date: 2026-09-21
+  response: |
+      As Governor, I will ensure that evidence, scientific research, and reliable data have a meaningful place in Arizona’s policymaking process. I will establish advisory groups that include Arizona scientists, researchers, healthcare professionals, engineers, educators, economists, environmental and water experts, and other specialists relevant to the issue being considered.
+
+      I believe these advisory groups must remain focused on evidence rather than political agendas or special interests. When experts disagree, I want differing scientific perspectives presented openly so that decisions are based on the strongest available evidence rather than selectively choosing information that supports a predetermined outcome.
+
+      I will also require state agencies to use measurable data when recommending major policies and to identify the evidence supporting their recommendations, expected outcomes, costs, benefits, and potential unintended consequences. After policies are implemented, we should continue collecting data and evaluating results. If the evidence shows that a policy is not working, government should be willing to change it.
+
+      I also believe scientific expertise should be paired with transparency and public input. Arizonans should be able to understand what evidence influenced a decision and how conclusions were reached. Good government should be willing to ask questions, follow the evidence, measure results, and remain accountable to the people it serves.
+
+- candidate_first_name: Teri
+  candidate_last_name: Hourihan
+  state: az
+  race: Governor
+  party: No Labels Party
+  question: az-q2
+  date: 2026-09-21
+  response: |
+    I will make Arizona more competitive for federal science and research funding by strengthening partnerships among our universities, community colleges, state agencies, Tribal communities, research institutions, entrepreneurs, and private industry. Federal programs increasingly support collaborative research that connects scientific discovery with workforce development, commercialization, and regional economic growth.
+
+    As Governor, I will support a coordinated statewide strategy to identify federal research opportunities and help Arizona institutions build competitive proposals. I want our state actively pursuing funding for areas where Arizona has both significant needs and opportunities, including water conservation and reuse, energy, semiconductor technology, advanced manufacturing, biotechnology, healthcare, cybersecurity, and responsible emerging technologies.
+
+    Arizona is already demonstrating what these partnerships can accomplish. The NSF Futures Engine in the Southwest, led by Arizona State University, brings together more than 180 partners and focuses on water and energy technologies with potential economic and community benefits. I want to build on partnerships like this throughout Arizona, including rural communities.
+
+    I will also encourage public-private partnerships that turn federally funded research into Arizona businesses, jobs, and practical solutions. Federal science dollars should not simply produce research—they should help educate our workforce, support entrepreneurs, solve real problems, and create long-term economic opportunities.
+
+    Finally, I will advocate at the federal level for continued investment in competitive, merit-based scientific research while ensuring transparency and accountability for how taxpayer-funded research dollars are used.
+
+- candidate_first_name: Teri
+  candidate_last_name: Hourihan
+  state: az
+  race: Governor
+  party: No Labels Party
+  question: az-q3
+  date: 2026-09-21
+  response: |
+    I support a balanced approach that protects Arizona’s natural resources, public health, and economy while recognizing that agriculture, mining, technology, and responsible development are important to our state.
+
+    Water security is one of my highest priorities. Arizona remains in both short- and long-term drought, making conservation and diversification essential. I support expanding water recycling and reuse, recovering brackish groundwater where environmentally appropriate, exploring desalination partnerships, improving infrastructure, and aggressively protecting Arizona’s interests in Colorado River negotiations.
+
+    Regarding AI data centers, I support a Day-One moratorium on new facilities while Arizona evaluates their cumulative impacts on water, energy, infrastructure, surrounding communities, and public health. Future facilities should demonstrate sustainable water and energy supplies rather than shifting those costs onto Arizona families and communities.
+
+    Arizona also needs responsible mining, particularly as demand grows for critical minerals. I support strong monitoring of mining waste, groundwater and surface-water impacts, enforceable cleanup requirements, and reclamation of contaminated and abandoned sites. Arizona is already addressing pollution from legacy hardrock mines that can release metals into waterways.
+
+    Finally, extreme heat requires practical community-level solutions: increasing shade and tree coverage, heat-resistant infrastructure, cooling resources, emergency planning, and protecting workers and vulnerable populations.
+
+    Economic growth and environmental protection should not be treated as competing goals. My approach is to use science, measurable data, conservation, innovation, and accountability to ensure Arizona can grow without sacrificing the resources future generations will depend upon.
+
+- candidate_first_name: Teri
+  candidate_last_name: Hourihan
+  state: az
+  race: Governor
+  party: No Labels Party
+  question: az-q4
+  date: 2026-09-21
+  response: |
+    As Governor, I will support a strong, evidence-based public health system that focuses on prevention, early detection, rapid response, and public education. Measles is highly contagious, and the CDC identifies MMR vaccination as the most effective tool for preventing measles and limiting outbreaks.
+
+    I support ensuring that Arizona families have convenient access to recommended vaccines and accurate information about their benefits and risks so they can make informed healthcare decisions. I also want public health agencies working proactively with physicians, hospitals, schools, pharmacies, Tribal communities, and local health departments to identify outbreaks before they become widespread.
+
+    Arizona should strengthen disease surveillance, laboratory capacity, rapid testing, and communication systems so suspected cases are identified and investigated quickly. CDC guidance emphasizes that prompt identification, reporting, investigation, and response are critical to limiting measles transmission.
+
+    We also need targeted outreach in communities experiencing outbreaks or lower vaccination rates. That means working with trusted local healthcare professionals and community leaders rather than relying solely on government messaging.
+
+    Finally, Arizona must maintain emergency preparedness plans for measles and other infectious diseases, including coordination with federal and local public health partners when additional expertise, testing, vaccines, or other resources are needed.
+
+    My goal is to protect public health through science, transparency, education, accessibility, and rapid action while maintaining public trust.
+
+- candidate_first_name: Teri
+  candidate_last_name: Hourihan
+  state: az
+  race: Governor
+  party: No Labels Party
+  question: az-q5
+  date: 2026-09-21
+  response: |
+    I support policies that better protect children and teenagers on social media while preserving parental rights, privacy, free speech, and access to legitimate educational information. Research has identified potential benefits of social media, but also meaningful risks to young people, including exposure to harmful content and concerns about excessive use and mental health.
+
+    As Governor, I would support age-appropriate safety and privacy standards, stronger protections for minors’ personal data, effective parental controls, and greater transparency regarding how platforms’ algorithms recommend content to young users. I also believe parents should have meaningful tools to manage their children’s social media use rather than government attempting to replace parents in those decisions.
+
+    Because young people increasingly encounter scientific, health, and political information online, education is equally important. I support strengthening digital and media literacy so students learn how to evaluate sources, distinguish evidence from opinion, recognize misinformation, and understand how algorithms can influence what they see. The U.S. Surgeon General has similarly recommended digital and media literacy education as part of protecting young people online.
+
+    I would also support independent research examining social media’s effects on youth and policies encouraging platforms to provide researchers with appropriate, privacy-protected data.
+
+    Our goal should not be to censor legitimate ideas or scientific debate. It should be to give Arizona’s young people and parents the protections, information, and tools they need to navigate online environments safely and thoughtfully.
+
+- candidate_first_name: Teri
+  candidate_last_name: Hourihan
+  state: az
+  race: Governor
+  party: No Labels Party
+  question: az-q6
+  date: 2026-09-21
+  response: |
+    Arizona must do better for our students. Our own state budget documents acknowledge that Arizona ranks near the bottom nationally in education funding effort, and Arizona’s four-year graduation rate remains a serious concern.
+
+    As Governor, I support increasing investment in K-12 public education while also ensuring that education dollars are transparent, accountable, and reaching classrooms. I want to improve teacher pay and retention, reduce class sizes, strengthen special education resources, and ensure students have access to quality educational opportunities regardless of their ZIP code. I also support school choice and believe families should be able to choose public, charter, online, private, or homeschool options that best meet their children's needs.
+
+    Science must remain an important part of K-12 education. Arizona already has statewide science standards spanning kindergarten through high school that incorporate science and engineering practices. I want students learning not only scientific facts, but how to ask questions, evaluate evidence, test ideas, understand data, and distinguish credible information from unsupported claims.
+
+    Arizona’s future workforce will increasingly depend on STEM skills. We should expand hands-on science, technology, engineering, mathematics, computer science, and career-technical opportunities while creating stronger partnerships between schools, universities, community colleges, and Arizona employers.
+
+    Education should prepare students to think critically—not tell them what to think.
+
+- candidate_first_name: Jeff
+  candidate_last_name: Fortney
+  state: az
+  race: State Senate
+  district: 3
+  party: Democratic
+  question: az-q1
+  date: 2026-09-22
+  response: |
+    Science is real. Facts are important. I will make sure that all work I do in the Senate, any relevant bills I sponsor or support are based on the research done beforehand. I am a special education teacher that has been showing students how to do research, look for facts, and come to their own conclusions based on that research and those facts. We have far too many factions espousing their beliefs as if they were facts. That type of situation has caused far too many problems and contributed to the divisiveness we find ourselves with today.
+
+- candidate_first_name: Jeff
+  candidate_last_name: Fortney
+  state: az
+  race: State Senate
+  district: 3
+  party: Democratic
+  question: az-q2
+  date: 2026-09-22
+  response: |
+    I want to find ways to bring scientists and technical experts into the state legislature to help inform our decisions. I want to see an increase in state funding for early-stage research to help turn ideas into products that can qualify for federal grants. Once federal approval has been received, I will work to speed up state approval processes for water, energy, and research facilities so they don't get delayed by state regulations. I will support using state funds to help our universities and companies match the money needed to secure federal grants.
+
+- candidate_first_name: Jeff
+  candidate_last_name: Fortney
+  state: az
+  race: State Senate
+  district: 3
+  party: Democratic
+  question: az-q3
+  date: 2026-09-22
+  response: |
+    Once again, it is important for legislators to listen - openly and without prejudice - to the experts in these areas. We cannot go into discussions about how to address these issues with our own pre-conceived notions, biases, and ideas. I support bringing experts in to listen to the specifics of the problem, their suggestions on how to best approach dealing with areas like heat, water and mining waste, then working cooperatively to come up with workable solutions that will benefit the citizens of Arizona and make their future, not just livable, but comfortable. Regarding AI data centers, we can demand that any proposed data centers Bring Their Own Grid and demonstrate the near-zero impact they will have on the water issue. There are data centers that are moving away from using extensive water supplies. This must be a non-negotiable requirement. 
+
+- candidate_first_name: Jeff
+  candidate_last_name: Fortney
+  state: az
+  race: State Senate
+  district: 3
+  party: Democratic
+  question: az-q4
+  date: 2026-09-22
+  response: |
+    The fact that we even have to discuss this is mind-boggling.Between 1953 and 1963, the ten years immediately preceding the measles vaccine, measles caused an average of 400 to 500 deaths, 48,000 hospitalizations, and 1,000 cases of encephalitis every year. Measles was declared eliminated in the U.S. in 2000 because our society understood the importance of vaccines and the mandates that required vaccines for schools. However, a recent rise in vaccine hesitancy, caused by the spread of misinformation and debunked myths, caused a resurgence, resulting in 3 preventable deaths in 2025 - all of whom were unvaccinated. Scientists  and medical experts are the voices that should be listened to. Any politicians that espouse misinformation that results in the unnecessary death of a child should be prosecuted.
+
+- candidate_first_name: Jeff
+  candidate_last_name: Fortney
+  state: az
+  race: State Senate
+  district: 3
+  party: Democratic
+  question: az-q5
+  date: 2026-09-22
+  response: |
+    I cheer, and 100% support, the actions Attorney General Kris Mayes took to hold social media - Facebook - accountable for using algorithms that “preyed on the developing minds of kids.” I support the restrictions implemented after this lawsuit regarding restrictions of young people. I feel these restrictions need to be required for all social media platforms. There should be no access for those under 13 years old. There should be strict and specific limits on older teens. And anyone caught creating work-arounds to avoid these restrictions should be held legally responsible.
+
+- candidate_first_name: Jeff
+  candidate_last_name: Fortney
+  state: az
+  race: State Senate
+  district: 3
+  party: Democratic
+  question: az-q6
+  date: 2026-09-22
+  response: |
+    I've been advocating for properly funding public education for nearly two decades. The statistics quoted above are an embarrassment for Arizona. Unfortunately, our current Republican-controlled legislative majority has set this course for several years. During the 2009 recession, Arizona lawmakers decided to balance the budget on the backs of public schools and we haven’t recovered yet. The legislature has prioritized private schools for far too long. They’ve refused to renew major sources of education funding (Prop 123). They refuse to address a 40+ year old spending limit for public district schools, causing districts to not know if they are able to spend the money that they’ve already received. Meanwhile, the Empowerment Scholarship Account program redirects state funds to private schools/homeschools, reduces the general fund, and subsidizes families that were already sending their children to private schools. Additionally, there are no requirements regarding what is being taught in these schools, and no state testing requirements. We don’t know what is being taught or how well it is being learned. 
+    Science is an absolutely necessary subject that must be taught in K-12 education. The important element of teaching facts has become very important in these uncertain times. Teaching facts and explaining the scientific method for testing hypotheses are crucial concepts that need to be taught. Again, this has become even more important when ESA requests include purchasing flat earth curriculum. This is a frightening thought. We need good, dedicated science teachers teaching our students real scientific laws and theories.

@@ -27,7 +27,7 @@ races:
   - Lieutenant Governor
   - Local County Races [All]
   - Mayor
-  - Raleigh City Council # for NC
+  - Nebraska Public Power District  # for NE
   - RTD Board of Directors  # for CO
   - Secretary of State
   - State Assembly
@@ -41,6 +41,7 @@ races:
   - State Treasurer
   - University Board of Regents
   - US House of Representatives
+  - US House of Representatives Non-Voting Delegate  # for DC
   - US Senate
 
 # ballot order for grouping candidates in the "Group by candidate" view
@@ -48,6 +49,7 @@ races:
 race_ballot_order:
   - US Senate
   - US House of Representatives
+  - US House of Representatives Non-Voting Delegate
   - Governor
   - Lieutenant Governor
   - Attorney General
@@ -64,8 +66,8 @@ race_ballot_order:
   - University Board of Regents
   - Mayor
   - Local County Races [All]
+  - Nebraska Public Power District
   - RTD Board of Directors
-  - Raleigh City Council
 
 # Per-state additions to `races` above, valid only for the `races:` attribute
 # on questions in _data/stance_questions/<state>.yml (scoping a question to a
@@ -108,3 +110,5 @@ parties:
   - Together for NJ
   - We the People
   - Write-In
+  - DC Statehood Green
+  - Conservative

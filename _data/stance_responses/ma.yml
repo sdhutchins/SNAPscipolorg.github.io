@@ -1012,3 +1012,62 @@
     We have the means to pay for this: we already spend more on healthcare than any other country, yet have worse outcomes than nations that cover everyone for less. The barrier isn't cost — it's the insurance, pharmaceutical, and healthcare corporations.
 
     Scientists know better than anyone: we have the medical knowledge to keep people healthy. We lack a system organized to deliver it. That's what I'm running to change.
+
+- candidate_first_name: Beth
+  candidate_last_name: Andres-Beck
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q1
+  date: 2026-08-03
+  primary_candidate: true
+  response: |
+    - American innovation is powered by our academic research and the academic freedom that makes it possible. It has been devastating to watch the current administration gut funding on the basis of politics. Support for basic research is the backbone of scientific knowledge and the American economy, while support for applied research is vital to address problems like climate change, agricultural advancement and public health.
+    - As a published co-author of a paper in the British Journal of Cancer, my support for the sciences is personal. I chose to attend Smith College because of the research opportunities available there to undergraduates, and I owe my technical career to a summer research grant. I will ensure the next generation has those same opportunities.
+
+- candidate_first_name: Beth
+  candidate_last_name: Andres-Beck
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q2
+  date: 2026-08-03
+  primary_candidate: true
+  response: |
+    - As a software engineer who has written AI software, I believe we need laws that protect people, the environment and our future. Companies must be responsible for how they deploy these novel technologies. Innovation can continue without letting corporations profit from selling untested software or falsely advertising capabilities the tools don’t have. We can trust that our microwaves are safe to use: we should be able to say the same of AI.
+    - We should not be including AI in elementary education unless we get compelling evidence that it is an effective pedagogical tool. We are in the process of creating a lost generation, where college degrees are rendered worthless by rampant cheating and children never have the opportunity to learn foundational skills.
+    - Rolling back environmental review for data centers has been a disaster. It allowed the worst companies to cut every corner they can find. That turned the public against digital infrastructure. We can accelerate environmental reviews, require projects to build sufficient green energy and put the companies that do the right thing on equal footing with those building them as cheaply as we will allow.
+    - Finally, we must fix the way our tax system relies on payroll and invest in those areas where AI has disrupted the economics without changing the need for the work. The funds raised from increased automation can fund priorities like Social Security, Medicare, local journalism, the arts, open-source software and research, sharing the benefits of the new technology widely.
+
+- candidate_first_name: Beth
+  candidate_last_name: Andres-Beck
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q3
+  date: 2026-08-03
+  primary_candidate: true
+  response: |
+    - While there is limited federal land in Massachusetts, our coastline is the heart of the North Shore. It is under threat from climate change, aging infrastructure, and increased commercialization, but it can also be part of the solution.
+    - I support the windfarm projects off our coast, and I will defend them from President Trump’s attacks. We must also invest in climate resilience, particularly in protecting our sand dunes and clam beds.
+    - Our aging sewage infrastructure put our entire coastline at risk this year. I support building an Infrastructure Bank that can fund both maintenance and new infrastructure again in America. We should not have to rely on individual political favors to protect our natural resources.
+    - To protect our green spaces and reduce traffic, I support building dense housing where jobs are. I will repeal the Faircloth amendment and allow the federal government to be part of the solution to our housing crisis. By prioritizing areas where people have long commutes, we can reduce carbon emissions and give people affordable housing at the same time.    
+
+- candidate_first_name: Beth
+  candidate_last_name: Andres-Beck
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q4
+  date: 2026-08-03
+  primary_candidate: true
+  response: |
+    - Our current healthcare system is squeezing working families, small businesses and municipalities with crushing costs. We need a life-long universal healthcare system, which is why I support Medicare For All.
+    - However, even single-payer will leave profit in the system and encourage profiteering. We must address consolidation and the ever-increasing overhead directly. I support a federal law against the corporate practice of medicine to protect the independence of doctors. We should vigorously enforce anti-trust laws when consolidation would reduce choices for patients. I promote a massive investment in community health centers, ensuring every American has access to quality primary care. Finally, I will support expanding direct funding of drug research and simplifying FDA approvals, while also negotiating prescription drug prices.
+    - I spent the last six years building software for doctors and patients. I know first hand that our current healthcare interoperability standards are poorly-enforced and focused on billing over patient care. I will support investment in open-source health care interoperability and solutions to the ever-expanding world of computer-generated notes, while increasing the rights patients have to their own data. The exemptions that allow medical providers to use patient data to advertise encourage corporate consolidation and turn patients into marks.
+    - We must also address the gaps in Medicare and the VA. Ears, eyes and teeth are all vital for health.
+    - Finally, abortion care and trans care are health care. Congress must act to protect Americans, whatever state we live in.

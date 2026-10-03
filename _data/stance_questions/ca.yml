@@ -1,6 +1,6 @@
 - id: ca-q1
   question: >-
-    California is rich in natural resources (i.e. oil, with California being the 7th largest oil producing state in the nation) and, as of June 2025, conserves 26.1% of its lands and 21.9% of its coastal waters. Given California's resources, what policies would you pursue or continue, if any, in regard to land management and use?
+    California is rich in natural resources (i.e. oil, with California being the 7th largest oil producing state in the nation) and, as of June 2025, conserves 26.1% of its lands and 21.9% of its coastal waters. Given California’s resources, what policies would you pursue or continue, if any, in regard to land management and use?  
   tag: Environment
 
 - id: ca-q2
@@ -10,20 +10,55 @@
 
 - id: ca-q3
   question: >-
-    Access to public transportation is associated with less air and noise pollution, fewer harmful chemicals, and overall healthier communities. However, many transit agencies, such as BART in the Bay Area, are facing financial deficits due to a decline in ridership. What policies, if any, do you support that would address California's public transit infrastructure?
-  tag: Transportation
-
-- id: ca-q4
-  question: >-
-    In 2025, approximately 33% of students in K-12 schools across California met or exceeded science standards, and teacher shortages have resulted in districts hiring teachers with substandard credentials in math and science. What evidence-based policies, if any, would you follow to increase science proficiency and access to quality education across the state and why?
+    In 2025, approximately 33% of students in K-12 schools across California met or exceeded science standards, and teacher shortages have resulted in districts hiring teachers with substandard credentials in math and science. What evidence-based policies, if any, would you follow to increase science proficiency and access to quality education across the state and why?  
   tag: K-12 Science Education
 
-- id: ca-q5
+- id: ca-q4
   question: >-
     Healthcare is an important resource to Californians, with publicly supported programs such as Medi-Cal providing coverage covering roughly half of all Californians including 14.5 million low-income residents. According to the Center on Healthcare from West Health-Gallup, California has an overall healthcare grade of “C” over the categories of cost, quality, and access, with gaps in rural health coverage, environmental health threats, workforce shortages, and affordability challenges. What policies, if any, do you support to address the healthcare of Californians and why?
   tag: Public Health
 
+- id: ca-q5
+  question: >-
+    Infectious disease outbreaks in California, like measles and foodborne illnesses, are on the rise and have had significant impacts on the state's health, agriculture, and produce economy. In some counties in California, vaccination rates are low, making communities potentially vulnerable to measles outbreaks. Furthermore, California is responsible for over a third of the US's fresh produce, which is a common source of foodborne illness. What policies, if any, do you support for implementing preventative measures and mitigating strategies against outbreaks?
+  tag: Public Health
+
 - id: ca-q6
   question: >-
-    Do you support initiatives that alter funding for science research, i.e. Senate Bill 895 (California Foundation)?
+    Distrust in science has been on the rise among the general public and policymakers, which has been associated with changes in federal funding for scientific research. In order to bridge this gap, how do you think scientists and policymakers can work together to strengthen their communication?
+  tag: Trust in Science
+  
+- id: ca-BayArea-q1
+  question: >-
+    Access to public transportation is associated with less air and noise pollution, fewer harmful chemicals, and overall healthier communities. However, many transit agencies, such as BART in the Bay Area, are facing financial deficits due to a decline in ridership. What policies, if any, do you support that would address California’s public transit infrastructure?
+  tag: Transportation
+
+- id: ca-BayArea-q2
+  question: >-
+    Funding for research in California has dropped by millions in the past year with an ongoing possibility for more reductions. Yet, University research is a major economic driver. For example, according to the University of California, they generate about $14 of economic value for every dollar invested. What policies, if any, do you support to invest in research? What role do you envision science research playing in the state economy?
   tag: Science Funding
+  
+- id: ca-CentralValley-q1
+  question: >-
+    Recent studies have shown that land in the Central Valley is sinking due to excessive groundwater pumping for agricultural purposes. Because of this, an estimated 15% of groundwater storage has already been lost. Given that groundwater accounts for 40% of water supply for farms and communities in the Central Valley, what policies, if any, do you support that balances agricultural productivity and science-supported, long-term sustainability of Central Valley’s water supply?
+  tag: Agriculture
+  
+- id: ca-CentralValley-q2
+  question: >-
+    Valley fever, a fungal disease that thrives in dry, disturbed soils, has disproportionately affected farmworkers and outdoor laborers in the Central Valley. Recent initiatives to combat this illness include a valley fever prevention toolkit distributed by the the California Department of Public Health to members of the public and local communities. What initiatives, if any, do you support surrounding this disease and other agriculture-related exposures?
+  tag: Public Health
+  
+- id: ca-NorCal-q1
+  question: >-
+    The Klamath Dam removal in the Siskiyou and Humboldt counties was completed in October 2024, in part to restore natural salmon populations, benefit bird and fish ecology, provide resources to tribal nations, and benefit ratepayers and residents. What policies do you support, if any, to monitoring marine wildlife, and wildlife more broadly, in the area of the dam and in Northern California as a whole?
+  tag: Environment
+  
+- id: ca-SoCal-inland-q1
+  question: >-
+    Since 2023, over 55 million square feet of new warehouses have been completed in the Inland Empire, and over 125 million square feet of warehouse projects covering over 10,000 acres are currently under California Environmental Quality Act review. To add on, the movement of goods from warehouses is responsible for more than half of the emissions of nitrogen oxides in Southern California. What policies would you pursue, if any, to address the environmental health within the Inland Empire?
+  tag: Environment
+  
+- id: ca-LA-q1
+  question: >-
+     The Los Angeles Metro system serves millions of riders every month, with increases in ridership associated with the expansion of Metro stations. Access to public transportation is associated with less air and noise pollution, fewer harmful chemicals, and overall healthier communities. Yet, the Metro still faces public safety concerns, and expansion projects have encountered delays and cost increases while risking community displacement. What policies, if any, do you support regarding Los Angeles public transit infrastructure? Describe evidence that has informed these policies.
+  tag: Transportation

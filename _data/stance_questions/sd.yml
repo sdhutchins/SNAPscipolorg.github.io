@@ -1,0 +1,66 @@
+- id: sd-q1
+  question: >-
+    Distrust in science has been on the rise among the general public and
+    policymakers, which has been associated with changes in federal funding
+    for scientific research. In order to bridge this gap, how do you think
+    scientists and policymakers can work together to strengthen their
+    communication?
+  tag:
+    - Science Funding
+    - Trust in Science
+
+- id: sd-q2
+  question: >-
+    South Dakota is a leader in renewable energy production in the United
+    States. What policies, if any, would you support related to continued
+    alternative energy development, regulation, and/or research, and why?
+  tag: Energy
+
+- id: sd-q3
+  question: >-
+    Tribal nations play an important role in South Dakota’s environmental
+    stewardship, but many face challenges in accessing resources and
+    infrastructure for environmental science, land management, and water
+    monitoring. What policies, if any, would you support to strengthen tribal
+    capacity in these areas, and why?
+  tag:
+    - Environment
+    - Science Diplomacy
+
+- id: sd-q4
+  question: >-
+    South Dakota farmers face challenges including shifting weather patterns,
+    localized droughts, fluctuating input costs, and global market pressures.
+    What policies or investments, if any, would you support to help farmers
+    remain productive and economically competitive, and what role could
+    scientific research and innovation play in those efforts?
+  tag:
+    - Agriculture
+    - Jobs and Workforce
+
+- id: sd-q5
+  question: >-
+    Many communities face shortages in healthcare providers and limited access
+    to specialty care. What policies, if any, do you support to address this
+    daily challenge and do you envision emerging technologies playing a role?
+  tag: Public Health
+
+- id: sd-q6
+  question: >-
+    With the massive energy usage associated with data centers, what is your
+    stance on creation of these data centers across the state considering
+    economic opportunities created by their rapid growth and long-term
+    benefits for South Dakota communities, as well as concerns about energy
+    consumption, water usage, grid reliability, and environmental impact?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+    - Jobs and Workforce
+
+- id: sd-q7
+  question: >-
+    What specific forms of AI regulation do you support, and where would you
+    draw the line between necessary oversight and overregulation that could
+    slow innovation?
+  tag: Artificial Intelligence

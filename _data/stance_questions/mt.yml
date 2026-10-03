@@ -1,0 +1,36 @@
+- id: mt-q1
+  question: >-
+    As electricity demand increases due to manufacturing, electrification,
+    and data infrastructure, what role, if any, do you believe alternative
+    energy sources, such as nuclear energy, wind, or solar, should play in
+    America’s future energy mix? What policies, if any, would you support
+    related to alternative energy development, regulation, and/or
+    research, and why?
+  tag: Energy
+
+- id: mt-q2
+  question: >-
+    Do you see community-based institutions like K–12 schools and
+    community colleges playing a role in strengthening science and
+    research across MT state? If so, what policies do you support
+    regarding these institutions?
+  tag: K-12 Science Education
+
+- id: mt-q3
+  question: >-
+    The Sand Creek & Bobcat Lake Fire, is recorded to be one of ten
+    largest fire in the state in August 2026, burning over 43,000 acres
+    near Wisdom and Wise River. What are your policies around fire risk
+    management for the state?
+  tag: Climate
+
+- id: mt-q4
+  question: >-
+    Pesticides are widely used in food production to help manage pests and
+    support crop yields, but ongoing debates over their safety have raised
+    questions about their long-term use and led to proposals to restrict
+    certain pesticides. What data and evidence will you use to weigh the
+    role of these products in food security against safety concerns when
+    shaping policy on their use in Montana's agriculture?
+  tag: Agriculture
+

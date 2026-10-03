@@ -21,6 +21,7 @@ $stance-nebraska-working-people: #A65D2E; // Rust Terracotta
 $stance-america-first: #18294A; // Deep Navy
 $stance-legal-marijuana-now: #3C8577; // Sage Teal
 $stance-center:       #8C5E6B; // Dusty Mauve
+$stance-conservative:  #7B2F2D; // Dark Crimson
 
 // Per-party bubble colors as (background, text) pairs, keyed by the slug
 // emitted at each render site ({{ party | downcase | replace: ' ', '-' }}).
@@ -41,7 +42,8 @@ $stance-party-colors: (
   "nebraska-working-people": ($stance-nebraska-working-people, #ffffff),
   "america-first":        ($stance-america-first, #ffffff),
   "legal-marijuana-now":  ($stance-legal-marijuana-now, #ffffff),
-  "center":               ($stance-center, #ffffff)
+  "center":               ($stance-center, #ffffff),
+  "conservative":         ($stance-conservative, #ffffff)
 );
 
 $snap-navy-dark: #18294a;
@@ -1616,7 +1618,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   }
 
   &__lb-img {
-    max-width: min(92vw, 620px);
+    max-width: min(92vw, 1000px);
     max-height: 90vh;
     object-fit: contain;
     border-radius: 10px;

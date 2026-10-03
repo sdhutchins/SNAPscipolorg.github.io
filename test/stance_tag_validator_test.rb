@@ -12,6 +12,8 @@ class StanceTagValidatorTest < Minitest::Test
       "stance_filters" => {
         "tags" => ["Public Health"],
         "races" => ["US Senate"],
+        # Must mirror `races` exactly, or the filter area reports on its own.
+        "race_ballot_order" => ["US Senate"],
         "parties" => ["Independent"]
       },
       "stance_questions" => {
@@ -125,5 +127,37 @@ class StanceTagValidatorTest < Minitest::Test
 
       StanceResponseValidator.validate_team_data(team_site(source, entries))
     end
+  end
+
+  # A broken filter file used to abort the build before responses were checked,
+  # so a contributor fixed one area per push. Every area must be reported at once.
+  def test_reports_every_failing_area_before_raising
+    site = response_site(valid_response.merge("race" => "Governor"))
+    # In race_ballot_order but not in races: a filter problem, and a response
+    # referencing it is an unknown race.
+    site.data["stance_filters"]["race_ballot_order"] = ["US Senate", "Governor"]
+
+    _, err = capture_io do
+      error = assert_raises(RuntimeError) { StanceResponseValidator.validate_all(site) }
+      assert_includes error.message, "Stance validation failed"
+    end
+
+    assert_includes err, "Stance filter validation failed"
+    assert_includes err, "Stance response validation failed"
+  end
+
+  # With one area failing the summary line still names that area, since there is
+  # no ambiguity about which report it is pointing at.
+  def test_single_failing_area_keeps_its_own_heading
+    site = response_site(valid_response.merge("race" => "Governor"))
+
+    capture_io do
+      error = assert_raises(RuntimeError) { StanceResponseValidator.validate_all(site) }
+      assert_includes error.message, "Stance response validation failed"
+    end
+  end
+
+  def test_validate_all_passes_on_clean_data
+    StanceResponseValidator.validate_all(response_site(valid_response))
   end
 end

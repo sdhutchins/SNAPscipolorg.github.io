@@ -1,0 +1,53 @@
+- id: la-q1
+  question: >-
+    There are currently over 20 data centers in Louisiana, with major
+    companies recently announcing investments of $3.6 billion to $10
+    billion to build data centers in the state. How, if at all, do you see
+    data centers impacting Louisiana’s, and the wider United States',
+    economy, livelihoods and environment?
+  tag: Artificial Intelligence
+
+- id: la-q2
+  question: >-
+    Louisiana has the highest rate of wetlands loss in the United States,
+    and within the past 100 years, Louisiana's barrier islands have
+    decreased in area by more than 40 percent. Among other things, coastal
+    land loss puts people and property at higher risk of being impacted by
+    hurricanes; this was acknowledged in 2017, when the then-government
+    declared a state of emergency for the Louisiana coast. Shoreline
+    restoration and the management of natural buffer zones has shown
+    promise in lessening the damage from hurricanes. What strategies, if
+    any, would you support as a leader to protect our coastal communities?
+  tag: Environment
+
+- id: la-q3
+  question: >-
+    Louisiana is a state inextricably tied to its waterways, whether it be
+    through fishing, tourism, irrigation, or the water we all need to
+    drink. What actions, if any, will you take to ensure the health of
+    Louisiana’s rivers and lakes?
+  tag: Environment
+
+- id: la-q4
+  question: >-
+    Do you think elected officials have a role in working with scientists
+    to build the general public's trust in science? How, if at all, do you
+    envision working with scientists?
+  tag: Trust in Science
+
+- id: la-q5
+  question: >-
+    What role, if any, do you see community-based institutions like K–12
+    schools and community colleges playing a role in strengthening science
+    and research across our state, and what policies, if any, would you
+    support for these institutions?
+  tag: K-12 Science Education
+
+- id: la-q6
+  question: >-
+    Energy affordability is a significant issue among our communities,
+    with costs rising across the state and nation. Alternative sources of
+    energy (such as wind, solar, hydroelectric, or geothermal) may help
+    with affordability. What role, if any, do you see alternative forms of
+    energy playing in Louisiana’s future?
+  tag: Energy

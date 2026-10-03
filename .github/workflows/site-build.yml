@@ -35,3 +35,27 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+          # The stance validator writes its full grouped report here when it
+          # fails, so the next step can show it without anyone opening the log.
+          STANCE_VALIDATION_REPORT: stance-validation-report.txt
+
+      - name: Publish validation report
+        if: failure()
+        run: |
+          {
+            echo '## Site build failed'
+            echo
+            if [ -s stance-validation-report.txt ]; then
+              echo '```'
+              head -c 60000 stance-validation-report.txt
+              echo
+              echo '```'
+              echo
+              echo 'Entry numbers are 0-based positions in the YAML list.'
+              echo 'Reproduce locally with `bundle exec ruby bin/validate_stance.rb`.'
+            else
+              # Absent for failures the stance validator was not responsible
+              # for: Liquid errors, gem issues, a failing unit test.
+              echo 'Not a Stance data problem; see the failed step above.'
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

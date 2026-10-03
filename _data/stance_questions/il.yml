@@ -1,0 +1,43 @@
+- id: il-q1
+  question: >-
+    Illinois currently has 138 data centers, with 8 underway, and plans for 29
+    more. What policies, if any, do you support in managing existing data
+    centers or establishing additional data centers? What specific plans do
+    you have, if any, to mitigate utility cost burden for residents? Why these
+    steps? (modified from previous questions)
+  tag: Energy
+
+- id: il-q2
+  question: >-
+    Research activities in Illinois heavily depend on federal funding.
+    However, federal funding cuts for science research and agencies like the
+    NIH and NSF leaves the future for science research uncertain. What
+    policies, if any, do you support or plan to implement to fund scientific
+    research at either the state or federal level?
+  tag: Science Funding
+
+- id: il-q3
+  question: >-
+    Agriculture is an important part of Illinois’ economy. However, changing
+    weather patterns pose a challenge for Illinois agriculture. What policies
+    or plans do you have, or support, to support Illinois agriculture against
+    challenges like Illinois agriculture?
+  tag: Climate
+
+- id: il-q4
+  question: >-
+    Scientific issues increasingly influence public policy. When developing
+    policy positions or making decisions on topics involving science, how do
+    you seek out information, evaluate scientific evidence and expert input,
+    and ensure your decisions are well informed? If you can, please share an
+    example of when this process influenced your perspective or decision.
+  tag: Trust in Science
+
+- id: il-q5
+  question: >-
+    Measles and whooping cough (pertussis) cases are on the rise in Illinois,
+    with multiple outbreaks in 2026. How have you, or how do you plan to,
+    address this public health concern? How will you plan to work with
+    relevant stakeholders (epidemiologists, scientists, physicians, for
+    example) to mitigate this problem?
+  tag: Public Health

@@ -1,88 +1,3 @@
-- candidate_first_name: Pam
-  candidate_last_name: Kohlmeier
-  state: wa
-  race: State House of Representatives
-  district: 3
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-08
-  response: |
-    As a physician, attorney, and public health educator, I believe AI policy should be grounded in scientific evidence and transparency. AI has enormous potential to improve healthcare, education, scientific research, and economic productivity, and Washington should continue supporting innovation while keeping the public informed and protecting the public.
-
-    Data centers are critical infrastructure for AI, but they should be developed using evidence-based assessments of electricity demand, water use, land impacts, and long-term environmental sustainability. Large industrial users should pay for the infrastructure needed to support their operations, so costs are not shifted to residential ratepayers or small businesses.
-
-    Also, high-impact AI systems used in healthcare, education, employment, housing, and government should be independently evaluated for accuracy. 
-    
-    KEYWORDS: innovative, Chatbots, remote patient monitoring, ethical concerns, transparency issues, questionable accuracy
-
-- candidate_first_name: Pam
-  candidate_last_name: Kohlmeier
-  state: wa
-  race: State House of Representatives
-  district: 3
-  party: Democratic
-  question: wa-q2
-  date: 2026-07-08
-  response: |
-    As a physician and public health educator, I view environmental policy through the lens of protecting human health while ensuring taxpayer dollars are invested where they achieve the greatest measurable benefit. My priorities are safeguarding clean drinking water, reducing exposure to hazardous contaminants such as PFAS, preventing wildfire smoke-inhalation impacts, improving air quality, and protecting watersheds and forests that support healthy communities and a resilient economy.
-
-    I also support research that strengthens Washington's resilience to climate change, including studies on extreme heat, wildfire risk reduction, sustainable agriculture, water availability, and ecosystem restoration. Investments should emphasize projects with measurable outcomes, peer-reviewed science, and partnerships among universities, Tribal Nations, local governments, and the private sector.
-
-    As a legislator, I would help ensure that funding decisions are guided by the best available scientific evidence, cost-effectiveness, public health impact, and long-term sustainability—not politics. Programs should include performance metrics and regular evaluation to ensure public funds are achieving meaningful environmental and economic benefits. Evidence-based stewardship protects both our natural resources and the health and prosperity of future generations.
-    
-    KEYWORDS: clean water, clean air, recycling, green jobs, sustainability
-
-- candidate_first_name: Pam
-  candidate_last_name: Kohlmeier
-  state: wa
-  race: State House of Representatives
-  district: 3
-  party: Democratic
-  question: wa-q3
-  date: 2026-07-08
-  response: |
-    Science literacy is essential for an informed democracy, a competitive workforce, and healthier communities. As a physician, attorney, and educator, I have seen how understanding the scientific method empowers people to evaluate evidence, distinguish credible information from misinformation, and make informed decisions. I have also witnessed failures.
-
-    Washington's K-12 standards should place greater emphasis on scientific inquiry, critical thinking, data analysis, and media literacy rather than memorization alone. Students should learn how scientific knowledge evolves through testing, replication, peer review, and the willingness to revise conclusions when new evidence emerges. Hands-on laboratory experiences, and partnerships with universities, healthcare organizations, Tribal Nations, and local industries can make science relevant and inspiring.
-    
-    KEYWORDS: literacy, equity, equal opportunity, public, life-long
-
-- candidate_first_name: Pam
-  candidate_last_name: Kohlmeier
-  state: wa
-  race: State House of Representatives
-  district: 3
-  party: Democratic
-  question: wa-q4
-  date: 2026-07-08
-  response: |
-    As a physician and public health educator, I view wildfire policy as both an environmental and a public health priority. Wildfires threaten lives, homes, critical infrastructure, air quality, drinking water, and rural economies. Washington needs a science-based, proactive approach rather than simply responding after disasters occur.
-
-    I support increasing investments in evidence-based forest management, including strategic thinning, prescribed burning where appropriate, fuel reduction near communities, and restoration of fire-resilient forests. These efforts should be developed in partnership with Tribal Nations, whose traditional ecological knowledge has demonstrated the value of cultural burning practices.
-
-    As smoke-related illness increasingly affects children, older adults, and people with chronic disease, we should invest in clean-air shelters, school air filtration, and public health preparedness. I remember during one of the worst wildfire seasons since we relocated to Spokane in 2005 a high school student-athlete trying to compete in cross country struggling to breathe at various times during the season. This is a health risk and has become more the norm. This is also dangerous. Wildfire prevention efforts need to be ramped up to prevent secondary health-risk and loss of property (and lives).
-    
-    KEYWORDS: Prevention, forest health, fire suppression, public safety
-
-- candidate_first_name: Pam
-  candidate_last_name: Kohlmeier
-  state: wa
-  race: State House of Representatives
-  district: 3
-  party: Democratic
-  question: wa-q6
-  date: 2026-07-08
-  response: |
-    Washington must protect both our environment and our agricultural economy. Farmers are among the first to experience the impacts of climate change through drought, wildfire, extreme heat, and changing water availability, but they also operate on narrow margins and should not bear a disproportionate financial burden.
-
-    I support using Climate Commitment Act revenues to help farmers and agricultural distributors adopt cost-saving, lower-emission technologies, improve energy efficiency, expand renewable energy where practical, improve irrigation efficiency, and strengthen soil health and carbon sequestration. 
-
-    Policies should be developed collaboratively with farmers, agricultural researchers, Tribal Nations, conservation organizations, and rural communities to ensure they are practical and evidence-based. We should also regularly evaluate the economic impacts of climate policies and make adjustments if unintended consequences threaten the competitiveness of Washington agriculture or increase food costs for consumers.
-
-    As a physician and public health educator, I believe environmental stewardship and agricultural prosperity are complementary goals. By investing in innovation, research, and practical solutions, Washington can reduce emissions while keeping our farms productive, competitive, and sustainable for future generations.
-    
-    KEYWORDS: livestock, crops, irrigation, rural healthcare, resilience, tariffs, farmer suicides
-
 - candidate_first_name: Kyle
   candidate_last_name: Palmer
   state: wa
@@ -177,444 +92,6 @@
     We can protect our natural resources while ensuring the next generation can afford to keep farming in Washington. 
     
     KEYWORDS: Competitiveness, Empowerment, Innovation
-    
-- candidate_first_name: John
-  candidate_last_name: Hughs
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q1
-  date: 2026-07-12
-  response: |
-    AI is extremely dangerous. It can grow itself and empower those who control/own it to become god-like. It must be carefully watched, monitored and heavily regulated, more so than atomic power. Notice the blood-lust in the way the data centers have been rushed in like animals in heat. They have been constructed in mass, making the gold-rush look mild, without regard to the damage to the environment, power drain or water glut. And all humans had better think of where the ROI is planned to be derived from. We need immediate federal legislation to protect our civil liberties from AI, a legislative fire wall that also keeps AI out of our justice system. Then we need to limit AI to foreign military operations and protect citizens from losing privacy to that system. Most AI centers in the west need to be shut down due to lack of water supply that does not exist, excepting only AK, LA, and south-east TX.
-    
-    KEYWORDS: The information is all over the internet. "The Technological Republic" by Alex Karp, 2025.
-    
-- candidate_first_name: John
-  candidate_last_name: Hughs
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q2
-  date: 2026-07-12
-  response: |
-    I run for a federal office; congressman. Absent federal EPA superfund sites this is a question for the state of Washington. So the federal environmental attention must be focused on Hanford and such federal facilities.
-    
-    KEYWORDS: Nuclear waste is a top priority, the vit plant seems to be working well.
-    
-- candidate_first_name: John
-  candidate_last_name: Hughs
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q3
-  date: 2026-07-12
-  response: |
-    In 1963 we lowered the basal text reading levels in schools, nationwide. The ACT/SAT scores went down then from 63 to 76. Return the pre-63 basal text reading level immediately. Schools have been focused on chasing the ball. Schools must be refocused on academic achievement and extra-cocurricular activities must be low priority. I believe in a bifurcated system. The bright students with high IQ's should be separated and given superior academic challenges and a path leading to the higher sciences and higher demanding academics. If separate schools are necessary then provide them. 
-    
-- candidate_first_name: John
-  candidate_last_name: Hughs
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q4
-  date: 2026-07-12
-  response: |
-    State to manage state lands. The federal lands are poorly managed. Half the federal lands could be used for homestead, excepting national parks and delicate land such as tundra. All areas of forest near roads, or towns of any size must be logged to a mile of the city limits. Prevent the fire damage. Fires that do not burn the property or the towns, let it burn. Mother nature allowed fires throughout history before the federal government took over to waste money. 
-        
-- candidate_first_name: John
-  candidate_last_name: Hughs
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q6
-  date: 2026-07-12
-  response: |
-    State issue not federal. We MUST switch to burn hydrogen to save the planet. The first hydrogen car was built in 1800. Burning petroleum products is environmentally harmful and jeopardizes national security, ego the current war with Iran. We need trains, speed train. The interstate highway system was obsolete when build; makes no sense but to make the oil industry richer and destroy our economy and the planet.
-
-- candidate_first_name: Don
-  candidate_last_name: Myers
-  state: wa
-  race: State House of Representatives
-  district: 13
-  party: Republican
-  question: wa-q1
-  date: 2026-07-13
-  response: |
-    Artificial intelligence is already improving healthcare, agriculture, manufacturing and many other industries. I believe Washington should encourage innovation while addressing legitimate concerns about privacy, security and infrastructure.
-
-    Data centers are an important part of that future. While they don't create large numbers of permanent jobs, they generate significant economic value and support the technology businesses rely on. As they expand, we must ensure adequate energy, water and transmission infrastructure without shifting costs onto existing residents, farmers or businesses.
-
-    Innovation often follows necessity. As computing demand grows, engineers continue developing more efficient cooling systems, reducing energy use and improving water reuse. Public policy should encourage those advancements rather than assuming today's technology is the final answer.
-
-    My views are informed by my experience in local government and research into Washington's infrastructure challenges, including the EPA's Quincy water reuse case study. It demonstrates how innovation and collaboration can significantly reduce potable water use while supporting economic development. 
-  
-    KEYWORDS: innovation, efficient, collaboration
-
-- candidate_first_name: Don
-  candidate_last_name: Myers
-  state: wa
-  race: State House of Representatives
-  district: 13
-  party: Republican
-  question: wa-q2
-  date: 2026-07-13
-  response: |
-    My top environmental priority is protecting Washington's water resources. Clean, reliable water is essential for our communities, agriculture, fish and wildlife, and future economic growth. I would support investments that improve water quality and help protect our rivers, lakes and groundwater.
-
-    I also believe Washington should continue working with the EPA to complete cleanup of Superfund and other contaminated sites that continue to impact water quality. Cleaning up pollution that already exists should remain a priority.
-
-    I also believe it's important to regularly evaluate the Climate Commitment Act and the programs it funds. We should be able to clearly demonstrate that the investments are delivering meaningful environmental improvements and not simply adding costs for families and employers.
-
-    Environmental stewardship is about solving real problems. Protecting our water, cleaning up contaminated sites and making sure environmental investments are producing real benefits should be among the state's highest priorities. 
-  
-    KEYWORDS: Water, Evaluate, Delivering
-
-- candidate_first_name: Don
-  candidate_last_name: Myers
-  state: wa
-  race: State House of Representatives
-  district: 13
-  party: Republican
-  question: wa-q3
-  date: 2026-07-13
-  response: |
-    Science literacy is about more than memorizing facts. Students should understand how the scientific process works, how to evaluate evidence, think critically and distinguish credible information from opinion or misinformation. Those skills will serve them well regardless of the career they choose.
-
-    I support strong science standards that prepare students for college, the trades and technical careers while recognizing that science continues to evolve as new discoveries are made. Education should encourage curiosity, critical thinking and respectful discussion rather than teaching students what to think.
-
-    I also believe students benefit from hands on learning and partnerships with local industries, agriculture, healthcare and research organizations. Connecting classroom science to real world applications helps students understand its value and exposes them to career opportunities available here in Washington.
-
-    Our goal should be to graduate students who are scientifically literate, able to think independently and prepared to solve the challenges of the future.
-
-    KEYWORDS: Think, distinguish, skills, curiosity, value
-
-- candidate_first_name: Don
-  candidate_last_name: Myers
-  state: wa
-  race: State House of Representatives
-  district: 13
-  party: Republican
-  question: wa-q4
-  date: 2026-07-13
-  response: |
-    Reducing wildfire risk begins with healthier forests. I support expanding managed commercial thinning where it supports forest health goals, because it allows the private sector to help remove excess fuels while reducing costs to taxpayers. Research shows that thinning is most effective when combined with slash treatment or prescribed fire, so management plans should use the right tools for each landscape. Washington should also ensure local fire districts have the resources they need and continue coordinating with federal, tribal and local land managers. The goal is healthier forests, safer communities and a more resilient landscape. 
-
-    KEYWORDS: thinning, reducing, coordinating, healthier, safer.
-
-- candidate_first_name: Don
-  candidate_last_name: Myers
-  state: wa
-  race: State House of Representatives
-  district: 13
-  party: Republican
-  question: wa-q6
-  date: 2026-07-13
-  response: |
-    The Climate Commitment Act affects far more than agriculture. It influences energy prices, transportation costs, manufacturing, and nearly every step in the supply chain. Those costs eventually reach farmers through fuel, fertilizer, equipment, processing and transportation, and they ultimately affect the price families pay at the grocery store.
-
-    I believe the Climate Commitment Act should be regularly reviewed to determine whether it is delivering environmental benefits that justify its economic impacts. Environmental policy should reduce emissions without unnecessarily weakening Washington's competitiveness or increasing the cost of living.
-
-    I support investing in innovation, cleaner technologies and infrastructure that improve efficiency while protecting our environment. If we can reduce emissions through better technology and smarter investments, we can achieve lasting environmental progress without placing unnecessary burdens on the families, businesses and agricultural producers that drive our economy.
-
-    Protecting our environment and maintaining a strong economy should not be competing goals. Good policy should accomplish both.
-
-    KEYWORDS: reviewed, delivering, efficiency, economy
-
-- candidate_first_name: Adam
-  candidate_last_name: Arafat
-  state: wa
-  race: US House of Representatives
-  district: 10 
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-08
-  response: |
-    I support AI innovation with enforceable public-interest rules: privacy by design, independent audits for high-risk systems, protection from algorithmic discrimination, cybersecurity standards, and transparency when government uses automated tools. Public agencies should be able to use analytics, but decisions affecting benefits, housing, health care, education, policing, or employment must remain explainable and appealable to a human.
-
-    For data centers, I support a permitting framework that measures total water, land, grid, and ratepayer impacts before approval; requires clean-energy procurement and waste-heat/water-efficiency plans; and prevents local families from subsidizing private utility loads. Evidence should come from state utility data, grid-capacity modeling, water-resource assessments, lifecycle emissions analysis, labor/community impact review, and peer-reviewed AI risk research. Governing should be data-driven: define metrics up front, publish results, and adjust policy when evidence shows harm or underperformance. 
-
-    KEYWORDS: accountability, clean energy, data governance
-
-- candidate_first_name: Adam
-  candidate_last_name: Arafat
-  state: wa
-  race: US House of Representatives
-  district: 10 
-  party: Democratic
-  question: wa-q2
-  date: 2026-07-08
-  response: |
-    My top priorities are climate resilience, clean water, salmon and habitat recovery, environmental health in overburdened communities, and practical decarbonization that lowers household costs. Funding should go first to projects with measurable public benefits: reduced flood and wildfire risk, cleaner air and water, restored habitat connectivity, lower energy bills, and stronger local jobs.
-
-    I would use a transparent scoring system for environmental investments: scientific risk, community need, cost-effectiveness, long-term maintenance, tribal consultation, environmental justice impact, and measurable outcomes. Washington has world-class universities, tribes, ports, utilities, and local agencies; federal funding should help them build shared data systems so decisions are based on monitoring rather than politics. I support independent evaluation after funding is awarded so programs that work can scale and programs that miss targets can be fixed. 
-
-    KEYWORDS: resilience, environmental justice, measurable outcomes
-
-- candidate_first_name: Adam
-  candidate_last_name: Arafat
-  state: wa
-  race: US House of Representatives
-  district: 10 
-  party: Democratic
-  question: wa-q3
-  date: 2026-07-08
-  response: |
-    Science literacy is uneven, and too often students experience science as memorization instead of a way to ask questions, test claims, and solve real problems. K-12 standards should strengthen hands-on investigation, data literacy, statistics, climate and environmental science, health science, computer science, media literacy, and the ability to distinguish credible evidence from misinformation.
-    
-    Students should see science connected to their communities: water quality, wildfire smoke, fisheries, energy, public health, AI, and local infrastructure. I support funding teacher training, lab materials, outdoor and career-connected learning, partnerships with colleges and tribal/local experts, and paid pathways into STEM for students who have been left out. Public understanding grows when science is not treated as distant authority, but as a transparent civic tool: here is the evidence, here are the uncertainties, here is how we test whether a policy is working.
-
-    KEYWORDS: data literacy, STEM access, civic science
-
-- candidate_first_name: Adam
-  candidate_last_name: Arafat
-  state: wa
-  race: US House of Representatives
-  district: 10 
-  party: Democratic
-  question: wa-q4
-  date: 2026-07-08
-  response: |
-    Fire policy should be built around prevention, preparedness, and measurable risk reduction. I support more funding for forest health, prescribed and cultural burning where appropriate, defensible-space assistance, home hardening, evacuation planning, smoke-health protections, and year-round local fire capacity. Federal policy should respect tribal ecological knowledge and pair it with modern modeling, remote sensing, weather data, and community risk maps.
-
-    I would prioritize analytics that identify which investments reduce risk fastest: fuel treatments near communities, grid-hardening, road access, emergency communications, and support for vulnerable residents. We also need better worker protections for firefighters and outdoor workers exposed to smoke and heat. Climate change is lengthening fire seasons, so treating fires as isolated emergencies is no longer enough. We need a public dashboard of risk, projects funded, acres treated, response times, smoke impacts, and post-fire recovery outcomes.
-
-    KEYWORDS: prevention, resilience, risk analytics
-
-- candidate_first_name: Adam
-  candidate_last_name: Arafat
-  state: wa
-  race: US House of Representatives
-  district: 10 
-  party: Democratic
-  question: wa-q5
-  date: 2026-07-08
-  response: |
-    I would prioritize sustained monitoring and restoration for Puget Sound, the coast, and working waterfront communities. That means funding ocean acidification and temperature monitoring, harmful algal bloom detection, salmon recovery, eelgrass and kelp restoration, culvert and habitat improvements, stormwater controls, and science-based fisheries management that protects both ecosystems and livelihoods.
-
-    Policy should be co-designed with tribes, commercial and recreational fishers, shellfish growers, scientists, and coastal communities. We need real-time data systems, long-term ecological baselines, and community adaptation funding for changing stocks, port infrastructure, seafood safety, and workforce transitions. I support using federal resources to connect NOAA, USGS, universities, tribes, and local agencies so decisions are faster and more transparent. The standard should be adaptive management: monitor conditions, publish the data, set harvest and habitat policy based on evidence, and revise quickly when the ecosystem changes.
-
-    KEYWORDS: monitoring, adaptation, ecosystem recovery
-
-- candidate_first_name: John
-  candidate_last_name: Bielka
-  state: wa
-  race: State House of Representatives
-  district: 31
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-08
-  response: |
-    I support AI innovation, but data centers should not receive government grants or subsidies. These are large private businesses, and residents should not pay higher electrical rates so data centers can get cheap power. They need to pay their own power costs and the full cost of transmission, water, roads, emergency services, and other infrastructure needed to serve them.
-
-    Cooling must be addressed up front. I would require clear plans for water use, heat management, and conservation, including closed-loop cooling, dry cooling where feasible, recycled or reclaimed water, waste-heat reuse, and limits on using drinking water or stressing local aquifers.
-
-    I am also not endorsing the use of farmland for data centers. There are better options, including industrial land, brownfields, underused commercial sites, and locations near existing substations and transmission.
-
-    On AI, I support practical use in government, education, and permitting with human oversight, privacy, cybersecurity, and accountability. I am open to realistic electrification options, including small modular reactors if they are safe, cost-effective, and properly regulated.
-
-    KEYWORDS: accountability, infrastructure, affordability
-
-- candidate_first_name: John
-  candidate_last_name: Bielka
-  state: wa
-  race: State House of Representatives
-  district: 31
-  party: Democratic
-  question: wa-q2
-  date: 2026-07-08
-  response: |
-    My top environmental funding priorities are practical projects that reduce real risks for communities: flood control, stormwater improvements, culvert replacement, fish passage, drinking water protection, tree planting, forest health, wildfire prevention, and energy efficiency or electrification where it lowers long-term costs. In the 31st District, flood control and stormwater are not abstract environmental issues; they affect homes, farms, roads, bridges, utilities, and public safety.
-
-    I would use Climate Commitment Act funds for visible projects that protect people and improve the environment, not just studies that sit on a shelf. I also support applied research on water quality, salmon recovery, PFAS and emerging contaminants, heat islands, grid reliability, and cost-effective emissions reduction.
-
-    To set priorities, I would look at evidence, risk reduction, cost-benefit, project readiness, long-term maintenance, and whether funding helps small cities and rural communities that lack grant-writing capacity. Good environmental stewardship means measurable results: cleaner water, safer communities, healthier habitat, stronger infrastructure, and lower costs over time.
-
-    KEYWORDS: flood control, stewardship, accountability
-
-- candidate_first_name: John
-  candidate_last_name: Bielka
-  state: wa
-  race: State House of Representatives
-  district: 31
-  party: Democratic
-  question: wa-q3
-  date: 2026-07-08
-  response: |
-    Science literacy is too important to be treated as memorizing facts for a test. I have a civil engineering degree, and I believe science is important because it affects the roads we drive on, the water we drink, the bridges we cross, the energy we use, and the health decisions families make every day. Students need to understand evidence, data, cause and effect, uncertainty, and how science applies to real life.
-
-    As a CTE advisor for Chief Leschi Schools, I have seen how students engage when learning connects to careers, trades, technology, infrastructure, natural resources, health care, and the problems they see in their own communities.
-
-    K-12 standards should keep strong core science, but add more hands-on learning, lab work, engineering, environmental science, agriculture, energy, and data analysis. Students should learn how to read charts, question sources, understand risk, and separate evidence from opinion.
-
-    The goal is not to turn every student into a scientist. The goal is to help every student become a better citizen, worker, voter, and problem-solver.
-
-    KEYWORDS: CTE, evidence, problem-solving
-
-- candidate_first_name: John
-  candidate_last_name: Bielka
-  state: wa
-  race: State House of Representatives
-  district: 31
-  party: Democratic
-  question: wa-q4
-  date: 2026-07-08
-  response: |
-    I would use Climate Commitment Act money for fire risk reduction the same way I would use it for flood control: practical projects that reduce danger before the disaster happens. For example, CCA funds should help pay for fuel breaks around high-risk communities and evacuation routes, including forest thinning, brush removal, prescribed burning where appropriate, and defensible-space grants for homeowners, farms, tribes, and small cities.
-
-    I would also use CCA funds to harden power corridors by removing hazardous vegetation, improving utility access roads, upgrading lines where justified, and reducing the chance that electrical infrastructure starts or worsens a fire. Another practical use is improving rural water supply for firefighters, including cisterns, hydrants, pump stations, and access points.
-
-    Fire management should not just be studies and reports. Research is useful when it leads to action. The state should help local fire districts, counties, tribes, utilities, landowners, and communities do the work before fires start. That protects homes, forests, watersheds, roads, and firefighters.
-
-    KEYWORDS: prevention, CCA, resilience
-
-- candidate_first_name: John
-  candidate_last_name: Bielka
-  state: wa
-  race: State House of Representatives
-  district: 31
-  party: Democratic
-  question: wa-q5
-  date: 2026-07-08
-  response: |
-    Washington should fund fisheries work that produces measurable results. Specific examples include replacing fish-blocking culverts on salmon streams, reconnecting side channels and floodplains on the Puyallup, White, and Carbon River systems, planting riparian trees to cool water, and retrofitting urban stormwater outfalls with treatment systems before runoff reaches creeks and Puget Sound.
-
-    I would also prioritize wastewater upgrades where nutrients, temperature, or contaminants affect fish and shellfish habitat. Scientific monitoring should include stream temperature sensors, salmon return counts, ocean acidification buoys, dissolved oxygen testing, shellfish health monitoring, forage fish surveys, and eelgrass mapping. Those are the types of data that help managers act early instead of guessing after damage is done.
-
-    For communities, I would support grants and technical help for tribes, ports, shellfish growers, fishing families, farmers, and small cities to adapt to closures, habitat changes, flooding, and warmer water. Hatcheries have a role, but they must be managed carefully and based on science.
-
-    KEYWORDS: habitat, monitoring, accountability
-
-- candidate_first_name: Michael
-  candidate_last_name: McGarr
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-08
-  response: |
-    AI will become a world-changing phenomenon, and America must be a contender in its development. Data centers are part of that, and their placement should be up to the states and communities where their impact will be felt the most. The federal government's role should be to ensure the centers meet operational and environmental standards (so states won't race to the bottom to attract them). One key source has been the Washington state "Data Center Workgroup: Preliminary Report.
-
-    KEYWORDS: humanity; environment; responsibility
-
-- candidate_first_name: Michael
-  candidate_last_name: McGarr
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: Democratic
-  question: wa-q2
-  date: 2026-07-08
-  response: |
-    Funding for increased forest fire fighting; funding for renewable energy; funding for PFAS removal and remediation. 
-  
-    KEYWORDS: Climate; Energy; PFAS
-
-- candidate_first_name: Michael
-  candidate_last_name: McGarr
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: Democratic
-  question: wa-q3
-  date: 2026-07-08
-  response: |
-    I don't have children, so I don't have an informed opinion on today's education, but I believe very strongly that science is a key aspect of humanity's development, both past and future, and I will do everything I can to support its being taught in K-12.
-
-- candidate_first_name: Michael
-  candidate_last_name: McGarr
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: Democratic
-  question: wa-q4
-  date: 2026-07-08
-  response: |
-    Fire damage may be local, but its causes and effects can be felt halfway across the country, so the federal government must play a role in helping with managing the risk. As for which policies those would entail, I admit ignorance, but I would definitely consult with forest management experts both private and public before proposing any laws.” 
-
-- candidate_first_name: Michael
-  candidate_last_name: McGarr
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: Democratic
-  question: wa-q6
-  date: 2026-07-08
-  response: |
-    I haven't studied this issue in depth, but I believe farmers and teachers are the two most important people in any society, and we should do all we can to support them. In this case, while I approve of the goal of reducing our carbon output, farming is a crucial segment of our society, so perhaps we could give them exemptions to the act, or subsidies to use in a "carbon trading" market.
-
-    KEYWORDS: exemptions, carbon trading
-
-- candidate_first_name: Brian
-  candidate_last_name: O'Gorman
-  state: wa
-  race: US House of Representatives
-  district: 6
-  party: No Party Preference
-  question: wa-q1
-  date: 2026-07-11
-  response: |
-    AI will also raise costs of food due to loss of arable farmland and drive wildlife away.  These rising power, water, and food costs will coincide with a significant loss in jobs.  The AI professionals themselves estimate a 10 to 100 percent chance of AI causing our destruction with most estimates falling between 10 and 70 percent (Sources:   Geoffrey Hinton, Daniel Kokotajlo, Dario Amodei, Elon Musk, Roman Yampolski, etc.) I believe in evidence based practices and effective training protocols. Two separate AI’s have already attempted to kill a mock executive and SWAT its building.  The risk does not justify the reward.  Nuclear weapons aren’t the great filter.  AI is.  The “AI Race” is a manufactured justification for throwing tax dollars into a contest to see who destroys the world first.  Cyber-public health is at an all time low because of domestic individuals that are “vibe coding” with AI to cause harm.  This is unacceptable.  
-  
-    KEYWORDS: Bad.  Bad.  Bad.  
-
-- candidate_first_name: Brian
-  candidate_last_name: O'Gorman
-  state: wa
-  race: US House of Representatives
-  district: 6
-  party: No Party Preference
-  question: wa-q2
-  date: 2026-07-11
-  response: |
-    Earth is our only home.  In every doomsday movie, no one listens to the scientists and that ends up biting everyone in the ass. These movies are art imitating life.  We need to change our policies to follow the advice of peer reviewed data.  
-
-    KEYWORDS: Peer reviewed data
-
-- candidate_first_name: Brian
-  candidate_last_name: O'Gorman
-  state: wa
-  race: US House of Representatives
-  district: 6
-  party: No Party Preference
-  question: wa-q3
-  date: 2026-07-11
-  response: |
-    I was educated by public schools that, in the original district charter, declared that their purpose was to teach children to be factory workers.  I have taken college courses but the military interfered with completion.  To truly fix science in K-12 schools, we need to stop teaching science as a collection of static facts to be memorized for a test.  We need to start teaching science as a method to observe patterns in reality.  Math is the core of science and it is also the bottleneck.  Reading is the decoding of science to evaluate evidence critically.  I would champion adding Arts as painting, music, and drama because engineering requires innovation.  Our goal is to maximize student success via multi-modal learning styles.  
-
-    KEYWORDS: Multi-Modal, STEAM, Fundamentals
-
-- candidate_first_name: Brian
-  candidate_last_name: O'Gorman
-  state: wa
-  race: US House of Representatives
-  district: 6
-  party: No Party Preference
-  question: wa-q4
-  date: 2026-07-11
-  response: |
-    Just as in any biome, the relationship between flora and fauna is interdependent.  To strengthen this relationship, we need to focus on practical ways that we can actually affect a positive outcome. This includes:  Ground our actions in forest and environmental science.  Foster science and public safety literacy within our communities.  Secure stable year round funding for our response teams.  Recognize that our communities and our ecosystems thrive or die together.  
-
-    KEYWORDS: Forestry Environmental Science Climate Science Funding
-
-- candidate_first_name: Brian
-  candidate_last_name: O'Gorman
-  state: wa
-  race: US House of Representatives
-  district: 6
-  party: No Party Preference
-  question: wa-q5
-  date: 2026-07-11
-  response: |
-    This requires a multi-disciplinary task force made up of climate scientists, marine biologists, commercial fishermen, and tribal leaders to name a few.  Monitoring will be integral to any path forward.  Because we aren’t just talking about the economy, but also about local food sources required for survival , transparency will be necessary to negate the political pushback.  
-
-    KEYWORDS: Multi-disciplinary, Monitoring, Transparency 
 
 - candidate_first_name: Mary
   candidate_last_name: Anito
@@ -910,111 +387,6 @@
     Beyond culvert removal, I will continue supporting the Washington State Department of Fish and Wildlife’s work with tribes, the federal government, and other stakeholders to adapt and support our natural resources. As our environment continues to change, I am committed to advancing policies to preserve Washington's ecosystem for future generations.
 
     KEYWORDS: Recovery Conservation Collaboration
-    
-- candidate_first_name: Benjamin
-  candidate_last_name: Kincaid
-  state: wa
-  race: US House of Representatives
-  district: 1
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-14
-  response: |
-    Some politicians want to ban AI data centers. That is a bumper sticker not a policy. The same reflex that gave us “defund the police.” It sounds tough and solves nothing. We need AI data centers. They are critical infrastructure for our economy, national security and the technology millions of people rely on every day. The answer is not to ban them. It is to regulate the real problems and hold builders to a high standard.
-
-    Every legitimate concern has a solution we can require. Cooling does not have to drain local water. Closed loop systems can run with almost no operational water use. Facilities can be sited away from homes so noise is not a factor. And they do not have to strain the public grid or raise your utility bills . They can generate their own power. Meta’s new data center in Alberta is a useful model of that approach. Self generated power, closed loop cooling and remote industrial siting.
-
-    I would rather write smart rules that get this right than chase a slogan that sends the jobs and investment somewhere else.
-
-
-- candidate_first_name: Shaena
-  candidate_last_name: Garberich
-  state: wa
-  race: State House of Representatives
-  district: 35
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-15
-  response: |
-    Artificial intelligence has enormous potential to improve healthcare, education, public services, agriculture, and economic opportunity. I support responsible innovation that allows Washington to remain a leader in technology while ensuring communities are protected.
-
-    Data centers should be evaluated based on their long-term impacts on local communities, including electricity demand, water use, land use, and economic benefits. Projects should be transparent, engage local communities early, and demonstrate responsible resource management without shifting unreasonable costs onto ratepayers. I support encouraging energy efficiency, water conservation, and infrastructure planning that strengthens—not strains—our electric grid.
-
-    I also believe AI should complement human decision-making, not replace accountability. As AI becomes more common in government and public services, transparency, privacy protections, cyber security, and clear human oversight are essential. Public trust depends on people understanding when AI is being used and having meaningful avenues for review and accountability.
-
-    My perspective is informed by reports from the National Academies of Sciences, Engineering, and Medicine on AI and data center impacts, guidance from the National Institute of Standards and Technology (NIST) on trustworthy AI, and research on energy, water, and infrastructure planning, alongside conversations with scientists, community members, and technology professionals.
-        
-    KEYWORDS: Responsible Innovation; Transparency; Sustainability
-
-- candidate_first_name: Shaena
-  candidate_last_name: Garberich
-  state: wa
-  race: State House of Representatives
-  district: 35
-  party: Democratic
-  question: wa-q2
-  date: 2026-07-15
-  response: |
-    My funding priorities would focus on projects that protect both our natural resources and the communities that depend on them. I support investments in clean water, salmon and habitat restoration, forest health and wildfire resilience, climate resilience, and research that helps Washington prepare for future environmental challenges.
-
-    When setting funding priorities, I believe decisions should be guided by the best available scientific evidence, measurable outcomes, and meaningful input from local communities, Tribal Nations, researchers, landowners, and industry partners. Limited public resources should be invested where they will have the greatest long-term environmental, economic, and public health benefits.
-
-    As a legislator, I would support research that improves our understanding of changing environmental conditions while ensuring scientific findings are translated into practical solutions for communities across Washington, including rural areas. Environmental stewardship is most effective when science, collaboration, and responsible fiscal management work together to protect our natural resources for future generations.
-
-    KEYWORDS: Evidence-Based Decision Making; Environmental Stewardship; Collaboration
-
-- candidate_first_name: Shaena
-  candidate_last_name: Garberich
-  state: wa
-  race: State House of Representatives
-  district: 35
-  party: Democratic
-  question: wa-q3
-  date: 2026-07-15
-  response: |
-    Science literacy is about more than memorizing facts. It is about developing curiosity, critical thinking, and the ability to evaluate evidence. In today's world, where information is readily available and technology is rapidly evolving, these skills are essential for every student.
-
-    I support K–12 education that emphasizes hands-on learning, scientific inquiry, problem-solving, and media literacy. Students should learn not only what scientific discoveries have been made, but also how science works—asking questions, testing ideas, evaluating evidence, and revising conclusions when new information becomes available. These skills help students make informed decisions throughout their lives.
-
-    Strong science education also depends on supporting educators, maintaining up-to-date instructional materials, and creating partnerships with universities, Tribal Nations, community organizations, and local industries that provide students with real-world learning opportunities.
-
-    My perspective is informed by research on STEM education, conversations with educators and community members, and the understanding that effective public policy should be guided by the best available evidence while preparing students for an increasingly complex and technology-driven world.
-    
-    KEYWORDS: Science Literacy; Critical Thinking; Evidence-Based Education
-
-- candidate_first_name: Shaena
-  candidate_last_name: Garberich
-  state: wa
-  race: State House of Representatives
-  district: 35
-  party: Democratic
-  question: wa-q4
-  date: 2026-07-15
-  response: |
-    The Bear Gulch Fire highlighted the growing wildfire risks facing communities across Washington, including areas that have not historically experienced large fires. We need a balanced approach that focuses on prevention, preparedness, response, and recovery.
-
-    I support investing in forest health through responsible fuel reduction, prescribed burns where appropriate, and partnerships with tribes, local governments, and private landowners. We must ensure firefighters and first responders have the training, equipment, and staffing they need while strengthening emergency communication systems and evacuation planning for rural communities.
-
-    The state should also help homeowners and local communities reduce wildfire risk through education, defensible space programs, and grants for mitigation projects. As climate conditions continue to change, we must make long-term investments that protect lives, property, natural resources, and local economies while ensuring communities can recover quickly after disasters.
-    
-    KEYWORDS: Wildfire prevention Forest health Responsible forest management Fuel reduction Prescribed burns Community wildfire protection Defensible space Firewise communities Emergency preparedness Evacuation planning First responder support Firefighter staffing Wildland firefighting resources Mutual aid Rural resilience Tribal partnerships Local government collaboration Private landowner partnerships Watershed protection Habitat restoration Climate resilience Disaster recovery Public safety Emergency communications Infrastructure protection Community education Wildfire mitigation grants Home hardening Sustainable forestry Science-based land management
-
-- candidate_first_name: Shaena
-  candidate_last_name: Garberich
-  state: wa
-  race: State House of Representatives
-  district: 35
-  party: Democratic
-  question: wa-q5
-  date: 2026-07-15
-  response: |
-    Washington's fisheries are essential to our environment, economy, Tribal treaty rights, and coastal communities. As changing ocean conditions continue to affect fish populations and marine ecosystems, we must make decisions based on sound science and collaboration.
-
-    I support continued investment in scientific monitoring, habitat restoration, salmon recovery, and water quality improvements. We should strengthen partnerships with Tribes, local governments, commercial and recreational fishers, researchers, and conservation organizations to develop sustainable management strategies.
-
-    I also support funding that helps coastal communities adapt to changing conditions through economic diversification, workforce support, and infrastructure improvements. Protecting fisheries requires balancing conservation with the long-term health of the communities and industries that depend on them for their livelihoods.
-    
-    KEYWORDS: Collaboration, Science and Stewardship
 
 - candidate_first_name: Michael
   candidate_last_name: Rosen
@@ -1192,116 +564,6 @@
     
     KEYWORDS: Mitigation, protection, native sovereignty
 
-- candidate_first_name: Jerrod
-  candidate_last_name: Sessler
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q1
-  date: 2026-07-13
-  response: |
-    There is much to be discussed and considered as we adventure down this AI pathway. First, we need to make sure AI is going to continue to ensure human security which I've already written a bill along with a team of experts worldwide. That info can be found at www.ethicalAIAct.com. Additionally, we need to ensure that the local resources used by AI data centers does not, in any way, adversely affect citizens - specifically but not limited to the relationship with energy or cost of energy.
-    
-- candidate_first_name: Jerrod
-  candidate_last_name: Sessler
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q2
-  date: 2026-07-13
-  response: |
-    Build more hydro dams, SMR's, and truly green energy generation that ensures low cost solutions for Washingtonians. 
-
-- candidate_first_name: Jerrod
-  candidate_last_name: Sessler
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q3
-  date: 2026-07-13
-  response: |
-    Washington state education system is in poor shape overall mainly due to indoctrination driving laws out of Olympia and horrible leadership at OSPI. We would be much better of if we pushed ALL the responsibility for running the local school districts down to the locally elected school boards who are filled with people that are completely capable and DO NOT NEED federal or state overreach to educate their local kids. 
-
-- candidate_first_name: Jerrod
-  candidate_last_name: Sessler
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q4
-  date: 2026-07-13
-  response: |
-    Respect the multi-use project as a part of the public lands act specifically by increasing the use of public land as range ground for cattle. Stop spraying our people and our land with chemicals that change the climate by climate changers and activists who seem to have zero regard or respect for the God who created this planet and atmosphere or the perfectly balanced structure that He build for us to live within. We also need to harvest trees for building projects and replant those areas.     
-
-- candidate_first_name: Jerrod
-  candidate_last_name: Sessler
-  state: wa
-  race: US House of Representatives
-  district: 4
-  party: Republican
-  question: wa-q6
-  date: 2026-07-13
-  response: |
-    Get rid of ALL the regulations that affect our farmers, ranchers, and dairymen starting with the pure lunacy that is the Climate Commitment Act. Only a complete and utter moron believes that more carbon in the atmosphere is a bad thing. We are at record lows in the planet history currently. We should be working hard to produce MORE carbon.
-
-- candidate_first_name: Aiden
-  candidate_last_name: Hamilton
-  state: wa
-  race: State House of Representatives
-  district: 24
-  party: Republican
-  question: wa-q1
-  date: 2026-07-25
-  response: |
-    I have not seen the benefit to AI date centers for the American public so i would be opposed to them as it stands. 
-    
-- candidate_first_name: Aiden
-  candidate_last_name: Hamilton
-  state: wa
-  race: State House of Representatives
-  district: 24
-  party: Republican
-  question: wa-q2
-  date: 2026-07-25
-  response: |
-    I want to make sure that the national parks in Washington state and on the Olympic Peninsula are protected. Right now our parks are in danger by wildfires that are caused from a lack of care of our natural resources. I would fight so that we maintain our natural resources instead of leaving them to be burned up by wildfires.  
-    
-- candidate_first_name: Aiden
-  candidate_last_name: Hamilton
-  state: wa
-  race: State House of Representatives
-  district: 24
-  party: Republican
-  question: wa-q3
-  date: 2026-07-25
-  response: |
-    As it stands Washington students are still reeling form the pandemic. Two years of learning loss effects everyone and politicians want to forget it ever happened. I would fight to get our students back to pre covid academic results and better.
-    
-- candidate_first_name: Aiden
-  candidate_last_name: Hamilton
-  state: wa
-  race: State House of Representatives
-  district: 24
-  party: Republican
-  question: wa-q4
-  date: 2026-07-25
-  response: |
-    When it comes to fire and risk management it is no secret that when we leave our forests and do not take care of them we leave them to burn up. If we took care of our forests and cleaned them, taking out dead trees and other dead plants we would leave behind less fuel for a wildfire.
-  
-- candidate_first_name: Aiden
-  candidate_last_name: Hamilton
-  state: wa
-  race: State House of Representatives
-  district: 24
-  party: Republican
-  question: wa-q5
-  date: 2026-07-25
-  response: |
-    This has been a question that has not come up to me or any of my opponents in any of our public forums. Because of that I cant say I'm as familiar with the issue as others. I would work with our state leaders as well as Trible leaders because both of them are familiar with the challenges and would be able to inform me so I could help craft a legislative framework that can help create a path forward.
-
 - candidate_first_name: Stacy
   candidate_last_name: Willoughby
   state: wa
@@ -1383,71 +645,6 @@
 
     Communities that depend on these waters need help adapting too. I would back state investment that helps fishing families and coastal towns weather the shifts already underway. Get the science right, keep the Tribes central, and fund the work.
 
-- candidate_first_name: Andrew
-  candidate_last_name: Bartleson
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: No Party Preference
-  question: wa-q1
-  date: 2026-07-28
-  response: |
-    AI funding & subsidizing  is not the responsibility of the people. Residential water consumption is less than 8% of the total, yet the people are continually told to cut their consumption, while government enables water siphoning data centers. They need to pay for & develop water treatment & recycling facilities at their own cost. The people have plenty of energy, the data centers/AI need greater capacity, that is their responsibility to fund & obtain. Perhaps they should be persuaded to find creative means of doing so that will limit their environmental impact. The internet is the greatest repository of information in human history, unfortunately malign forces have used it to distort reality and manipulate fact/fiction, AI will further erode public trust in factual information as corporations pay to have their info gathered & summarized by AI.
-    
-    KEYWORDS: Regulation & oversight! 
-
-- candidate_first_name: Andrew
-  candidate_last_name: Bartleson
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: No Party Preference
-  question: wa-q2
-  date: 2026-07-28
-  response: |
-    First off, we have to reframe the messaging. We always direct environmental responsibility at the individual. Yes, we should all do our part, but the greatest damage was done by large corporations. Disincentivizing their continued degradation of the environment must be prioritized. A fully funded EPA that is an actual protector of the environment. Fund research projects and education with the $250+ billion spent on corporate welfare each year. We have all the funding necessary to help the next generation clean up the mess they were left, but first our government must begin looking out for the people’s interest, not corporate interests! Our Supreme Court just accountability for Bayer/Montesano poisoning of countless people on the basis the EPA didn’t require them to warn of cancer causing agents in Roundup. What the EPA required should be irrelevant; Bayer/Montesano being aware is the pertinent fact!
-    
-    KEYWORDS: Corporations pollute with relative impunity!
-    
-- candidate_first_name: Andrew
-  candidate_last_name: Bartleson
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: No Party Preference
-  question: wa-q3
-  date: 2026-07-28
-  response: |
-    The state of science literacy is sad. Chemistry is amazing. The way every known and undiscovered element lines up in the periodic table of elements, molarity, covalent bonds, half-life, osmosis, sublimation, all that stuff is so cool when you understand it. Unfortunately the math skills of young folk is not up to par, and you can’t keep up in science class w/o adequate math skills. Labs make people of all ages interested in science. We have a $7 trillion federal budget, we can fund science in schools! Again, $250 billion in corporate welfare is enough to cover the undergraduate tuition of every student at a public university ($150 billion) and there’d be $100 billion left over that could be used to double what is allocated to K-12 education. An educated society benefits all, including the corporations needing skilled workers.
-    
-    KEYWORDS: Fund education, not corporate welfare!
-
-- candidate_first_name: Andrew
-  candidate_last_name: Bartleson
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: No Party Preference
-  question: wa-q4
-  date: 2026-07-28
-  response: |
-    The environmental changes we’re seeing causes stress on our forests, which leads to greater susceptibility to damage by increasing amounts of pests. We’ve allowed invasive plants to run roughshod. The amount of dead dry plant matter is increasing. Prescribed controlled burns facilitate the cycle of life & reduce the likelihood of catastrophic fires. We need to research which trees/vegetation will be unable to thrive under current conditions, and adapt reforestation efforts accordingly. Utilities must find ways to reduce how susceptible their power lines are to causing fires during windstorms. 
-    
-    KEYWORDS: Kindling fuels forest fires.
-
-- candidate_first_name: Andrew
-  candidate_last_name: Bartleson
-  state: wa
-  race: US House of Representatives
-  district: 5
-  party: No Party Preference
-  question: wa-q6
-  date: 2026-07-28
-  response: |
-    Agricultural emissions were excluded. So the burden would appear to primarily fall on small and midsize farms, since they don’t have purchasing power to purchase wholesale and benefit from the exclusion. When buying retail, the costs are always passed along to the consumer. Assisting in the formation of coops that enable smaller farms to obtain the same benefits of purchasing power is a start. Writing legislation in ways that are not designed, explicitly or implicitly, to benefit the largest 20% of agricultural operations is the only way to begin adjusting the playing field and easing the stress on family farms. The farmers need to do their part by ensuring ag organization and lobbying is conducted on their behalf, rather than the benefit of largest farms. 
-    
-    KEYWORDS: Top 20% of farms receive 80% of the subsidies.
-
 - candidate_first_name: Jillian
   candidate_last_name: England
   state: wa
@@ -1515,99 +712,6 @@
     
     KEYWORDS: International treaties poaching factory fishing creation protection noise offshore “wind farm prohibitions”
 
-- candidate_first_name: Ira
-  candidate_last_name: McBee
-  state: wa
-  race: State Senate
-  district: 32
-  party: Republican
-  question: wa-q1
-  date: 2026-07-29
-  response: |
-    Artificial intelligence is one of the most significant technologies of our time, and Washington has a real opportunity to lead in both innovation and responsible governance. I support policies that encourage AI research, entrepreneurship, and high-paying jobs while protecting privacy, intellectual property, public safety, and critical infrastructure.
-
-    Data centers are an important part of that future, but growth should pay its own way. Utilities in Grant, Douglas, and Chelan counties have already flagged rising demand from server farms, and ratepayers deserve to know how those costs are allocated before bills rise further. I support transparent, publicly disclosed agreements between utilities and data center operators so communities can understand the costs, benefits, and tradeoffs before approving new capacity. Infrastructure costs should be borne by those creating the demand, not shifted onto residential ratepayers.
-
-    Evidence should guide these decisions, but evidence alone doesn’t determine public policy. Legislators must also weigh constitutional rights, economic tradeoffs, and the long-term interests of Washington families. My approach is simple: welcome innovation, protect taxpayers, and insist that accountability keeps pace with technological change.
-
-    My views are informed by reporting on Washington’s data center growth, utility filings, and conversations with business leaders and constituents, along with a commitment to evidence-based policymaking.
-    
-    KEYWORDS:  innovation, accountability, evidence
-
-- candidate_first_name: Ira
-  candidate_last_name: McBee
-  state: wa
-  race: State Senate
-  district: 32
-  party: Republican
-  question: wa-q2
-  date: 2026-07-29
-  response: |
-    Washington has a responsibility to be a good steward of its natural resources, and stewardship requires accountability. My priority is funding projects that address clear environmental needs, produce measurable results, and make responsible use of taxpayer dollars.
-
-    I would prioritize research and projects that improve water quality, reduce wildfire risk through better forest management, strengthen salmon habitat where outcomes can be measured, improve the resilience of critical infrastructure to natural hazards, and encourage clean technology innovation that can compete on its merits while creating long-term economic opportunities for Washington.
-
-    Good stewardship means listening to the best available evidence, wherever it comes from—scientific research, independent performance data, local land managers, and tribal nations, whose generations of experience with practices such as cultural burning have helped shape healthy landscapes in the Pacific Northwest.
-
-    Evidence should guide these decisions, but it isn’t the only consideration. Legislators must also weigh constitutional rights, economic impacts, and the long-term interests of Washington families. I’d rather fund fewer projects well and prove they work than fund many and hope.
-    
-    KEYWORDS: stewardship, accountability, evidence
-
-- candidate_first_name: Ira
-  candidate_last_name: McBee
-  state: wa
-  race: State Senate
-  district: 32
-  party: Republican
-  question: wa-q3
-  date: 2026-07-29
-  response: |
-    Science literacy is about more than memorizing facts. It’s about learning how to ask good questions, evaluate evidence, understand uncertainty, and change your mind when better evidence emerges. Those skills matter whether a student becomes a scientist, an electrician, a nurse, an entrepreneur, or simply an informed citizen.
-
-    My approach starts with the same principle I bring to every issue: evidence over assumption. Before adding new standards, I’d want to know what’s actually working in our classrooms today. Are students able to evaluate a claim, understand a data set, and recognize the difference between correlation and causation? I’d rather strengthen those foundational skills than simply add more material to cover.
-
-    I’d also like to see science education connect more directly to the real world through hands-on learning and partnerships with universities, research institutions, and local industries. If we’re investing in science education, we should measure whether students are gaining real understanding, not simply checking boxes. The goal is to help students learn how to think critically, not just what to think.
-    
-    KEYWORDS: critical thinking, evidence
-
-- candidate_first_name: Ira
-  candidate_last_name: McBee
-  state: wa
-  race: State Senate
-  district: 32
-  party: Republican
-  question: wa-q4
-  date: 2026-07-29
-  response: |
-    Washington cannot treat wildfire primarily as an emergency-response problem. By the time a major fire is burning, many of the most important decisions should already have been made.
-
-    I support sustained investment in forest thinning, hazardous fuel removal, prescribed burning, defensible-space programs around vulnerable communities, and reliable staffing for early detection and rapid response.
-
-    I also believe Washington should partner more closely with tribal nations. Indigenous communities have stewarded these landscapes for generations through practices such as cultural burning to reduce fuel loads and lower the risk of catastrophic wildfire. That knowledge belongs in the conversation alongside foresters, firefighters, researchers, and local land managers—not apart from it. Good stewardship means listening to the best available evidence, wherever it comes from.
-
-    Finally, I’d expect real accountability for wildfire funding by tracking whether prevention dollars are producing measurable results, not just appropriations that sound good on paper. My goal is to reduce catastrophic wildfire risk before disaster strikes rather than simply become better at responding afterward.
-    
-    KEYWORDS: prevention, stewardship, accountability
-
-- candidate_first_name: Ira
-  candidate_last_name: McBee
-  state: wa
-  race: State Senate
-  district: 32
-  party: Republican
-  question: wa-q5
-  date: 2026-07-29
-  response: |
-    Washington’s fisheries are both an environmental resource and a way of life for many communities. Protecting them requires good science, long-term stewardship, and a willingness to adapt as conditions change.
-
-    I support sustained funding for scientific monitoring of water temperature, ocean acidification, fish populations, and habitat conditions because good policy requires current evidence, not outdated assumptions. We should also measure whether existing monitoring and habitat restoration investments are producing measurable improvements before committing additional funding.
-
-    I believe tribal nations should be central partners in fisheries management. They hold treaty fishing rights and bring generations of knowledge about these waters. That expertise belongs alongside state scientists, commercial and recreational fishermen, conservation organizations, and local communities. The best decisions come from bringing practical experience and scientific research together.
-
-    Communities that depend on Washington’s fisheries should also have practical support as they adapt to changing conditions. Good stewardship means listening to the best available evidence, measuring results, and making adjustments when the evidence supports it.
-    
-    KEYWORDS: stewardship, evidence, partnership
-
 - candidate_first_name: Kim
   candidate_last_name: Harless
   state: wa
@@ -1672,71 +776,6 @@
     Puget Sound and our coast are changing fast. Fish, shellfish, and the fishing communities and Tribes that depend on them are already feeling it. I would prioritize funding salmon and habitat recovery, including removing fish passage barriers and culverts the state is obligated to fix under treaties, and protecting the cold, clean water salmon need as rivers warm. Ocean acidification is a direct threat to our shellfish, and I support sustained scientific monitoring and acting on the recommendations the state has developed to address it. Recovery has to be done in genuine partnership with Tribes, whose treaty fishing rights and co-management authority make them essential leaders, not just stakeholders to check a box. I would also support helping coastal and Sound communities adapt as ecosystems shift. My environmental science background tells me that monitoring and long-term data are not optional. I even did a summer course off campus to study marine ecosystems. The data, quantitative and qualitative, are how we make good decisions and I will protect that funding rather than treat science as expendable when budgets tighten.
 
     KEYWORDS: Tribes, Monitoring, Adaption
-    
-- candidate_first_name: Catherine
-  candidate_last_name: Hildebrand
-  state: wa
-  race: US House of Representatives
-  district: 1
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-30
-  response: |
-    I think we actually need to put a pause on building new AI data centers and slow AI progress until we can do more evidence gathering. I think we need more information about the effects of AI data centers on the environment before we can let them build quickly and cheaply. I think that the potential for AI in future use is great, but I think that right now companies are trying to get their fastest, not necessarily following any kind of evidence for long-term sustainability or success. 
-    
-    KEYWORDS: Slow down. Gather data. Move forward with long-term sustainability and results in mind.
-
-- candidate_first_name: Catherine
-  candidate_last_name: Hildebrand
-  state: wa
-  race: US House of Representatives
-  district: 1
-  party: Democratic
-  question: wa-q2
-  date: 2026-07-30
-  response: |
-    I believe in a refurbishing  and bolstering the national electrical grid, moving the entire nation to 100% renewable energy sources. I also support the construction of a national high-speed railway for both passengers and freight, removing heavy-duty diesel trucks from from our highways, thus reducing congestion and pollution. 
-
-    We need to give more authority to the EPA for enforcing our environmental regulations and protections. I want to bring back funding to NOAA. I believe experts, and I would like to bring experts back into policy making decisions and I would like more scientists to have the funding they need to do their jobs to keep the American people informed on best climate action practices. 
-
-    KEYWORDS: The climate crisis presents an existential threat to us, and we need to combat it with a multifaceted approach.
-
-- candidate_first_name: Catherine
-  candidate_last_name: Hildebrand
-  state: wa
-  race: US House of Representatives
-  district: 1
-  party: Democratic
-  question: wa-q3
-  date: 2026-07-30
-  response: |
-    I think K-12 education standards need to be completely revised because we are facing an all-around literacy crisis, which means children and emerging adults are unable to think critically with information presented to them because they can’t understand any of it. This reaches far beyond science literacy, but affects every part of their education. I support science communicators and believe their work is important, but I do think we need to strengthen the education system so that our leaders of tomorrow aren’t solely reliant on science communicators, but will be able to read a scientific or academic paper and understand it.
-    
-    KEYWORDS: Science literacy in America is a joke, honestly, and we need to do major work to fix it.
-
-- candidate_first_name: Catherine
-  candidate_last_name: Hildebrand
-  state: wa
-  race: US House of Representatives
-  district: 1
-  party: Democratic
-  question: wa-q4
-  date: 2026-07-30
-  response: |
-    First, I think education is a very important tool, and one that we need to be implementing more. I also believe that we should be funding our Forest Ranger service more, not less, and hiring more rangers to patrol and protect our public lands. I also think we should be partnering with local tribal nations in land management practices, and stewardship. I also think we need to increase funding for FEMA so we can be providing faster responses to disasters.
-
-- candidate_first_name: Catherine
-  candidate_last_name: Hildebrand
-  state: wa
-  race: US House of Representatives
-  district: 1
-  party: Democratic
-  question: wa-q5
-  date: 2026-07-30
-  response: |
-    I think the biggest part of this is some of these independent agencies that are intended to provide recommendations on policy are run by CEOs of fishing companies, and few scientists sit on these councils. I think we need more elected positions on these boards as well as dedicated science staff rather than shareholders of the fishing industry making these kinds of recommendations.
-    
-    KEYWORDS: More scientists, fewer CEOs
 
 - candidate_first_name: David
   candidate_last_name: Hackney
@@ -1857,167 +896,520 @@
     Climate change is an issue that is caused by and felt by the whole world. As a state we can do our part by reducing our carbon footprint; but we can’t make the changes all on our own.  I will support reasonable and realistic solutions towards the goal of encouraging use of renewable energy so that the cost of that can become more reasonable and minimize the financial burden. I will also support appropriate policies that assist our farmers and distributors to offset the cost of changing processes to become more environmentally friendly. I support local, sustainable, and thoughtful solutions that will help to protect our climate.
 
     KEYWORDS: Realistic, renewable, sustainable
-    
-- candidate_first_name: Kevin
-  candidate_last_name: Fagan
+
+- candidate_first_name: David
+  candidate_last_name: Anderson
   state: wa
-  race: US House of Representatives
-  district: 5
+  race: State Senate
+  district: 29
   party: Democratic
   question: wa-q1
-  date: 2026-07-31
+  date: 2026-09-17
   response: |
-    We have seen story after story of data centers coming to town. They promise community investment, but so often communities pay the cost while shareholders benefit. Now, it has come to Spokane.
-
-    Avista recently announced a proposed 500 MW data center in Spokane County. This would add electrical load equivalent to 1/3 of Spokane County’s power demand. The process was paused due to significant community pushback, but we need to take a larger look at whether a data center is right for our community at all.
-
-    My position is clear: until developers and utilities prove they can put people first in these projects, I am opposed to them, including this proposed 500 MW data center.
-
-    Our aquifer is already under pressure. Power demand across the West is growing faster than we can build clean generation. We need to conserve and protect these resources, not sell them off to the highest bidder. Our energy and water should go to people first.
-
-    These concerns, along with the experiences of communities across the country, have informed my position. I encourage residents to contact their elected officials and make their voices heard on this vital issue.
+    I will restrict data centers in Washinton. Between the power and water usage, to the noise. They have shown they are more of a community eye sore than something that will bring jobs and prosperity to an area. One resource I used was uchicago.edu. I have also seen interviews with families living near data centers and the constant hum, the higher electricity bills and contamination of the water supply, or the lack of water pressure. Washington residence deserve better. Data centers do not provide good paying jobs, environmental rewards, or income to communities. In Texas and Utah, data centers have been awarded tax breaks. Billionaires do not need tax breaks.
     
-    KEYWORDS: Sustainability; Decarbonization; Stewardship
+    KEYWORDS: High Risk, pollution, community problems
 
-- candidate_first_name: Kevin
-  candidate_last_name: Fagan
+- candidate_first_name: David
+  candidate_last_name: Anderson
   state: wa
-  race: US House of Representatives
-  district: 5
+  race: State Senate
+  district: 29
   party: Democratic
   question: wa-q2
-  date: 2026-07-31
+  date: 2026-09-17
   response: |
-    The Climate Crisis is here. Drought on the Palouse. Wildfires that tear through communities. Wildfire smoke that poisons our families. Energy and home insurance rates skyrocketing. The Climate Crisis is not abstract. It is here and it is devastating the health and affordability of our communities.
-
-    We need to rapidly decarbonize, so we have a livable planet for generations to come.
-
-    My top funding priorities are federal clean energy investments in solar, wind, and batteries that directly lower monthly electricity and heating costs for families across WA-05 and bring federal dollars to the Inland Northwest.
-
-    We must also hold corporate mega-polluters accountable to protect the clean air, clean water, and family farms Eastern Washington relies on.
-
-    It’s time to make corporate polluters pay their fair share, lower costs for our neighbors, and build the future we deserve.
-
-    We need to drastically cut emissions and invest in clean energy to address the Climate Crisis and protect our communities. Federal clean energy investments should support solar, wind, and batteries while lowering utility costs for families. We must protect the clean air, clean water, and family farms Eastern Washington relies on while bringing federal dollars to the Inland Northwest.
+    Top priorities would be to first, re-establish the emissions testing for cars and trucks. We need to remove old smog emitting vehicles off the roads. Second would be to impose harsher punishments for companies polluting our air and water ways.  Lastly, I want to fix the broken levy's and help flood risk areas. 
     
-    KEYWORDS: Sustainability; Decarbonization; Stewardship
+    KEYWORDS: testing, pollution, water ways
 
-- candidate_first_name: Kevin
-  candidate_last_name: Fagan
+- candidate_first_name: David
+  candidate_last_name: Anderson
   state: wa
-  race: US House of Representatives
-  district: 5
+  race: State Senate
+  district: 29
   party: Democratic
   question: wa-q3
-  date: 2026-07-31
+  date: 2026-09-17
   response: |
-    Science literacy is important because scientific issues directly affect people’s health, affordability, communities, and future. The climate crisis demonstrates why the public needs to understand science and how it connects to everyday life. Drought, wildfires, wildfire smoke, rising energy costs, and increasing home insurance rates show that climate change is not abstract; it is already affecting communities. Improving science literacy should help students understand these connections and recognize how scientific developments can shape their lives.
-
-    K-12 education standards should emphasize real-world scientific issues and technologies that students can see in their communities. Students should learn about clean energy, including solar, wind, and batteries, as well as the importance of reducing emissions and protecting clean air, clean water, and family farms. Education should also connect science to affordability and local communities by showing how clean energy investments can lower electricity and heating costs.
-
-    Building a stronger relationship between the public and science also requires students to understand how scientific knowledge can inform decisions about the future. By connecting science education to issues such as climate change, energy, agriculture, healthcare, and community investment, K-12 standards can make science more relevant to students’ lives and help prepare them to understand the challenges facing their communities.
+    Science is currently being attacked by this administration. Putting in doubt all the hard work educated professionals have put in. A major issue with the way science is being presented to kids in school is that it is a secondary education tool like PE or Music. It does not have a current place in core curriculum. Development of an earlier curriculum will reach kids at a younger level and not in JR high or High school when other electives become more of a priority. 
     
-    KEYWORDS: Research; integration; hands-on
+    KEYWORDS: K-12, Core curriculum, younger
 
-- candidate_first_name: Kevin
-  candidate_last_name: Fagan
+- candidate_first_name: David
+  candidate_last_name: Anderson
   state: wa
-  race: US House of Representatives
-  district: 5
+  race: State Senate
+  district: 29
   party: Democratic
   question: wa-q4
-  date: 2026-07-31
+  date: 2026-09-17
   response: |
-    My policies around fire risk management for Washington would focus on protecting public lands, maintaining federal resources, and ensuring communities have the support they need before fires start. Washington is no stranger to forest fires, and as wildfire season approaches, cutting resources that help protect our communities is a risk we cannot afford to take.
-
-    The United States Forest Service plays an essential role in understanding local forests and managing public lands. Closing 57 research stations and consolidating others would hinder the agency’s ability to understand the diversity of local forests and create a severe roadblock in the fight against climate change. These cuts would have adverse impacts on public lands and the communities that depend on the Forest Service to protect lives, property, and local economies.
-
-    Our public lands belong to the American people and should be responsibly managed for recreation, hunting, fishing, and conservation. I would advocate for accountability and access to the resources necessary to protect these lands and the people who depend on them. Our resources are finite and should not be used as a tactic to further a political agenda. Maintaining strong institutions and adequate funding is essential to keeping Washington’s communities, public lands, and natural resources safe.
+    Fire management is a citizen issue as much as a political issue. First, we need to have crews in high-risk areas cleaning out debris and dead logs that will ignite easily. Second, we need strict laws for prosecuting those responsible for causing the fires. Third, we need to prevent fireworks and firearms in heavily wooded areas, with heavy fines being imposed. Lastly we need to have fire planes at the ready for fire season to combat flames quickly.
     
-    KEYWORDS: Funding; prevention; resources
+    KEYWORDS: Rangers, no fireworks, cleaning crews
 
-- candidate_first_name: Kevin
-  candidate_last_name: Fagan
+- candidate_first_name: David
+  candidate_last_name: Anderson
   state: wa
-  race: US House of Representatives
-  district: 5
-  party: Democratic
-  question: wa-q6
-  date: 2026-07-31
-  response: |
-    Farmers are the backbone of the Inland Northwest, and family farms are shuttering at an alarming pace. Our government needs to take immediate action to remedy this and support farmers and agricultural distributors while maintaining Washington’s commitment to environmental sustainability.
-
-    We need to limit corporate control of our farms and provide stability to the commodity market. We should not get into trade wars that create additional challenges for farmers and agricultural distributors. Instead, we need policies that provide stability and support to family farms and the communities that depend on them.
-
-    I also support restoring USDA funding cuts that connect farmers to their local communities. This includes restoring funding for the Local Food for Schools and the Local Food Purchase Assistance Program. These programs help connect farmers to their communities while providing important resources for local food systems.
-
-    Farmers should also have the right to repair their own equipment. The Right to Repair would allow farmers to work on their own equipment, giving them greater control over their farms and reducing barriers to maintaining their operations.
-
-    Supporting family farms requires limiting corporate control, providing stability to commodity markets, restoring USDA funding, protecting the right to repair, and strengthening connections between farmers and their local communities. These policies can help address the challenges facing farmers and agricultural distributors.
-    
-    KEYWORDS: affordability; Right-to-Repair; communities 
-
-- candidate_first_name: Chris
-  candidate_last_name: Bloomquist
-  state: wa
-  race: State House of Representatives
-  district: 32
-  party: Democratic
-  question: wa-q1
-  date: 2026-07-31
-  response: |
-    I believe AI has potential, but it needs much stronger oversight and regulation. I support requiring community consent before new AI data centers are built, and I believe they should use clean energy, upgrade local power infrastructure, and minimize their environmental impacts, including high energy and water use. I support moratoriums on new data centers where appropriate, environmental impact studies, and greater transparency about AI's carbon footprint.
-
-    I also support taxing AI data centers, and to a lesser extent AI users—, with the revenue invested in environmental, scientific, and educational initiatives. I believe big tech companies should be held accountable, prioritize human employment over AI where possible, use local union labor to build AI infrastructure, and keep AI out of schools to protect students' critical thinking and learning. Overall, I support AI development only if it is accompanied by strong safeguards, environmental responsibility, and public accountability.
-    
-- candidate_first_name: Chris
-  candidate_last_name: Bloomquist
-  state: wa
-  race: State House of Representatives
-  district: 32
-  party: Democratic
-  question: wa-q2
-  date: 2026-07-31
-  response: |
-    What are your top funding priorities for environmental projects and research in our state? If you do not have specific priorities, how would you approach setting those priorities to ensure effective environmental stewardship?
- 
-    It starts with what we have done already, the Climate Commitment Act. We had it approved and implemented and had to steal funds from it for other things. I agree with cap and invest and having good incentives for environmental work. Also, I would like to make hiring a priority for the green economy including solar wind and other clean energy sources. This is a good way to put trades people to work. We also need to talk about economic development and environmental justice. What we need is to put people who are being laid off by big tech to work in green jobs such as updating our energy infrastructure. For example, we can put trades people to work updating our sewer system. If we do it right, we have a chance like FDR who invested so much in infrastructure projects. I'd like to see government programs where we incentivize municipalities to update systems for the benefit of society, which will also help with the affordability. This will put people to work and lower costs of utilities.
-
-- candidate_first_name: Chris
-  candidate_last_name: Bloomquist
-  state: wa
-  race: State House of Representatives
-  district: 32
-  party: Democratic
-  question: wa-q3
-  date: 2026-07-31
-  response: |
-    I believe improving science literacy starts with fully funding K–12 education. I also believe civics education is essential because understanding how government works, how to vote, and how public policy is shaped helps students engage with science-informed decision-making.
-
-    I support hands-on, experiential science education that connects students to the natural world. This includes teaching topics like food systems, carbon footprints, and environmental stewardship through community gardens, outdoor learning, overnight nature trips, and trail maintenance. I believe these experiences help students better understand science, build a stronger relationship with nature, and see themselves as part of the environment rather than separate from it.
-    
-- candidate_first_name: Chris
-  candidate_last_name: Bloomquist
-  state: wa
-  race: State House of Representatives
-  district: 32
-  party: Democratic
-  question: wa-q4
-  date: 2026-07-31
-  response: |
-    I believe wildfire policy should be guided by scientific experts, including the Department of Natural Resources (DNR), local fire managers, and Tribal communities with generations of knowledge about fire stewardship. I support investing in better forest management, including reducing hazardous underbrush, expanding wildfire prevention efforts, and ensuring DNR has the staffing and resources needed to respond to longer and more severe fire seasons.
-
-    I also support investing in ecosystem restoration and resilience so landscapes can better recover from wildfire over time. While I am still learning about this issue, I am committed to working with experts to develop evidence-based solutions and ensuring Indigenous voices are included in wildfire management decisions.
-    
-- candidate_first_name: Chris
-  candidate_last_name: Bloomquist
-  state: wa
-  race: State House of Representatives
-  district: 32
+  race: State Senate
+  district: 29
   party: Democratic
   question: wa-q5
-  date: 2026-07-31
+  date: 2026-09-17
   response: |
-    I support rebuilding scientific capacity at agencies like NOAA and ensuring fisheries managers have a strong voice in policymaking. I believe healthy fisheries depend on healthy ecosystems, so I support funding scientific monitoring and research to better understand and respond to changes such as warming waters, ocean acidification, and ecosystem shifts.
+    The start I would like to see is not punishing companies that are polluting but shutting them down until they comply with new standards. Fining large companies does not incentivize anyone to change, removing the ability to operate will force their hands. Cleaner air and water ways will start to heal what is struggling. Second, forest management. Logging and urban development is forcing changes in nature with catastrophic results. Displacing animals and changing ecological zones alter the way nature functions. Third, we need to ensure the survival of our native fish population. We can do that by cleaning up the rivers and the sound and keeping our salmon ladders fictional. Lastly To help communities, we need to fix the levys to prevent flooding which leads to more pollution in our water ways, and destruction in our cities.
+    
+    KEYWORDS: salmon ladder, pollution management, levy fix
 
-    I would take a collaborative approach by bringing together commercial and recreational fishers, Tribal nations, scientists, municipalities, and conservation stakeholders to develop sustainable fisheries policies. I also believe we should coordinate with international partners and enforce environmental protections to hold bad actors accountable while helping Washington's coastal communities adapt to changing marine conditions.
+- candidate_first_name: Bruce
+  candidate_last_name: Guthrie
+  state: wa
+  race: State House of Representatives
+  district: 21
+  party: Libertarian
+  question: wa-q1
+  date: 2026-09-21
+  response: |
+    AI is a double-edged sword.  It represents huge risks and huge potential rewards. Data centers must never be subsidized by any level of government.  They should not create noise problems, nor increase electricity bills in communities. Ideally, they would come with their own power generation. And they should not be located in areas where there is a higher use for the land. But as long as they cause no harm, they should not be prohibited.
+    
+    KEYWORDS: No Subsidies Risks
+
+- candidate_first_name: Bruce
+  candidate_last_name: Guthrie
+  state: wa
+  race: State House of Representatives
+  district: 21
+  party: Libertarian
+  question: wa-q2
+  date: 2026-09-21
+  response: |
+    The tragedy of the commons is when property is held collectively, no one has an incentive to conserve it.  Land stewardship is better under private non profits like the Nature Conservancy, Ducks Unlimited or the Sierra Club than it is under state or federal bureaucrats, who face no real disincentives when land is mismanaged. Sell land to private non-profits who have a better track record of good land stewardship.
+    
+    KEYWORDS: Privatize Land Stewardship
+
+- candidate_first_name: Bruce
+  candidate_last_name: Guthrie
+  state: wa
+  race: State House of Representatives
+  district: 21
+  party: Libertarian
+  question: wa-q3
+  date: 2026-09-21
+  response: |
+    Scores for 10th graders in Math, Science and Writing have all declined over the last ten years. Competition would improve school performance.  This can be achieved through school choice, vouchers and privatization.  Private schools achieve better results at lower tuition costs than we currently spend per student because they specialize and compete.  Allow government schools to do that, too.
+    
+    KEYWORDS: Competition, Vouchers, Privatization
+
+- candidate_first_name: Bruce
+  candidate_last_name: Guthrie
+  state: wa
+  race: State House of Representatives
+  district: 21
+  party: Libertarian
+  question: wa-q4
+  date: 2026-09-21
+  response: |
+    Forests should be managed instead of left in neglect.  Controlled burns to remove accumulated branches and deadfalls will prevent or reduce wildfires.  Those who set fires should be punished to the fullest extent of the law. Forest management can be compatible with wild habitat and recreation.
+    
+    KEYWORDS: Manage forests wisely
+
+- candidate_first_name: Bruce
+  candidate_last_name: Guthrie
+  state: wa
+  race: State House of Representatives
+  district: 21
+  party: Libertarian
+  question: wa-q5
+  date: 2026-09-21
+  response: |
+    Dams that are producing hydroelectric power should not be breached. Instead, fish ladders should be built around them and trees should be planted along banks to provide shade.
+    
+    KEYWORDS: hydroelectric with fish
+
+- candidate_first_name: Joe
+  candidate_last_name: Fitzgibbon
+  state: wa
+  race: State House of Representatives
+  district: 34
+  party: Democratic
+  question: wa-q1
+  date: 2026-09-22
+  response: |
+   I support whistleblower protections for employees of AI companies; mandatory kill switches for AI programs and agents; and state sales taxes on AI services and products. Ultimately I believe states are not capable of providing the regulatory oversight that AI requires and I hope for Congress to pass a national regulatory package. As far as data centers, I believe they should be required to be powered by clean electricity, that other ratepayers should be protected from capital costs that are necessitated by data centers' increase electrical loads, and that grid-provided power supplies to data centers should be interruptible (requiring them to utilize electricity stored in batteries) in case of electricity shortages.
+
+- candidate_first_name: Joe
+  candidate_last_name: Fitzgibbon
+  state: wa
+  race: State House of Representatives
+  district: 34
+  party: Democratic
+  question: wa-q2
+  date: 2026-09-22
+  response: |
+   My top priorities for investing Climate Commitment Act dollars are to prioritize programs and projects that directly reduce greenhouse gas emissions, like electric vehicle incentives (for both passenger vehicles and freight vehicles), heat pump incentives, and decarbonizing large state buildings with district energy, geothermal, and other innovative strategies. I also support investing CCA dollars in natural climate solutions, like carbon sequestration in forests, wetlands, grasslands, and aquatic lands.
+   
+- candidate_first_name: Joe
+  candidate_last_name: Fitzgibbon
+  state: wa
+  race: State House of Representatives
+  district: 34
+  party: Democratic
+  question: wa-q3
+  date: 2026-09-22
+  response: |
+   I support incorporating up-to-date science standards, including climate science, in our K-12 curricula and standards.
+
+- candidate_first_name: Joe
+  candidate_last_name: Fitzgibbon
+  state: wa
+  race: State House of Representatives
+  district: 34
+  party: Democratic
+  question: wa-q4
+  date: 2026-09-22
+  response: |
+   I have successfully advocated for Climate Commitment Act dollars to be invested in wildfire prevention, suppression, and response, and I prime sponsored legislation to facilitate wildfire prevention by making prescribed burns easier to permit. We should continue to invest in prevention, which is much cheaper than suppression.
+
+- candidate_first_name: Joe
+  candidate_last_name: Fitzgibbon
+  state: wa
+  race: State House of Representatives
+  district: 34
+  party: Democratic
+  question: wa-q5
+  date: 2026-09-22
+  response: |
+   Scientific monitoring of fisheries has taken deep cuts in recent years because of where the Department of Fish & Wildlife has allocated across-the-board cuts they received from the Legislature. We should work in upcoming budgets to re-prioritize monitoring so DFW can do this work. Ultimately, staying ahead of warming waters and ocean acidification requires us to follow through on our commitments to reducing greenhouse gas emissions and showing other jurisdictions how this can be done.
+   
+- candidate_first_name: Kathryn
+  candidate_last_name: Lewandowsky
+  state: wa
+  race: State House of Representatives
+  district: 39
+  party: Democratic
+  question: wa-q1
+  date: 2026-09-25
+  response: |
+   The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized. This is the 4th Amendment to our US Constitution and part of the original Bill of Rights. (Enacted Dec. 15, 1791)   These are interesting times we are living in. I am often impressed with the forethought of our founding fathers.  Where they may not have had any concept of the threats we are now having to contemplate regarding Artificial Intelligence, they very well understood the harm that can happen when the government infringes on our fundamental rights to privacy.  I believe that the direction our government and the corporations that so many of our elected officials serve are infringing on those constitutional rights and this must not be allowed to continue. This is the only way that we can guarantee our country remains as a shining example to the world in the words of President Abraham Lincoln, "that government of the people, by the people, for the people, shall not perish from the earth."  And with that I have to take the position that the continued progression of Data Centers across America must stop until there can be put in place laws that guarantee our constitutional protections of our right to privacy and also that there is accurate research on the environmental harms and the true costs that they incur. 
+   
+- candidate_first_name: Kathryn
+  candidate_last_name: Lewandowsky
+  state: wa
+  race: State House of Representatives
+  district: 39
+  party: Democratic
+  question: wa-q2
+  date: 2026-09-25
+  response: |
+   I believe that until we can discover how we as humans can effectively draw down C02 levels that we must reduce our timber harvests and let the trees do what they do best. Our job then will be to incentivize companies to diversify their building products and techniques to use more sustainable crops like industrial Hemp and Bamboo which can be harvested every six months instead of relying on a crop that can only be harvested every 20 years. We can also use methods like timber thinning instead of clear cutting to lessen the impact on our forests by our human needs. 
+   
+- candidate_first_name: Kathryn
+  candidate_last_name: Lewandowsky
+  state: wa
+  race: State House of Representatives
+  district: 39
+  party: Democratic
+  question: wa-q3
+  date: 2026-09-25
+  response: |
+   I am old and don't have many small children around, but I hope that children are far more literate in science than their parents are. I think that if anything COVID showed us just how illiterate too many grown adults are when it comes to science. I'm not sure how best to address this problem. Possibly, if we can incentivize people to continue their education after high school we can improve our residents understanding of science. If we don't do something different, we're doomed. 
+
+- candidate_first_name: Kathryn
+  candidate_last_name: Lewandowsky
+  state: wa
+  race: State House of Representatives
+  district: 39
+  party: Democratic
+  question: wa-q4
+  date: 2026-09-25
+  response: |
+   I believe that our best protection from fire is to allow increases in our old growth forests. These forests already know how to protect themselves from fire. We need to get out of their way.
+
+- candidate_first_name: Kathryn
+  candidate_last_name: Lewandowsky
+  state: wa
+  race: State House of Representatives
+  district: 39
+  party: Democratic
+  question: wa-q5
+  date: 2026-09-25
+  response: |
+   I have to admit that while I understand medical studies as that is my area of expertise, I am not an expert on these issues. I depend on the scientists who study these issues to offer proposed solutions to these problems. Then we need to enact those solutions and evaluate their effectiveness. 
+
+- candidate_first_name: Yuri
+  candidate_last_name: Marinchik
+  state: wa
+  race: State House of Representatives
+  district: 33
+  party: Republican
+  question: wa-q1
+  date: 2026-09-26
+  response: |
+   AI should be built and used in America, with clear rules on privacy, child safety, and critical infrastructure — not a new bureaucracy that pushes the industry overseas. Data centers are welcome if they pay their own costs. Permits should measure water, land, grid capacity, and ratepayer impact before approval. Households must not subsidize private power and water loads. New large loads need real generation, including hydro and natural gas, not only intermittent sources that raise bills. Evidence: utility load data, water limits, and what happens to rates when big loads hit a tight grid. Cost is part of the evidence.
+   
+   KEYWORDS: ratepayer protection, reliable power, practical rules
+   
+- candidate_first_name: Yuri
+  candidate_last_name: Marinchik
+  state: wa
+  race: State House of Representatives
+  district: 33
+  party: Republican
+  question: wa-q2
+  date: 2026-09-26
+  response: |
+   Nature is not a museum. People live in it, work in it, and are responsible for it. Stewardship means use, care, and improvement — not locking land up and calling neglect “conservation.”
+   
+   A forest left to choke on fuel is not preserved. It is degraded, then it burns. Healthy woods are thinned, harvested, and renewed. Rivers should produce fish and support working communities, not only reports. Clean water, salmon habitat that actually yields fish, stormwater, culverts, and cutting wildfire and flood risk near people come first.
+   
+   I fund projects with a result and a maintenance plan. Score spending by risk reduced per dollar, local benefit, and whether the work lasts after the ribbon-cutting. Use universities, tribes, ports, utilities, and the people who already manage land. Stop programs that cannot show results.
+   
+   KEYWORDS: working landscapes, forest health, measurable results
+
+- candidate_first_name: Yuri
+  candidate_last_name: Marinchik
+  state: wa
+  race: State House of Representatives
+  district: 33
+  party: Republican
+  question: wa-q3
+  date: 2026-09-26
+  response: |
+   Science literacy is uneven. Too many students can repeat slogans and cannot measure, calculate, or tell a strong study from a weak one. Standards should teach method: hypothesis, data, error, and trade-offs. More labs, shop and STEM pathways, basic statistics, and local problems — water, energy, buildings, engines. Teachers need materials and time, not another political curriculum. Kids should see science as a way to work with the world, not as a sermon.
+   
+   KEYWORDS: hands-on STEM, data literacy, trade-offs
+
+- candidate_first_name: Yuri
+  candidate_last_name: Marinchik
+  state: wa
+  race: State House of Representatives
+  district: 33
+  party: Republican
+  question: wa-q4
+  date: 2026-09-26
+  response: |
+    Prevention first. A forest packed with fuel is not “protected.” It is waiting to burn. Thin, harvest, maintain roads and access, harden homes, clear defensible space, and fund year-round local capacity — not only after the fire starts. Prescribed and cultural burning where it is controlled and appropriate.
+
+    Treat fire as land management, not a speech. Track acres treated near towns, response times, and whether money actually cut risk. Smoke and evacuation plans matter for working families. Healthy woods are used and renewed. Neglect is not conservation.
+    
+    KEYWORDS: forest thinning, prevention, working forests
+   
+- candidate_first_name: Yuri
+  candidate_last_name: Marinchik
+  state: wa
+  race: State House of Representatives
+  district: 33
+  party: Republican
+  question: wa-q5
+  date: 2026-09-26
+  response: |
+   I care about fish that come back, not plans that pile up. Spend first on what changes the water: open blocked streams, fix the runoff that hits the Sound, and keep counts that captains and managers can actually use. If a program does not put more salmon in the river or cleaner water in the bay, it should not keep the money.
+   
+   The Sound is for living and working, not for a handful of locked gates. The water itself is public. People should be able to reach it — street ends, public beaches, ramps — without a membership. I will not support selling off more shoreline or letting new development wall the public off the water. A house on the bluff can stay a house. The tide line should not become a private club.
+   
+   Protect the resource and the people on it. That is recovery. Paperwork is not.
+   
+   KEYWORDS: salmon returns, public access, working coast
+
+- candidate_first_name: Gabe
+  candidate_last_name: Galbraith
+  state: wa
+  race: State Senate
+  district: 8
+  party: Republican
+  question: wa-q1
+  date: 2026-09-13
+  response: |
+   I think AI is going to be a huge part of our future, and Washington should absolutely be a place where innovation can happen. But that doesn’t mean communities should be expected to write a blank check for it.
+   
+   My biggest concern with data centers is their impact on the people who already live here. What happens to our power rates? How much water will they use? What infrastructure will be needed? Who pays for it? Those questions need honest answers before projects move forward.
+   
+   I support local control and full transparency. Local residents should have a meaningful voice, and there shouldn’t be backroom deals between government and large corporations.
+   
+   We also need to increase reliable energy production, including looking seriously at advanced nuclear technology, if we’re going to meet growing demand without driving up costs for families.
+   
+   My position comes from looking at resource demands, infrastructure needs, utility impacts, security concerns, and listening to the communities that will actually live with these decisions.
+   
+   KEYWORDS: Local Control • Transparency • Innovation
+   
+- candidate_first_name: Gabe
+  candidate_last_name: Galbraith
+  state: wa
+  race: State Senate
+  district: 8
+  party: Republican
+  question: wa-q2
+  date: 2026-09-13
+  response: |
+   I believe we can protect our environment without making it harder for families, farmers, and businesses to survive.
+   
+   For me, environmental stewardship means taking care of what we have and actually getting results. I’d prioritize clean and reliable water, healthier forests, wildfire prevention, responsible wildlife management, and projects that protect our agricultural and natural resources.
+   
+   I also think we need to listen to the people closest to these issues. Farmers, ranchers, foresters, tribes, sportsmen, conservation groups, and local communities often understand what’s happening on the ground better than someone sitting behind a desk in Olympia.
+   
+   When we’re spending taxpayer dollars, there should be measurable goals. Did the project improve water quality? Reduce wildfire risk? Restore habitat? Solve an actual problem?
+   
+   Protecting Washington’s natural resources matters to me. I just believe we should do it through good science, local input, common sense, and accountability—not one-size-fits-all mandates.
+   
+   KEYWORDS: Stewardship • Local Input • Accountability
+
+- candidate_first_name: Gabe
+  candidate_last_name: Galbraith
+  state: wa
+  race: State Senate
+  district: 8
+  party: Republican
+  question: wa-q3
+  date: 2026-09-13
+  response: |
+   Serving on a school board has reinforced something I believe strongly: our job is to teach kids how to think, not what to think.
+   
+   Science education should give students a strong foundation in biology, chemistry, physics, mathematics, engineering, technology, and the scientific method. Just as importantly, students should learn how to ask questions, evaluate evidence, challenge assumptions, and come to their own conclusions.
+   
+   I’d also like to see much more hands-on learning. Science doesn’t have to live in a textbook. Agriculture, engineering, computer science, manufacturing, health sciences, and other career and technical programs can connect what students learn in the classroom with real jobs in their community.
+   
+   Parents should also know what their children are being taught, and local school boards should have a meaningful role in education.
+   
+   If we want better science literacy, let’s get kids excited about discovering how the world works rather than turning science classrooms into political classrooms.
+   
+   KEYWORDS: Critical Thinking • Hands-On Learning • Local Control
+
+- candidate_first_name: Gabe
+  candidate_last_name: Galbraith
+  state: wa
+  race: State Senate
+  district: 8
+  party: Republican
+  question: wa-q4
+  date: 2026-09-13
+  response: |
+   Living in Eastern Washington, wildfire isn’t an abstract issue. We see the smoke, evacuations, property damage, and devastation that fires can bring.
+   
+   I believe we need to spend more time preventing catastrophic fires instead of simply spending more money fighting them after they’ve started.
+   
+   That means actively managing our forests: thinning overcrowded areas, removing dead and diseased material, maintaining firebreaks and access roads, and responsibly using prescribed burns when appropriate.
+   
+   We also need better cooperation between state, federal, tribal, county, and private landowners. A fire doesn’t care which government agency owns the land.
+   
+   Healthy forests require active management. Allowing dangerous fuel loads to build year after year isn’t good for our communities, wildlife, watersheds, or air quality.
+   
+   I’d rather invest taxpayer dollars in prevention and forest health today than spend far more responding to another catastrophic fire tomorrow.
+   
+   KEYWORDS: Prevention • Forest Health • Cooperation
+
+- candidate_first_name: Gabe
+  candidate_last_name: Galbraith
+  state: wa
+  race: State Senate
+  district: 8
+  party: Republican
+  question: wa-q6
+  date: 2026-09-13
+  response: |
+   Agriculture isn’t just another industry in our part of Washington. It’s part of who we are, and I think Olympia sometimes forgets that.
+   
+   I have serious concerns with the Climate Commitment Act because families, farmers, and businesses ultimately feel those increased costs. Farmers already operate on tight margins, and increasing fuel, transportation, and operating costs eventually affects everybody at the grocery store.
+   
+   I believe we can protect our environment without putting Washington agriculture at a competitive disadvantage.
+   
+   I’d protect legitimate agricultural fuel exemptions, invest in water and irrigation infrastructure, support voluntary conservation programs and new technology, and reduce unnecessary regulations that increase costs without producing meaningful environmental benefits.
+   
+   Most importantly, I’d actually bring farmers into the conversation before policies affecting them are written.
+   
+   Farmers depend on healthy soil, clean water, and productive land for their livelihoods. They aren’t the enemy of environmental stewardship—they’re some of our most important partners.
+   
+   KEYWORDS: Farmers • Affordability • Stewardship
+
+- candidate_first_name: Ben
+  candidate_last_name: Christly
+  state: wa
+  race: State House of Representatives
+  district: 17
+  party: Democratic
+  question: wa-q1
+  date: 2026-09-24
+  response: |
+   Artificial intelligence isn't going away. The federal government has largely stepped back and taken a hands-off approach, even though the scientists who understand this technology best have raised real warnings. That leaves it to states like Washington to get this right.
+   
+   Data centers have an obvious appeal. They show up promising jobs and tax revenue. During construction that's true. They generate good, family-wage building trades work. But once construction wraps, what's left is a massive building that runs around the clock. It pulls enormous amounts of power off our grid. It uses a lot of water for cooling. And in many cases it drives up utility rates for everyone else on that system. Communities are increasingly finding that the long-term footprint doesn't match the short-term sales pitch.
+   
+   I've gone back and forth on whether this is a decision that belongs with individual communities or with the state legislature. My instinct is that local communities should have real say over what gets built where they live. But I also know that small towns and counties are often the ones being courted hardest by these projects, and they don't always have the resources to independently verify the promises being made to them about jobs, water use, or grid impact. A company with a slick presentation and a big number on a slide can be tough to push back on without outside expertise.
+   
+   That's where I think the state has a role to play. Not to override local decisions, but to make sure those decisions are informed ones. The state should require full and transparent accounting of water use, grid impact, and effect on ratepayers before a project moves forward. Independent, verified numbers, not projections from industry. Right now too many of these approvals are happening on hope and conjecture instead of facts, and that needs to change.
+   
+   KEYWORDS: local input, tax incentives, responsible growth, accountability, grid capacity, ratepayer protection, water usage 
+   
+- candidate_first_name: Ben
+  candidate_last_name: Christly
+  state: wa
+  race: State House of Representatives
+  district: 17
+  party: Democratic
+  question: wa-q2
+  date: 2026-09-24
+  response: |
+   My top priority is continuing to invest in green energy, wind, hydro, and geothermal, especially now that the federal government has largely checked out on climate policy. States have to fill that gap. I don't think everyone agrees on exactly when fossil fuels become scarce or obsolete, but we all know that day is coming, and Washington should be positioning itself now rather than playing catch-up later.
+   
+   Skamania and Klickitat counties are well suited for this kind of investment. They have the geography for it, and green energy development can bring real family-wage jobs to parts of our district that don't always get that opportunity. I want to see the state continue funding and incentivizing that kind of development in rural Southwest Washington specifically.
+   
+   I want to keep pushing those projects forward. That means staying on the cutting edge of energy production while also delivering good, family wage jobs to our communities. This is a place where clean energy and rural economic opportunity can grow together, and I think our district should lead on that, not follow.
+   
+   KEYWORDS: green energy, wind, hydro, geothermal, carbon credits, timber revenue
+
+- candidate_first_name: Ben
+  candidate_last_name: Christly
+  state: wa
+  race: State House of Representatives
+  district: 17
+  party: Democratic
+  question: wa-q3
+  date: 2026-09-24
+  response: |
+   Science literacy in this country has a real gap, and it's worth being honest about it. Only about half of American adults can correctly identify what a scientific hypothesis even is. At the same time, a strong majority of people still trust scientists to act in the public's best interest. That tells me the problem isn't that people distrust science, it's that we're not teaching people how science actually works, how a hypothesis gets tested, how evidence gets weighed, how conclusions get revised when new data comes in.
+   
+   That's the piece I'd want to strengthen in our K-12 standards. Less memorizing facts to pass a test, more hands-on, inquiry-based learning where kids actually run an experiment, get it wrong sometimes, and learn why the process still worked. That builds real scientific thinking, not just recall, and it sticks with people long after they leave the classroom.
+   
+   I'd also want to make sure rural schools have the same access to lab equipment, outdoor learning opportunities, and qualified science teachers that schools in wealthier districts already have. A kid in Skamania County deserves the same shot at a real science education as a kid anywhere else in this state.
+   
+   As someone who spent years in nursing relying on evidence and data to make life or death decisions, I know firsthand how much it matters that people trust and understand the process behind scientific conclusions, not just the conclusions themselves. That's what I'd want our schools to be teaching.
+   
+   KEYWORDS: evidence based, scientific literacy, critical thinking
+
+- candidate_first_name: Ben
+  candidate_last_name: Christly
+  state: wa
+  race: State House of Representatives
+  district: 17
+  party: Democratic
+  question: wa-q4
+  date: 2026-09-24
+  response: |
+   The Bear Gulch Fire is a warning we can't ignore. It burned over 20,000 acres and caused $42 million in damage, the worst fire on the Olympic Peninsula in nearly 75 years, in a year with close to 2,000 recorded fires statewide.
+   
+   Here's what's frustrating: we know what works. Since 2020, our state's wildfire program has added 151 firefighters, foresters, and forest health workers, restored nearly 89,000 acres of forest, and kept over 93% of fires to ten acres or less since 2022.
+   
+   And in 2025, the legislature cut $60 million from that exact program, right as the federal government eliminated $182 million in wildfire, flood, and landslide prevention funding for Washington. That's two levels of government pulling back at the same time our fire seasons are getting worse. The state restored its funding this year, but only through June 2027. That's not a real commitment, that's a countdown clock.
+   
+   I also think we have to be smarter about how timber and forest management fit into this conversation. A well-managed, actively thinned forest isn't just a revenue source, it's a wildfire mitigation tool. Overgrown, unmanaged forests are the ones that burn hottest and fastest. My approach is to maximize sustainable timber revenue and active forest management together, not treat forestry and fire prevention as separate conversations. Done right, smart forest management pays for itself while directly reducing the fuel that turns a small fire into another Bear Gulch.
+   
+   KEYWORDS: wildfire prevention funding, forest health management, sustainable timber harvest, federal budget cuts, fuel reduction
+
+- candidate_first_name: Ben
+  candidate_last_name: Christly
+  state: wa
+  race: State House of Representatives
+  district: 17
+  party: Democratic
+  question: wa-q6
+  date: 2026-09-24
+  response: |
+   When we pass big policy like the Climate Commitment Act, there are sometimes unintended consequences, and this is one of them. Our farmers and our agricultural lands are a prized resource, and we need to be better stewards of helping the people who grow our food actually succeed.
+   
+   I'd support eliminating any additional fuel charges on farmers, full stop. That exemption already exists in law, it's just not being honored the way it should be, with some fuel distributors charging surcharges up to 70 cents a gallon anyway. That needs to be fixed at the point of sale, not through a rebate program farmers have to chase down after the fact.
+   
+   Here's the bigger point I want to make. Farmers are the first environmentalists. Nobody has a bigger stake in healthy soil, clean water, and sustainable land than the people whose livelihood depends on it working for the next generation, too. We might need to work with them, nudge things along, and help them adopt more sustainable practices over time. But we shouldn't be making it harder or more expensive for farmers to do their jobs. We should be finding ways to make it easier, so we can keep our commitment to sustainability without treating our farmers like the problem.
+   
+   KEYWORDS: farm fuel exemption, Climate Commitment Act, point-of-sale enforcement, sustainable stewardship, agricultural affordability
+   
+   

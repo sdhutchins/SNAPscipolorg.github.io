@@ -1,0 +1,145 @@
+- id: nd-q1
+  question: >-
+    Scientific evidence is generated through the systematic testing and
+    evaluation of ideas. It provides knowledge the helps us understand the
+    world and predict the likely consequences of different choices, such as
+    policy making related to public health, energy, agriculture, and
+    environmental regulation. What role, if any, should scientific evidence
+    and expert input play in your policymaking process, and how would you
+    evaluate competing or uncertain scientific claims when making policy
+    decisions? How would you weigh scientific evidence alongside economic,
+    ethical, and policy preferences when making decisions?
+  tag:
+    - Policymaking Process
+    - Trust in Science
+  races:
+    - US House of Representatives
+
+- id: nd-q2
+  question: >-
+    As a member of Congress, you would vote on appropriations for federal
+    science agencies, including the United States Department of Agriculture,
+    National Science Foundation and the National Institute of Health. What
+    priorities (if any) would guide your decisions on federal science funding?
+  tag:
+    - Policymaking Process
+    - Science Funding
+    - Trust in Science
+  races:
+    - US House of Representatives
+
+- id: nd-q3
+  question: >-
+    Agricultural practices such as cover cropping and crop and livestock
+    diversification, under appropriate conditions, provide benefits for soil
+    health, water quality, and long-term agricultural resilience. At the same
+    time, the feasibility and potential benefits of these practices can vary
+    substantially. In what ways, if any, would you approach developing federal
+    agricultural policy that accounts for the practical and economic needs of
+    farmers and ranchers while also incorporating the best available
+    scientific evidence on environmentally and agronomically beneficial
+    practices?
+  tag: Agriculture
+  races:
+    - US House of Representatives
+
+- id: nd-q4
+  question: >-
+    North Dakota is a top state in the nation for both reserves and production
+    of crude oil, natural gas, and coal
+    ([https://www.eia.gov/states/ND/analysis](https://www.eia.gov/states/ND/analysis)) and over 38 million acres are
+    used for crop and livestock production (US Census of Agriculture,
+    [https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/North_Dakota/](https://www.nass.usda.gov/Publications/AgCensus/2022/Full_Report/Volume_1,_Chapter_1_State_Level/North_Dakota/)).
+    What policies, if any, do you support or envision in managing land-based
+    resources in North Dakota (and nationally) and how do these policies
+    relate to conservation and economic development in natural resource
+    sectors?
+  tag:
+    - Energy
+    - Environment
+  races:
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: nd-q5
+  question: >-
+    Both research universities and government-funded research programs aim to
+    advance scientific discovery, to train the future workforce, and to drive
+    economic development. How would you approach funding and oversight of
+    research universities and government-funded research programs, and what
+    outcomes would those policies achieve?
+  tag:
+    - Investment in Higher Education
+    - Science Funding
+  races:
+    - US House of Representatives
+
+- id: nd-q6
+  question: >-
+    North Dakota is developing large-scale carbon capture and geologic CO₂
+    storage projects, which require monitoring of underground CO₂ movement and
+    potential impacts on groundwater and seismic activity. What role, if any,
+    should state/federal governments play in funding research and collecting
+    data on the effectiveness, environmental impacts, and long-term
+    reliability of geologic CO₂ storage?
+  tag:
+    - Energy
+    - Environment
+    - Science Funding
+  races:
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: nd-q7
+  question: >-
+    What role should local communities play in approving large infrastructure
+    or technology projects? What policies would you support related to this
+    role and the economic impact of large projects on local communities?
+  tag:
+    - Jobs and Workforce
+    - Policymaking Process
+  races:
+    - State Senate
+    - State House of Representatives
+
+- id: nd-q8
+  question: >-
+    North Dakota farmers face challenges including shifting weather patterns,
+    localized droughts, fluctuating input costs, and global market pressures.
+    What policies or investments would you support to help farmers remain
+    productive and economically competitive, and what role could scientific
+    research and innovation play in those efforts?
+  tag:
+    - Agriculture
+    - Climate
+  races:
+    - State Senate
+    - State House of Representatives
+
+- id: nd-q9
+  question: >-
+    Scientific and technical expertise can inform decisions related to
+    healthcare, energy, infrastructure, manufacturing, and emerging
+    technologies. What role, if any, should scientific evidence and expert
+    input play in your policymaking process, and how would you communicate
+    scientific uncertainty or evolving evidence to the public?
+  tag: Policymaking Process
+  races:
+    - State Senate
+    - State House of Representatives
+
+- id: nd-q10
+  question: >-
+    Tribal nations play an important role in North Dakota’s environmental
+    stewardship, but many face challenges in accessing resources and
+    infrastructure for environmental science, land management, and water
+    monitoring. What policies, if any, would you support to strengthen tribal
+    capacity in these areas, and why?
+  tag:
+    - Environment
+    - Science Diplomacy
+  races:
+    - State Senate
+    - State House of Representatives

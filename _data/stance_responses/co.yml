@@ -4151,3 +4151,831 @@
   response: |
       "I think the science standards themselves are improving each cycle of adoption (every 6 years). The issue around science literacy is the persistent gap between individuals wanting to trust science and the actual understanding of core concepts that then gets exploited by misinformation. We have to combine the teaching of science and information literacy."
 
+- candidate_first_name: Shane
+  candidate_last_name: Atkinson
+  state: co
+  race: Local County Races [All]
+  county_race: Larimer County Commissioner
+  district: 1
+  party: Democratic
+  question: co-q1
+  date: 2026-09-22
+  primary_candidate: false
+  response: |
+      "I think a major trap elected officials fall into is believing that they are "experts" on certain topics, and developing solutions in search of problems. I have always believed that the best policy making comes from identifying a problem, bring ALL impacted stakeholders and experts in to stake-hold early, evaluating the causes of the problem, exploring potential solutions and only then developing solutions. In some ways, I think there are some similarities in this approach to the scientific method. Also I have noticed that too often policy makers focus on anecdotal evidence rather than rigorous data."
+
+- candidate_first_name: Shane
+  candidate_last_name: Atkinson
+  state: co
+  race: Local County Races [All]
+  county_race: Larimer County Commissioner
+  district: 1
+  party: Democratic
+  question: co-q2
+  date: 2026-09-22
+  primary_candidate: false
+  response: |
+      "Our agricultural land is vital to our identity and economy. I have spoken with a lot of producers and the struggles you identify in the question are real. I think we need to take every step we can to preserve our existing agricultural land, and the water connected to it. Water security and agricultural preservation go hand in hand. The county has a great relationship with the ag. community and I intend to keep it that way. I support taking any and all steps to keep Larimer County's water in Larimer County. At the same time, our agricultural producers need to play important roles in conserving water. I would consider programs that tie incentives to growing less water intensive crops."
+
+- candidate_first_name: Shane
+  candidate_last_name: Atkinson
+  state: co
+  race: Local County Races [All]
+  county_race: Larimer County Commissioner
+  district: 1
+  party: Democratic
+  question: co-q3
+  date: 2026-09-22
+  primary_candidate: false
+  response: |
+      "I support smart, sustainable growth. AI Data centers as they are being deployed now, are neither smart nor sustainable. Right now the costs are too high, and the benefits for a community are practically non-existent. At the same time, we cannot bury our heads in the sand; this technology is coming. I believe we need robust requirements in place, that ensure there is real community benefit to development. They should generate and store their own electricity, use the best technology to ensure they are not using our water and completely mitigate any environmental impacts. Many of these technologies exist already, but the companies are choosing not to use them because they are trying to build them as cheaply as possible. I worry that without the state setting these requirements, we will end up with an ineffective  patchwork of regulations."
+
+- candidate_first_name: Shane
+  candidate_last_name: Atkinson
+  state: co
+  race: Local County Races [All]
+  county_race: Larimer County Commissioner
+  district: 1
+  party: Democratic
+  question: co-q4
+  date: 2026-09-22
+  primary_candidate: false
+  response: |
+      "Vaccines work. The anti-science rhetoric from the right in the last decade are disheartening to say the least, and now we are starting to see the effects. We have a robust public health department, with experts who care deeply about our residents. Let them work. Ensure they have adequate resources and funding. This is one of those instances where we can do a lot of good at the local level, regardless of what is happening in the national politics. I believe in local government as a vehicle to improve lives. We need to focus on what we can control, and I think there is a lot we are doing and can do locally on this issue."
+
+- candidate_first_name: Shane
+  candidate_last_name: Atkinson
+  state: co
+  race: Local County Races [All]
+  county_race: Larimer County Commissioner
+  district: 1
+  party: Democratic
+  question: co-q5
+  date: 2026-09-22
+  primary_candidate: false
+  response: |
+      "I think the same issues around science literacy are happening across educational disciplines. I taught high school social studies for 13 years, and over that time, I saw educational rigor dropping off in favor of greater standardization. Expectations have declined in order to increase graduation rates. Why are graduation rates going up, while SAT and ACT scores are going down? Education policy is something I am extremely passionate about, but there isn't a lot of it that is connected to the position I am running for. We need to fight for better public education funding, better teacher pay and real reforms that are preparing our next generation to be thinkers. This goes for science of course but I think is a much bigger issue in the current state of our education system."
+
+- candidate_first_name: Chris
+  candidate_last_name: VanDijk
+  state: co
+  race: State House of Representatives
+  district: 32
+  party: Democratic
+  question: co-q1
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "I know what I don't know and I trust science. I will support continuing the Science & Technology Policy Fellows work to educate Legislative Council Staff. I believe we need formal advisory panels consisting of working scientists, public health experts, and environmental researchers to review proposed state legislation. Drawing on my professional background in emergency response and my academic training in public policy, I rely on data to assess risks and evaluate outcomes. I intend to partner with independent, non-partisan entities, such as the Union of Concerned Scientists and researchers from Colorado's universities, to evaluate the empirical basis of bills before they are voted on. By embedding scientific review directly into the legislative drafting process, the state can ensure that policies address issues using verified evidence rather than ideological assumptions."
+
+- candidate_first_name: Chris
+  candidate_last_name: VanDijk
+  state: co
+  race: State House of Representatives
+  district: 32
+  party: Democratic
+  question: co-q2
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "I will advocate for state funding to expand applied agricultural research, focusing specifically on drought-resistant crops, water efficiency, and soil health. I support expanding state partnerships with agricultural extension programs to help farmers adopt precision agriculture technologies and regenerative land management practices. These science-backed practices allow agricultural producers to optimize their use of water and imported fertilizers, which directly reduces operational costs and minimizes environmental impact. State policy should focus on providing farmers with the proven tools and financial incentives necessary to implement these methods, ensuring long-term sustainability for Colorado's agricultural sector and natural resources."
+
+- candidate_first_name: Chris
+  candidate_last_name: VanDijk
+  state: co
+  race: State House of Representatives
+  district: 32
+  party: Democratic
+  question: co-q3
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "The massive rush to build enormous centralized data centers, specifically hyperscalers, is largely driven by near-zero vacancy rates in major markets, leading developers to scramble and pre-lease capacity years ahead just to secure available power. However, we must critically evaluate why we are building so large and so fast when the current AI investment bubble is predicted to burst.
+      
+      Crucially, the technology is rapidly evolving. Emerging engineering insights suggest the future of AI is smaller, local, and sovereign, moving toward distributed computing and quantum networks. Massive, centralized data centers are increasingly viewed as end-of-life technology relied upon by legacy tech giants, not the true frontier of innovation.
+      
+      Currently, Colorado lacks a unified state infrastructure plan for advanced computing, leaving local municipalities to fend for themselves with emergency moratoriums against private hyperscalers. We need a proactive, state-led strategy—much like the national infrastructure models utilized by our global competitors—that dictates terms rather than surrendering to tech companies.
+      
+      I propose a comprehensive Colorado Compute Infrastructure Plan. Instead of a patchwork of local zoning fights, the state must map our energy grid, renewable resources, and water watersheds to designate precisely where, and if, compute facilities can safely exist. This plan would shift development away from water-stressed Front Range communities and mandate that any new, localized AI infrastructure be directly paired with dedicated, off-grid renewable energy sources. By taking a state-level planning approach, we protect our resources, prevent local grid collapse, and ensure Colorado controls its technological footprint, rather than letting legacy tech giants dictate our future."
+
+- candidate_first_name: Chris
+  candidate_last_name: VanDijk
+  state: co
+  race: State House of Representatives
+  district: 32
+  party: Democratic
+  question: co-q4
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "I support strengthening the state's public health infrastructure by increasing funding for local health departments and establishing publicly funded community medicine programs. Utilizing first responders and community health workers, these programs can deliver vaccines and preventive care directly to underserved areas. I also support policies that rely on epidemiological data to guide outbreak responses, which includes funding robust public health education initiatives designed specifically to counter vaccine misinformation. Ensuring widespread access to preventive care and maintaining high vaccination rates are the most proven, evidence-based methods to stop the spread of infectious diseases."
+
+- candidate_first_name: Chris
+  candidate_last_name: VanDijk
+  state: co
+  race: State House of Representatives
+  district: 32
+  party: Democratic
+  question: co-q5
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "Colorado's K-12 education standards should place a stronger emphasis on inquiry-based learning and the scientific method, moving away from rote memorization. Students need to learn how to evaluate evidence, understand data sets, and identify misinformation. I support updating curriculum standards to apply scientific principles directly to local, real-world issues, such as Colorado's water conservation efforts and wildfire ecology. Additionally, the state must increase funding for STEM resources and ensure that science educators are adequately supported. Improving science literacy in our schools, beginning in elementary school, is essential for developing a public capable of making informed decisions based on empirical evidence."
+
+- candidate_first_name: Michael
+  candidate_last_name: Clarkson
+  state: co
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: co-q1
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "I will establish a volunteer advisory panel composed of local scientists, engineers, public health experts, and researchers from Colorado’s universities and technical industries. This council will review major draft legislation, evaluate regional data—from water rights to public health—and flag unintended technical consequences before bills hit the committee floor. I would also actively partner with the nonpartisan Colorado Science & Technology Policy Program (STPP) and Legislative Council Staff. By leveraging STPP Fellows and expert technical staff, our office will ensure that committee analyses and fiscal notes are informed by rigorous, peer-reviewed research. I will base my legislation on the best available peer reviewed data and consult experts in each relevant field."
+
+- candidate_first_name: Michael
+  candidate_last_name: Clarkson
+  state: co
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: co-q2
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "I will sponsor legislation to scale up data-driven water management—funding real-time soil moisture sensors, precision drip irrigation, and advanced crop modeling. By fully funding scientific monitoring within the Colorado Soil Health Program, we can help producers build soil organic matter, which increases water-retention capacity and reduces overall irrigation demands. To shield farmers from volatile imported fertilizer prices, I will push for funding and technical assistance via CSU Extension for variable-rate nutrient application technology and biological soil amendments. Peer-reviewed data shows targeted nutrient management reduces input costs by up to 20% while protecting local watersheds from runoff. Colorado is a national leader in agrivoltaics—integrating solar panels with livestock grazing and crop production. I will champion expanding the state’s Agrivoltaics Research & Demonstration Grants. Panel shading significantly reduces crop water loss through evapotranspiration, creates favorable microclimates, and provides farmers with a stable, secondary revenue stream. I will work to expand performance-based state tax credits and voluntary stewardship grants that financially reward producers for adopting proven practices—such as cover cropping, rotational grazing, and reduced tillage—that restore natural resources while maintaining yields."
+
+- candidate_first_name: Michael
+  candidate_last_name: Clarkson
+  state: co
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: co-q3
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "As a Senior Solutions Architect for IBM with specializations in Cloud, AI, and blockchain technology, I am uniquely qualified to legislate on this. First, data centers must cover 100% of the transmission and infrastructure costs required to connect to our grid. To prevent locking in fossil fuel emissions or raising rates for working families, policies should require developers to secure or build dedicated renewable energy generation equal to their demand. Second, with Colorado facing persistent drought, open evaporative cooling systems that evaporate millions of gallons daily are unsustainable. I support statewide standards requiring closed-loop liquid cooling or dry-cooling technologies, informed by local hydrologic modeling to protect vulnerable watersheds. We also need to regulate how data centers deal with waste heat and noise, pushing them to use waste heat to do work rather than venting into the community and dampening noise for the surrounding area. Finally, data protection and privacy standards are key. I will push for privacy laws on par with California and the EU, holding companies responsible for proper protection of data and user privacy."
+
+- candidate_first_name: Michael
+  candidate_last_name: Clarkson
+  state: co
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: co-q4
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "Stopping sustained measles transmission requires maintaining at least a 95% community MMR vaccination rate. I support expanding access through mobile clinics and school-based health centers, while strengthening non-medical exemption standards by requiring evidence-based educational modules on vaccine safety for parents seeking opt-outs. Containing outbreaks before they spread requires robust local health departments. I will advocate for increased funding to the Colorado Department of Public Health and Environment (CDPHE) and local public health agencies to modernize contact-tracing platforms, expand state lab diagnostic capacity, and provide rapid post-exposure prophylaxis to exposed individuals. I support funding community health worker initiatives that partner with local pediatricians and trusted community leaders. Equipping primary care providers with behavioral science-backed communication toolkits allows us to directly address vaccine hesitancy, debunk dangerous health claims, and rebuild public trust."
+
+- candidate_first_name: Michael
+  candidate_last_name: Clarkson
+  state: co
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: co-q5
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "Current science literacy is at a critical juncture. While technology impacts every aspect of our lives, science is often still taught as a static set of facts to memorize rather than a dynamic process of questioning, testing hypotheses, and evaluating evidence. This disconnect leaves citizens vulnerable to misinformation on public health, water conservation, and energy policy. We must adapt standards around hands-on, phenomena-based learning. Instead of relying solely on abstract textbooks, students should explore scientific concepts through real-world Colorado challenges—such as studying regional snowpack data, soil micro-biomes, or wildfire ecology. Starting in middle school, standards should explicitly teach students how to evaluate scientific sources. Curriculum should focus on understanding sample size, reading graphs, identifying logical fallacies, and distinguishing peer-reviewed scientific consensus from online misinformation. We should build direct bridges between K-12 classrooms and Colorado’s research institutions, national labs, and agricultural extension offices. Hands-on field studies, lab visits, and mentorships demystify scientific professions and show students how science directly impacts their local communities. By teaching science as an active tool for critical thinking and civic engagement rather than an exercise in memorization, we can raise a generation of Coloradans equipped to navigate a complex, tech-driven world."
+
+- candidate_first_name: William D.
+  candidate_last_name: Moses. III
+  state: co
+  race: State Senate
+  district: 9
+  party: Democratic
+  question: co-q1
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "I support science and technology. When evaluating prospective businesses in these fields, I will examine the scientific tests and metrics used to substantiate their products. I will require claims and intended outcomes to be validated through logically applied quantitative measures."
+
+- candidate_first_name: William D.
+  candidate_last_name: Moses. III
+  state: co
+  race: State Senate
+  district: 9
+  party: Democratic
+  question: co-q2
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "I will champion our farmers by ensuring water—an essential resource—is managed responsibly to support agricultural growth and prevent waste. Everyone who draws water from underground aquifers, streams, and rivers must be accountable to keep water affordable and help farmers maximize profits."
+
+- candidate_first_name: William D.
+  candidate_last_name: Moses. III
+  state: co
+  race: State Senate
+  district: 9
+  party: Democratic
+  question: co-q3
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "The industry must balance its goals with community support, ensuring nearby residents approve of its presence. It must also avoid imposing costs on taxpayers already struggling with everyday expenses. Finally, its operations should be environmentally responsible and compatible with the surrounding area."
+
+- candidate_first_name: William D.
+  candidate_last_name: Moses. III
+  state: co
+  race: State Senate
+  district: 9
+  party: Democratic
+  question: co-q4
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "Scientific and medical evidence shows that political leaders have been wrong on this issue and that vaccination is essential to preventive health. Although parents may choose, leaders should strongly advocate vaccination."
+
+- candidate_first_name: William D.
+  candidate_last_name: Moses. III
+  state: co
+  race: State Senate
+  district: 9
+  party: Democratic
+  question: co-q5
+  date: 2026-09-24
+  primary_candidate: false
+  response: |
+      "Our education system is falling short in several areas of science and mathematics—not because teachers lack commitment, but because the system has been partially dismantled from the top down. Science teachers and local leaders must advocate for higher standards in both closely connected subjects."
+
+- candidate_first_name: Richard 
+  candidate_last_name: Mancuso
+  state: co
+  race: State Senate
+  district: 20
+  party: Republican
+  question: co-q1
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I never answer a hypothetical question. You call 300 words a brief survey?!?!
+      When you grow up in the streets you get your PhD before you start high school. What you learn is to separate the truth from the hype. I support and follow the science but via a strong discernment I also know when others are using their positions to enrich themselves."
+
+- candidate_first_name: Richard 
+  candidate_last_name: Mancuso
+  state: co
+  race: State Senate
+  district: 20
+  party: Republican
+  question: co-q2
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I am a major supporter of agriculture and the farmer ! We have a governor and legislature that has made their lives miserable over the last 15 years. If you want the farmer to thrive you must listen to the farmer and not a politician who sees themselves as a leader. The farmers today not only have the practical ability but many have advanced degrees thanks to great schools like CSU . We must also take a proactive approach to better maintain our forests and keep them clean and healthy to protect our communities from wildfires."
+
+- candidate_first_name: Richard 
+  candidate_last_name: Mancuso
+  state: co
+  race: State Senate
+  district: 20
+  party: Republican
+  question: co-q3
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "AI is the new industrial revolution and we must lead the world in it or we will lose our position as a world leader. We have thousands of acres that can be used to build AI facilities and with that technology many high paying jobs will be created. My only concern is the power grid. In my opinion each AI facility has to build their own power grid and infrastructure and the power that they don’t use is sold back to the utility companies at a fair market price to help keep utility prices down for the consumers."
+
+- candidate_first_name: Richard 
+  candidate_last_name: Mancuso
+  state: co
+  race: State Senate
+  district: 20
+  party: Republican
+  question: co-q4
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I support the measles vaccine but we are living in a shrinking world and in most cases an individual who has entered our country both legally and illegally has been the carrier. So what do we do? Years ago people were quarantined can we go back to doing that again? We cannot! Therefore we must move on and not blow things out of proportion because if we do we will lose our freedom in the name of safety!"
+
+- candidate_first_name: Richard 
+  candidate_last_name: Mancuso
+  state: co
+  race: State Senate
+  district: 20
+  party: Republican
+  question: co-q5
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "As a retired teacher I hate to say this but we have already lost the race. Prior to 1979 we were number one in the world in both math and science and since the creation of the department of education we are now number 48… Something is very wrong! In Chicago with over 600 schools not one person is at grade level in math or science.
+      
+      We need to recruit better teachers, eliminate many administrative positions and reduce the government bureaucracy associated with education today." 
+
+- candidate_first_name: Meredith 
+  candidate_last_name: Ryan
+  state: co
+  race: US House of Representatives
+  district: 6
+  party: Unity
+  question: co-q1
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I will seek to engage scientific advisors on a periodic basis with my DC and local offices. Consult NIH, WHO, UN (including UNICEF) data to evaluate policymaking prerogatives, proposed legislation, etc.
+      
+      I would seek any appropriate channel to learn from local post-secondary educators and graduate students, including in finance and statistics, and avail myself of expertise and support.
+      
+      Perhaps creation of a short document would be in order to facilitate my office’s acceptance or rejection of constituent requests, a form which reports evidence-based support for their requests and the need of the requests."
+
+- candidate_first_name: Meredith 
+  candidate_last_name: Ryan
+  state: co
+  race: US House of Representatives
+  district: 6
+  party: Unity
+  question: co-q2
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Engage with advisory organizations in order to establish/advance agricultural production. Invite knowledge and support from grocery, restaurant, group living organizations in order to plan for providing crops to trading partners both near and far. Cautious and judicious uses of predictive technologies might be employed to understand probable needs of trading partners in the foreseeable future.
+      I might encourage a public forum on agriculture that includes also urban gardening.
+      Hear about agricultural output and how it affects, and is affected by, water and other resource needs of all"
+
+- candidate_first_name: Meredith 
+  candidate_last_name: Ryan
+  state: co
+  race: US House of Representatives
+  district: 6
+  party: Unity
+  question: co-q3
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I would check that overall policy on all fronts can honor ethics-based limits to protect all in our society. “Cutting edge” should involve civil, peaceable development and uses of technology as well as improved educational advancement. I am a “peace candidate.” 
+      The right balance of costs and benefits for new data center construction in Colorado will have to take into serious account my above considerations. I would not like to see any increasing use of eminent domain by mega corporations in a rush to land acquisition for AI. I also do not want corporate AI facilities to operate from public lands."
+
+- candidate_first_name: Meredith 
+  candidate_last_name: Ryan
+  state: co
+  race: US House of Representatives
+  district: 6
+  party: Unity
+  question: co-q4
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Free and accessible vaccination programs should be available. Healthcare outreach, to include blood pressure checks, A1C, cholesterol, renal health, etc., can be directed more effectively toward at-risk communities. Water and air-quality standards need to be enforced. Also, nutritional guidance is an important aspect in healthcare."
+
+- candidate_first_name: Meredith 
+  candidate_last_name: Ryan
+  state: co
+  race: US House of Representatives
+  district: 6
+  party: Unity
+  question: co-q5
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I would not venture to characterize the current state of science literacy at this time. I do think that K-12 education standards should seek to interest and engage students to better understand science and ponder its implications for the population in general.  Science literacy includes both physical and social sciences."
+
+- candidate_first_name: Dave 
+  candidate_last_name: Wood
+  state: co
+  race: US House of Representatives
+  district: 8
+  party: Libertarian
+  question: co-q1
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "My advice for all policy decisions  would be to rely only on evidence gathered using rigorous scientific methods."
+
+- candidate_first_name: Dave 
+  candidate_last_name: Wood
+  state: co
+  race: US House of Representatives
+  district: 8
+  party: Libertarian
+  question: co-q2
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I appreciate the challenges facing Colorado farmers and would do everything possible to be sure the federal government doesn't nothing to restrict them or inhibit them from their business practices.  I believe strongly that freely pursued innovation will support our farmer's business and government should not get in the way!"
+
+- candidate_first_name: Dave 
+  candidate_last_name: Wood
+  state: co
+  race: US House of Representatives
+  district: 8
+  party: Libertarian
+  question: co-q3
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Any business including AI has to responsibly provide for the resources like water and power they need.  I thing local governments have the responsibility to ensure that happens, not at the federal level."
+
+- candidate_first_name: Dave 
+  candidate_last_name: Wood
+  state: co
+  race: US House of Representatives
+  district: 8
+  party: Libertarian
+  question: co-q4
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I believe parents have the right and the responsibility to decide the kind of health care their children receive which would include not inoculating a child with the measles vaccine.
+      
+      However as measles is a significant public health danger;  any group such as a school or church or business has the right to exclude unvaccinated children to protect the other children in that group."
+
+- candidate_first_name: Dave 
+  candidate_last_name: Wood
+  state: co
+  race: US House of Representatives
+  district: 8
+  party: Libertarian
+  question: co-q5
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I think the average person's scientific literacy is extremely limited in scope and their decision making is based more on emotions, what other people think and unfortunately is seldom based on logic. 
+      
+      Government-run K-12 systems enforce rigid conformity, waste taxpayer funds, suffer from a lack of performance-based accountability, and fail to adapt to individual student needs."
+      
+- candidate_first_name: Pricella 
+  candidate_last_name: Tiegen
+  state: co
+  race: State House of Representatives
+  district: 15
+  party: Republican
+  question: co-q1
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I will consider credible scientific evidence and expert input while ensuring every policy remains grounded in the Constitution, individual liberty, limited government, and transparency. Science should never override constitutional rights."
+
+- candidate_first_name: Pricella 
+  candidate_last_name: Tiegen
+  state: co
+  race: State House of Representatives
+  district: 15
+  party: Republican
+  question: co-q2
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I will support Colorado farmers by protecting property and water rights, reducing unnecessary regulations, and encouraging proven technologies that improve water efficiency and agricultural productivity. I believe solutions should be science-based, practical, and developed alongside the farmers and ranchers who know their land best."
+
+- candidate_first_name: Pricella 
+  candidate_last_name: Tiegen
+  state: co
+  race: State House of Representatives
+  district: 15
+  party: Republican
+  question: co-q3
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Colorado should encourage innovation and free enterprise while protecting property rights, individual privacy, and taxpayers. I support limited, transparent government, local decision-making, and holding data centers responsible for the costs of the resources they use rather than shifting those costs onto Colorado families."
+
+- candidate_first_name: Pricella 
+  candidate_last_name: Tiegen
+  state: co
+  race: State House of Representatives
+  district: 15
+  party: Republican
+  question: co-q4
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I be open to listen to evidence-based prevention, public education, early detection, and rapid response to infectious diseases while protecting individual liberty, informed consent, parental rights, and medical privacy."
+
+- candidate_first_name: Pricella 
+  candidate_last_name: Tiegen
+  state: co
+  race: State House of Representatives
+  district: 15
+  party: Republican
+  question: co-q5
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Students need strong foundations in science and critical thinking. Education standards should focus on academic excellence and objective evidence while respecting parental rights, transparency, and local control of education."
+      
+- candidate_first_name: Michelle Lynn 
+  candidate_last_name: Tweed
+  state: co
+  race: State House of Representatives
+  district: 21
+  party: Democratic
+  question: co-q1
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "I believe sound public policy should be informed by credible evidence, scientific research, and measurable outcomes—not assumptions or political convenience. As an elected legislator, I would use several mechanisms to ensure evidence plays a meaningful role in my decision-making. First, I would seek input from nonpartisan legislative research staff, relevant state agencies, universities, subject-matter experts, and professionals working directly in the affected fields. When legislation involves specialized areas such as health care, behavioral health, education, energy, environmental policy, or emerging technology, I would support advisory panels that include researchers, practitioners, community representatives, and other stakeholders with relevant expertise.
+      
+      Second, I would examine the quality of the evidence itself. A single study should not automatically determine policy. I would consider the strength of the research, whether the findings have been replicated, the data's limitations, potential conflicts of interest, and whether the evidence applies to Colorado's communities. Third, I would support greater use of pilot programs, fiscal and policy analyses, performance measures, and periodic evaluations. When possible, legislation should establish measurable objectives so policymakers and the public can determine whether a program is actually producing its intended results.
+      
+      I believe transparency is an essential non-negotiable. Policymakers should be willing to explain what evidence informed a decision, acknowledge uncertainty or conflicting findings, and reconsider policies when credible new evidence demonstrates that a different approach would better serve Coloradans. Evidence should inform policymaking while remaining balanced with constitutional requirements, fiscal realities, practical implementation, and the lived experiences of the people affected by our decisions."
+
+- candidate_first_name: Michelle Lynn 
+  candidate_last_name: Tweed
+  state: co
+  race: State House of Representatives
+  district: 21
+  party: Democratic
+  question: co-q2
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Colorado agriculture is essential to our economy, food security, rural communities, and stewardship of our natural resources. Supporting farmers requires policies grounded in science while recognizing that solutions must also be economically practical for the people working the land that Colorado is known for.
+      
+      As an elected legislator, I would strengthen partnerships among farmers and ranchers, Colorado State University extension, agricultural researchers, water districts, conservation organizations, and state agencies. CSU is already conducting applied research on drought-resilient forage crops, soil-moisture monitoring, irrigation efficiency, fertilizer management, and agricultural water quality. These efforts can provide policymakers and producers with Colorado-specific evidence rather than relying on one-size-fits-all approaches.
+      
+      Water would be a major priority. I would support research and voluntary, incentive-based programs that help producers improve irrigation efficiency, strengthen soil health, adopt drought-resilient crops where appropriate, and conserve water without unnecessarily removing productive agricultural land. Colorado research has shown that certain voluntary irrigation-management strategies can reduce water consumption while maintaining some agricultural production.
+      
+      I would also support precision agriculture, soil and nutrient testing, improved fertilizer-management practices, and technologies that can reduce input costs while protecting groundwater and rivers. Importantly, farmers and ranchers should have a meaningful role in developing these policies because they understand the operational and economic realities of agriculture. My goal would be to use research, field data, producer experience, and measurable outcomes together—protecting Colorado's water, soil, and agricultural lands while ensuring that farming and ranching remain economically viable for future generations."
+
+- candidate_first_name: Michelle Lynn 
+  candidate_last_name: Tweed
+  state: co
+  race: State House of Representatives
+  district: 21
+  party: Democratic
+  question: co-q3
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Colorado should welcome innovation and the economic opportunities created by artificial intelligence and data centers, but growth should not come at the expense of residents, our electric grid, or our limited water resources. The right balance is responsible development in which the benefits are measurable and the costs created by large facilities are not shifted onto Colorado families and small businesses.
+      
+      As an elected legislator, I would support requiring large data center proposals to undergo transparent assessments of their projected electricity demand, water consumption, infrastructure needs, environmental impacts, and economic benefits before receiving significant state incentives. Colorado should also require meaningful reporting of actual energy and water use so policymakers can compare projections with real-world outcomes.
+      
+      Ratepayer protection is particularly important. Large data centers can require substantial new generation, transmission, and other infrastructure. I would support policies ensuring that the companies creating those demands bear an appropriate share of the associated costs rather than transferring them to existing utility customers.
+      
+      I would also encourage technologies that reduce water consumption, improve energy efficiency, use reclaimed water where feasible, support grid reliability, and reduce electricity demand during peak periods. Incentives should be tied to demonstrated public benefits, such as infrastructure investment, workforce development, quality Colorado jobs, and measurable efficiency improvements. 
+      
+      I would preserve appropriate local involvement in siting decisions because communities experience these projects differently. Colorado does not have to choose between technological innovation and responsible resource management. We can encourage AI now super intelligence (SI) investment while establishing clear, evidence-based standards that protect consumers, conserve water, maintain grid reliability, and ensure Coloradans receive meaningful benefits from this growth."
+
+- candidate_first_name: Michelle Lynn 
+  candidate_last_name: Tweed
+  state: co
+  race: State House of Representatives
+  district: 21
+  party: Democratic
+  question: co-q4
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Protecting community health requires prevention, early detection, rapid response, and public trust. I support policies that use the best available scientific evidence while ensuring Coloradans have reliable information and practical access to preventive care. For infectious diseases such as measles, I support making recommended vaccinations readily accessible through physicians, pharmacies, schools, community clinics, and rural health providers. Two doses of the MMR vaccine are approximately 97% effective at preventing measles, making vaccination an important component of prevention. 
+      
+      I also believe public health communication should clearly explain benefits, risks, and the evidence behind recommendations so individuals and parents can make informed health decisions. Prevention also requires strong disease surveillance. Colorado's experience with wastewater monitoring demonstrates how emerging outbreaks can sometimes be detected before clinical cases are reported. I would support evidence-based surveillance, laboratory capacity, rapid testing, and coordination among state and local public health agencies and health care providers so that outbreaks can be identified and contained quickly.
+      
+      Beyond infectious disease, preventive health policy should address chronic disease, maternal and child health, behavioral health, environmental health threats, and access to screenings and primary care. Investments in prevention should be evaluated using measurable outcomes, so we know which programs are actually improving health and using taxpayer dollars effectively. Preparedness matters. Colorado should maintain clear response plans, adequate medical and laboratory capacity, reliable public communication, and coordination with hospitals, schools, emergency management, and local communities. My doctoral studies as a health psychologist approach would be to strengthen prevention without relying on fear by providing accurate information, improving access, detecting threats early, measuring outcomes, and adjusting policies as scientific evidence evolves."
+
+- candidate_first_name: Michelle Lynn 
+  candidate_last_name: Tweed
+  state: co
+  race: State House of Representatives
+  district: 21
+  party: Democratic
+  question: co-q5
+  date: 2026-09-25
+  primary_candidate: false
+  response: |
+      "Science literacy is increasingly important because Coloradans are being asked to make decisions about health, energy, water, agriculture, artificial intelligence, environmental stewardship, and emerging technologies, while misinformation can spread rapidly, making the ability to evaluate evidence just as important as knowing scientific facts. I believe K–12 science education should teach students not only what we know, but how we know it. Students should learn how to ask questions, develop and test hypotheses, interpret data, distinguish correlation from causation, evaluate the credibility of sources, recognize research limitations, and understand that scientific knowledge can change as new evidence emerges.
+      
+      Colorado's standards already incorporate scientific inquiry, evidence, critical thinking, and real-world problem solving. I would build on that foundation by supporting more hands-on laboratory experiences, project-based learning, and partnerships with universities, research institutions, and industries such as agriculture, health care, engineering, technology, and other Colorado industries. Science literacy should also connect across subjects. Students can learn to evaluate scientific claims while developing reading, mathematics, statistics, communication, and digital-media literacy skills.
+      
+      We should strengthen the relationship between science and the public by making science relevant to students' communities. Studying Colorado's water supply, agriculture, wildfire risks, energy systems, ecosystems, and public health can demonstrate how scientific evidence affects everyday life. Our goal should not be to tell students what to think. It should be to give them the knowledge and analytical tools to examine evidence, ask informed questions, challenge unsupported claims, and reach well-reasoned conclusions for themselves."
+
+- candidate_first_name: Mallory 
+  candidate_last_name: Martin
+  state: co
+  race: State House of Representatives
+  district: 54
+  party: Democratic
+  question: co-q1
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "For me, using evidence to make policy decisions would be standard practice. Colorado has a wealth of scientific expertise we can draw on, from Colorado Mesa University and Colorado State University to local researchers, experts, and state agencies. I would also look for ways to build and encourage independent and local scientific advisory networks that can provide objective and useful information.
+      
+      Before sponsoring major legislation—especially on issues like water, wildfire, public lands, agriculture, energy, and public health—I would seek out the best available evidence, understand where there is still uncertainty, and make that information available to the public.
+      I also want to make sure we’re listening to people who know these issues firsthand. This means seeking input from water managers, agricultural researchers, land managers, and communities across the Western Slope.
+      
+      Where it makes sense, I would support pilot programs with measurable goals so we can see what actually works. If the evidence changes, our policies should be willing to change with it.
+      
+      Colorado already has valuable nonpartisan resources through the Legislative Council and legislative staff, including research and fiscal analysis. I would make use of those resources while also seeking independent scientific expertise to help make informed decisions."
+
+- candidate_first_name: Mallory 
+  candidate_last_name: Martin
+  state: co
+  race: State House of Representatives
+  district: 54
+  party: Democratic
+  question: co-q2
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "Farmers and ranchers here in western Colorado need policies that support both their livelihoods and the water, soil, and ecosystems they depend on. The goal should be practical and scientifically supported solutions that help agriculture stay profitable while keeping our land and natural resources healthy for the next generation. As a legislator, I would make evidence-based agricultural innovation a priority by:
+      
+      1) Investing in water efficiency: We should expand funding and technical assistance for tools like precision irrigation and soil-moisture monitoring. CSU’s research centers in western Colorado are already doing important work on water conservation, crop varieties, pests, and resilient production, giving us a strong foundation to build on.
+      2) Supporting farmer- and rancher-led research: Partnering with CSU Extension, Colorado’s Agricultural Experiment Station, conservation districts, and local growers to test drought-tolerant crops, soil-health practices, and technologies that can reduce costs under Western Slope conditions connects and strengthens different areas of expertise.
+      3) Protecting agricultural water: I support conservation efforts that don’t unnecessarily reduce agricultural production, protect existing agricultural water rights, and make sure farmers and ranchers have a meaningful voice in Colorado River and basin-management decisions.
+      4) Reducing vulnerability: Colorado must encourage research and incentives for healthier soils, better nutrient management, and more diverse supply chains so producers are less dependent on volatile prices for imported fertilizers and other materials.
+      5) Measuring what works: We must make sure public investments are focused on practices that show real improvements in farm profitability, water conservation, soil health, and environmental outcomes—and adjust programs when the data tells us something isn’t working.
+      
+      In the state legislature we need to find ways to give producers the tools and flexibility to find practical solutions that are proven to work here in western Colorado."
+
+- candidate_first_name: Mallory 
+  candidate_last_name: Martin
+  state: co
+  race: State House of Representatives
+  district: 54
+  party: Democratic
+  question: co-q3
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "The jury is out about whether data centers can provide ANY long-term positive benefits for the communities in which they’re built. At the same time, Colorado’s Legislative Council has identified higher electricity/energy costs, dramatic water consumption, negative public health outcomes, noise exposure, environmental and habitat degradation, and loss of surrounding land value as very real and critically negative AI data-center impacts.
+      
+      Because of this, Colorado’s legislators must all take full responsibility for making sure that any approved data centers pay their fair share of the costs and negative impacts (economic, environmental, land value etc.) that they create. 
+      
+      So, before approving any project, I would demand rigorous, transparent analysis of its impacts on electricity rates, water supplies, grid reliability, emissions, land use, and local infrastructure, as well as any potential long-term jobs and economic benefits. I believe that to be approved anywhere in Colorado, a data center must at a minimum:
+      
+      1) Pay the full incremental cost of new generation, transmission, and grid upgrades so existing ratepayers are not left subsidizing private development.
+      2) Demonstrate and commit to sustainable, self-contained, efficient and non-potable cooling technologies. Data centers in Colorado must not be allowed to jeopardize the precious, limited, and already over-taxed water resources that support ALL life and livelihoods in Colorado.
+      3) Meet strong energy-efficiency and clean-energy standards, with transparent reporting of electricity and water consumption. Standards must be maintained or operations must stop. 
+      4) Provide measurable public benefits—quality and long-term jobs, workforce training, tax revenue, and infrastructure investment—before any state or local incentives are offered.
+      5) Protect privacy and communities through appropriate data-security standards and meaningful local review.
+      
+      Innovation should be encouraged when its benefits exceed its public costs. Our state legislature must require developers—not Colorado ratepayers or water users—to bear these costs."
+
+- candidate_first_name: Mallory 
+  candidate_last_name: Martin
+  state: co
+  race: State House of Representatives
+  district: 54
+  party: Democratic
+  question: co-q4
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "Measles was declared eliminated in the United States in 2000. We got to that point through prevention, early detection, and decisions based on the best available evidence. Two doses of the MMR vaccine are about 97% effective against measles, and Colorado’s experience in 2025 showed that quick contact tracing, testing, and clear public communication can help limit the spread. If we want a healthier Colorado, we should:
+      
+      1) Make vaccines easier to access: Support public-health clinics, school-based vaccination programs, mobile clinics, and outreach that helps remove barriers to recommended vaccines.
+      2) Invest in early detection: Maintain and expand Colorado’s disease surveillance systems, including wastewater monitoring. In Mesa County, wastewater detection helped identify the potential for additional measles cases and focus the public-health response.
+      3) Support local public health: Make sure county health departments have the resources they need for contact tracing, testing, outbreak response, and clear communication with healthcare providers and the public.
+      4) Use prevention to address other health threats: Apply the same evidence-based approach to issues like substance use, chronic disease, air quality, and environmental exposures. We should set measurable goals, track what works, and adjust when it doesn’t.
+      5) Build trust through transparency: Be clear about what the evidence tells us, what we’re still uncertain about, and why recommendations may change as we learn more.
+      
+      We can make Colorado’s House District 54 healthier by using scientific evidence to identify what works, making proven prevention accessible, measuring the results, and being willing to change course when the evidence changes."
+
+- candidate_first_name: Mallory 
+  candidate_last_name: Martin
+  state: co
+  race: State House of Representatives
+  district: 54
+  party: Democratic
+  question: co-q5
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "Unfortunately, I think public science literacy is fairly low. Colorado has made an effort to improve science literacy and education, and we rank above average nationally in overall educational attainment. At the same time, despite having a strong adult STEM workforce, a high concentration of federal research labs, and significant recent state investments, Colorado’s local K-12 scores are still closer to the national average.
+      
+      There are several reasons for this. Unequal access to quality science education, limited time and resources for teachers, misinformation on social media, and declining trust in institutions can all make it harder for people to tell reliable and rigorous scientific evidence from unsupported claims. Science can also feel disconnected from everyday life when we aren’t shown how it relates to the decisions we make or the tools we use every day.
+      Colorado’s K-12 standards could help by putting more emphasis on scientific reasoning and building stronger relationships with science. This could include:
+      
+      1) Ensuring that our teachers have quality tools and reasonable class sizes. Science teachers should never have to curtail labs because overcrowded classes or outdated equipment jeopardize lab safety. We must support schools and teachers so they can provide  more hands-on opportunities to investigate real-world questions, collect evidence, and develop and revise explanations.
+      2) Teaching students how scientific knowledge is developed, including uncertainty, peer review, replication, and the difference between evidence and opinion.
+      3) Building media and information literacy skills so students can evaluate scientific claims, sources, statistics, and misinformation.
+      4) Connecting science to issues that matter here in Colorado, such as water, wildfires, agriculture, energy, and ecosystems.
+      5) Creating space for respectful conversations about controversial scientific topics while recognizing legitimate uncertainty.
+      6) Providing teachers with professional development and resources to support inquiry-based and culturally responsive science instruction. Students should be able to explore the historical and cultural contexts of science.
+      
+      Ultimately, we shouldn’t just be teaching students scientific facts. We should be helping them understand how science works, how to evaluate evidence, and to feel comfortable engaging with science throughout their lives."
+
+- candidate_first_name: Jack 
+  candidate_last_name: Rosenthal
+  state: co
+  race: RTD Board of Directors
+  party: Non-partisan
+  question: co-q1
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "I already use data significantly in guiding my decision making around transit advocacy.  This includes data sets such as historical snapshots of RTD's real-time data, which I publish directly on my GitHub, as well as ridership data I've helped work on with Greater Denver Transit.  RTD will be undergoing its first major system redesign since 1978 when I'm on the board.  While this system redesign is long overdue, I won't vote to adopt it without independently verifying that the changes make sense and have a positive impact on ridership.  And better yet, I will also share this data in a manner that others can reproduce the results, like I do today with the real-time data.
+      
+      My education is in Computer Science, and professionally I'm a software engineer.  I don't design systems without looking deeply into the assumptions on the table and alternatives considered, and I expect to see the same at RTD.  Financial forecasts and major capital decisions should be backed by evidence.  For example, RTD's transit asset management plan proposes spending hundreds of millions to repair an aging light rail system over the next few years, and yet, there was no postmortem analysis about why the tracks were damaged, nor even a documented need from the PUC.  Directors need to see the math before they vote; making these policy decisions shouldn't be a blind process.
+      
+      I helped create and pass HB26-1269, the Transit Access bill, part of which creates new data reporting requirements for the agency.  I'll push RTD to go above and beyond the requirements prescribed in that bill, publishing machine-readable data on missed trips, on-time performance, crowding, and elevator outages.  Transparency enables the public to hold the agency accountable."
+
+- candidate_first_name: Jack 
+  candidate_last_name: Rosenthal
+  state: co
+  race: RTD Board of Directors
+  party: Non-partisan
+  question: co-q2
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "Colorado's farms and growing municipalities here in the Front Range draw on the same limited water, and how the urban area grows matters.  When growth sprawls away from the urban centers, cities often supply it by buying agricultural water rights and drying up farmland.  Households near frequent transit use far less land and outdoor irrigation water than suburban and exurban developments with large lots.
+      
+      RTD can help steer growth to those places: HB24-1313's Transit Areas are created from RTD's frequent transit network, and starting in 2028, HB26-1001 will enable RTD to ground-lease underutilized park-n-rides for housing.  I'll push RTD to identify those sites now, and share its service plans with cities, so they can zone for housing where frequent service will run.
+      
+      Public transit helps reduce ground-level ozone, which reduces crop yields, and the Front Range has been out of compliance with federal ozone standards for years.  Furthermore, I'll hold RTD to the zero-emission fleet plan the board approved in 2024, grow ridership so transit replaces more car trips, and ask staff to report the emissions impact of major vehicle purchases.
+      
+      RTD should also lead by example on its own land.  The agency maintains landscaping at stations and park-n-rides across the district.  I'll push the agency to replace irrigated turf with native, water-wise plantings, and publicly report water use."
+
+- candidate_first_name: Jack 
+  candidate_last_name: Rosenthal
+  state: co
+  race: RTD Board of Directors
+  party: Non-partisan
+  question: co-q3
+  date: 2026-09-27
+  primary_candidate: false
+  response: |
+      "As a software engineer, I know this technology has value, but only if data centers pay their full cost, operate as good stewards to the environment and our grid, and don't crowd out the communities already here.
+      
+      Xcel Energy projects that data centers will drive most new energy growth here in Colorado. RTD runs the light rail and commuter rail on electricity, and electrifying RTD's bus fleet will require major grid upgrades at every garage.  When data centers drive up the cost of electricity, RTD pays more to run the trains, and charging electric buses competes for grid capacity.  I support making data centers pay for the generation and transmission they require, and I'll push RTD to be an active voice at the PUC so electrification remains a priority. 
+      
+      On privacy, RTD collects trip data through MyRide cards and the app, plus camera footage on vehicles and at stations.  RTD should collect only what it needs, set retention limits, never sell identifiable rider data, and anonymize it before sharing with the public.  I do not support the usage of AI surveillance at RTD, and would strictly oppose the adoption of any of this technology."
+
+- candidate_first_name: Bryan Dean
+  candidate_last_name: Sprague
+  state: co
+  race: Local County Races [All]
+  county_race: Fremont County Commissioner
+  party: Unaffiliated
+  question: co-q1
+  date: 2026-09-29
+  primary_candidate: false
+  response: |
+      "I use the Lean Manufacturing system to collect data to help me understand and resolve issues. This system includes KPI's from data collecting and input from those closest to the problem. I have used an A3/9 Step problem solving tool that has helped me as a leader resolve several impassable issues. As a leader you must collect unbiased data and listen to the Team or the people who are closest to the problem to come to a true conclusion to a problem. Lean offers several problem-solving tools that I have come to trust to resolve any issue that I have faced over the years in Corporate America."
+
+- candidate_first_name: Bryan Dean
+  candidate_last_name: Sprague
+  state: co
+  race: Local County Races [All]
+  county_race: Fremont County Commissioner
+  party: Unaffiliated
+  question: co-q2
+  date: 2026-09-29
+  primary_candidate: false
+  response: |
+      "Water is a precious commodity to farmers and the people of Fremont County. Fremont County must take control of our water and where it is distributed. We must work with all Red Counties to take control of all our resources within our Counties. We cannot continue to allow the State or Federal Government to control our water or natural resources. Working in Corporate America deals are always available. We need to work with small businesses and Corporate America to lower the cost-of-living for not only farmers, ranchers and businesses but for the people we represent. If the Red Counties of Colorado unite, I firmly believe we can make deals that benefit all of our businesses."
+      
+- candidate_first_name: Bryan Dean
+  candidate_last_name: Sprague
+  state: co
+  race: Local County Races [All]
+  county_race: Fremont County Commissioner
+  party: Unaffiliated
+  question: co-q3
+  date: 2026-09-29
+  primary_candidate: false
+  response: |
+      "I am slowly learning about the AI world. I have to admit I am not a fan of AI to this point. I am a believer in technology if used correctly. Technology can be used to help farmers, ranchers and businesses. Machinery technology can be used to help resolve many issues. If you use modern technology, you must have the right team of engineers for the correct application or usage of technology. This goes to my earlier statement of listening and working with individuals who know what is needed and how to use the technology to benefit the intended goal that does not harm the environment or displace any community or business."
+      
+- candidate_first_name: Bryan Dean
+  candidate_last_name: Sprague
+  state: co
+  race: Local County Races [All]
+  county_race: Fremont County Commissioner
+  party: Unaffiliated
+  question: co-q4
+  date: 2026-09-29
+  primary_candidate: false
+  response: |
+      "I feel there is always a lot of politics and false information when it comes to infectious diseases or health concerns. We must tread lightly on this issue and ensure we listen to an organization or individuals we can trust but act in a manner of urgency to protect the people of Fremont County." 
+
+- candidate_first_name: Bryan Dean
+  candidate_last_name: Sprague
+  state: co
+  race: Local County Races [All]
+  county_race: Fremont County Commissioner
+  party: Unaffiliated
+  question: co-q5
+  date: 2026-09-29
+  primary_candidate: false
+  response: |
+      "I have to admit I am not a fan of the Teachers Union, but I know from raising two children and watching/listening to our grandbabies I am grateful for the teachers we have in Fremont County. We must get politics out of our school agendas and get back to basics. Math, Science, History and English should be the core of every child's education. Science was fun and exciting back in my days in school. We must bring back the enthusiasm I felt as a child and allow our children to learn all the great benefits of learning science and the basic fundamentals of an education to be proud of." 
+
+- candidate_first_name: Karla
+  candidate_last_name: Esser
+  state: co
+  race: State Board of Education
+  district: 7
+  party: Democratic
+  question: co-q1
+  date: 2026-09-29
+  primary_candidate: false
+  response: |
+      "The State Board of Education is involved in rule making for legislative statutes that impact education and for the State Academic Standards in all subject areas. For statute, we have our CDE representatives over at the capital during the session to make sure the well-being of all students and families is considered. For science standards, I assure that science experts in the field review and recommend the standards that are the most complete and up-to-date. This includes experts in scientific areas at the corporate level, teaching at our universities, researchers, and of course our science and tech teachers in Colorado. We also have a group of very interested high school and college students with Pro Science Good Trouble that I reach out to regularly to hear their concerns and what they are working on."
+
+- candidate_first_name: Karla
+  candidate_last_name: Esser
+  state: co
+  race: State Board of Education
+  district: 7
+  party: Democratic
+  question: co-q5
+  date: 2026-09-29
+  primary_candidate: false
+  response: |
+      "The State Board of Education reviews the Science Standards every six years, which was done one year ago. We always have open input when working on science literacy to hear all different perspectives, of which there are many. At the end of the day, we must adhere to fact based, scientific method proven standards. I reach out to the science professional field, including science students and professors to learn about any new research, or areas where we have missed the mark in the past. Climate Science is an area where I believe we have more to do and need more professional input to assure, we are current with all new research."

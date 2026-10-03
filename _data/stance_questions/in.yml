@@ -1,0 +1,36 @@
+- id: in-q1
+  question: >-
+    PFAS chemicals are widely used in consumer products but have raised
+    health concerns due to their persistence in the environment and
+    humans. What balance should policymakers strike among public-health
+    protection, testing and monitoring, feasibility for manufacturers, and
+    the availability of safer substitutes?
+  tag: Environment
+
+- id: in-q2
+  question: >-
+    Indiana currently has 59 data centers, with 12 underway, and plans for
+    27 more. What policies, if any, do you support in managing existing
+    data centers or establishing additional data centers? What specific
+    plans do you have, if any, to mitigate utility cost burden for
+    residents? Why these steps? (modified from above questions)
+  tag: Energy
+
+- id: in-q3
+  question: >-
+    Scientific issues increasingly influence public policy. When
+    developing policy positions or making decisions on topics involving
+    science, how do you seek out information, evaluate scientific evidence
+    and expert input, and ensure your decisions are well informed? If you
+    can, please share an example of when this process influenced your
+    perspective or decision.
+  tag: Trust in Science
+
+- id: in-q4
+  question: >-
+    Indiana universities receive millions of dollars annually in federal
+    research funding. In FY2025, Indiana universities saw a decline in
+    that funding by over $24 million. What is your view on these funding
+    reductions, and what policies, if any, would you support regarding
+    funding for scientific research conducted in Indiana?
+  tag: Science Funding

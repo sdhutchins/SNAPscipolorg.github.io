@@ -63,9 +63,36 @@ module StanceResponseValidator
   MAX_ENTRIES_PER_KIND = 20
   RULE_WIDTH = 72
 
-  def self.validate_filters(site)
+  # The build's entry point. Each area collects problems without raising, so
+  # every area runs before anything is reported: a contributor with a bad race
+  # in stance_filters.yml *and* a duplicate response sees both at once instead
+  # of discovering the second only after pushing a fix for the first. The areas
+  # are independent — none of them consumes another's output — so running them
+  # all on known-bad data cannot cascade. See AREAS at the foot of this module.
+  def self.validate_all(site)
+    sections = AREAS.filter_map do |method, title, footer|
+      problems = send(method, site)
+      [title, problems, footer] unless problems.empty?
+    end
+
+    report_and_raise_sections(sections)
+  end
+
+  # Run a single area on its own. The build uses validate_all; these remain so
+  # one area can be exercised in isolation, as the tests do.
+  def self.validate_one(method, site)
+    _, title, footer = AREAS.find { |m, _, _| m == method }
+    report_and_raise(title, send(method, site), footer)
+  end
+
+  def self.validate_filters(site) = validate_one(:filter_problems, site)
+  def self.validate_state_pages(site) = validate_one(:state_page_problems, site)
+  def self.validate(site) = validate_one(:response_problems, site)
+  def self.validate_team_data(site) = validate_one(:team_problems, site)
+
+  def self.filter_problems(site)
     filters = site.data[FILTERS_KEY]
-    return unless filters
+    return [] unless filters
 
     races = Array(filters["races"])
     ballot_order = Array(filters["race_ballot_order"])
@@ -79,13 +106,12 @@ module StanceResponseValidator
       problems << Problem.new(:file => file, :kind => "missing from races", :detail => %("#{race}"))
     end
 
-    report_and_raise("Stance filter validation failed", problems,
-                     "`races` and `race_ballot_order` must contain exactly the same entries.")
+    problems
   end
 
-  def self.validate(site)
+  def self.response_problems(site)
     filters = site.data[FILTERS_KEY]
-    return unless filters
+    return [] unless filters
 
     valid_tags = Array(filters["tags"])
     valid_races = Array(filters["races"]).to_set
@@ -299,17 +325,16 @@ module StanceResponseValidator
       end
     end
 
-    report_and_raise("Stance response validation failed", problems,
-                     "Valid values are defined in _data/stance_filters.yml.")
+    problems
   end
 
   # Team cards are optional, but a referenced local image must be usable. Jekyll
   # copies missing references into the rendered HTML without failing the build,
   # so validate them explicitly here. Instagram-only entries remain valid, and
   # this intentionally does not require an entry to choose exactly one card type.
-  def self.validate_team_data(site)
+  def self.team_problems(site)
     teams = site.data[TEAM_KEY]
-    return unless teams
+    return [] unless teams
 
     problems = []
     teams.each do |state_slug, entries|
@@ -350,8 +375,7 @@ module StanceResponseValidator
       end
     end
 
-    report_and_raise("Stance team validation failed", problems,
-                     "Team image files and alt text are defined in _data/stance_team/<state>.yml.")
+    problems
   end
 
   def self.candidate_name(entry)
@@ -376,9 +400,9 @@ module StanceResponseValidator
     state state_name demonym_plural team_email ballot_lookup_url ballot_lookup_label
   ].freeze
 
-  def self.validate_state_pages(site)
+  def self.state_page_problems(site)
     collection = site.collections["initiatives"]
-    return unless collection
+    return [] unless collection
 
     problems = []
     page_states = Set.new
@@ -413,8 +437,7 @@ module StanceResponseValidator
                               :detail => %(no page under _initiatives/#{STATE_PAGE_DIR} declares state: "#{state_slug}"))
     end
 
-    report_and_raise("Stance state page validation failed", problems,
-                     "Every state page must define: #{STATE_PAGE_REQUIRED_FIELDS.join(", ")}.")
+    problems
   end
 
   def self.validate_tags(tags, tag_set, tag_lower, add)
@@ -428,19 +451,27 @@ module StanceResponseValidator
     end
   end
 
+  def self.report_and_raise(title, problems, footer)
+    report_and_raise_sections(problems.empty? ? [] : [[title, problems, footer]])
+  end
+
   # Jekyll's logger squashes every run of whitespace in an exception message
   # into a single space (see Jekyll::LogAdapter#message), which turns a
   # multi-line report into one unreadable paragraph. So print the real report to
   # stderr ourselves and raise only a one-line summary that points at it.
-  def self.report_and_raise(title, problems, footer)
-    return if problems.empty?
+  def self.report_and_raise_sections(sections)
+    return if sections.empty?
 
-    report = render(title, problems, footer)
+    report = sections.map { |title, problems, footer| render(title, problems, footer) }.join("\n")
     $stderr.puts(report)
     $stderr.flush
     write_report_file(report)
 
+    problems = sections.flat_map { |_, area_problems, _| area_problems }
     files = problems.map(&:file).uniq.size
+    # One area failing keeps its own heading; several share a generic one,
+    # because each section already carries its heading in the report above.
+    title = sections.size == 1 ? sections.first.first : "Stance validation failed"
     raise "#{title}: #{plural(problems.size, "problem")} in #{plural(files, "file")} " \
           "(full report printed above)."
   end
@@ -531,11 +562,24 @@ module StanceResponseValidator
   def self.dim(text) = paint("2", text)
   def self.red(text) = paint("31", text)
   def self.yellow(text) = paint("33", text)
+
+  # The four independent areas, in report order: the method that collects that
+  # area's problems, the heading its section carries, and the footer pointing at
+  # where its valid values are defined. Declared last because the footers read
+  # constants defined above; Ruby resolves AREAS when validate_all is called,
+  # long after this file has finished loading.
+  AREAS = [
+    [:filter_problems, "Stance filter validation failed",
+     "`races` and `race_ballot_order` must contain exactly the same entries."],
+    [:state_page_problems, "Stance state page validation failed",
+     "Every state page must define: #{STATE_PAGE_REQUIRED_FIELDS.join(", ")}."],
+    [:response_problems, "Stance response validation failed",
+     "Valid values are defined in _data/stance_filters.yml."],
+    [:team_problems, "Stance team validation failed",
+     "Team image files and alt text are defined in _data/stance_team/<state>.yml."],
+  ].freeze
 end
 
 Jekyll::Hooks.register :site, :post_read do |site|
-  StanceResponseValidator.validate_filters(site)
-  StanceResponseValidator.validate_state_pages(site)
-  StanceResponseValidator.validate(site)
-  StanceResponseValidator.validate_team_data(site)
+  StanceResponseValidator.validate_all(site)
 end

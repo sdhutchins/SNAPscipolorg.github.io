@@ -1,0 +1,60 @@
+- id: ri-q1
+  question: >-
+    Rhode Island has among the highest electricity prices in the country, with
+    the Governor’s office having declared an Energy Affordability State of
+    Emergency in July 2026. What policies, if any, would you support to reduce
+    energy costs for Rhode Islanders, and how will you balance maintaining
+    grid reliability and meeting the state’s long-term climate goals?
+  tag: Energy
+
+- id: ri-q2
+  question: >-
+    Rhode Island has proposed more reporting, utility oversight, and zoning
+    guidance for large data centers, along with shifting some generation,
+    capacity, and reliability costs onto data center developers rather than
+    ordinary ratepayers. How should the costs and benefits of large data
+    center development be divided between developers and the public, and what
+    requirements, if any, would you support on power, water, and public
+    reporting before a project moves forward?
+  tag: Artificial Intelligence
+
+- id: ri-q3
+  question: >-
+    Rhode Island faces environmental challenges including sea-level rise,
+    flooding, coastal erosion, and extreme weather. How should the state
+    prioritize and fund environmental resilience projects, and what scientific
+    or economic criteria should be used to determine which communities and
+    infrastructure receive investment first?
+  tag: Environment
+
+- id: ri-q4
+  question: >-
+    PFAS chemicals are widely used in consumer products but have raised health
+    concerns due to their persistence in the environment and humans, and new
+    state legislature-passed restrictions on their use will soon begin to be
+    implemented. How should the state respond as scientific evidence about
+    PFAS exposure and health effects continues to evolve? What balance should
+    policymakers strike among public-health protection, testing and
+    monitoring, feasibility for manufacturers, and the availability of safer
+    substitutes?
+  tag: Public Health
+
+- id: ri-q5
+  question: >-
+    Rhode Island has seen an over 50% decline in drug overdose deaths since
+    2022, already surpassing its 2030 reduction goal. Which evidence-based
+    policies related to prevention, harm reduction, treatment, and recovery
+    would you prioritize to ensure continued positive progress, and how would
+    you evaluate whether state investments are reducing overdose deaths and
+    improving long-term outcomes?
+  tag: Public Health
+
+- id: ri-q6
+  question: >-
+    Rhode Island universities, hospitals, and research organizations are a
+    core part of our state’s economy and rely heavily on government support
+    for biomedical and scientific research. What policies, if any, would you
+    support to ensure stable research funding while also promoting
+    accountability, scientific integrity, and translation of federally funded
+    discoveries into benefits for Rhode Island communities?
+  tag: Science Funding

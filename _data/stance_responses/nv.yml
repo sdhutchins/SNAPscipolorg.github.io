@@ -1,0 +1,912 @@
+- candidate_first_name: Vinny
+  candidate_last_name: Spotleson
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    More money for it! Also more science at all grades, and funding for after school programs like robotics. 
+    Keywords: Funding, money, dinero
+
+- candidate_first_name: Vinny
+  candidate_last_name: Spotleson
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: |
+    The priority needs to be mitigating climate change. We also need policies that encourage the retiring of water rights and limit the ability for heavy industry to consume water. 
+    Data centers and mines should be forced to offset what they consume. I also believe in fighting sprawl to save water.
+    Keywords: Climate conservation regulation 
+
+
+- candidate_first_name: Vinny
+  candidate_last_name: Spotleson
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: |
+    We need to put teeth in our heat planning bills. We should stop electricity providers from being able to cut people's power in the summer. 
+    More cooling stations and transit are also needed.
+    Keywords: Electricity Cooling funding
+
+- candidate_first_name: Vinny
+  candidate_last_name: Spotleson
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: |
+    I am working to legalize solar on parking lots, apartments, businesses, and highway shoulders. We need to increase the deployment of storage. We should be 100% powered by the sun all day everyday.
+    Keywords: Virtual net meter g
+
+- candidate_first_name: Vinny
+  candidate_last_name: Spotleson
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: |
+    I would like to ban them but if we can't I want to impose a huge regulatory structure taking away abatements, forcing them to invest in community solar, and retire water to offset their use. 
+    They should also be built with union labor.
+    Keywords: Water electric regulation
+
+- candidate_first_name: Vinny
+  candidate_last_name: Spotleson
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: |
+    We need to be careful about where these mines go, and we need to make sure we are recycling and capturing every bit of lithium that has already been mined.
+    Keywords: Recycling, planning
+
+- candidate_first_name: Ryan
+  candidate_last_name: Hampton
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   My mom was a public school teacher, so I know what it looks like when a classroom is asked to do more with less. The numbers tell us Nevada kids are not getting the science education they deserve, and the fix starts with the adults in the room. I would support competitive pay and retention bonuses for STEM teachers in hard to staff schools, paid residency and mentoring programs so new science teachers stay past year three, and alternative licensure pathways for working scientists and engineers who want to teach. 
+   I would fund hands on lab time and updated materials so science is something students do, not just read about. And I would push to fund K-12 at the national average and require that new revenue, including from industries getting tax breaks, actually reaches classrooms and teacher paychecks. 
+   We should measure what works, keep what works, and stop funding what does not. 
+    Keywords: teacher pay, STEM pipeline, classroom funding
+
+- candidate_first_name: Ryan
+  candidate_last_name: Hampton
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   Water decides whether Southern Nevada has a future. I follow the science, and the science says we are pulling more groundwater than nature puts back in too many basins. 
+   I would support requiring current hydrological data for any new large withdrawal, closing over appropriated basins to new permits, and fully funding the State Engineer and groundwater monitoring so we actually know what is in the ground. I would keep investing in what has worked in Las Vegas, which is conservation, turf removal, and recycling nearly all of our indoor water. 
+   On balancing demands, I start from a simple rule. Families and public health come first, and any industry that wants Nevada's water has to show it can be water neutral or close to it. Agriculture deserves a fair transition with voluntary buyouts and support for less water intensive crops, not a cliff. 
+   And the Colorado River negotiations are not over, so Nevada has to keep leading from a position of responsible use. 
+    Keywords: groundwater, conservation, water neutral
+
+- candidate_first_name: Ryan
+  candidate_last_name: Hampton
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   Extreme heat kills more Nevadans than any other weather event, and the people it kills usually have the fewest options. I would support an enforceable state heat standard for outdoor and indoor workers with rest, shade, and water requirements, and real penalties for employers who ignore it. 
+   I would fund cooling centers with extended hours and transportation to reach them, and stop utility shutoffs during extreme heat so seniors and families are not sitting in 115 degree homes over a late bill. 
+   I would invest in tree canopy and cool pavement in the neighborhoods with the least shade, which are almost always the lowest income ones. Schools need working air conditioning and heat plans for recess and sports. And the state should track heat related deaths and hospitalizations the way we track any other public health threat, so we can see whether what we are doing is working.
+    Keywords: worker protections, cooling access, public health
+
+- candidate_first_name: Ryan
+  candidate_last_name: Hampton
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   Renewables should be the backbone of Nevada's energy future, not a side project. We have some of the best solar in the world, and every megawatt we generate here is money that stays here instead of going to out of state gas markets. 
+   I would support pairing solar with battery storage so it works after sundown, faster permitting for projects on already disturbed land, and expanding community solar so renters and people who cannot put panels on a roof can still benefit. Rooftop solar customers should get fair credit for the power they send back, and I would oppose any effort to weaken net metering. Affordability has to be the test for every policy. That means holding NV Energy accountable when it asks for rate increases, protecting low income customers, and making sure the cost of new generation for big industrial users lands on those users and not on households. 
+    Keywords: solar and storage, net metering, affordability
+
+- candidate_first_name: Ryan
+  candidate_last_name: Hampton
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   Data centers are welcome in Nevada, but not on the current terms. A trillion dollar industry does not need giveaways from a state that cannot fully fund its schools. I would require every proposed data center to submit independent, verifiable projections of its water and electricity use before permitting, with penalties if actual use blows past them. 
+   Companies should be required to be water neutral through recycling and offsets, and they should pay the full cost of the new generation and transmission they need so residents are not subsidizing them on their power bills. 
+   I would end or tightly condition tax abatements and direct that revenue toward education. Planning should be regional, not project by project, so the state sees the cumulative demand instead of being surprised by it. If a company meets those conditions, it brings good jobs and investment. If it cannot, it should build somewhere else.
+    Keywords: accountability, water neutral, no giveaways
+
+- candidate_first_name: Ryan
+  candidate_last_name: Hampton
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   Nevada has always been a mining state, and lithium gives us a real chance to lead the clean energy economy instead of watching it happen somewhere else. But we have seen what happens when extraction comes first and the science comes later, and the communities left holding the bill are usually rural and tribal. I would support requiring independent environmental and hydrological assessments before permits are issued, not after, with real weight given to those findings. 
+   Companies should post full reclamation bonds up front, meet water limits based on the actual basin, and consult meaningfully with affected tribes and communities. I would also support updating Nevada's royalty and tax structure so the state gets a fair return on resources that belong to all of us. Science should not be a box to check. It should decide where mining happens, how much water it can use, and what the company owes when it leaves. 
+    Keywords: independent assessments, reclamation, fair return
+
+- candidate_first_name: Paul
+  candidate_last_name: Casey JD
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   Paul Casey — JD Candidate for CCSD Trustee District G response:
+    Nevada’s science results are unacceptable. When only about 14% of fifth-graders and 36% of eighth-graders meet or exceed state science standards, we need to focus on measurable results—not simply increasing spending. 
+    Nevada Legislature
+    I would support evidence-based policies that strengthen science instruction while holding schools and the district accountable for outcomes. First, we should ensure teachers have access to high-quality, standards-aligned STEM curriculum, laboratory equipment, hands-on learning, and meaningful professional development. Research from national assessments indicates that higher-performing students are more likely to have access to adequate science resources. 
+    Nations Report Card
+    Second, we should recruit and retain qualified STEM educators by expanding targeted incentives, scholarships, mentorships, and alternative pathways for qualified professionals to enter teaching. Nevada already has a new STEM endorsement for licensed teachers, including financial assistance for educators pursuing it. 
+
+    Finally, CCSD should use data to identify schools with the greatest needs and direct resources accordingly. We must measure whether programs actually improve student achievement.
+    As a trustee, my priority would be simple: **better science education, better-qualified teachers, greater opportunity for students, and measurable results for every taxpayer dollar spent.**
+    Keywords: better science education, better-qualified teachers, greater opportunity for students, and measurable results for every taxpayer dollar spent.
+
+- candidate_first_name: Paul
+  candidate_last_name: Casey JD
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "The key point is that a CCSD Trustee does not have direct authority over Nevada’s statewide water policy. The trustee’s responsibility is primarily education governance: setting district policy, approving the budget, overseeing the superintendent, and representing the community. 
+
+    Paul Casey — JD Candidate for CCSD Trustee District G
+    Nevada’s water future is important to every family, business, and community, but I also believe we must recognize the proper role of a CCSD Trustee. The Board of Trustees is responsible for education policy, district priorities, the budget, and oversight of the Superintendent—not statewide water regulation. 
+
+    That said, I would support responsible water conservation within CCSD and encourage the District to lead by example. This includes maintaining efficient facilities, addressing leaks and unnecessary water use, evaluating water-efficient landscaping and irrigation, and considering conservation when constructing or renovating schools.
+
+    I would also support expanding science, technology, engineering, and mathematics education so students understand Nevada’s unique water challenges and can become the engineers, scientists, entrepreneurs, and policymakers who develop tomorrow’s solutions.
+
+    At the state level, I support sound, science-based water management that protects long-term access to clean water while recognizing the legitimate needs of communities, agriculture, businesses, and the environment. We should make decisions based on reliable data, long-term sustainability, property rights, and responsible stewardship—not politics or short-term interests.
+
+    As a Trustee, my responsibility is to make CCSD a responsible steward of its resources while preparing our students to solve Nevada’s future challenges. "
+    
+    Keywords: Education, conservation and alternative efforts to protect Nevada’s resources
+
+- candidate_first_name: Paul
+  candidate_last_name: Casey JD
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Paul Casey — JD Candidate for CCSD Trustee District G
+    Nevada’s extreme heat is a serious safety issue, particularly for children, seniors, low-income families, and people who work outdoors. As a CCSD Trustee, my responsibility would be to focus on what we can control: protecting students and employees on school campuses while using taxpayer resources responsibly.
+
+    CCSD already has heat-safety procedures requiring access to water and shade, monitoring students for heat stress, and limiting strenuous outdoor activities during the hottest parts of the day. I would support strengthening those practices where necessary, including adequate hydration, shaded play and waiting areas, well-maintained air conditioning, and clear protocols for modifying or postponing outdoor activities during dangerous conditions.
+
+    I would also support prioritizing shade structures, trees, reflective roofing, and other practical improvements when schools are constructed or renovated. These investments can improve student safety while potentially reducing long-term cooling costs. 
+
+    For vulnerable families, schools can also serve as trusted points of education and communication about heat safety and available community resources.
+
+    My approach is practical: protect our children, support our employees, maintain safe facilities, and spend taxpayer dollars on solutions that produce measurable results—not politics."
+    Keywords: Protection, solutions, cost effevtive
+
+- candidate_first_name: Paul
+  candidate_last_name: Casey JD
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Paul Casey — JD Candidate for CCSD Trustee District G
+    Nevada should pursue a balanced energy strategy that welcomes renewable energy while keeping electricity reliable, affordable, and accessible. 
+
+    Solar is a natural opportunity for Nevada, given our abundant sunshine, but I do not believe we should put all of our energy future into one source. We should encourage a diverse energy portfolio, including solar, geothermal, energy storage, and other reliable generation technologies.
+
+    Policies should encourage private investment and innovation rather than unnecessarily increasing costs for taxpayers and ratepayers. Any renewable-energy policy should be evaluated based on reliability, affordability, long-term costs, and measurable benefits.
+
+    I also believe Nevadans who invest their own money in rooftop solar should be treated fairly. Nevada’s existing net-metering system allows customers to receive credits for excess electricity returned to the grid. 
+
+    I support a transparent system that fairly compensates customer-generated power while also ensuring that customers who do not have solar are not unfairly burdened with costs they did not create.
+
+    As a CCSD Trustee, my direct responsibility is education, not statewide energy regulation. However, I would support energy-efficiency improvements in CCSD facilities where they make financial sense, including efficient HVAC systems, lighting, and potentially solar and battery storage where the numbers demonstrate a responsible return on investment.
+
+    My principle is simple: embrace innovation, protect affordability, maintain reliability, and make decisions based on results—not ideology." 
+
+    Keywords: Innovation,  affordability, results reliability
+
+- candidate_first_name: Paul
+  candidate_last_name: Casey JD
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Paul Casey — JD Candidate for CCSD Trustee District G
+    Nevada should welcome economic investment and new industries, but growth must be responsible. Large data centers and other energy-intensive developments can create jobs, expand the tax base, and bring significant investment. At the same time, their demands on electricity and water must be accurately understood before projects are approved.
+
+    I support transparent, data-driven planning that requires developers to clearly account for projected energy and water consumption, infrastructure requirements, and long-term impacts. Those costs should not be shifted unfairly onto Nevada families and existing ratepayers.
+
+    We should also encourage technologies that reduce resource consumption, including energy-efficient data centers, renewable energy, battery storage, water-efficient cooling systems, and the responsible use of recycled or non-potable water where appropriate.
+    Economic development and responsible resource management do not have to be competing goals. Nevada can attract investment while protecting its residents by requiring appropriate infrastructure planning and ensuring that those creating significant new demand contribute fairly to the infrastructure needed to support it.
+
+    As a CCSD Trustee, I recognize that statewide permitting and utility regulation are outside the Board’s direct authority. My responsibility is to protect the District’s budget and facilities and ensure that CCSD is prepared for growth.
+
+    My standard is simple: welcome opportunity, plan responsibly, protect taxpayers, and make sure growth strengthens Nevada rather than placing an unfair burden on the people who already live here."
+    Keywords: Responsibility,  private enterprises carry the cost, protect taxpayers
+
+- candidate_first_name: Paul
+  candidate_last_name: Casey JD
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Paul Casey — JD Candidate for CCSD Trustee District G
+
+    Nevada’s mineral resources are an important part of our economy and our national security, particularly as demand grows for lithium and other critical minerals. I support responsible mining that allows Nevada to benefit from these resources while protecting our water, environment, and communities.
+
+    Mining decisions should be based on sound science, transparency, and accountability. Before major projects move forward, appropriate scientific and environmental assessments should evaluate potential impacts on groundwater, surface water, wildlife, ecosystems, air quality, and surrounding communities. Those assessments should be taken seriously, and developers should be held accountable for complying with environmental requirements and mitigating legitimate impacts.
+
+    At the same time, we should avoid unnecessary bureaucracy that prevents responsible development, investment, and good-paying jobs. Nevada can protect its natural resources without shutting the door on economic opportunity.
+
+    Companies benefiting from Nevada’s resources should contribute appropriately to the infrastructure and mitigation necessary to address impacts they create. Communities deserve transparency about projected water use, environmental risks, economic benefits, and long-term responsibilities.
+
+    As a CCSD Trustee, I recognize that mining regulation is primarily a state and federal responsibility. My role would be to focus on education while supporting STEM opportunities that prepare Nevada students for careers in mining, engineering, environmental science, technology, and other growing industries.
+
+    We can protect our environment, respect our communities, and responsibly develop Nevada’s resources—without sacrificing opportunity."
+
+    Keywords: Environment,  respect and responsibility 
+
+- candidate_first_name: Brad Lee
+  candidate_last_name: Barnhill
+  state: nv
+  race: Secretary of State
+  party: Non-partisan
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   The Nevada Secretary of State has jurisdiction over Nevada elections and Nevada corporate filings. 
+   The office does not have jurisdiction over this issue and would be unable to either support or oppose policy for this issue. This is not a cop-out, it is just the facts.
+
+- candidate_first_name: Brad Lee
+  candidate_last_name: Barnhill
+  state: nv
+  race: Secretary of State
+  party: Non-partisan
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   The Nevada Secretary of State has jurisdiction over Nevada elections and Nevada corporate filings. 
+   The office does not have jurisdiction over this issue and would be unable to either support or oppose policy for this issue. This is not a cop-out, it is just the facts.
+
+- candidate_first_name: Brad Lee
+  candidate_last_name: Barnhill
+  state: nv
+  race: Secretary of State
+  party: Non-partisan
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   The Nevada Secretary of State has jurisdiction over Nevada elections and Nevada corporate filings. 
+   The office does not have jurisdiction over this issue and would be unable to either support or oppose policy for this issue. This is not a cop-out, it is just the facts.
+
+- candidate_first_name: Brad Lee
+  candidate_last_name: Barnhill
+  state: nv
+  race: Secretary of State
+  party: Non-partisan
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   The Nevada Secretary of State has jurisdiction over Nevada elections and Nevada corporate filings. 
+   The office does not have jurisdiction over this issue and would be unable to either support or oppose policy for this issue. This is not a cop-out, it is just the facts.
+
+- candidate_first_name: Brad Lee
+  candidate_last_name: Barnhill
+  state: nv
+  race: Secretary of State
+  party: Non-partisan
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   The Nevada Secretary of State has jurisdiction over Nevada elections and Nevada corporate filings. 
+   The office does not have jurisdiction over this issue and would be unable to either support or oppose policy for this issue. This is not a cop-out, it is just the facts.
+
+- candidate_first_name: Brad Lee
+  candidate_last_name: Barnhill
+  state: nv
+  race: Secretary of State
+  party: Non-partisan
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   The Nevada Secretary of State has jurisdiction over Nevada elections and Nevada corporate filings. 
+   The office does not have jurisdiction over this issue and would be unable to either support or oppose policy for this issue. This is not a cop-out, it is just the facts.
+
+- candidate_first_name: Trista
+  candidate_last_name: Gomez
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    With foundational reading and math levels at a low, it seems very hard to try to then also pull in science standards.  
+    Anecdotally, my kids had traditional phonics and traditional math, and are able to do hard and high sciences. 
+    Their peers that did not have that seem to struggle significantly.  The foundation has to be secure.  I absolutely agree that something has to be done about schooling. When were the last set of outcomes that were acceptable, what were we doing, what was the culture, the methods, the structure.  
+    We have tons of data points.  We have to agree on what the outcomes should be, when those were accomplished and what we were doing then.  For literacy in all areas. 
+
+- candidate_first_name: Trista
+  candidate_last_name: Gomez
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    This is one of my biggest concerns.   While Northern Nevada talks about having more than adequate "reserves", answers concerning aquifers and ground water are always evaded and vague.  
+    Our allocation of the Colorado River was just cut significantly, and that is also because that essential water resource is receding.  The debate is so heavy.  I wonder if the answer is to say that legislatively, we put laws into place that place responsibility of wells, drainage, inadequate water, property damage, etc, directly on developers and extreme water users.  
+    Our region has natural and real limitations.  The people, tribes, animals, landscape, etc, have got to have top priority.  Damage done to those populations and resources should be paid for directly by the people building and profiting off of them. I would hope that we could simply say no until we know the impacts, but it doesn't seem possible in the current political climate. 
+    I believe that if we put an end type of consequence on all types of development, making them responsible financially - with a bond upfront - of resource depletion and property damage - that the resource users would have a barrier and responsibility to residents and resources with real teeth.
+
+- candidate_first_name: Trista
+  candidate_last_name: Gomez
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    Another major concern. Congruent to extreme development, warming trends cannot be mitigated with trees and shade structures.  Shade structures could be even more harmful.  
+    There has to be a foundational shift in how we are using the resources and thinking of development.  The overuse of these resources may very well end up costing taxpayers, and all resident heavily, both financially, with property value, resource cost increase and simply loss of resources.  
+    Again, threshold changes, end consequence mitigation, upfront cost barriers and community contributions are the only way to legally slow and address these issues. There is simply too much financial influence to mitigate it otherwise. I wish we had addressed these impactful issues beforehand. 
+
+- candidate_first_name: Trista
+  candidate_last_name: Gomez
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    Some of these renewable resources have their own issues, long term termination and disposal effects, wildlife effects, etc.  
+    This is a bit of a double-edged sword in my opinion.  A balance possibly, including rewards for consumption decrease?  Incentive for regenerative options? This needs a transparent conversation with informed professionals and public debate before additional development.
+
+- candidate_first_name: Trista
+  candidate_last_name: Gomez
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    There would have to be strict and enforced water usage metering and monitoring.  
+    I also think you'd have to prevent, in legislation, that those centers could ever be considered essential infrastructure that could supersede those resources being over allocated to them instead of people and environment. 
+
+- candidate_first_name: Trista
+  candidate_last_name: Gomez
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    This is a big answer. Ultimately, possibly, we take precedent and procedure of existing and known mining consequences, put an end consequence and hard limitation of resources in. 
+    Something like I suggested for development and data centers. This isn't an area that I know a lot about, but I know a bit about mines.  I am worried about the impacts. Before these are allowed, I think we would have to have legislation that allows change in resource allocation and cost when information changes. 
+    Research and limitations, allowance for changes, before we get too far on this, but I think it's too late.  I went to Europe and an informed guy looking to get into the field knew about the Lithium veins in Nevada. 
+
+- candidate_first_name: Jon Penn
+  candidate_last_name: Junejo
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "As a psychiatry provider and clinician, I can attest to the lasting value of early science education. I learned the scientific method in Ms. Coffman’s fifth-grade class and, in sixth grade, conducted a science fair experiment surveying my peers about diet and health. Those early experiences helped prepare me for college and graduate science courses, ultimately contributing to my earning a psychiatry doctorate from Columbia with a 4.0 GPA and applying science every day while treating patients in rural and underserved communities.
+
+    I want Nevada students to have those same opportunities. I support expanding hands-on science education beginning in elementary school, including experiments, laboratories, science fairs, and problem-solving that connects STEM to students’ lives and careers.
+
+    We must also recruit and retain qualified STEM educators. I support scholarships, loan assistance, professional development, and targeted compensation for STEM teachers who commit to Nevada, particularly rural and high-need schools, alongside stronger partnerships between school districts, NSHE institutions, and employers. We should measure student proficiency and teacher retention to ensure these investments are producing results.
+
+    Keywords: Early science exposure · STEM educators · Rural access"
+
+- candidate_first_name: Jon Penn
+  candidate_last_name: Junejo
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Water policy in the nation’s driest state must be guided by science, conservation, and long-term sustainability. I support more frequent groundwater studies, particularly in basins experiencing substantial withdrawals and rural communities where reliable, uncontaminated water can be especially vulnerable. I also support independent monitoring and greater public transparency regarding groundwater levels, water quality, and major users.
+
+    Nevada should expand conservation, water recycling, efficient irrigation, and partnerships among state agencies, universities, local governments, and natural-resource organizations. Large new industrial developments should demonstrate sustainable water supplies without shifting long-term risks onto surrounding communities.
+
+    I also support Nevada’s recent agreement with California, Arizona, and federal partners to explore interstate water exchanges. Partnerships involving desalination, recycled water, and other new supplies could increase regional water security without reallocating existing water rights or requiring costly new interstate pipelines. Nevada should pursue these innovative sources while vigorously protecting its Colorado River interests.
+
+    Agriculture, communities, industry, and environmental needs all matter. Decisions should be based on reliable water data, long-term aquifer sustainability, economic need, conservation performance, and the consequences for future generations."
+
+    Keywords: Groundwater sustainability · Conservation · Water security
+
+- candidate_first_name: Jon Penn
+  candidate_last_name: Junejo
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "As a psychiatry provider in Nevada, I have seen how environmental conditions can affect both mental and physical health. Extreme heat can worsen medical and psychiatric conditions, and as Nevada becomes hotter and drier, protecting residents—particularly children, older adults, outdoor workers, and people without reliable air conditioning—must become a greater public-health priority.
+
+    I support expanding cooling centers and hydration stations in high-risk communities, accompanied by public-service campaigns encouraging hydration and educating residents about heat-related illness. Schools, parks, bus stops, and other public spaces should incorporate more shade, trees, and heat-resistant infrastructure, particularly in neighborhoods experiencing the greatest heat exposure.
+
+    Nevada should also strengthen protections for outdoor workers during extreme heat, including access to water, shade, rest periods, and appropriate emergency protocols. We should identify vulnerable residents during severe heat events and strengthen partnerships among local governments, healthcare systems, utilities, and community organizations to connect them with cooling resources.
+
+    Finally, conservation and heat resilience should work together. Nevada should expand efficient water use, recycled water, and drought-appropriate urban vegetation so we can cool communities without unnecessarily increasing pressure on limited water supplies."
+
+    Keywords: Heat resilience · Public health · Vulnerable populations
+
+- candidate_first_name: Jon Penn
+  candidate_last_name: Junejo
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Nevada should use its natural advantages to produce more of the energy we consume while keeping household electricity affordable. Solar should remain central to that strategy, complemented by geothermal, wind where practical, and energy storage. Nevada’s lithium resources—while not themselves renewable—also give our state an opportunity to support rechargeable batteries and energy storage while creating jobs.
+
+    I would support incentives that make geothermal, solar, storage, and other renewable projects economically competitive, while evaluating projects based on reliability, environmental impacts, water consumption, and costs passed on to ratepayers. Expanding transmission and storage is also important so renewable electricity generated at one time or location can meet demand when Nevadans need it.
+
+    For households, renewable policy should lower rather than increase the cost of living. I support preserving fair net-metering opportunities so residents who invest their own money in rooftop solar receive reasonable credit for excess electricity they return to the grid, while maintaining a reliable system for all customers.
+
+    Nevada can increase energy independence, diversify its supply, create jobs, and reduce long-term energy costs without placing a disproportionate burden on working families."
+    
+    Keywords: Renewable energy · Affordability · Energy independence
+
+- candidate_first_name: Jon Penn
+  candidate_last_name: Junejo
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Data centers can bring investment and jobs to Nevada, but those benefits must be weighed against their substantial water, electricity, and infrastructure demands. I support requiring proposed facilities to provide transparent, independently reviewed projections of water and energy consumption before receiving major state incentives or approvals.
+
+    I oppose locating data centers in Pahrump and Nye County. These communities face significant water constraints, extreme heat, limited infrastructure, and other challenges that make energy- and water-intensive development inappropriate. Economic development should improve residents’ quality of life without jeopardizing long-term water security or increasing pressure on household electricity costs.
+
+    Elsewhere in Nevada, I would prioritize closed-loop and other water-efficient cooling systems and require siting decisions to consider climate, sustainable water availability, transmission capacity, environmental risks, and effects on ratepayers.
+
+    Large industrial users should also bear an appropriate share of infrastructure and generation costs attributable to their demand rather than shifting those costs onto Nevada households. I support technological investment where Nevada has the resources and infrastructure to accommodate it responsibly, with ongoing reporting to ensure actual water and electricity consumption matches projections."
+
+    Keywords: Water security · Responsible siting · Ratepayer protection
+
+- candidate_first_name: Jon Penn
+  candidate_last_name: Junejo
+  state: nv
+  race: State Assembly
+  party: Democratic
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Nevada’s mineral resources, particularly lithium, are an important economic asset and give our state a unique role in America’s energy and technology supply chains. I support developing these resources responsibly while protecting the water, ecosystems, and communities that make that development possible.
+
+    We should strengthen Nevada’s “Lithium Loop” by investing not only in extraction, but also battery manufacturing and recycling. Recovering lithium and other valuable materials from used batteries can reduce waste, extend the value of finite mineral resources, and create additional Nevada jobs.
+
+    Because Nevada is the nation’s driest state, water use must be central to mining decisions. I support encouraging lower-water extraction and processing technologies, including direct lithium extraction where scientifically and geologically appropriate, alongside water recycling and conservation.
+
+    Scientific and environmental assessments should occur before projects are approved and continue throughout their operation. I support regular, independent assessments of groundwater, ecosystems, contamination risks, and actual resource consumption. These reviews should be transparent and informed by interdisciplinary teams that include scientists, regulators, industry, and residents of affected communities.
+
+    Economic development and environmental stewardship should reinforce one another, ensuring Nevada’s mineral resources remain an asset for generations."
+
+    Keywords: Lithium recycling · Water conservation · Scientific oversight
+
+- candidate_first_name: Robert E. 
+  candidate_last_name: Hutchinson
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Right now, too many Nevada classrooms are struggling because we aren't doing enough to support and retain qualified STEM educators.
+    To fix this, means offering competitive compensation and targeted retention stipends for STEM teachers in high need schools so we stop losing talent to neighboring states or private industries. 
+    We also need to expand hands on, experiential learning resources, like modern lab equipment and outdoor education corridors, so students can see science in action rather than just reading about it in a textbook. Supporting education means trusting our educators and keeping our classrooms open, inclusive, and rich with diverse resources. 
+    When we invest in our teachers, we give every Nevada child a fair shot at the modern workforce, whether they want to go into clean energy, healthcare, or technology."
+    Keywords: STEM retention, competitive compensation, hands on learning, critical thinking, public education.
+
+- candidate_first_name: Robert E. 
+  candidate_last_name: Hutchinson
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Here in the Las Vegas, we live on the front lines of the Colorado River crisis and a drought.
+    We must protect our long term water supplies by grounding all future development and zoning approvals in rigorous, independent hydrological data rather than optimistic projections. 
+    Conservation must be non negotiable. Heavy water users like data centers must be enforced to strict regulatory guardrails. Data centers should be required to utilize advanced closed loop, water free cooling systems to ensure they do not strain our municipal supplies. Protecting our water security is the ultimate prerequisite for keeping Las Vegas viable for generations to come."
+    Keywords: Municipal conservation, strict hydrological oversight, closed loop cooling, water security.
+
+- candidate_first_name: Robert E. 
+  candidate_last_name: Hutchinson
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Las Vegas is one of the fastest warming cities in the country, and extreme urban heat is no longer just a weather challenge, it is an urgent public health and equity crisis. 
+    The urban, targeted infrastructure investments. We must aggressively expand cool corridors across our valley by funding shade structures, transit shelters, and urban forestry in historically underserved neighborhoods. When a child walks to and from school or a resident waits for public transit, shade relief must be treated as basic public safety infrastructure.
+    Furthermore, we must protect our outdoor workforce from construction crews to hospitality workers by enforcing robust workplace heat safety standards, ensuring reliable hydration access. "
+    Keywords:Urban heat island, cool corridors, equitable shade infrastructure, outdoor worker safety, public health equity.
+
+- candidate_first_name: Robert E. 
+  candidate_last_name: Hutchinson
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    Renewable energy in Nevada already powers a massive share of our state, and as our electricity demand grows, solar and other renewables must continue to play the leading role in our energy future. 
+    However, transitioning to clean energy must never come at the expense of our working families. I support policies that expand solar development while protecting household affordability. We must ensure that residents and small businesses who invest in rooftop solar can participate fairly in the energy system through equitable net metering policies, rather than being penalized by utility fee structures. Energy policy should lower costs for everyday ratepayers while accelerating our transition away from fossil fuels, ensuring that the economic benefits of the green economy are felt by all Nevadans, not just large utility shareholders.
+    Keywords: Solar abundance, household affordability, rooftop solar equity, fair net metering.
+
+- candidate_first_name: Robert E. 
+  candidate_last_name: Hutchinson
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    I am strongly opposed to bringing more data centers to Nevada. In a desert climate defined by severe water scarcity and extreme rising temperatures, approving massive facilities simply does not make ecological or economic sense for our community. 
+    Data centers place an enormous strain on our electrical grid and consume millions of gallons of water for cooling, all while creating very few long term jobs relative to their massive footprint. In the Las Vegas, every drop of water and every kilowatt of energy is precious. 
+    We cannot afford to subsidize or accommodate industries that threaten our long term water security and drive up utility costs for everyday residents. Instead, our planning priorities must focus on sustainable industries that respect our desert environment, protect our scarce resources, and prioritize the well being of local families over outside corporate expansion.
+    Keywords: Desert water scarcity, grid strain, resource protection, utility cost protection, and community first planning
+
+- candidate_first_name: Robert E. 
+  candidate_last_name: Hutchinson
+  state: nv
+  race: Local County Races [All]
+  county_race:  Clark County School District Board of Trustees
+  party: Non-partisan
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    Mining is part of our historical identity, and our lithium is central to the nation's clean energy future. But extraction cannot come at the permanent expense of our water, desert ecosystems, and local communities. 
+    Balancing mining development with environmental protection requires letting science lead the way. We need to rely on independent, reviewed environmental and hydrological assessments to determine where and how mining can occur safely before issuing permits. 
+    If a proposed project threatens groundwater or endangered ecosystems, environmental protection must come first. At the same time, we need community oversight and tribal consultation throughout the process. Mining companies should be held to strict standards, ensuring they clean up after themselves and leave local communities protected rather than burdened with long term ecological damage.
+    Keywords: Science led assessments, groundwater protection, tribal consultation, strict reclamation, sustainable extraction.
+
+- candidate_first_name: Calvin
+  candidate_last_name: Sandoval
+  state: nv
+  race: State Senate
+  party: Democratic
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Nevada’s science scores should concern all of us, but the answer is not simply spending more or adding bureaucracy.
+
+    I support competitive pay for teachers. Teaching is a career, and educators should be paid as professionals. We must also recruit and retain qualified STEM teachers and create practical pathways for experienced professionals in science, engineering, technology, healthcare, construction, and the skilled trades to enter classrooms without lowering standards.
+
+    Nevada law already provides structures for examining education policy and outcomes. We should use them to focus on what works rather than create bureaucracy for its own sake.
+
+    I support hands on science education and stronger partnerships with colleges and universities. Programs such as the NSF Noyce Teacher Scholarship at the University of Nevada, Reno, show how we can recruit and prepare STEM teachers while connecting them to the communities they serve. We should expand partnerships among schools, higher education, apprenticeship programs, unions, and Nevada employers so students can connect learning to real careers.
+
+    Finally, we need accountability for education spending. More resources should reach teachers, classrooms, laboratories, and students. Nevada schools need qualified educators, practical training opportunities, and the tools necessary to teach state standards successfully."
+
+    Keywords: Competitive teacher pay, teacher retention, STEM recruitment, hands on science, career and technical education, apprenticeships, skilled trades, classroom resources, science labs, workforce partnerships, accountability, education spending, real world learning, college partnerships, union partnerships, Nevada employers, teacher professionalism, student outcomes.
+
+- candidate_first_name: Calvin
+  candidate_last_name: Sandoval
+  state: nv
+  race: State Senate
+  party: Democratic
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Water is one of Nevada’s most important long term issues, and we cannot manage it as if supplies are unlimited. Nevada is among the driest states in the country, making responsible water planning essential.
+
+    I support better monitoring of groundwater levels and actual water use, stronger conservation in depleted basins, expanded water reuse, and aquifer recharge where appropriate. Decisions should be based on reliable data and long term supply projections not made after a community is already in crisis.
+
+    I also oppose a one size fits all approach. Agriculture, cities, industry, and the environment all have legitimate water needs. Policies should be developed basin by basin, with local communities and existing water rights holders meaningfully involved.
+
+    My priority is protecting reliable drinking water for Nevada families while ensuring agriculture and businesses can continue to operate. New development and water intensive industries should demonstrate a sustainable water supply before receiving approval. Growth should not leave existing residents with higher costs or less reliable service.
+
+    Nevada must plan for the next fifty years not just the next election cycle."
+    
+    Keywords: Groundwater sustainability, conservation, aquifer recharge, water reuse, groundwater monitoring, sustainable yield, existing water rights, basin by basin management, drinking water protection, agriculture, responsible growth, water intensive industry, infrastructure reliability, Horizon Lateral, long term planning, drought resilience, local input, Nevada first.
+
+- candidate_first_name: Calvin
+  candidate_last_name: Sandoval
+  state: nv
+  race: State Senate
+  party: Democratic
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Extreme heat is not theoretical in Nevada. If you have worked outside here, you know what 110 or 115 degrees feels like. The Desert Research Institute has documented extreme heat as a growing public health threat, affecting workers, families, seniors, children, and vulnerable residents across our state.
+
+    We need practical protections for those facing the greatest risks. Outdoor workers should have access to water, shade, reasonable rest periods, heat-illness training, and schedule adjustments when conditions become dangerous. Nevada must enforce existing heat protections and ensure workers are not punished for reporting unsafe conditions.
+
+    We also need to help residents keep their homes safe. Expanding cooling centers, public information, and utility assistance can protect people who cannot afford to run their air conditioning. Clark County already uses libraries, recreation centers, and other public facilities as cooling stations. We should build on that system and ensure residents can reach these locations safely, including those who rely on public transportation or have limited mobility.
+
+    Investing in shade infrastructure is equally important. Trees and shade structures around schools, parks, sidewalks, and transit stops can reduce exposure and make daily travel safer.
+
+    Nevada is a desert, but we can take extreme heat seriously and connect workplace protections, cooling resources, and better public infrastructure to protect our communities."
+    
+    Keywords: Extreme heat, outdoor worker protections, water, shade, rest breaks, heat illness training, flexible work schedules, worker safety, cooling centers, seniors, children, low income communities, air conditioning assistance, public health, shade infrastructure, schools, parks, sidewalks, transit stops, heat resilience, Nevada desert conditions, common sense protections.
+
+- candidate_first_name: Calvin
+  candidate_last_name: Sandoval
+  state: nv
+  race: State Senate
+  party: Democratic
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Renewable energy should continue to play a major role in Nevada’s future, but reliability and affordability must come first. Nevada has a natural advantage in solar energy, and we should continue expanding it while also investing in geothermal power, battery storage, transmission, and dependable generation to keep the lights on when the sun is not shining.
+
+    I support policies that make it easier to build energy projects responsibly, modernize the grid, and add storage without placing unnecessary costs on Nevada families. As demand grows from new businesses, data centers, and population growth, large energy users should pay their fair share of the infrastructure needed to serve them. Growth should help pay for growth.
+
+    Nevadans who invest their own money in rooftop solar should be treated fairly and receive reasonable value for the electricity they send back to the grid. At the same time, the system must remain fair to customers who do not have rooftop solar and should not shift unreasonable costs onto them.
+
+    Nevada should use the resources we have here to produce more of our own energy, strengthen reliability, protect ratepayers, and keep electricity affordable."
+    
+    Keywords: Renewable energy, solar, geothermal, battery storage, transmission, grid reliability, affordability, rooftop solar, net metering, fair compensation, energy independence, data centers, large energy users, infrastructure costs, tribal consultation, tribal sovereignty, cultural resources, economic development, local generation, Nevada first, responsible growth.
+
+- candidate_first_name: Calvin
+  candidate_last_name: Sandoval
+  state: nv
+  race: State Senate
+  party: Democratic
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "I support bringing new investment and good jobs to Nevada, but growth has to pay for growth.
+
+    Before a large data center or other energy intensive project is approved, the developer should have to show where its water and power will come from, what its long term demand will be, and what new infrastructure will be required. We need to account for both the water used directly by the facility and the water and generation needed to produce its electricity.
+
+    I also believe large users should pay their fair share for the generation, transmission, water, and other infrastructure required to serve them. Nevada families should not see higher utility bills because a multibillion dollar company needs a massive new load.
+
+    We should welcome responsible development, but the numbers need to work before permits are approved. Nevada should not promise water or power we do not have and then ask residents to pick up the tab.
+
+    I want the investment and the jobs, but Nevada comes first."
+
+    Keywords: Data centers, energy intensive industry, water demand, electricity demand, infrastructure planning, permitting, growth pays for growth, utility costs, ratepayer protection, transmission, generation capacity, water supply, long term demand, cumulative impacts, responsible development, economic investment, job creation, infrastructure costs, resource planning, Nevada families, Nevada first.
+
+  
+- candidate_first_name: Calvin
+  candidate_last_name: Sandoval
+  state: nv
+  race: State Senate
+  party: Democratic
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Nevada should use the resources we have, including lithium. Mining means jobs, manufacturing, and a chance to keep more of the supply chain here instead of sending everything somewhere else.
+
+    But I also think we have to be smart about it. Water is too valuable in Nevada to gamble with. Before a project gets approved, we need real science on groundwater, wildlife, reclamation, and the impact on nearby communities.
+
+    Tribal and local communities also need to be at the table when a project affects their land, water, or cultural resources.
+
+    I am not anti mining. Mining helped build Nevada, and it is still a big part of our economy. I just do not believe economic development should mean ignoring the damage and dealing with it later.
+
+    Do the studies up front, make the companies responsible for mitigation and cleanup, protect our water, and make sure Nevada workers and communities actually benefit from the development."
+
+    Keywords: Lithium, mining, mineral resources, Lithium Loop, domestic supply chain, Nevada jobs, manufacturing, water protection, groundwater, environmental review, scientific assessment, reclamation, cleanup, wildlife, tribal consultation, local communities, cultural resources, responsible development, economic diversification, mitigation, Nevada workers, Nevada first.
+
+- candidate_first_name: Joseph "Joey"
+  candidate_last_name: Charafi
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q1
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Nevada's science proficiency numbers should concern all of us. Strong STEM education is not only about test scores. It is workforce development for Nevada's future.
+
+    I would support evidence-based efforts to recruit and retain qualified STEM teachers, including partnerships with Nevada colleges and universities, teacher preparation scholarships tied to service in Nevada schools, and stronger pathways for professionals in science, engineering and technology who want to enter teaching.
+
+    I also support expanding hands-on STEM opportunities, career and technical education, apprenticeships, robotics, coding, engineering and partnerships with Nevada employers. Students should understand how what they learn connects to real careers.
+
+    However, we should measure results. If taxpayers fund a STEM initiative, we should know whether student proficiency, teacher retention and career readiness actually improve. Programs that work should be expanded. Programs that do not should be changed.
+
+    Nevada can build a technology and advanced-industry economy, but that requires investing in the students and teachers who will build it."
+    Keywords: STEM Workforce, Teacher Retention, Accountability
+
+- candidate_first_name: Joseph "Joey"
+  candidate_last_name: Charafi
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q2
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   "Water security is fundamental to Nevada's future. We cannot responsibly plan for housing, agriculture or economic development without knowing how much water our basins can sustainably provide.
+
+    I support modernizing Nevada's groundwater data, monitoring withdrawals and using the best available hydrologic science when making long-term decisions. Some foundational groundwater estimates are decades old, which is why the Nevada Water Initiative's work to update water budgets and consumptive-use estimates is important.
+
+    Conservation should also remain part of the solution, along with recycling and reuse, infrastructure improvements and technologies that reduce water consumption.
+
+    Balancing competing uses requires recognizing that communities, agriculture, industry and ecosystems all have legitimate interests while respecting Nevada water law and existing water rights. Decisions should be basin-specific rather than assuming one policy works everywhere.
+
+    Most importantly, Nevada should not promise the same gallon of water multiple times. Growth must be supported by credible water planning so today's economic development does not become tomorrow's water crisis."
+    
+    Keywords: Water Security, Conservation, Science
+
+- candidate_first_name: Joseph "Joey"
+  candidate_last_name: Charafi
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q3
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Extreme heat is a public-health and infrastructure issue in Nevada, particularly for seniors, children, outdoor workers and people without reliable housing or air conditioning.
+
+    I support using Nevada-specific heat and health data to identify the neighborhoods and populations facing the greatest risk rather than relying on one-size-fits-all policies.
+
+    Practical measures can include reliable cooling centers during dangerous heat events, public notification systems, access to drinking water, shade at appropriate public and transit locations, urban tree canopy where feasible, and coordination with schools, senior services and emergency responders.
+
+    For outdoor workers, I support clear heat-safety standards based on actual risk, including reasonable access to water, shade and recovery periods during dangerous conditions, while working with employers so requirements are practical for Nevada industries.
+
+    Longer term, infrastructure planning should consider heat-resistant materials, energy reliability and urban design.
+
+    Nevadans understand that summers are hot. The government's responsibility is not to eliminate Nevada's climate. It is to use evidence and practical preparation to reduce preventable illness and deaths."
+    Keywords: Public Health, Preparedness, Resilience
+
+- candidate_first_name: Joseph "Joey"
+  candidate_last_name: Charafi
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q4
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+   "Nevada should pursue an ""all of the above"" energy strategy focused on reliability, affordability and increasing domestic energy production.
+
+    Solar has an obvious role because Nevada has an extraordinary solar resource, and renewable generation can help diversify our energy portfolio. I also support geothermal development, storage technology and continued innovation in next-generation energy, including serious consideration of advanced nuclear technology as it develops.
+
+    But energy policy cannot be judged solely by how much capacity we build. Families and small businesses ultimately experience energy policy through their monthly bills and whether electricity remains available when demand peaks.
+
+    I therefore support competitive development of resources that can demonstrate reliability and economic value rather than politically selecting one technology regardless of cost.
+
+    Nevadans who invest their own money in rooftop solar should also have clear, stable and fair rules for connecting to the grid and receiving appropriate value for electricity they provide, while recognizing that maintaining a reliable electrical grid has real costs.
+
+    Nevada can be both an energy innovator and an affordable place to live."
+    Keywords: Affordability, Reliability, Innovation
+
+- candidate_first_name: Joseph "Joey"
+  candidate_last_name: Charafi
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q5
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "I want Nevada to compete for technology investment and high-quality jobs, but large developments should not receive economic benefits while transferring their infrastructure costs to Nevada families.
+
+    Before approving major data-center developments or incentives, state and local decision-makers should have credible estimates of projected electricity demand, water consumption, infrastructure requirements and long-term economic benefits.
+
+    This is particularly important because DRI estimates that planned Nevada data-center development could create substantial additional electricity and water demand.
+
+    I would support greater transparency around those projections and coordination among economic-development authorities, utilities and water agencies. We should also encourage technologies that reduce cooling-water consumption, use reclaimed water where technically and environmentally appropriate, and improve energy efficiency.
+
+    Nevada should welcome innovation, including AI infrastructure. But economic development needs to pencil out for Nevada taxpayers and ratepayers too.
+
+    If a project consumes enormous amounts of electricity or requires major new infrastructure, policymakers should understand who pays for that infrastructure before approving incentives or commitments.
+
+    Growth should strengthen Nevada's economy without unexpectedly increasing household utility costs or compromising long-term water security."
+    Keywords: Technology, Transparency, Ratepayers
+
+- candidate_first_name: Joseph "Joey"
+  candidate_last_name: Charafi
+  state: nv
+  race: State Assembly
+  party: Republican
+  question: nv-q6
+  date: 2026-09-11
+  primary_candidate: false
+  response: | 
+    "Mining is part of Nevada's history and remains important to our economy, jobs and national security. Critical minerals such as lithium are increasingly important for batteries, technology and reducing American dependence on foreign supply chains.
+
+    I support responsible development of Nevada's mineral resources.
+
+    Scientific and environmental assessments should play an important role in determining how projects proceed. Policymakers and regulators need reliable information about groundwater, surface water, reclamation, wildlife habitat and impacts on nearby communities before major projects move forward.
+
+    At the same time, environmental review should be rigorous without becoming an indefinite process that prevents responsible projects from ever being built. Nevada should provide clear standards, predictable permitting and accountability for reclamation and environmental commitments.
+
+    I am particularly interested in Nevada capturing more of the economic value after extraction. Nevada's emerging lithium ecosystem includes mining, processing, manufacturing and recycling. Building more of that supply chain here can create skilled jobs while strengthening America's critical-mineral independence.
+
+    The goal should be responsible development, strong environmental stewardship and making Nevada a leader in the technologies built from the resources beneath our feet."
+    Keywords: Critical Minerals, Stewardship, Jobs

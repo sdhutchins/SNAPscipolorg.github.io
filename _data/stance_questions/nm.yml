@@ -1,0 +1,129 @@
+- id: nm-q1
+  question: >-
+    Q1 (Produced Water and Oil and Gas): New Mexico’s oil and gas industry
+    generated 2.7 billion barrels of produced water in 2025. This wastewater
+    can contain salts, chemicals, and radioactive materials, and underground
+    disposal has raised concerns about earthquakes in the Permian Basin. State
+    regulators have also identified gaps in evidence about treatment and
+    environmental safety. What policies, if any, would you support for
+    produced-water treatment, monitoring, disposal, or reuse outside oil and
+    gas operations? What scientific evidence would inform your position?
+  tag:
+    - Climate
+    - Energy
+    - Environment
+
+- id: nm-q2
+  question: >-
+    Q2 (Water Security): New Mexico’s 50-Year Water Action Plan identifies
+    water conservation, improved storage and delivery, groundwater monitoring,
+    and protection of existing water resources as approaches to long-term
+    water challenges affecting communities, agriculture, and economic
+    development. What policies, investments, research, or new technologies
+    would you prioritize to strengthen New Mexico’s long-term water security?
+    How would you measure whether they increase water availability or reduce
+    water loss?
+  tag:
+    - Environment
+    - Public Health
+
+- id: nm-q3
+  question: >-
+    Q3 (Uranium Mining and Cleanup): The EPA reports 523 abandoned uranium
+    mines on or near the Navajo Nation, including 30 mines in New Mexico
+    within one mile of Navajo Nation lands. Past uranium mining and milling
+    have raised environmental and public-health concerns, while new proposals
+    raise questions about water use and contamination. What policies, if any,
+    would you support regarding existing sites, cleanup costs, and new uranium
+    mining proposals? What role should scientific evidence and the decisions
+    of affected Tribal governments play?
+  tag:
+    - Environment
+    - Public Health
+
+- id: nm-q4
+  question: >-
+    Q4 (Commercial Aerospace): New Mexico has invested public funds in
+    Spaceport America and the commercial aerospace sector, prompting questions
+    about environmental impacts and taxpayer investment. What conditions, if
+    any, would you place on future state investment, and how should operating,
+    infrastructure, and environmental costs be divided between public and
+    private entities? How would you evaluate economic benefits alongside
+    safety, wildfire, debris, and community impacts?
+  tag:
+    - Environment
+    - Jobs and Workforce
+    - Policymaking Process
+
+- id: nm-q5
+  question: >-
+    Q5 (Nuclear Waste): The Waste Isolation Pilot Plant near Carlsbad is the
+    nation’s only deep geologic repository for defense-related transuranic
+    waste, storing radioactive waste like plutonium and americium. What
+    position would you take on WIPP’s future mission and proposals to change
+    the types or amount of waste it accepts? What oversight policies, if any,
+    would you support for transportation safety, worker safety, and radiation
+    protection, and how would you evaluate their effectiveness?
+  tag:
+    - Energy
+    - Environment
+    - Transportation
+
+- id: nm-q6
+  question: >-
+    Q6 (Data Centers): Large data-center proposals, including Project Jupiter
+    in Doña Ana County, have raised community questions about jobs and
+    investment, water use, electricity generation and prices, air quality,
+    noise, and light. What standards, if any, should New Mexico apply when
+    reviewing these projects, and what role should residents have in approval
+    decisions? How should added infrastructure and resource costs be
+    allocated, and what evidence would you use to evaluate promised benefits
+    and actual impacts?
+  tag:
+    - Artificial Intelligence
+    - Environment
+    - Policymaking Process
+
+- id: nm-q7
+  question: >-
+    Q7 (Rural and Tribal Healthcare): A New Mexico analysis found that rural
+    residents travel three to four times farther, on average, than urban
+    residents for the hospital-based services it examined. What policies would
+    you support to improve healthcare access in rural and Tribal communities?
+    How would you work with Tribal governments on their priorities, and what
+    measures would you use to assess progress?
+  tag:
+    - Public Health
+    - Transportation
+
+- id: nm-q8
+  question: >-
+    Q8 (K-12 Science Education): In 2025-26, science proficiency fell from 35%
+    to 33% statewide and from 40% to 32% in Taos Municipal Schools in Northern
+    New Mexico. In Southern New Mexico, Las Cruces Public Schools has
+    described uneven broadband access for students in rural Doña Ana County
+    communities. What policies would you support to strengthen K-12 science
+    instruction across the state, particularly in rural and Tribal
+    communities? How would you improve access to qualified teachers,
+    laboratory learning, and advanced courses, and measure progress?
+  tag:
+    - K-12 Science Education
+    - Policymaking Process
+
+- id: nm-q9
+  question: >-
+    Q9 (Federal Research Funding): Federal research supports jobs, scientific
+    innovation, universities, and local businesses across New Mexico, while
+    growth associated with major research facilities can affect housing and
+    infrastructure. Changes to federal budgets and rules governing research
+    grants and oversight can affect how institutions receive and administer
+    funding. What priorities would guide your position on federal research
+    funding in New Mexico, and what changes, if any, would you support? How
+    would you evaluate scientific value, benefits to residents, local
+    infrastructure and environmental costs, and accountability for public
+    funds?
+  tag:
+    - Investment in Higher Education
+    - Policymaking Process
+    - Science Funding
+    - Trust in Science

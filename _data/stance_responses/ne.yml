@@ -367,3 +367,642 @@
     "Regulations that operate with the intent of the law have a higher rate of successful outcomes.  When a policy cannot be sustained, operationally or financially, it needs review to identify the root cause and effects."
 
     KEYWORDS: Research, Cause, Effect
+
+- candidate_first_name: Kevin
+  candidate_last_name: Connot
+  state: ne
+  race: Nebraska Public Power District
+  district: Northeast Nebraska Public Power District
+  party: Non-partisan
+  question: ne-q32
+  date: 2026-09-17 
+  response: |
+    "Public power's major objectives are affordability and reliability.  No single source of energy production meets both of these objectives consistently.  We need diverse sources of generation including renewable energy, natural gas, and likely nuclear as well.   We have seen locally substantial property tax relief through the nameplate capacity tax along with job creation and new sources of revenue to landowners through leasing.  It is a key driver of economic development in rural areas.  
+
+    In regard to the levelized cost of each type of generation, wind and solar generation are the lowest cost according to the annual Lazard Levelized Cost of Energy Report.  The Nebraska Energy Report referenced the NDEE information documenting that 23% of Nebraska's energy came from renewables in 2023."
+    
+- candidate_first_name: Kevin
+  candidate_last_name: Connot
+  state: ne
+  race: Nebraska Public Power District
+  district: Northeast Nebraska Public Power District
+  party: Non-partisan
+  question: ne-q33
+  date: 2026-09-17 
+  response: |
+    "Nuclear:  promising technology although the 2026 Lazard cost study indicated the cost to be over $200 per megawatt hour.   It is an excellent source of energy for reliability as it is dispatchable.   The timeline for development could be 10 years or longer to really make an impact.  Storage of spent fuel needs to be addressed. 
+
+    Solar:  low cost.  Lazard has the cost of utility scale at about $40 per megawatt hour.  Requires other types of generation to take care of the intermittency.   Solar can be developed relatively quickly.  
+
+    Wind: low cost as the 2026 Lazard study indicates a cost of as low as $39 per megawatt hour.  Intermittency is the challenge and must be addressed with dispatchable generation likely natural gas or nuclear.   Wind energy can be developed rather quickly. 
+
+    Hydropower:  I have not heard of much talk of large scale but maybe small scale is a possibility for distributed generation applications. 
+
+    Geothermal:  I am open to exploring this technology.
+
+    Biofuel:  this is an excellent resource and can be a factor in economic development through value added agriculture. 
+
+    Coal:  existing resources provide cheap energy from fully depreciated aging plants.  Emissions are a concern.   The cost for state of the art clean burning plants needs to be explored to see if this resource is viable in the future.
+
+    Natural gas: Nebraska utilities are planning for new gas plants to complement intermittent renewables and are a solid option.  Lazard indicates a high price per megawatt hour for peaking plants.  
+
+    Oil - petroleum:  I have not studied this generation in any detail."
+    
+- candidate_first_name: Kevin
+  candidate_last_name: Connot
+  state: ne
+  race: Nebraska Public Power District
+  district: Northeast Nebraska Public Power District
+  party: Non-partisan
+  question: ne-q34
+  date: 2026-09-17 
+  response: |
+    "I think we need to proceed with extreme caution on all of this.  While there may be opportunity there needs to be the proper guardrails that protect public power and its customers and the effect on natural resources including water.  LB 1261 enacted by the 2026 Nebraska Legislature was intended to meet this demand and at the same time shift the risk to private business while maintaining control and protecting ratepayers.  We need to make the rules that have guardrails to protect natural resources and the rate structure needs to be segregated so that Nebraskans are not paying higher rates driven by high growth industries."
+
+- candidate_first_name: Mark
+  candidate_last_name: Gudgel
+  state: ne
+  race: Nebraska Public Power District
+  district: Omaha Public Power District
+  party: Non-partisan
+  question: ne-q32
+  date: 2026-09-18 
+  response: |
+    "In the short term, the cost of power is far outpacing any wage increases that the fortunate may be seeing, while those on a fixed income suffer. In the long term, global climate change is an existential threat to the very existence of our species. I view it as good fortunate that clean, renewable sources of energy can help serve as a solution to both of these issues by providing lower cost, lower carbon sources of power."
+
+    KEYWORDS: Economics, equity, long-term planning
+    
+- candidate_first_name: Mark
+  candidate_last_name: Gudgel
+  state: ne
+  race: Nebraska Public Power District
+  district: Omaha Public Power District
+  party: Non-partisan
+  question: ne-q33
+  date: 2026-09-18 
+  response: |
+    "The challenge at hand is twofold: we need to phase out the use of coal immediately and fossil fuels quickly while maintaining a balanced grid. To do this, the addition of more solar and wind must be bolstered with a readiness to add SMR's (nuclear power) as quickly as possible. I would propose leaving natural gas plants operational for the foreseeable future while developing a plan for replacing "base load" power with nuclear in the next ten to fifteen years."
+
+    KEYWORDS: Renewable energy, balance, sustainability
+    
+- candidate_first_name: Mark
+  candidate_last_name: Gudgel
+  state: ne
+  race: Nebraska Public Power District
+  district: Omaha Public Power District
+  party: Non-partisan
+  question: ne-q34
+  date: 2026-09-18 
+  response: |
+    "Our district is woefully unprepared to address these changes. While many suggest OPPD "pass a moratorium" on data centers, that's not within our ability. What we can do is regulate and increase oversight, determine rates and availability and, I hope, utilize the bully pulpit to increase the visibility of the conversation. My position on data centers is that they must be prohibited from passing any costs along to consumers, and that if they come with a plan to build renewable energy, lower the cost of power, and use recycled water then I'm all ears."
+
+    KEYWORDS: Environmental sustainability, renewable energy, responsibility
+
+- candidate_first_name: Dan
+  candidate_last_name: Osborn
+  state: ne
+  race: US Senate
+  party: Independent
+  question: ne-q1
+  date: 2026-09-21 
+  response: |
+    "Scientific evidence and expert input should play an important role when STEM fields are invoked—such as medicine, public health, engineering, transportation, and the environment. Social sciences can also play a role in guiding policy. Economics is a great example of a social science that has natural policy implications. The erosion of trust in our scientific community is a shame. When the scientific community and public opinion collide, the ideal course of action is to educate the public so opinion aligns more closely with scientific consensus."
+    
+    KEYWORDS: Experts, Trust, Truth
+
+- candidate_first_name: Dan
+  candidate_last_name: Osborn
+  state: ne
+  race: US Senate
+  party: Independent
+  question: ne-q2
+  date: 2026-09-21 
+  response: |
+    "If AI were only being used to cure cancer or solve other longstanding real-world problems, I’d be hugely pro-AI. However, our current AI landscape has some clear problems that invite a conversation around guardrails. Many people have unwittingly used AI to such an extent that their reasoning ability suffers. The heads of these companies don’t have the public’s best interest in mind. The AI industry needs strong regulation on its development and use, and it needs it immediately. Furthermore, data centers need regulations to ensure they don’t use more than their share of power and water. They should only be built with a significant amount of public input, and each community should have the power of denial. While there is a national security imperative to ensure we keep up with countries like China around this technology, we must also exercise caution."
+    
+    KEYWORDS: Threat, Resources, Workforce
+
+- candidate_first_name: Dan
+  candidate_last_name: Osborn
+  state: ne
+  race: US Senate
+  party: Independent
+  question: ne-q3
+  date: 2026-09-21 
+  response: |
+    "Investing in the bioeconomy is an excellent public investment because it creates more opportunities and jobs right here in the US, especially in the midwest where all the feedstocks (row crops in particular) are grown. The bioeconomy generates demand for our farmer’s crops (eg, ethanol made from corn has been a hugely successful bio economic success story), plus enriches our domestic energy security by reducing our reliance on foreign oil. This contributes to long-term benefits for our society. Investing in the bioeconomy would greatly benefit Nebraskans and all Americans."
+    
+    KEYWORDS:  Energy security, innovation, sustainability
+
+- candidate_first_name: Dan
+  candidate_last_name: Osborn
+  state: ne
+  race: US Senate
+  party: Independent
+  question: ne-q4
+  date: 2026-09-21 
+  response: |
+    "NIH and NSF grants have led to all sorts of amazing breakthroughs and developments over the years that we too often take for granted, and those federal funds should continue to flow. Still, accountability is critical to ensure all those funds actually deliver what they’re supposed to. In general, federal funding for research is essential to the long term health and competitiveness of our country—government investment is often the only way to take big swings and achieve large breakthroughs."
+    
+    KEYWORDS: Future, health, research
+
+- candidate_first_name: Dan
+  candidate_last_name: Osborn
+  state: ne
+  race: US Senate
+  party: Independent
+  question: ne-q5
+  date: 2026-09-21 
+  response: |
+    "Farmers and farming have gotten exponentially better over the years at being sustainable, and we should continue to incentivize that trend. The best federal policies for agriculture’s success still remain opening new demand markets: expanding ethanol use, increasing foreign ag trade, and investing in research for new markets for crops here at home. Farmers are innovative, and good federal policies will reward them for the sustainable practices they’re already utilizing. The best land steward is always going to be the farmer themselves, and the government should create policies that recognize those achievements and spur new ones."
+    
+    KEYWORDS: Land stewardship, conservation, demand
+
+- candidate_first_name: Dan
+  candidate_last_name: Osborn
+  state: ne
+  race: US Senate
+  party: Independent
+  question: ne-q6
+  date: 2026-09-21 
+  response: |
+    "Nebraska relies on its natural resources, such as the soil quality and Ogallala aquifer, to power agriculture in the state. We need to ensure these resources are protected while allowing farmers and ranchers the ability to do what they need to in order to stay profitable."
+    
+    KEYWORDS: Resources, conservation, proactive stewardship
+
+- candidate_first_name: Robin
+  candidate_last_name: Richards
+  state: ne
+  race: US Senate
+  party: Nebraska Working People
+  question: ne-q1
+  date: 2026-09-23 
+  response: |
+    "Science and reliable data should be at the heart of public policy. Decisions affecting public health, agriculture, energy, and the environment should be based on the best available evidence, not political convenience or public pressure. When scientific claims conflict, I would consider the quality of the research, whether the results have been independently repeated, who funded the work, and where the broader scientific consensus stands.
+
+    Public input has an important place in government. People should be heard about how a policy will affect their communities and how it can be implemented fairly. But public opinion cannot replace scientific evidence or make established facts disappear. When the two conflict, leaders have a responsibility to follow the evidence, explain it clearly, and remain honest about any uncertainty. Science cannot simply be ignored because its conclusions are unpopular."
+    
+    KEYWORDS: Evidence, transparency, accountability
+
+- candidate_first_name: Robin
+  candidate_last_name: Richards
+  state: ne
+  race: US Senate
+  party: Nebraska Working People
+  question: ne-q2
+  date: 2026-09-23 
+  response: |
+    "AI can be a valuable tool, but innovation cannot come at any cost. I support clear rules protecting personal information, intellectual property, workers, and consumers. People should know when AI is being used to make important decisions about them, and companies should be held accountable for fraud, discrimination, security failures, and the misuse of someone’s work or identity.
+
+    Data centers should be required to publicly report their energy and water use, undergo meaningful environmental and community review, and use the most efficient available technology. The companies profiting from these facilities—not local families and small businesses—should pay for the additional infrastructure and energy demands they create. They must also change their practices when those practices threaten water supplies, raise utility costs, or damage natural resources.
+
+    I support continued AI innovation, but companies must prove that they can grow responsibly. New technology should strengthen our economy and improve people’s lives without draining community resources, eliminating accountability, or leaving workers and taxpayers to absorb the costs."
+    
+    KEYWORDS: Accountability, resource stewardship, responsible innovation
+
+- candidate_first_name: Robin
+  candidate_last_name: Richards
+  state: ne
+  race: US Senate
+  party: Nebraska Working People
+  question: ne-q3
+  date: 2026-09-23 
+  response: |
+    "Nebraska should not only grow the raw materials used in the bioeconomy; we should also develop the technology, manufacture the products, and create the jobs here. I would support federal partnerships connecting farmers, businesses, unions, community colleges, the University of Nebraska, and other training programs in agriculture, biotechnology, renewable energy, and advanced manufacturing.
+
+    Funding should support paid apprenticeships, affordable certificate and degree programs, modern training equipment, agricultural extension services, and opportunities for workers to learn new skills without leaving their jobs or communities. Programs must be accessible in rural Nebraska, not concentrated only in major cities.
+
+    Federal incentives for bioeconomy businesses should be tied to measurable results, including good wages, Nebraska jobs, responsible use of natural resources, and partnerships with local producers. Public funding should not become a blank check for corporations that bring in outside workers or move away once incentives expire.
+
+    These investments would help Nebraska retain young people, strengthen family farms and rural communities, and turn our agricultural and scientific strengths into stable, well-paying careers."
+    
+- candidate_first_name: Robin
+  candidate_last_name: Richards
+  state: ne
+  race: US Senate
+  party: Nebraska Working People
+  question: ne-q4
+  date: 2026-09-23 
+  response: |
+    "I support strong, stable, and predictable federal funding for the NIH and NSF. Research cannot be turned on and off depending on the political climate or the priorities of a single administration. Grants should continue to be awarded through a transparent, competitive process led by qualified experts, with clear standards for accountability and research integrity.
+
+    This funding supports more than laboratories. It helps Nebraska universities and hospitals develop new treatments, train the next generation of scientists and healthcare professionals, attract employers, and create well-paying jobs. Cutting it would slow medical progress and weaken Nebraska’s ability to compete for researchers, students, and private investment.
+
+    My position is informed by the approximately $205 million these agencies invest in Nebraska each year, the reported $2.50 in economic activity generated by every NIH dollar, and the research taking place in our universities, hospitals, and communities. I would support consistent funding increases that keep pace with research costs while protecting scientific decisions from political interference. Taxpayers deserve oversight and measurable results, but they also deserve the long-term health and economic benefits that serious research makes possible."
+    
+    KEYWORDS: Research investment, scientific integrity, Nebraska innovation
+
+- candidate_first_name: Robin
+  candidate_last_name: Richards
+  state: ne
+  race: US Senate
+  party: Nebraska Working People
+  question: ne-q5
+  date: 2026-09-23 
+  response: |
+    "Federal agricultural policy should use the best available science without assuming that the same practice will work on every farm or ranch. Nebraska producers understand their land, weather, water, and financial risks, so they must be involved in designing the programs intended to help them.
+
+    I support voluntary, locally flexible conservation programs that help cover the cost and risk of practices such as cover crops, crop rotation, improved grazing, and more efficient use of water and fertilizer. Farmers should have access to technical assistance through agricultural extension and USDA programs, along with reliable local research showing what works under Nebraska conditions. Conservation practices should also work with crop insurance rather than putting a producer’s coverage at risk.
+
+    Federal programs should measure actual results, including soil health, water quality, productivity, and long-term savings, and then adjust when the evidence shows something is not working. Farmers and ranchers should not be expected to carry the full financial risk of testing practices that benefit the broader public. Good agricultural policy should protect natural resources while keeping family farms and ranches economically strong."
+    
+    KEYWORDS: Local flexibility, soil health, farm resilience
+
+- candidate_first_name: Robin
+  candidate_last_name: Richards
+  state: ne
+  race: US Senate
+  party: Nebraska Working People
+  question: ne-q6
+  date: 2026-09-23 
+  response: |
+    "The federal government has a responsibility to protect clean air, safe water, public lands, and natural resources that cross state lines. It should set clear national standards, enforce them consistently, and make sure taxpayers are not left paying to clean up pollution caused by private companies.
+
+    In Nebraska, protecting our groundwater, rivers, and soil is essential to public health, agriculture, and our long-term economy. I support continued federal research and monitoring of water quality, groundwater levels, soil health, extreme weather, and emerging contaminants. That information should be public and used to guide policy.
+
+    I would also support investments in safe drinking-water infrastructure, voluntary conservation programs for farmers and ranchers, and partnerships with states, local governments, tribes, universities, and Natural Resources Districts. Federal programs should reward practices that produce measurable environmental benefits while remaining practical for the people who work the land.
+
+    Environmental protection and economic growth should not be treated as opposites. Businesses and agriculture both depend on reliable water, healthy soil, and stable communities. Responsible stewardship means protecting those resources now so they remain available to the next generation."
+    
+    KEYWORDS: Clean water, stewardship, accountability
+
+- candidate_first_name: Macey
+  candidate_last_name: Budke
+  state: ne
+  race: US House of Representatives
+  district: 3
+  party: Nebraska Working People
+  question: ne-q1
+  date: 2026-09-23 
+  response: |
+    "Scientific evidence and expert input should play a major role in policymaking, especially on issues like public health, agriculture, energy, the environment, and new technology. At the same time, policymakers also have to consider cost, practicality, local conditions, and how a policy will actually affect people and communities.
+
+    When scientific claims conflict, I would look at how strong the research is, how the study was designed, how many people or cases were included, whether the results have been repeated, whether other researchers reached similar conclusions, and whether there are conflicts of interest. If the science is still uncertain, we should say that clearly instead of pretending we know more than we do.
+
+    Scientific consensus matters because it reflects the larger body of evidence, but science should always remain open to new research and better information. Public opinion matters when deciding how policies are carried out, but public opinion does not change scientific facts. People deserve clear explanations of what the evidence shows, what we still do not know, and why a decision is being made."
+    
+    KEYWORDS: Evidence, Transparency, Practical policy
+
+- candidate_first_name: Macey
+  candidate_last_name: Budke
+  state: ne
+  race: US House of Representatives
+  district: 3
+  party: Nebraska Working People
+  question: ne-q2
+  date: 2026-09-23
+  response: |
+    "AI is a powerful tool, but the speed at which it is being adopted has outpaced the rules governing it. I support stronger safeguards around privacy, data collection, deepfakes, fraud, cybersecurity, and the use of AI in decisions that can seriously affect someone’s life. Companies developing and deploying these systems should be accountable when their products cause harm, and people should know when they are interacting with or being evaluated by AI.
+
+    I am also concerned about the rapid expansion of data centers. They can place enormous demands on electricity, water, land, and local infrastructure while communities may see relatively little long-term employment in return. I support strict reporting requirements, meaningful local review, protection of water and energy resources, and requiring developers to pay the infrastructure and decommissioning costs their projects create rather than shifting those costs onto residents and other ratepayers.
+
+    AI may provide real benefits, but “innovation” should not be used as an excuse to ignore predictable harms or allow private companies to push the costs and risks onto the public."
+    
+    KEYWORDS: Accountability, Resource protection, Responsible AI
+
+- candidate_first_name: Macey
+  candidate_last_name: Budke
+  state: ne
+  race: US House of Representatives
+  district: 3
+  party: Nebraska Working People
+  question: ne-q3
+  date: 2026-09-23
+  response: |
+    "I support workforce policies that connect education and training directly to the industries Nebraska already does well, including agriculture, biotechnology, energy, and manufacturing. That means stronger career and technical education, apprenticeships, community college programs, and partnerships between employers, schools, universities, and research institutions.
+
+    Federal workforce funding should be flexible enough to meet regional needs rather than forcing every community into the same model. I also support programs that help people earn industry credentials or complete training without taking on unnecessary debt, especially for skilled trades and technical jobs.
+
+    Innovation also needs to benefit the communities where it happens. When federal dollars support new agricultural technology, biofuels, biotechnology, or energy projects, workforce development should be part of that investment so local workers have a real opportunity to fill those jobs.
+
+    My goal is straightforward: invest in Nebraska’s strengths, build a skilled workforce here, and create more opportunities for people to build careers without having to leave their communities to find them."
+    
+    KEYWORDS: Workforce development, Career training, Rural opportunity
+
+- candidate_first_name: Macey
+  candidate_last_name: Budke
+  state: ne
+  race: US House of Representatives
+  district: 3
+  party: Nebraska Working People
+  question: ne-q4
+  date: 2026-09-23
+  response: |
+    "I support strong, consistent federal funding for agencies like NIH and NSF. Basic and applied research takes years, and constantly changing funding levels makes it harder for researchers, universities, and medical institutions to plan, retain staff, and carry promising work through to completion.
+
+    Funding decisions should be based on scientific merit, public benefit, and strong peer review, with transparency and accountability for how taxpayer dollars are spent. I also want federal research funding distributed more broadly so states like Nebraska, rural institutions, and smaller universities have real opportunities to compete.
+
+    My approach is informed by both the economic and practical value of this research. NIH and NSF funding supports jobs, workforce development, medical advances, agricultural research, and technologies that eventually reach patients, farmers, businesses, and communities. Nebraska has directly benefited from those investments, including new NSF funding in 2026 aimed at strengthening research and STEM capacity statewide.
+
+    Cutting research funding may reduce spending in the short term, but it can also slow discoveries and weaken our long-term competitiveness."
+    
+    KEYWORDS: Research investment, Scientific integrity, Nebraska innovation
+
+- candidate_first_name: Macey
+  candidate_last_name: Budke
+  state: ne
+  race: US House of Representatives
+  district: 3
+  party: Nebraska Working People
+  question: ne-q5
+  date: 2026-09-23
+  response: |
+    "Federal agricultural policy should use the best available science without assuming one practice will work the same way on every farm or ranch. Soil, rainfall, water availability, crop type, livestock operations, and local economics all matter. Practices like cover cropping can provide real benefits, but they need to make sense for the operation and the region.
+
+    I support voluntary, incentive-based conservation programs that help producers adopt practices that improve soil health, water quality, drought resilience, and long-term productivity without putting the full financial risk on the farmer or rancher. Technical assistance and research should also be locally informed so recommendations reflect Nebraska conditions rather than a one-size-fits-all national standard. USDA already allows state-specific adaptation of conservation standards because conditions vary significantly by region.
+
+    Farmers and ranchers should be treated as partners in conservation policy. The goal should be practical stewardship that protects natural resources while keeping operations productive, financially sustainable, and in family hands."
+    
+    KEYWORDS: Voluntary conservation, Local flexibility, Farm resilience
+
+- candidate_first_name: Macey
+  candidate_last_name: Budke
+  state: ne
+  race: US House of Representatives
+  district: 3
+  party: Nebraska Working People
+  question: ne-q6
+  date: 2026-09-23
+  response: |
+    "The federal government has a responsibility to protect shared resources like clean air, clean water, soil, and public lands, especially when pollution or environmental damage crosses state lines or cannot reasonably be addressed by one community alone.
+
+    I support strong environmental research, enforcement of existing protections, cleanup of contaminated sites, and continued investment in conservation programs that help communities and producers protect natural resources. In Nebraska, water deserves particular attention. Federal policy should support groundwater and surface-water monitoring, drought resilience, efficient irrigation, soil conservation, and locally led projects that protect water supplies without imposing one-size-fits-all requirements. Current Nebraska conservation programs already show how federal funding can support voluntary, locally tailored improvements in soil and water management.
+
+    Environmental policy also has to address long-term climate risks and changing weather patterns using the best available science. The goal should be protecting resources people depend on while giving communities, farmers, ranchers, and businesses practical ways to adapt and participate in solutions."
+    
+    KEYWORDS: Water protection, Conservation, Climate resilience
+
+- candidate_first_name: Jana
+  candidate_last_name: Hughes
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q12
+  date: 2026-09-23 
+  response: |
+    "I have a degree in engineering and am a data driven person and there for make policy decisions based on the facts that I have at hand."
+    
+- candidate_first_name: Jana
+  candidate_last_name: Hughes
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q13
+  date: 2026-09-23 
+  response: |
+    "Science and research needs to happen at the university systems where there is unbiased approach.  Research paid for by industry can potentially have a conflict of interest to get results that "favor" that industry.  I don't know specific programs that I would prioritize funding."
+    
+- candidate_first_name: Jana
+  candidate_last_name: Hughes
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q14
+  date: 2026-09-23 
+  response: |
+    "I think there can be many opportunities for public and private collaboration.  This is a great way to maximize tax dollars and really achieve the outcomes that we are seeking for jobs and the workforce."
+    
+- candidate_first_name: Jana
+  candidate_last_name: Hughes
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q15
+  date: 2026-09-23 
+  response: |
+    "Investing in education is extremely important for our future.  Legislative appropriations have not kept up with inflation for many areas not just public universities.  All state dollars come from our tax payers and we have to really be careful on what we spend those funds on.  Declining birthrates are effecting our education system K through higher education.  There will have to be changes made because of this.  The Nebraska legislature does need to provide funding for our university system and we need to work together to ensure that we are maximizing the impact with the tax dollars that are invested."
+    
+- candidate_first_name: Jana
+  candidate_last_name: Hughes
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q16
+  date: 2026-09-23
+  response: |
+    "I think STEM workforce development is a great path for students to go into as it results in high paying and stable jobs.  This will then help with the Nebraska economy."
+    
+- candidate_first_name: Jana
+  candidate_last_name: Hughes
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q17
+  date: 2026-09-23 
+  response: |
+    "One way that we can see if a policy is achieving what is should be is using The Nebraska Statewide Workforce & Educational Reporting System (NSWERS).  This system captures the data on Nebraska kids all through education system to the workforce and we need to use this data to make targeted policy decisions.  We also need to use it to look back and make changes if necessary."
+
+- candidate_first_name: Dan
+  candidate_last_name: Winter
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q12
+  date: 2026-09-24 
+  response: |
+    "I have a degree in Anthropology, the scientific study of human biology, culture, language, and technology. So I weigh scientific evidence heavily when making decisions. My first priority when determining my policy stance is if the policy is ethical, followed by research into scientific evidence to support the policy."
+
+    KEYWORDS: Ethics, scientific support
+    
+- candidate_first_name: Dan
+  candidate_last_name: Winter
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q13
+  date: 2026-09-24 
+  response: |
+    "My vision for scientific research in the state of Nebraska focuses on the current strengths we have while also expanding on battery and energy.  Currently Nebraska's research strength is focused on agriculture, biomedical/bioeconomic, and water management.  As a farmer these research fields make sense for the "Cornhusker State".  But we need to also look to the future which is research into energy creation, storage (batteries) and transmission."
+
+    KEYWORDS: current strengths, future technology
+    
+- candidate_first_name: Dan
+  candidate_last_name: Winter
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q14
+  date: 2026-09-24 
+  response: |
+    "With our current strengths focusing funding on precision agriculture, making agriculture inputs more efficient, lessening nitrate pollution, and improving margins for our largest industry could help the rest of the state. Secondarily providing support for our public power to research energy production, delivery, and storage could incentivize businesses to come to our state.  Energy research could also prepare us for the future."
+
+    KEYWORDS: precision agriculture, energy research
+    
+- candidate_first_name: Dan
+  candidate_last_name: Winter
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q15
+  date: 2026-09-24 
+  response: |
+    "The states general fund contribution to the university system is roughly $720 million which is currently around 20% of the $2.5 billion budget.  Doctor Jeffery Gold, president of UNO has said that the return on investment for higher education is for every $1 the state can see $10. So investment in education should be a priority even if it requires a rework of the tax system."
+
+    KEYWORDS: ROI $10, taxes
+
+- candidate_first_name: Dan
+  candidate_last_name: Winter
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q16
+  date: 2026-09-24
+  response: |
+    "To better prepare for the future of Nebraska and its residents, we must make investments into STEM fields. However, to better the lives of current residents and draw new business to the state and investment into childcare could provide a better return on investment.  If the workforce has cheap and expansive childcare, this could provide opportunities for entrepreneurship or further training.  Allowing our current residence to better utilize the research we are funding."
+
+    KEYWORDS: future, childcare, entrepreneurship
+
+- candidate_first_name: Dan
+  candidate_last_name: Winter
+  state: ne
+  race: State Legislature
+  district: 24
+  party: Non-partisan
+  question: ne-q17
+  date: 2026-09-24 
+  response: |
+    "The first step is to observe or identify what the policy is for.  Then I would ask if this policy is for the betterment of Nebraskans.  I would then create a testable hypothesis to determine a measurable effect of the policy.  I would then experiment and collect data supporting or disproving the affects of the policy according to my hypothesis.  Finally I would bring my research to others to see if they agree with my assessment.  Any policy is only a failure if it does not provide a betterment for Nebraskans."
+
+    KEYWORDS: Scientific method, betterment
+
+- candidate_first_name: Shay
+  candidate_last_name: Smith
+  state: ne
+  race: State Legislature
+  district: 32
+  party: Non-partisan
+  question: ne-q12
+  date: 2026-09-28 
+  response: |
+    "I welcome scientific evidence in all stages of the policy making process. Even in law school, I studied the ethics of genetic engineering because I know that peer-reviewed research can help guide strong policy decisions. As I consider what legislation to draft and prioritize, I’ll look at the data and the information available on relevant topics. Furthermore, as I consider interim study resolutions, I’ll seek out experienced researchers and other passionate subject matter experts to provide disciplined, well-sourced presentations and findings. We do better when we seek the best available evidence."
+    
+- candidate_first_name: Shay
+  candidate_last_name: Smith
+  state: ne
+  race: State Legislature
+  district: 32
+  party: Non-partisan
+  question: ne-q13
+  date: 2026-09-28 
+  response: |
+    "Research performed or supported by the State is critical for effective administration of programs and prioritization of limited funding. Personally, because we are heavily dependent on agriculture, I would prioritize research that focuses on safely developing crops and livestock while minimizing threats to the public. Examples would include research that allows farmers to limit the use of nitrates or other water contaminants and the consumer safety work being done at the US Meat Animal Research Center. This and other research, like biomedical research through the University, provides not only a return on investment but a measurable positive impact on the health and well-being of Nebraskans and the world! I’d like Nebraska to be a beacon for well-resourced research."
+    
+- candidate_first_name: Shay
+  candidate_last_name: Smith
+  state: ne
+  race: State Legislature
+  district: 32
+  party: Non-partisan
+  question: ne-q14
+  date: 2026-09-28 
+  response: |
+    "State departments and the University should work together whenever possible to provide Nebraska’s students and professionals the opportunity to engage in high-quality research while also providing the State measurable, usable evidence to help guide policy-making. Public-private partnerships (including both nonprofit and industry) also provide additional cost-savings and should be encouraged to give us more flexibility with limited funding available. My own family funded a scientific research cash award at Doane University in memory of my father-in-law. I believe that there’s endless opportunities for a stronger research community in Nebraska and I’d like to support measures that make that happen."
+    
+- candidate_first_name: Shay
+  candidate_last_name: Smith
+  state: ne
+  race: State Legislature
+  district: 32
+  party: Non-partisan
+  question: ne-q15
+  date: 2026-09-28 
+  response: |
+    "Every dollar that the University must increase tuition is another reason for a student to choose a different institution. We need to keep Nebraska’s best and brightest here if we are going to work at the forefront of agriculture and biomedical research. The Legislature should do everything in its power to keep tuition affordable, keep our institutions well-funded and supported, and continue to make the University and other institutions across Nebraska attractive choices."
+
+- candidate_first_name: Shay
+  candidate_last_name: Smith
+  state: ne
+  race: State Legislature
+  district: 32
+  party: Non-partisan
+  question: ne-q16
+  date: 2026-09-28
+  response: |
+    "We have to prioritize science, including research, as we look to expand Nebraska’s economy and find new revenue streams to balance budgetary gaps. I support investing in cutting-edge research across Nebraska and in programs that help us develop a workforce that can rise to the challenges that arise. As technology evolves around us at rapid rates, training our students in research and innovation puts them ahead in the job search process. I am grateful for the work that industry has already put toward expanding Nebraska’s economy and the research landscape, and I view it’s a reasonable ask for the State to invest in other developments."
+
+- candidate_first_name: Shay
+  candidate_last_name: Smith
+  state: ne
+  race: State Legislature
+  district: 32
+  party: Non-partisan
+  question: ne-q17
+  date: 2026-09-28 
+  response: |
+    "I believe the interim study process is a helpful tool in evaluating prior and future policies. Utilizing down-time from the typical hustle and bustle of the legislative session to dig into both hard data and soft evidence, including stories from those who have been impacted by the measures under consideration, is a smart way to make measured, well-researched and scientifically backed decisions on policy. I’d seek out this type of evidence throughout my term, but would prioritize taking interim studies seriously to get to the bottom of issues facing our state."
+
+- candidate_first_name: Jill
+  candidate_last_name: Wolfe
+  state: ne
+  race: University Board of Regents
+  district: 2
+  party: Non-partisan
+  question: ne-q23
+  date: 2026-09-27 
+  response: |
+    "My approach funding and oversight include competitive peer review, priority alignment, stage funding, financial auditing, ethical and regulatory compliance, and conflict of interest management.  Outcomes I would hope to achieve include new technologies, medical treatments and clean energy solutions that save lives and improve daily living standards, spurring jobs creation and new industries by research into commercial startups and patents.  building robust infrastructure, training next generation of critical thinkers and addressing complex large-scale challenges such as climate change and food insecurity."
+
+    KEYWORDS: Ethical, Purposeful, future forward
+    
+- candidate_first_name: Jill
+  candidate_last_name: Wolfe
+  state: ne
+  race: University Board of Regents
+  district: 2
+  party: Non-partisan
+  question: ne-q19
+  date: 2026-09-27 
+  response: |
+    "I believe the future of university and our work force is dependent on collaboration between business and government.   With advancement in AI there is a real need to provide a workforce that is able to enter at a much higher level than is currently done   The future lies in people who can be critical thinkers and adapt to a new type of technology and work environment."
+
+    KEYWORDS: Collaboration, critical thinking, integration
+    
+- candidate_first_name: Jill
+  candidate_last_name: Wolfe
+  state: ne
+  race: University Board of Regents
+  district: 2
+  party: Non-partisan
+  question: ne-q24
+  date: 2026-09-27 
+  response: |
+    "Budget restraints are going to continue to exist.  There needs to be a focus on conserving core curriculum while containing costs. There needs to be an overall look at what programs have low enrolment.  Specific degrees can be combined into a multidisciplinary school to save on costs.  Everyone should be concerned when programs are cut.  There needs to be a strict focus on viable programs and degrees.  The University needs to be aware of the people (our students) who are affected by these changes."
+
+    KEYWORDS: Common sense, core curriculum, budget constraints 
+
+- candidate_first_name: Jill
+  candidate_last_name: Wolfe
+  state: ne
+  race: University Board of Regents
+  district: 2
+  party: Non-partisan
+  question: ne-q25
+  date: 2026-09-27 
+  response: |
+    "These federal mandates are currently on hold.  The University has an obligation to keep themselves and their students advised of any and all changes."
+
+    KEYWORDS: Awareness, compliance , legal status
+
+- candidate_first_name: Jill
+  candidate_last_name: Wolfe
+  state: ne
+  race: University Board of Regents
+  district: 2
+  party: Non-partisan
+  question: ne-q26
+  date: 2026-09-27 
+  response: |
+    "Given that science, technology, engineering and math fields are going to be needed for a future workforce, there needs to be cooperation between private businesses and the University to develop programs, internships with stipends, that meet future needs.  This would help reduce the financial burden of earning a college degree.  Focus needs to be in developing people and programs that meet the needs of business and technology."
+
+    KEYWORDS: Cooperation, internships, future workforce
