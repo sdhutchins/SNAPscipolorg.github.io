@@ -28,47 +28,25 @@ Check out our [events calendar]({{ site.url }}{{ site.baseurl }}/calendar)!
 ## Member Organizations
 {: .h3 .mt-4 .mb-3 }
 
-<div class='jumbotron'>
-{% assign number_printed = 0 %}
+<div class="row g-4 member-organizations" markdown="0">
 {% for member in site.data.member_orgs %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-2">
-<img src="{{ site.url }}{{ site.baseurl }}/images/member_org_logos/{{ member.photo }}" width="100%" style="max-width:250px"/>
-</div>
-<div class="col-sm-4 col-xs-12">
-  <h3 class="h5 mt-0 mb-2">{{ member.name }}</h3>
-  <i>{{ member.info }}<br></i>
-<div style="display: flex; gap: 0.25em; align-items: flex-start; flex-wrap: wrap;">
-  {% if member.website %}<a href="{{ member.website }}" target="_blank" rel="noopener" aria-label="{{ member.name }} website" title="{{ member.name }} website"><i class="fa-solid fa-globe fa-2x" aria-hidden="true"></i></a>{% endif %}
-  {% if member.email %}<a href="mailto:{{ member.email }}" aria-label="Email {{ member.name }}" title="Email {{ member.name }}"><i class="fa-solid fa-envelope fa-2x" aria-hidden="true"></i></a>{% endif %}
-  {% if member.bluesky %}<a href="https://bsky.app/profile/{{ member.bluesky }}" target="_blank" rel="noopener" aria-label="{{ member.name }} on Bluesky" title="{{ member.name }} on Bluesky"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i></a>{% endif %}
-  {% if member.instagram %}<a href="https://www.instagram.com/{{ member.instagram }}" target="_blank" rel="noopener" aria-label="{{ member.name }} on Instagram" title="{{ member.name }} on Instagram"><i class="fa-brands fa-instagram fa-2x" aria-hidden="true"></i></a>{% endif %}
-  {% if member.linkedin %}<a href="https://www.linkedin.com/company/{{ member.linkedin }}/" target="_blank" rel="noopener" aria-label="{{ member.name }} on LinkedIn" title="{{ member.name }} on LinkedIn"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i></a>{% endif %}
-</div>
-
-</div>
-<!-- </div> -->
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
-
+  <div class="col-12 col-md-6">
+    <div class="d-flex align-items-start gap-3 h-100 member-organizations__entry">
+      <img class="member-organizations__logo flex-shrink-0 rounded-0 m-0" src="{{ site.url }}{{ site.baseurl }}/images/member_org_logos/{{ member.photo }}" width="80" height="80" alt="" loading="lazy" />
+      <div class="flex-grow-1 member-organizations__details">
+        <h3 class="h5 mt-0 mb-2">{{ member.name }}</h3>
+        {% if member.info %}<p class="fst-italic mb-2">{{ member.info }}</p>{% endif %}
+        <div class="d-flex flex-wrap gap-3 mt-2 member-organizations__links">
+        {% if member.website %}<a class="m-0 py-1 px-0 lh-1" href="{{ member.website }}" target="_blank" rel="noopener" aria-label="{{ member.name }} website" title="{{ member.name }} website"><i class="fa-solid fa-globe" aria-hidden="true"></i></a>{% endif %}
+        {% if member.email %}<a class="m-0 py-1 px-0 lh-1" href="mailto:{{ member.email }}" aria-label="Email {{ member.name }}" title="Email {{ member.name }}"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>{% endif %}
+        {% if member.bluesky %}<a class="m-0 py-1 px-0 lh-1" href="https://bsky.app/profile/{{ member.bluesky }}" target="_blank" rel="noopener" aria-label="{{ member.name }} on Bluesky" title="{{ member.name }} on Bluesky"><i class="fa-brands fa-bluesky" aria-hidden="true"></i></a>{% endif %}
+        {% if member.instagram %}<a class="m-0 py-1 px-0 lh-1" href="https://www.instagram.com/{{ member.instagram }}" target="_blank" rel="noopener" aria-label="{{ member.name }} on Instagram" title="{{ member.name }} on Instagram"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>{% endif %}
+        {% if member.linkedin %}<a class="m-0 py-1 px-0 lh-1" href="https://www.linkedin.com/company/{{ member.linkedin }}/" target="_blank" rel="noopener" aria-label="{{ member.name }} on LinkedIn" title="{{ member.name }} on LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>{% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-
-</div>
-{% endif %}
 </div>
 
 {% if site.data.grants %}

@@ -112,3 +112,25 @@ blockquote {
   padding-left: 1rem;
   margin-left: 0;
 }
+
+
+.member-organizations {
+  &__entry {
+    padding: 12px 0;
+  }
+
+  // A shared footprint keeps differently shaped logos aligned without cropping.
+  &__logo {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+  }
+
+  &__details {
+    min-width: 0;
+  }
+
+  &__links {
+    font-size: 22px;
+  }
+}
