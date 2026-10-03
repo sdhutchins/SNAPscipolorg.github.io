@@ -237,7 +237,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
 
 .stance-state-disclaimer {
   background: $stance-gray-bg;
-  border-left: 4px solid $snap-blue;
   padding: 1rem 1.25rem;
   border-radius: 4px;
 }
@@ -1075,7 +1074,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   .disclaimer {
     background: $stance-gray-bg;
     border: 1px solid $stance-gray-border;
-    border-left: 5px solid $snap-blue;
     border-radius: 8px;
     padding: 16px 20px;
     margin: 18px 0;
@@ -1088,7 +1086,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   .ballot-lookup-callout {
     background: $snap-cream;
     border: 1px solid $snap-orange-dark;
-    border-left: 5px solid $snap-orange;
     border-radius: 8px;
     padding: 16px 20px;
     margin: 18px 0;
@@ -1319,13 +1316,11 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     padding: 8px 9px;
     cursor: pointer;
     color: $stance-ink;
-    border-left: 3px solid transparent;
 
     &:hover { background: $stance-gray-bg; }
 
     &.is-active {
       background: $snap-navy-tint;
-      border-left-color: $snap-blue;
 
       .rail-item__name { color: $snap-navy-dark; }
     }
