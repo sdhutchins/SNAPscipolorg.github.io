@@ -6,12 +6,14 @@
       only press entries whose category equals "Stance on Science {state}" are
       shown (compared case-insensitively). When omitted (main page), every entry
       whose category starts with "Stance on Science" is shown.
+    include.plain — align with the landing page's section spacing, without
+      the inset panel used on state pages.
 {%- endcomment -%}
 {%- if include.state -%}
   {%- assign press_target = "Stance on Science " | append: include.state | downcase -%}
 {%- endif -%}
-<div class="jumbotron">
-  <h2>Press Mentions</h2>
+<div class="{% if include.plain %}mt-5{% else %}jumbotron{% endif %}">
+  <h2{% if include.plain %} class="mb-3"{% endif %}>Press Mentions</h2>
   <ul>
     {% assign found = 0 %}
     {% for article in site.data.press %}

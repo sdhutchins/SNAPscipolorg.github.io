@@ -7,11 +7,13 @@ category: current
 date: 2025-09-10
 permalink: /initiatives/stance-on-science
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/STANCE_Logo.png"  width="100%">
+<h1 class="mt-0 mb-4">
+  <img src="{{ '/images/STANCE_Logo.png' | relative_url }}" alt="Stance on Science" class="img-fluid d-block w-100">
+</h1>
 
 {% include stance/stats_bar.html %}
 
-<h2 id="stance-map" class="stance-map-anchor">Find My Candidate's Responses</h2>
+<h2 id="stance-map" class="stance-map-anchor mt-5 mb-3">Find My Candidate's Responses</h2>
 
 {%- assign active_states = site.initiatives | where_exp: "p", "p.state != nil and p.state != 'xx'" | map: "state" | sort -%}
 
@@ -32,7 +34,7 @@ candidate responses from that state. <a href="{{ '/initiatives/stance-on-science
   </noscript>
 </div>
 
-<p class="stance-map-legend">
+<p class="stance-map-legend mb-4">
   <span class="stance-map-legend__swatch stance-map-legend__swatch--active"></span> States with a published page
   &nbsp;&nbsp;
   <span class="stance-map-legend__swatch stance-map-legend__swatch--inactive"></span> No page yet
@@ -62,11 +64,11 @@ candidate responses from that state. <a href="{{ '/initiatives/stance-on-science
   }
 </style>
 
-<h4>Upcoming Events</h4>
+<h2 class="mt-5 mb-3">Upcoming Events</h2>
 
-{% include upcoming_events.html category="Stance on Science" compact=true %}
+{% include upcoming_events.html category="Stance on Science" compact=true heading_level=3 %}
 
-<h2>About Stance on Science</h2>
+<h2 class="mt-5 mb-3">About Stance on Science</h2>
 
 <p>Science affects every part of our daily lives—from the safety of our food and water, to the health of our communities, to the jobs and technologies that power our future. Yet too often, science is left out of political debates.</p>
 
@@ -79,7 +81,7 @@ candidate responses from that state. <a href="{{ '/initiatives/stance-on-science
   <li>Encourage thoughtful engagement between communities and policymakers on science policy-related policies.</li>
 </ol>
 
-<h3>How It Works</h3>
+<h3 class="mt-4 mb-3">How It Works</h3>
 
 <p>Individual state teams will send political candidates a set of science policy-related (and state-specific) questions and ask for written responses. Their answers will be posted publicly on our website so that voters can easily compare positions. Find your state's page below!</p>
 
@@ -87,17 +89,17 @@ candidate responses from that state. <a href="{{ '/initiatives/stance-on-science
 
 <p>Some states are organizing local town halls where candidates for office can answer questions about their Stance on Science for the public directly. <a href="{{ '/initiatives/stance-on-science/faq' | relative_url }}">See our FAQ</a> for more details on how town halls work.</p>
 
-<h3>Why This Matters</h3>
+<h3 class="mt-4 mb-3">Why This Matters</h3>
 
 <p>By highlighting candidates' views on science, SNAP and local state teams aim to elevate science as a key part of the political conversation and remind candidates that voters care about evidence-based leadership.</p>
 
-<h3>How to Get Involved</h3>
+<h3 class="mt-4 mb-3">How to Get Involved</h3>
 
 <p>If you'd like to support this initiative, <a href="https://docs.google.com/forms/d/e/1FAIpQLSem6bVuZnK7eWls-CTMpxWxaxHpuElNj4oOXIvLkgDYRO6YNg/viewform?usp=header">fill out our interest form</a>, and we'll be in touch! There are opportunities for everyone—whether you're ready to help lead outreach in your state or make a few calls or send emails to political candidates. Every contribution helps hold our political candidates accountable and strengthens our collective voice.</p>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/SNAPStanceSlide.png" alt="SNAP Stance on Science Initiative Slide" style="max-width: 100%; height: auto;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/SNAPStanceSlide.png" alt="SNAP Stance on Science Initiative Slide" class="img-fluid d-block mt-4" />
 
-{% include stance/press_mentions.html %}
+{% include stance/press_mentions.html plain=true %}
 
 <script>
   window.STANCE_ACTIVE_STATES = JSON.parse('{{ active_states | jsonify }}');

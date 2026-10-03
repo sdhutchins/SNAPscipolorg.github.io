@@ -5,20 +5,28 @@ sitemap: false
 permalink: /about/
 ---
 
-## About SNAP
+# About SNAP
+{: .h2 .mt-0 .mb-3 }
+
 Scientist Network for Advancing Policy (SNAP) was conceptualized in early 2025 and formed through a (still ongoing!) gathering of science policy-minded early career researchers from across the United States. SNAP is a nationwide non-partisan grassroots organization.
 
-#### SNAPper research
+## SNAPper research
+{: .h3 .mt-4 .mb-3 }
 
 [Check out scientific publications by SNAPpers]({{ site.url }}{{ site.baseurl }}/publications)!
 
-#### Looking for SNAP's upcoming meetings and events?
+## Looking for SNAP's upcoming meetings and events?
+{: .h3 .mt-4 .mb-3 }
+
 Check out our [events calendar]({{ site.url }}{{ site.baseurl }}/calendar)!
 
-### Mission Statement 
+## Mission Statement
+{: .h3 .mt-4 .mb-3 }
+
 We are a coalition of early-career scientists dedicated to mobilizing for large-scale initiatives and bridging gaps between scientists, their communities, and the general public. Our mission is to inspire and engage fellow scientists by establishing a peer network, developing and sharing resources, and instigating meaningful change.
 
 ## Member Organizations
+{: .h3 .mt-4 .mb-3 }
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -34,7 +42,7 @@ We are a coalition of early-career scientists dedicated to mobilizing for large-
 <img src="{{ site.url }}{{ site.baseurl }}/images/member_org_logos/{{ member.photo }}" width="100%" style="max-width:250px"/>
 </div>
 <div class="col-sm-4 col-xs-12">
-  <h4>{{ member.name }}</h4>
+  <h3 class="h5 mt-0 mb-2">{{ member.name }}</h3>
   <i>{{ member.info }}<br></i>
 <div style="display: flex; gap: 0.25em; align-items: flex-start; flex-wrap: wrap;">
   {% if member.website %}<a href="{{ member.website }}" target="_blank" rel="noopener" aria-label="{{ member.name }} website" title="{{ member.name }} website"><i class="fa-solid fa-globe fa-2x" aria-hidden="true"></i></a>{% endif %}
@@ -66,7 +74,7 @@ We are a coalition of early-career scientists dedicated to mobilizing for large-
 {% if site.data.grants %}
 
 <div class="jumbotron">
-  <h3>Grants</h3>
+  <h2 class="h3 mt-0 mb-3">Grants</h2>
   <ul>
     {% for grant in site.data.grants %}
       <li>{{ grant.name }}</li>
@@ -78,7 +86,7 @@ We are a coalition of early-career scientists dedicated to mobilizing for large-
 {% if site.data.awards %}
 
 <div class="jumbotron">
-  <h3>Awards</h3>
+  <h2 class="h3 mt-0 mb-3">Awards</h2>
   <ul>
     {% for award in site.data.awards %}
       <li>{{ award.name | replace: "-","&#8211;" }}</li>
@@ -90,7 +98,7 @@ We are a coalition of early-career scientists dedicated to mobilizing for large-
 {% if site.data.funders %}
 
 <div class="jumbotron">
-  <h4>Sponsors</h4>
+  <h2 class="h3 mt-0 mb-3">Sponsors</h2>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
   {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>

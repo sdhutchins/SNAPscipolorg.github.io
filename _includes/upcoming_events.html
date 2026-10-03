@@ -23,12 +23,17 @@
   Pass `compact=true` to render a condensed list — just date, name, and
   category bubble per row — with a toggle to expand a row and show its flyer
   and remaining details (description, link).
+  Pass `heading_level=3` under an h2 section; other callers retain h4 titles.
 {%- endcomment -%}
 {%- assign now_seconds = 'now' | date: '%s' | plus: 0 -%}
 {%- assign events = site.data.events | sort: 'date' -%}
 {%- assign filter_category = include.category -%}
 {%- assign filter_len = filter_category | size -%}
 {%- assign compact = include.compact -%}
+{%- assign event_heading = 'h4' -%}
+{%- if include.heading_level == 3 -%}
+  {%- assign event_heading = 'h3' -%}
+{%- endif -%}
 
 <div class="snap-events{% if compact %} snap-events--compact{% endif %}" id="snap-events">
   {%- assign shown = 0 -%}
@@ -60,13 +65,13 @@
         <div class="snap-event__body">
           <div class="snap-event__summary">
             <p class="snap-event__date">{{ event.date | date: '%B %-d, %Y' }}</p>
-            <h4 class="snap-event__name">
+            <{{ event_heading }} class="snap-event__name">
               {%- if event.website -%}
                 <a href="{{ event.website }}">{{ event.name }}</a>
               {%- else -%}
                 {{ event.name }}
               {%- endif -%}
-            </h4>
+            </{{ event_heading }}>
             {%- if event.category -%}
               <p class="snap-event__categories">
                 {%- for cat in event_categories -%}
