@@ -158,7 +158,7 @@
 
 .snap-event__toggle-icon {
   display: inline-block;
-  transition: transform 0.15s ease;
+  @include transition(transform 0.15s ease);
 }
 
 .snap-event__toggle[aria-expanded="true"] .snap-event__toggle-icon {
@@ -205,7 +205,7 @@
   line-height: 1;
   font-size: 28px;
   border-radius: 50%;
-  transition: background 0.15s ease;
+  @include transition(background 0.15s ease);
 
   &:hover,
   &:focus-visible { background: rgba(255, 255, 255, 0.28); }

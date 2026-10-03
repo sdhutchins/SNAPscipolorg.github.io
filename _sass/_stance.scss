@@ -620,7 +620,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     background: #fff;
     color: $snap-blue;
     cursor: pointer;
-    transition: background 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+    @include transition(background 0.12s ease, border-color 0.12s ease, color 0.12s ease);
 
     &:hover { background: $stance-gray-bg; }
 
@@ -666,7 +666,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   background: #fff;
   cursor: pointer;
   font: inherit;
-  transition: background 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+  @include transition(background 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease);
 
   &:hover { background: $stance-gray-bg; }
 
@@ -820,7 +820,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
       font: var(--fa-font-solid);
       margin-left: auto;
       color: $snap-light-blue;
-      transition: transform 0.18s;
+      @include transition(transform 0.18s);
     }
   }
 
@@ -1011,7 +1011,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
 
       &::-webkit-details-marker { display: none; }
 
-      .chev { margin-left: auto; transition: transform 0.18s; color: $snap-light-blue; }
+      .chev { margin-left: auto; @include transition(transform 0.18s); color: $snap-light-blue; }
 
       .ic {
         width: 30px;
@@ -1656,7 +1656,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     cursor: pointer;
     line-height: 1;
     border-radius: 50%;
-    transition: background 0.15s ease;
+    @include transition(background 0.15s ease);
 
     &:hover,
     &:focus-visible { background: rgba(255, 255, 255, 0.28); }
