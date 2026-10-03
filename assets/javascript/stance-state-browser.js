@@ -6,6 +6,7 @@
   if (window.bootstrap && window.bootstrap.Tab) {
     root.querySelector('[role="tablist"]').hidden = false;
     const views = { map: 'stance-map-tab', table: 'stance-states-tab' };
+    let restoringLocation = false;
     Object.entries(views).forEach(([view, buttonId]) => {
       const panel = root.querySelector(`#${view}`);
       panel.classList.add('tab-pane');
@@ -16,9 +17,28 @@
     });
     root.querySelectorAll('[data-bs-toggle="tab"]').forEach((button) => {
       bootstrap.Tab.getOrCreateInstance(button);
-
+      button.addEventListener('shown.bs.tab', () => {
+        if (restoringLocation) return;
+        const hash = button.dataset.bsTarget;
+        if (location.hash !== hash) history.pushState(null, '', hash);
+      });
     });
 
+    function restoreView() {
+      const hash = location.hash;
+      const view = hash === '#table' ? 'table' : 'map';
+      // Other page anchors also remain usable, including existing map links.
+      restoringLocation = true;
+      bootstrap.Tab.getOrCreateInstance(document.getElementById(views[view])).show();
+      restoringLocation = false;
+      if (hash === '#map' || hash === '#table') {
+        document.getElementById('stance-map').scrollIntoView({ block: 'start' });
+      }
+    }
+
+    window.addEventListener('hashchange', restoreView);
+    window.addEventListener('popstate', restoreView);
+    restoreView();
   }
 
   const tableBody = root.querySelector('tbody');
