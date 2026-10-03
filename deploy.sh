@@ -14,5 +14,12 @@ source "$chruby_prefix/share/chruby/chruby.sh"
 # Activate correct Ruby version
 chruby 3.4.1
 
+# Install the locked dependencies into the same Ruby environment used to serve.
+# Frozen mode prevents routine startup from silently changing dependency versions.
+export BUNDLE_FROZEN=true
+if ! bundle check; then
+  bundle install
+fi
+
 # Serve locally; this does not publish the site.
 exec bundle exec jekyll serve --host 127.0.0.1
