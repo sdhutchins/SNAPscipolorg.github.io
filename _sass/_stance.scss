@@ -90,6 +90,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     stroke: #000000;
     stroke-width: 0.5;
     cursor: default;
+    @include transition(fill 0.15s ease-in-out);
 
     &--active {
       fill: $snap-orange;
@@ -314,6 +315,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     cursor: pointer;
     min-width: 8rem;
     max-width: 230px;
+    @include transition(border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out);
 
     &:hover { border-color: $snap-light-blue; }
 
@@ -345,6 +347,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     cursor: pointer;
 
     &:hover { background: $snap-navy-tint; border-color: $snap-light-blue; }
+    @include transition(background-color 0.15s ease-in-out, border-color 0.15s ease-in-out);
   }
 }
 
@@ -705,6 +708,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
 
   &--empty {
     cursor: default;
+    @include transition(fill 0.15s ease-in-out);
     border-style: dashed;
     opacity: 0.55;
 
@@ -972,6 +976,8 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     text-decoration: none;
     box-shadow: $stance-shadow;
 
+    @include transition(background-color 0.15s ease-in-out, color 0.15s ease-in-out);
+
     &:hover,
     &:focus { background: $snap-navy-dark; color: #fff; text-decoration: none; }
   }
@@ -1157,6 +1163,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
       cursor: pointer;
 
       &:hover { background: $snap-navy-tint; border-color: $snap-light-blue; }
+    @include transition(background-color 0.15s ease-in-out, border-color 0.15s ease-in-out);
     }
   }
 
@@ -1188,6 +1195,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
       -webkit-appearance: none;
       cursor: pointer;
       max-width: 230px;
+    @include transition(border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out);
 
       &:hover { border-color: $snap-light-blue; }
 

@@ -124,6 +124,7 @@
                 title: label,
                 container: "body",
                 trigger: "hover focus",
+                delay: { show: 120, hide: 0 },
                 placement: "top",
                 customClass: "stance-map-tooltip",
                 offset: [0, 8],

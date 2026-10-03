@@ -140,15 +140,19 @@
   align-items: center;
   gap: 0.4em;
   margin-left: auto;
-  padding: 0;
+  padding: 0.25rem 0.5rem;
   border: 0;
+  border-radius: 0.25rem;
   background: none;
   color: $snap-blue;
   font-family: inherit;
   font-size: 0.875rem;
   cursor: pointer;
 
-  &:hover { text-decoration: underline; }
+  @include transition(background-color 0.15s ease-in-out);
+
+  &:hover,
+  &:focus-visible { background-color: rgba($snap-blue, 0.08); }
   &:focus-visible { outline: 2px solid $snap-blue; outline-offset: 2px; }
 }
 
