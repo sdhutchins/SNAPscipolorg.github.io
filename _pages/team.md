@@ -19,7 +19,10 @@ permalink: /team/
           <h3 class="h5 m-0">{{ member.name }}</h3>
           {% if member.pronouns %}<span class="fst-italic small">{{ member.pronouns }}</span>{% endif %}
         </div>
-        <p class="mb-2">{{ member.info }}</p>
+        <div class="team-members__bio" id="team-bio-{{ forloop.index }}">
+          <p class="mb-2">{{ member.info }}</p>
+        </div>
+        <button class="team-members__toggle btn btn-link p-0 m-0" type="button" data-bs-toggle="collapse" data-bs-target="#team-bio-{{ forloop.index }}" aria-controls="team-bio-{{ forloop.index }}" aria-expanded="false" data-member-name="{{ member.name | escape }}" hidden>Read more</button>
       <div class="d-flex flex-wrap gap-3 mt-2 team-members__links">
         {% if member.website %}<a class="m-0 py-1 px-0 lh-1" href="{{ member.website }}" target="_blank" rel="noopener" aria-label="{{ member.name }} website" title="{{ member.name }} website"><i class="fa-solid fa-globe" aria-hidden="true"></i></a> {% endif %}
         {% if member.email %}<a class="m-0 py-1 px-0 lh-1" href="mailto:{{ member.email }}" aria-label="Email {{ member.name }}" title="Email {{ member.name }}"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a> {% endif %}
@@ -34,3 +37,5 @@ permalink: /team/
   </div>
 {% endfor %}
 </div>
+
+<script src="{{ "/assets/javascript/team-bios.js" | relative_url }}" defer></script>
