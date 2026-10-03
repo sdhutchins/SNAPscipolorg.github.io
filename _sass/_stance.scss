@@ -75,6 +75,54 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   }
 }
 
+.stance-state-browser {
+  .nav-tabs {
+    --bs-nav-link-color: #{$snap-blue};
+    --bs-nav-link-hover-color: #{$snap-blue};
+    --bs-nav-tabs-link-active-color: #{$snap-blue};
+
+    .nav-link {
+      color: $snap-blue;
+    }
+  }
+
+  .stance-state-search {
+    width: 20rem;
+    max-width: 70%;
+  }
+
+  .table-responsive {
+    max-height: 33rem;
+    overflow: auto;
+  }
+
+  th, td {
+    padding: 0.875rem 0.75rem;
+  }
+
+  thead th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: #F4F6FA;
+    color: $snap-blue;
+    font-size: 0.875rem;
+  }
+
+  .stance-state-sort {
+    color: inherit;
+    font: inherit;
+    font-weight: 600;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    margin: 0;
+
+    &:disabled { opacity: 1; }
+    &:focus-visible { outline: 2px solid $snap-blue; outline-offset: 3px; }
+  }
+}
+
 .stance-map {
   margin: 1rem 0 0.5rem;
   min-height: 200px;
@@ -707,7 +755,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
 
   &--empty {
     cursor: default;
-    @include transition(fill 0.15s ease-in-out);
     border-style: dashed;
     opacity: 0.55;
 
@@ -1160,7 +1207,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
       cursor: pointer;
 
       &:hover { background: $snap-navy-tint; border-color: $snap-light-blue; }
-    @include transition(background-color 0.15s ease-in-out, border-color 0.15s ease-in-out);
     }
   }
 
@@ -1192,7 +1238,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
       -webkit-appearance: none;
       cursor: pointer;
       max-width: 230px;
-    @include transition(border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out);
 
       &:hover { border-color: $snap-light-blue; }
 

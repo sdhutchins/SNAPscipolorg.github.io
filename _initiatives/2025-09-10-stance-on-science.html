@@ -17,9 +17,15 @@ permalink: /initiatives/stance-on-science
 
 {%- assign active_states = site.initiatives | where_exp: "p", "p.state != nil and p.state != 'xx'" | map: "state" | sort -%}
 
-<p>Click an <strong style="color:var(--snap-orange)">orange</strong> state to view
-candidate responses from that state. <a href="{{ '/initiatives/stance-on-science/search' | relative_url }}">Click here for all responses.</a> Scroll down for a list of states. This map will be updated as more states publish candidate responses.</p>
+<p>Explore candidate responses by state, or <a href="{{ '/initiatives/stance-on-science/search' | relative_url }}">view all responses</a>.</p>
 
+<div class="stance-state-browser" id="stance-state-browser">
+  <div class="nav nav-tabs mb-4" role="tablist" aria-label="Browse states" hidden>
+    <button class="nav-link active" id="stance-map-tab" data-bs-toggle="tab" data-bs-target="#map" type="button" role="tab" aria-controls="map" aria-selected="true">Map</button>
+    <button class="nav-link" id="stance-states-tab" data-bs-toggle="tab" data-bs-target="#table" type="button" role="tab" aria-controls="table" aria-selected="false" tabindex="-1">Table</button>
+  </div>
+  <div class="tab-content">
+    <div id="map">
 <div class="stance-map" id="stance-map-canvas" role="img" aria-label="Map of the United States showing states with Stance on Science candidate responses highlighted in orange.">
   <noscript>
     <p><em>This map requires JavaScript to display. Browse responses directly:</em></p>
@@ -40,29 +46,12 @@ candidate responses from that state. <a href="{{ '/initiatives/stance-on-science
   <span class="stance-map-legend__swatch stance-map-legend__swatch--inactive"></span> No page yet
 </p>
 
- <h4>List of States</h4>
-
-<ul class="stance-states-list">
-  {%- assign state_pages = site.initiatives | where_exp: "p", "p.state != nil and p.state != 'xx'" | sort: "state" -%}
-  {%- for sp in state_pages -%}
-    <li><a href="{{ sp.url | relative_url }}">{{ sp.state_name }}</a></li>
-  {%- endfor -%}
-</ul>
-
-<style>
-  .stance-states-list {
-    column-count: 3;
-    column-gap: 2rem;
-  }
-  .stance-states-list li {
-    break-inside: avoid;
-  }
-  @media (max-width: 600px) {
-    .stance-states-list {
-      column-count: 1;
-    }
-  }
-</style>
+    </div>
+    <div id="table">
+      {% include stance/state_table.html %}
+    </div>
+  </div>
+</div>
 
 <h2 class="mt-5 mb-3">Upcoming Events</h2>
 
@@ -105,6 +94,7 @@ candidate responses from that state. <a href="{{ '/initiatives/stance-on-science
   window.STANCE_ACTIVE_STATES = JSON.parse('{{ active_states | jsonify }}');
   window.STANCE_STATES_URL = "{{ '/initiatives/stance-on-science/states/' | relative_url }}";
 </script>
+<script src="{{ '/assets/javascript/stance-state-browser.js' | relative_url }}" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
 <script src="{{ '/assets/javascript/stance-map.js' | relative_url }}"></script>

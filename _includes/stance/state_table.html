@@ -1,0 +1,44 @@
+{%- assign states = site.data.stance_states -%}
+<div class="d-flex align-items-end justify-content-between gap-3 mb-3" data-state-search hidden>
+  <div class="stance-state-search">
+    <label class="visually-hidden" for="stance-state-query">Search states</label>
+    <input id="stance-state-query" class="form-control" type="search" placeholder="Search states…" autocomplete="off">
+  </div>
+  <span class="small text-muted" data-state-count role="status">{{ states.size }} entries</span>
+</div>
+<div class="table-responsive" tabindex="0" role="region" aria-label="State response counts">
+  <table class="table table-hover align-middle mb-0">
+    <caption class="visually-hidden">All 50 states and the District of Columbia, their response counts, and page availability</caption>
+    <thead>
+      <tr>
+        <th scope="col" aria-sort="ascending"><button class="btn btn-link text-decoration-none stance-state-sort" type="button" data-state-sort="name" disabled>State <i class="fa-solid fa-sort-up ms-1" data-sort-indicator aria-hidden="true"></i></button></th>
+        <th scope="col" class="text-end"><button class="btn btn-link text-decoration-none stance-state-sort" type="button" data-state-sort="candidates" disabled>Candidates <i class="fa-solid fa-sort ms-1" data-sort-indicator aria-hidden="true"></i></button></th>
+        <th scope="col" class="text-end"><button class="btn btn-link text-decoration-none stance-state-sort" type="button" data-state-sort="responses" disabled>Responses <i class="fa-solid fa-sort ms-1" data-sort-indicator aria-hidden="true"></i></button></th>
+        <th scope="col" class="text-end">State Page Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for state in states %}
+        {%- assign state_code = state[0] -%}
+        {%- assign state_name = state[1] -%}
+        {%- assign state_page = site.initiatives | where: "state", state_code | first -%}
+        {%- assign responses = site.data.stance_responses[state_code] | where_exp: "r", "r.did_not_respond != true" -%}
+        {%- assign candidate_keys = "" -%}
+        {%- for response in responses -%}
+          {%- capture candidate_key -%}{{ response.candidate_first_name }}|{{ response.candidate_last_name }};{%- endcapture -%}
+          {%- assign candidate_keys = candidate_keys | append: candidate_key -%}
+        {%- endfor -%}
+        {%- assign candidate_count = candidate_keys | split: ";" | uniq | size -%}
+        <tr data-state-name="{{ state_name | escape }}" data-state-code="{{ state_code | escape }}" data-candidates="{{ candidate_count }}" data-responses="{{ responses.size | default: 0 }}">
+          <th scope="row">{{ state_name }}</th>
+          <td class="text-end">{{ candidate_count }}</td>
+          <td class="text-end">{{ responses.size | default: 0 }}</td>
+          <td class="text-end text-nowrap">
+            {% if state_page %}<a href="{{ state_page.url | relative_url }}" aria-label="View {{ state_name | escape }} page">View page</a>{% else %}<span class="text-muted">No page available</span>{% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+<p class="mt-3" data-state-empty hidden>No states match your search.</p>
