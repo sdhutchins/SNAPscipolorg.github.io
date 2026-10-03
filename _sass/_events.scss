@@ -16,7 +16,7 @@
   border: 1px solid #ddd;
   border-radius: 6px;
   padding: 1rem 1.25rem;
-  background: #fff;
+  background: #F4F6FA;
 
   &[hidden] { display: none; }
 
@@ -225,8 +225,11 @@
 
 
 .snap-events--accordion {
+  --bs-accordion-bg: #F4F6FA;
+  --bs-accordion-btn-bg: #F4F6FA;
   --bs-accordion-btn-color: #{$snap-blue};
   --bs-accordion-active-color: #{$snap-blue};
+  --bs-accordion-active-bg: #{rgba($snap-blue, 0.05)};
 
   .accordion-button {
     margin: 0;
