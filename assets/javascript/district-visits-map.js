@@ -21,6 +21,20 @@
 
   var visitedStates = new Set(container.dataset.states.toUpperCase().split(","));
   var geometryUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
+  var popup = document.getElementById("district-visit-map-popup");
+  var officeDetails = new Map();
+
+  // Read the server-rendered list so the map and no-JavaScript alternative
+  // always show the same office names, without a second copy of the data.
+  document.querySelectorAll("[data-visit-state]").forEach(function (entry) {
+    officeDetails.set(entry.dataset.visitState, {
+      heading: entry.querySelector("strong").textContent.trim(),
+      offices: Array.from(entry.querySelectorAll("ul li"), function (item) {
+        return item.textContent.trim();
+      })
+    });
+  });
+
   // Small states need callouts so every abbreviation remains distinguishable.
   // Anchors sit inside their states; destinations reserve space beside the map.
   var callouts = {
@@ -59,7 +73,7 @@
     var svg = d3.create("svg")
       .attr("viewBox", "0 0 1000 640")
       .attr("class", "district-visit-map__svg")
-      .attr("role", "img")
+      .attr("role", "group")
       .attr("aria-labelledby", "district-visit-map-title district-visit-map-description");
 
     svg.append("title")
@@ -68,7 +82,8 @@
     svg.append("desc")
       .attr("id", "district-visit-map-description")
       .text(visitedStates.size + " states with visits are highlighted in SNAP blue. " +
-        "Other states are light gray. Expand the state list below for all participating states.");
+        "Other states are light gray. Focus on or select a blue state for the offices visited, " +
+        "or expand the state list below.");
 
     var statePaths = svg.append("g").selectAll("path").data(states).join("path")
       .attr("d", path)
@@ -77,7 +92,7 @@
         return "district-visit-map__state" +
           (visitedStates.has(stateCode(feature)) ? " district-visit-map__state--active" : "");
       });
-    statePaths
+    statePaths.filter(function (feature) { return !visitedStates.has(stateCode(feature)); })
       .append("title")
       .text(function (feature) {
         return feature.properties.name +
@@ -108,9 +123,127 @@
       .attr("class", function (feature) {
         var code = stateCode(feature);
         return "district-visit-map__label" +
+          (visitedStates.has(code) ? " district-visit-map__label--interactive" : "") +
           (visitedStates.has(code) && !callouts[code] ? " district-visit-map__label--active" : "");
       })
       .text(stateCode);
+
+    var activeCode = null;
+    var activeShape = null;
+    var pinned = false;
+    var hideTimer;
+
+    function hideDetails() {
+      clearTimeout(hideTimer);
+      popup.hidden = true;
+      if (activeShape) activeShape.setAttribute("aria-expanded", "false");
+      activeCode = null;
+      activeShape = null;
+      pinned = false;
+    }
+
+    function showDetails(feature) {
+      clearTimeout(hideTimer);
+      var code = stateCode(feature);
+      var details = officeDetails.get(code);
+      if (!details) return;
+      if (activeCode !== code) {
+        hideDetails();
+        activeCode = code;
+        activeShape = statePaths.filter(function (state) { return stateCode(state) === code; }).node();
+      }
+      popup.querySelector("h4").textContent = details.heading;
+      var officeList = popup.querySelector("ul");
+      officeList.replaceChildren();
+      details.offices.forEach(function (office) {
+        var item = document.createElement("li");
+        item.textContent = office;
+        officeList.appendChild(item);
+      });
+      popup.hidden = false;
+      activeShape.setAttribute("aria-expanded", "true");
+      positionDetails();
+    }
+
+    function positionDetails() {
+      // Anchor to the state rather than the pointer, keeping the popup steady
+      // while reading and inside the viewport on touch screens.
+      var bounds = activeShape.getBoundingClientRect();
+      var left = bounds.left + bounds.width / 2 - popup.offsetWidth / 2;
+      var top = bounds.bottom + 12;
+      if (top + popup.offsetHeight > window.innerHeight - 12) {
+        top = bounds.top - popup.offsetHeight - 12;
+      }
+      popup.style.left = Math.max(12, Math.min(left, window.innerWidth - popup.offsetWidth - 12)) + "px";
+      popup.style.top = Math.max(12, Math.min(top, window.innerHeight - popup.offsetHeight - 12)) + "px";
+    }
+
+    function scheduleHide() {
+      clearTimeout(hideTimer);
+      // Allow the pointer to cross the gap into the popup without losing it.
+      hideTimer = setTimeout(function () {
+        var focusIsInside = activeShape === document.activeElement || popup.contains(document.activeElement);
+        if (!pinned && !focusIsInside && !popup.matches(":hover")) hideDetails();
+      }, 180);
+    }
+
+    function toggleDetails(event, feature) {
+      event.preventDefault();
+      if (activeCode === stateCode(feature) && pinned) {
+        hideDetails();
+      } else {
+        showDetails(feature);
+        pinned = true;
+      }
+    }
+
+    function bindPointerDetails(selection) {
+      selection.attr("data-visit-interactive", "true")
+        .on("pointerenter", function (event, feature) {
+          if (event.pointerType === "mouse" && !pinned) showDetails(feature);
+        })
+        .on("pointerleave", scheduleHide)
+        .on("click", toggleDetails);
+    }
+
+    var visitedPaths = statePaths.filter(function (feature) { return visitedStates.has(stateCode(feature)); });
+    visitedPaths
+      .attr("role", "button")
+      .attr("tabindex", 0)
+      .attr("aria-label", function (feature) { return officeDetails.get(stateCode(feature)).heading; })
+      .attr("aria-describedby", function (feature) { return "district-visit-offices-" + stateCode(feature).toLowerCase(); })
+      .attr("aria-controls", "district-visit-map-popup")
+      .attr("aria-expanded", "false")
+      .on("focus", function (event, feature) { showDetails(feature); })
+      .on("blur", scheduleHide)
+      .on("keydown", function (event, feature) {
+        if (event.key === "Enter" || event.key === " ") toggleDetails(event, feature);
+      });
+    bindPointerDetails(visitedPaths);
+    // Callout labels provide a second touch target for the small eastern states.
+    bindPointerDetails(labels.filter(function (feature) { return visitedStates.has(stateCode(feature)); }));
+
+    popup.addEventListener("pointerenter", function () { clearTimeout(hideTimer); });
+    popup.addEventListener("pointerleave", scheduleHide);
+    popup.addEventListener("focusout", scheduleHide);
+    function dismissDetails() {
+      if (activeShape && popup.contains(document.activeElement)) activeShape.focus();
+      hideDetails();
+    }
+    popup.querySelector("button").addEventListener("click", dismissDetails);
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && !popup.hidden) dismissDetails();
+    });
+    document.addEventListener("click", function (event) {
+      if (!popup.contains(event.target) && !event.target.closest("[data-visit-interactive]")) hideDetails();
+    });
+    // Keyboard focus can scroll the state into view after opening its details.
+    // Reposition in that case; ordinary scrolling dismisses hover/touch popups.
+    window.addEventListener("scroll", function () {
+      if (activeShape && document.activeElement === activeShape) positionDetails();
+      else hideDetails();
+    }, { passive: true });
+    window.addEventListener("resize", hideDetails);
 
     // Keep the text fallback until the complete map is ready, including on
     // network failure. The independent state list also works without JavaScript.
