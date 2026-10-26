@@ -100,40 +100,6 @@
     &--active { background: $snap-blue; }
   }
 
-  &__list {
-    summary {
-      color: $snap-blue;
-      cursor: pointer;
-      font-weight: 600;
-    }
-
-    summary:focus-visible {
-      outline: 2px solid $snap-blue;
-      outline-offset: 4px;
-    }
-
-    > ul {
-      margin-top: 0.75rem;
-      padding-left: 0;
-      list-style: none;
-      columns: 2;
-    }
-
-    > ul > li {
-      break-inside: avoid;
-      margin-bottom: 1rem;
-    }
-
-    ul ul {
-      margin-top: 0.35rem;
-      padding-left: 1.25rem;
-    }
-
-    @media (max-width: 575.98px) {
-      > ul { columns: 1; }
-    }
-  }
-
   &__popup {
     position: fixed;
     z-index: 1050;

@@ -19,19 +19,20 @@
   var container = document.getElementById("district-visit-map-canvas");
   if (!container || typeof d3 === "undefined" || typeof topojson === "undefined") return;
 
-  var visitedStates = new Set(container.dataset.states.toUpperCase().split(","));
+  var stateNames = JSON.parse(container.dataset.states);
+  var stateOffices = JSON.parse(container.dataset.offices);
+  var visitedStates = new Set(Object.keys(stateNames).map(function (code) { return code.toUpperCase(); }));
   var geometryUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
   var popup = document.getElementById("district-visit-map-popup");
   var officeDetails = new Map();
 
-  // Read the server-rendered list so the map and no-JavaScript alternative
-  // always show the same office names, without a second copy of the data.
-  document.querySelectorAll("[data-visit-state]").forEach(function (entry) {
-    officeDetails.set(entry.dataset.visitState, {
-      heading: entry.querySelector("strong").textContent.trim(),
-      offices: Array.from(entry.querySelectorAll("ul li"), function (item) {
-        return item.textContent.trim();
-      })
+  // Jekyll supplies the existing visit data directly, so popup details do not
+  // depend on a separate visible list or a second maintained copy of the data.
+  Object.keys(stateNames).forEach(function (code) {
+    var offices = stateOffices[code];
+    officeDetails.set(code.toUpperCase(), {
+      heading: stateNames[code] + " (" + offices.length + (offices.length === 1 ? " visit)" : " visits)"),
+      offices: offices
     });
   });
 
@@ -82,8 +83,7 @@
     svg.append("desc")
       .attr("id", "district-visit-map-description")
       .text(visitedStates.size + " states with visits are highlighted in SNAP blue. " +
-        "Other states are light gray. Focus on or select a blue state for the offices visited, " +
-        "or expand the state list below.");
+        "Other states are light gray. Focus on or select a blue state for the offices visited.");
 
     var statePaths = svg.append("g").selectAll("path").data(states).join("path")
       .attr("d", path)
@@ -211,7 +211,7 @@
       .attr("role", "button")
       .attr("tabindex", 0)
       .attr("aria-label", function (feature) { return officeDetails.get(stateCode(feature)).heading; })
-      .attr("aria-describedby", function (feature) { return "district-visit-offices-" + stateCode(feature).toLowerCase(); })
+      .attr("aria-describedby", "district-visit-map-help")
       .attr("aria-controls", "district-visit-map-popup")
       .attr("aria-expanded", "false")
       .on("focus", function (event, feature) { showDetails(feature); })
@@ -245,10 +245,11 @@
     }, { passive: true });
     window.addEventListener("resize", hideDetails);
 
-    // Keep the text fallback until the complete map is ready, including on
-    // network failure. The independent state list also works without JavaScript.
+    // Replace the loading guidance only when the complete map is ready.
     container.replaceChildren(svg.node());
   }).catch(function (error) {
+    container.querySelector(".district-visit-map__fallback").textContent =
+      "The map could not load. Please reload the page to try again.";
     console.error("district-visits-map: could not load state boundaries", error);
   });
 }());
