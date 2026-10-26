@@ -36,8 +36,30 @@ permalink: /initiatives/snapstart
 -->
 
 <div class="alert alert-info">
-  <strong>Applications are now closed.</strong> Grant award announcements will be made soon.
+  <strong>Applications are now closed.</strong> Meet our first-round recipients below.
 </div>
+
+<section class="snapstart-recipients" aria-labelledby="snapstart-recipients-heading">
+  <h2 id="snapstart-recipients-heading">Meet the Recipients</h2>
+  <h3 class="snapstart-recipients__round">Round 1 (Fall 2026)</h3>
+  <p>Congratulations to the eight organizations receiving SNAPStart’s first round of mini-grants.</p>
+
+  {% for recipient in site.data.snapstart_recipients %}
+  <article class="snapstart-recipient{% unless recipient.image %} snapstart-recipient--text-only{% endunless %}" aria-labelledby="snapstart-recipient-{{ forloop.index }}">
+    {% if recipient.image %}
+    <div class="snapstart-recipient__image">
+      <img src="{{ recipient.image | relative_url }}" alt="{{ recipient.name | escape }} logo" loading="lazy" width="200" height="200">
+    </div>
+    {% endif %}
+    <div class="snapstart-recipient__description">
+      <h4 id="snapstart-recipient-{{ forloop.index }}">{{ recipient.name | escape }}</h4>
+      {% for paragraph in recipient.blurbs %}
+      <p>{{ paragraph | escape }}</p>
+      {% endfor %}
+    </div>
+  </article>
+  {% endfor %}
+</section>
 
 <h2>FAQ</h2>
 

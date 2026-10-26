@@ -1,0 +1,66 @@
+.snapstart-recipients {
+  margin: 2.5rem 0;
+
+  &__round {
+    color: $snap-blue;
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.snapstart-recipient {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 0;
+  border-bottom: 1px solid #dce2eb;
+
+  &__image {
+    background: #fff;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 200px;
+      // Preserve each supplied logo's proportions and complete artwork.
+      object-fit: contain;
+    }
+  }
+
+  &__description {
+    h4 {
+      color: $snap-blue;
+      font-size: 1.35rem;
+      line-height: 1.4;
+      margin: 0 0 0.75rem;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // Keep the text aligned with other profiles when no image was supplied.
+  &--text-only &__description {
+    grid-column: 2;
+  }
+
+  @media (max-width: 575.98px) {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+
+    &__image {
+      width: 180px;
+      justify-self: center;
+
+      img {
+        height: 180px;
+      }
+    }
+
+    &--text-only &__description {
+      grid-column: 1;
+    }
+  }
+}

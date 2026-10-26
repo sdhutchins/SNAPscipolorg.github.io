@@ -15,4 +15,5 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 @import "events";
 @import "scipol-course";
 @import "district-visits";
+@import "snapstart";
 @import "map";
