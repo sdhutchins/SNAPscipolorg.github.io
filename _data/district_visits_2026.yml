@@ -1,0 +1,34 @@
+# Aggregate outcomes checked against SNAP Visits 2026 Recap on 2026-10-26.
+# Wisconsin replaces Oklahoma in the earlier reference image.
+visits: 65
+trained: 115
+in_person: 22
+# Alabama's corrected visit was to a Senate office, reducing the House count.
+house: 45
+states:
+  al: Alabama
+  az: Arizona
+  ca: California
+  de: Delaware
+  fl: Florida
+  ga: Georgia
+  il: Illinois
+  in: Indiana
+  ky: Kentucky
+  ma: Massachusetts
+  md: Maryland
+  mi: Michigan
+  mn: Minnesota
+  mo: Missouri
+  nc: North Carolina
+  ne: Nebraska
+  nj: New Jersey
+  nm: New Mexico
+  ny: New York
+  or: Oregon
+  pa: Pennsylvania
+  sc: South Carolina
+  tn: Tennessee
+  tx: Texas
+  wa: Washington
+  wi: Wisconsin
