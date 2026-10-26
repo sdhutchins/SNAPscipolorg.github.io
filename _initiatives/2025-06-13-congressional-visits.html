@@ -53,6 +53,30 @@ permalink: /initiatives/district-visits/
   <p class="mb-0">Of the {{ visit_results.visits }} visits, {{ visit_results.in_person }} ({{ visit_results.in_person | times: 100.0 | divided_by: visit_results.visits | round: 1 }}%) were held in person, and {{ visit_results.house }} ({{ visit_results.house | times: 100.0 | divided_by: visit_results.visits | round: 1 }}%) were with House offices. Visits reached {{ visit_state_count }} states, including 15 that supported the Republican presidential nominee in 2024, and one congressional staff member participated in a lab tour.</p>
 </section>
 
+<section class="district-visit-map" aria-labelledby="district-visit-map-heading">
+  <h3 id="district-visit-map-heading">Where We Visited in 2026</h3>
+  <div id="district-visit-map-canvas" data-states="{% for state in visit_results.states %}{{ state[0] }}{% unless forloop.last %},{% endunless %}{% endfor %}">
+    <p class="district-visit-map__fallback">The {{ visit_state_count }} states with visits are listed below.</p>
+  </div>
+  <p class="district-visit-map__legend" aria-hidden="true">
+    <span><span class="district-visit-map__swatch district-visit-map__swatch--active"></span> States with visits</span>
+    <span><span class="district-visit-map__swatch"></span> No recorded visits</span>
+  </p>
+  <details class="district-visit-map__list">
+    <summary>All {{ visit_state_count }} states with visits</summary>
+    <ul>
+      {% assign visited_states = visit_results.states | sort %}
+      {% for state in visited_states %}
+        <li>{{ state[1] }}</li>
+      {% endfor %}
+    </ul>
+  </details>
+</section>
+
+<script defer src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+<script defer src="{{ '/assets/javascript/district-visits-map.js' | relative_url }}"></script>
+
 <h3>How it works</h3>
 <ol>
   <li><strong><a href="https://forms.gle/GjZA8uC5bejDFWrX9" target="_blank" rel="noopener">Sign up</a>:</strong> by Friday, August 7th to let us know you're interested.</li>
