@@ -2,11 +2,9 @@
   candidate_last_name: Felber
   state: md
   race: Governor
-  district:
   party: Democratic
   question: md-q1
   date: 2026-05-19
-  county_race:
   response: |
     “The data center companies need to pay for their own development instead of the taxpayers paying.  Nuclear and coal plants needs to open to keep utility prices from skyrocketing.  Maryland has the highest utility costs of the country."
 
@@ -14,11 +12,9 @@
   candidate_last_name: Felber
   state: md
   race: Governor
-  district:
   party: Democratic
   question: md-q2
   date: 2026-05-19
-  county_race:
   response: |
     “We must focus on expanding vocational training and supporting green energy initiatives. These efforts are essential to strengthening our workforce and creating sustainable economic opportunities across the state. We will continue to fight for all union members and the working class in Maryland."
 
@@ -26,11 +22,9 @@
   candidate_last_name: Felber
   state: md
   race: Governor
-  district:
   party: Democratic
   question: md-q3
   date: 2026-05-19
-  county_race:
   response: |
     “I have been a physician in Maryland for the past two decades.  I spend everyday providing healthcare to my community.  Medicaid needs to be expanded, the opioid, fentanyl crisis, and socioeconomic disparaties needs to be addressed.  I believe in universal single-payor healthcare.  Healthcare is a right, not a luxury."
 
@@ -38,11 +32,9 @@
   candidate_last_name: Felber
   state: md
   race: Governor
-  district:
   party: Democratic
   question: md-q4
   date: 2026-05-19
-  county_race:
   response: |
     “I believe in free education.  Every citizen deserves education and a right to train for a career to support their family.  I support unions and their workers."
 
@@ -50,11 +42,9 @@
   candidate_last_name: Felber
   state: md
   race: Governor
-  district:
   party: Democratic
   question: md-q5
   date: 2026-05-19
-  county_race: 
   response: |
     “I believe in cleaning the bay and protecting our environment for sustainability."
 
@@ -62,11 +52,9 @@
   candidate_last_name: Felber
   state: md
   race: Governor
-  district:
   party: Democratic
   question: md-q6
   date: 2026-05-19
-  county_race: 
   response: |
     “I am a physician and employ scientific findings and evidence everyday and in everything I do."
 
@@ -74,11 +62,9 @@
   candidate_last_name: Felber
   state: md
   race: Governor
-  district:
   party: Democratic
   question: md-q7
-  date: 2026-05-19
-  county_race: 
+  date: 2026-05-19 
   response: |
     “I support federal science funding to replace the 25000 federal jobs lost since 2025.  I support innovation via local jobs and local businesses in Maryland."
 
@@ -86,11 +72,9 @@
   candidate_last_name: Myrick
   state: md
   race: Governor
-  district:
   party: Republican
   question: md-q1
   date: 2026-05-20
-  county_race: 
   response: |
     “We will have improved solar panels installed on the roofs of schools, and county and State office buildings. We will also incentivize private industry to install solar panels on their buildings (such as warehouses, shopping centers, and big box stores).  We will remove our State from RGGI (the Regional Greenhouse Gas Initiative). We will work with the owners of the shuttered fossil fuel burning power plants to retrofit them to burn cleaner natural gas. We will also work with Calvert Cliffs Nuclear Plant to obtain the necessary federal permits to increase their reactor capacity. We will introduce modular nuclear technologies to Maryland. There is a company in Montgomery County that is at the forefront of this technology and they assure us that they can build safe, clean, reliable modular reactors in strategic locations in Maryland. The components for these reactors would be manufactured right here in Maryland - creating economic opportunities for hundreds (if not thousands) of Marylanders. Adding power to the grid will drive down costs. We will place a moratorium on new data center construction, until such time as we have stabilized the electricity issues for Maryland residents and brought down costs. Any new data center proposals will need to include plans for self-sustaining power generation and a comprehensive plan for water usage, reclamation, and treatment; as well as for noise abatement and aesthetics."
 
@@ -98,11 +82,9 @@
   candidate_last_name: Myrick
   state: md
   race: Governor
-  district:
   party: Republican
   question: md-q2
   date: 2026-05-20
-  county_race: 
   response: |
     “The federal government is Maryland's largest employer and accounts for nearly one third of our total economy.  It is the responsibility of the Governor to work with our largest employer, regardless of political party or personalities.  The current Governor's public refusal to work with the Administration is childish and counterproductive.  I will work with our federal partners, regardless of political affiliation, to slow the hemorrhage of federal jobs and funding from our State, and will work to ensure that Marylanders are not disproportionally affected by federal downsizing."
 
@@ -110,11 +92,9 @@
   candidate_last_name: Myrick
   state: md
   race: Governor
-  district:
   party: Republican
   question: md-q3
   date: 2026-05-20
-  county_race: 
   response: |
     “We will work with our federal partners, as well as our county and local partners, to ensure that Marylanders are afforded the best possible healthcare options.  We will expand efforts to provide better access to care in our rural and urban communities; and our law enforcement personnel will re-double their collective efforts to stem the flow of opioids into our communities.  We will also re-evaluate the eligibility requirements for those seeking State assistance, in order to ensure that Maryland's most vulnerable residents are neither excluded nor are short-changed care.  We will restore funding for Maryland disabled residents taken from the State budget and will seek to improve services across the board for all Marylanders."
 
@@ -122,11 +102,9 @@
   candidate_last_name: Myrick
   state: md
   race: Governor
-  district:
   party: Republican
   question: md-q4
   date: 2026-05-20
-  county_race: 
   response: |
     “The Maryland public school system is, by and large, broken and is failing to prepare our children for the future.  We will look to restructure the system so that our children are provided the high-quality educational experience necessary to ensure their future success.  We will invest heavily in STEM education and programs at all levels of education, and will work to provide opportunities for certification in STEM-related fields for students as early as Middle School."
 
@@ -134,11 +112,9 @@
   candidate_last_name: Myrick
   state: md
   race: Governor
-  district:
   party: Republican
   question: md-q5
   date: 2026-05-20
-  county_race: 
   response: |
     “Maryland's environment is critical to our continues success.  We will take appropriate steps to protect and improve the condition of our waterways, the bay, our agricultural lands, and open spaces."
 
@@ -146,11 +122,9 @@
   candidate_last_name: Myrick
   state: md
   race: Governor
-  district:
   party: Republican
   question: md-q6
   date: 2026-05-20
-  county_race: 
   response: |
     “Our policy decisions will always be made in consultation with the appropriate experts in their specific fields, and with the best available information."
 
@@ -158,11 +132,9 @@
   candidate_last_name: Myrick
   state: md
   race: Governor
-  district:
   party: Republican
   question: md-q7
   date: 2026-05-20
-  county_race: 
   response: |
     “We will actively lobby Congress and The White House for continued and expanded investments in Maryland science-based enterprises and institutions.  This will include efforts to expand investment at NASA Goddard Space Flight Center, NIST, the Department of Energy, our DOD installations, and in Maryland universities for scientific research."
 
@@ -174,7 +146,6 @@
   party: Republican
   question: md-q1
   date: 2026-05-22
-  county_race: 
   response: |
     “Double Calvert Cliffs.  Speed smaller nuclear plants."
 
@@ -186,7 +157,6 @@
   party: Republican
   question: md-q2
   date: 2026-05-22
-  county_race: 
   response: |
     “End 3% tech sales tax.  End 6% sales tax.  No tax increases."
 
@@ -198,7 +168,6 @@
   party: Republican
   question: md-q3
   date: 2026-05-22
-  county_race: 
   response: |
     “Prosecute open air drug markets.  Promote exercise and good diets."
 
@@ -210,7 +179,6 @@
   party: Republican
   question: md-q4
   date: 2026-05-22
-  county_race: 
   response: |
     “As an engineer, support daily homework and quiz.  Use Saturday and summer school."
 
@@ -222,7 +190,6 @@
   party: Republican
   question: md-q5
   date: 2026-05-22
-  county_race: 
   response: |
     “Local control special classes."
 
@@ -234,7 +201,6 @@
   party: Republican
   question: md-q6
   date: 2026-05-22
-  county_race: 
   response: |
     “Special classes in AI for all students."
 
@@ -246,7 +212,6 @@
   party: Republican
   question: md-q7
   date: 2026-05-22
-  county_race: 
   response: |
     “Support it.  I have a BS Engineering."
 
@@ -258,7 +223,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-23
-  county_race: 
   response: |
     “Maryland families are getting squeezed by skyrocketing electricity bills, and the unchecked proliferation of data centers — largely serving Big Tech corporations — is driving up demand and costs for everyday residents who have no say in that decision. If elected, I will require data centers to pay their fair share through utility impact fees, accelerate investment in clean affordable renewable energy, and push for strong oversight of electricity markets to stop price gouging that hurts working families and seniors on fixed incomes."
 
@@ -270,7 +234,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-23
-  county_race: 
   response: |
     “The Trump administration's reckless cuts to NIH, NASA, and NIST have devastated Maryland communities and cost us nearly 25,000 federal jobs — and I will fight every day in the Senate to reverse that damage. I'll push to restore federal agency funding, protect collective bargaining rights for federal workers, and invest in workforce transition programs that help displaced workers land good-paying jobs in clean energy, biotech, and advanced manufacturing — no matter their education level."
 
@@ -282,7 +245,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-23
-  county_race: 
   response: |
     “As someone who works in healthcare, I've seen firsthand how zip code too often determines health outcomes — and that is a moral failure we must fix. I support fully funding community health centers, expanding Medicaid behavioral health coverage, and enforcing mental health parity laws so insurers stop denying people the care they need. To address the opioid crisis, I'll push for evidence-based harm reduction and expanded treatment access, especially for communities of color — and I'll fight to restore the federal public health funding Trump has recklessly gutted."
 
@@ -294,7 +256,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-23
-  county_race: 
   response: |
     “I know that a strong STEM pipeline starts with investing in teachers and students, not cutting them. I'll fight to fully fund Title I schools so every child — regardless of zip code — has access to quality science and math education, and push for federal investment in hands-on STEM programs that spark curiosity early. I support making community college free and strengthening transfer pathways to four-year universities, and I'll defend Pell Grants and fight to cancel student debt so the next generation of Maryland scientists and engineers can pursue their potential without being crushed by debt."
 
@@ -306,7 +267,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-23
-  county_race: 
   response: |
     “Clean water, protected green space, and healthy land are not luxuries — they are rights that every Marylander deserves. I support fully funding the Chesapeake Bay restoration program, strengthening the Clean Water Act against corporate polluters, and expanding federal investment in urban parks and green infrastructure so that communities of color — who are too often surrounded by concrete and pollution — have access to open space. I'll also fight to protect federal lands from privatization and push for smart land-use policies that prioritize conservation over unchecked development that strains our water supply and destroys natural ecosystems."
 
@@ -318,7 +278,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-23
-  county_race: 
   response: |
     “Good science saves lives, and I will never let political convenience override evidence. I'll establish a standing advisory council of scientists, public health experts, and community researchers — with diverse representation — to inform my legislative priorities. I'll require that every major policy position be backed by peer-reviewed research, and I'll fight to restore independence to federal scientific agencies gutted under the Trump administration. Democracy works best when it's built on truth."
 
@@ -330,7 +289,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-23
-  county_race: 
   response: |
     “Federal science funding is not a line item to be cut — it is the engine of American innovation, and the Trump administration's gutting of NIH, NASA, and NIST has put Maryland's leadership in research and discovery at serious risk. I'll fight to fully restore and expand funding for these agencies, champion increased investment in basic research, and push for federal grants that prioritize partnerships between universities, community colleges, and minority-serving institutions. Innovation must work for everyone, and I'll make sure federal science dollars reach underrepresented researchers and communities that have historically been left out of the equation."
 
@@ -342,7 +300,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-24
-  county_race: 
   response: |
     “Maryland's energy cost crisis has a specific accelerant that most candidates are not addressing directly: unchecked data center expansion. Individual facilities consume tens of megawatts of power continuously and Maryland has been approving them without adequate analysis of cumulative grid impacts. I support the Sanders-AOC Data Center Energy Sustainability Act, which would impose a moratorium on new data center construction until federal energy and water impact standards are established. Demand-side discipline is as important as supply-side investment.
 
@@ -360,7 +317,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-24
-  county_race: 
   response: |
     “The damage here in Maryland extends well beyond the workers directly terminated. Federal contractors, small businesses, and local economies built around stable federal employment are all absorbing cascading impacts from cuts that were made without analysis, without transition planning, and without congressional authorization.
 
@@ -378,7 +334,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-24
-  county_race: 
   response: |
     “The through-line connecting Maryland's public health challenges — opioid crisis, behavioral health gaps, rural access, health disparities — is a healthcare system that treats these as separate problems rather than symptoms of the same structural failure. I support Medicare for All as the foundation for addressing all of them, because universal coverage is the most evidence-based intervention available for reducing health disparities rooted in socioeconomic inequality.
 
@@ -396,7 +351,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-24
-  county_race: 
   response: |
     “A strong STEM pipeline starts with fully funded public schools — and federal education policy that stops diverting public dollars to private institutions with no accountability to the communities they serve. Voucher programs that drain resources from Title I schools disproportionately harm the students most likely to be locked out of STEM pathways by inadequate early education.
 
@@ -414,7 +368,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-24
-  county_race: 
   response: |
     “Maryland's 6th District contains some of the most ecologically significant land and water resources in the mid-Atlantic — the Potomac River, C&O Canal corridor, Seneca Creek, and substantial agricultural land in western Maryland that sits within the Chesapeake Bay watershed. Protecting those resources requires federal policy that treats land and water as public assets.
 
@@ -434,7 +387,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-24
-  county_race: 
   response: |
     “Evidence-based policymaking requires deliberate institutional commitment, not just good intentions. Here is how I will structure that commitment operationally.
 
@@ -454,7 +406,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-24
-  county_race: 
   response: |
     “Federal science funding is a foundational investment that has produced so much that the world now depends on. The return on that investment is not speculative — it is among the most thoroughly documented in economic history. Congress has treated it as discretionary for too long.
 
@@ -480,7 +431,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-27
-  county_race: 
   response: |
     “I would engage a professional organization that are a stakeholder in our Energy Market (Scientist, Energy Corporations, Governmental Professionals and Energy Investors) and seek alternative forms of Energy (including wind, solar, recycling and such like) to increase supply to help bring down prices.  On Data Centers; I would advocate to set up a commission to gather community and corporate input and develop a professional advisory commission to properly implement the well- thought out recommendations. There will be no rush for actions until all sides have adequately weighed in."
 
@@ -492,7 +442,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-27
-  county_race: 
   response: |
     “This current administration has thought us that we must move away from an economy that’s heavily dependent on the Government as an Industry. I would set up an economic advisory Commission (made up of Business Leaders, Regional Economic Development Groups, Governmental Economic Development Professionals and such like) to seek opportunities to Expand and Grow Small Businesses, Support Corporations that reinvest in District 5 and minimize restrictions on Business Growth and Development."
 
@@ -504,7 +453,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-27
-  county_race: 
   response: |
     “I fully support bringing back the Affordable Care Act in its original state first. Then encourage Congress to properly review and propose any changes that would keep Affordability and Access as primary Tenants."
 
@@ -516,7 +464,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-27
-  county_race: 
   response: |
     “Children learn better and retain interest longer when they have successful outcomes in school.  Therefore, I would first emphasize the importance of Universal Access to Licensed  Preschool Programs. Where there are insufficient space in the local Public Schools; then form creative partnerships with Private and Parochial Programs to ensure all children enter Kindergarten prepared to further their learning experience.  Then I would advocate for a “Village”” approach for our K-12 Students; meaning all stakeholders are engaged (Parents, Educators, Administrators, School Boards, Community Advocates, and Health Professionals) to properly educate, motivate and track our children through their Developmental Experiences.  Finally I would advocate for fair compensation for our Teachers."
 
@@ -528,7 +475,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-27
-  county_race: 
   response: |
     “Our Land-based resources such as water. open spaces, preserves and parks must be maintained and managed in a way that all the citizens of District 5 can enjoy and utilize joyfully without getting sick. Therefore I would advocate for the officials that over see these areas be properly compensated for their work and our citizens follow appropriate guidelines set up to have a safe and healthy experience while using these resources."
 
@@ -540,7 +486,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-27
-  county_race: 
   response: |
     “I would have Science Professionals on all Advisory Commissions that cross Science Fields (ie Public Health, Natural Resources, Corporate Developments, General Research and such like).  All outcomes will be properly vetted and supported through implementation."
 
@@ -552,7 +497,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-27
-  county_race: 
   response: |
     “I would first advocate to restore the Department of Education back to its Pre-Trump staffing. Then I would advocate for funding to all properly vetted Science and Innovation Programs throughout District 5 and the Nation."
 
@@ -564,7 +508,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-28
-  county_race: 
   response: |
     “Not only is investing in clean technology and green energy the right thing to do, it will save money while creating good-paying union jobs. In Congress, I will address the utility affordability crisis caused by President Trump’s attack on clean energy and misadventure in Iran. I am skeptical of data centers, and I want to see more concrete evidence of their long term jobs and the environmental impacts. I am open to the potential job growth created by data centers, but I will not support the further consolidation of wealth that leaves average families behind. My primary concern is making sure that the constituents of District Five and across the state have opportunities that make their quality of life better, not billionaires who are already doing well."
 
@@ -576,7 +519,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-28
-  county_race: 
   response: |
     “I believe we live in one of the wealthiest nations in the world, yet it doesn’t feel that way when millions of Americans are struggling just to get by. Because of Donald Trump’s “One Big Beautiful Bill,” the wealthy continue to prosper while working families face growing challenges. We need to have an economy that works for everyone. All Americans deserve to be financially secure and share in the success of our nation. That’s why in Congress, I will:
 
@@ -604,7 +546,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-28
-  county_race: 
   response: |
     “Healthcare is a human right, and I will fight to achieve that right for my constituents in Congress. Too many Americans are stuck with unpayable hospital bills, or don’t even risk going to seek care for fear of financial instability. The most important thing we can do for our communities is to ensure they’re healthy and have accessible resources to take care of themselves. In Congress, I will:
 
@@ -626,7 +567,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-28
-  county_race: 
   response: |
     “I am a proud product of Maryland public schools, where I learned the values of diversity, service, empathy, and hard work from his peers and teachers. My sister teaches in the public school system and his daughter also attends public school, so this is personal to him. From personal experience, I am committed to strengthening public education for everyone. I will work to:
 
@@ -653,7 +593,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-28
-  county_race: 
   response: |
     “President Trump’s policies and budget proposals have continued to cut funding for environmental services, including tens of millions of dollars towards restoration of the Chesapeake Bay, while also shaving away protections for our State’s natural resources. I will work in Congress to: 
 
@@ -675,7 +614,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-28
-  county_race: 
   response: |
     “In Congress, I will maintain a policymaking process that is supported by evidence-based analysis and scientific findings. I will make sure my staff is well-equipped to support this goal, and I will always listen to scientists and the experts."
 
@@ -687,7 +625,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-28
-  county_race: 
   response: |
     “We need to fully fund the budgets for science and research. You would have a strong supporter in Congress."
 
@@ -699,7 +636,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-29
-  county_race: 
   response: |
     “Families across Maryland are seeing higher electricity bills, and they deserve straight answers. Demand for electricity is rising fast, especially from data centers, while supply and the grid haven’t kept up. On top of that, PJM’s capacity market and regional constraints are adding pressure to prices.
 
@@ -713,7 +649,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-29
-  county_race: 
   response: |
     “Maryland’s economy depends on science, research, healthcare, and innovation. Cuts or disruptions to agencies such as NIH, NASA, and NIST don’t just affect Washington—they hit workers, contractors, and local businesses across the state. I proudly voted for the CHIPS and Science Act because it helps grow advanced manufacturing, biotech, cybersecurity, and clean energy jobs here in Maryland. I also helped secure workforce and STEM funding in Western Maryland, including $4 million in direct federal funding for a STEM workforce program at Mount St. Mary’s.
 
@@ -727,7 +662,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-29
-  county_race: 
   response: |
     “The addiction and mental health crisis is deeply personal to me. I lost my nephew, Ian, to addiction when he was just 24 years old, and that experience drove me to become one of Congress’s leading advocates for addiction treatment and mental health care. I co-founded and co-chaired the Bipartisan Mental Health and Substance Use Disorder Task Force and helped lead the charge to pass the largest investment in mental health and addiction treatment in American history. Of the more than 30 bills included in that package, eight were my bills, and more than half came from members of the task force. I also supported the 21st Century Cures Act to strengthen NIH research and mental-health programs.
 
@@ -741,7 +675,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-29
-  county_race: 
   response: |
     “Maryland has world-class research institutions and federal labs, but we need to do more to connect students to STEM careers early and keep education affordable. I’m a proud son of a public school teacher, and I know how much great teachers shape a child’s future. I’m also proud to be endorsed by the Maryland State Education Association (MSEA).
 
@@ -757,7 +690,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-29
-  county_race: 
   response: |
     “Protecting Maryland’s environment is critical to our economy, public health, and quality of life. I grew up on a farm, and I know firsthand that clean water, healthy soil, and working land are what keep rural communities and local economies strong. That’s why I support science-based conservation policies that protect the Chesapeake Bay, preserve farmland and open space, and improve water quality across western Maryland.
 
@@ -773,7 +705,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-29
-  county_race: 
   response: |
     “I believe good policy starts with facts, evidence, and listening to experts. In Congress, I’ve worked closely with researchers, healthcare providers, universities, and federal agencies to develop policy grounded in science and data.
 
@@ -789,7 +720,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-29
-  county_race: 
   response: |
     “Federal science funding is one of the smartest investments we can make in our economy, national security, and public health. Maryland benefits directly from strong support for agencies such as NIH, NSF, DOE, NASA, and NIST, which drive research, innovation, and job creation across our state. In Congress, I supported the CHIPS and Science Act and investments in biomedical research because I believe America must remain the global leader in science and technology. Back in Congress, I’ll fight efforts to cut science and research funding, protect Maryland’s federal research institutions, and continue investing in biotechnology, AI, cybersecurity, clean energy, and advanced manufacturing. Supporting science means creating jobs, strengthening our economy, and building a healthier and more sustainable future."
 
@@ -801,7 +731,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-29
-  county_race: 
   response: |
     “Maryland families and businesses are being squeezed by rising electricity bills, and the status quo is unacceptable. Here's what I will do:
 
@@ -823,7 +752,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-29
-  county_race: 
   response: |
     “Losing nearly 25,000 federal jobs is a serious blow — but it is also a call to action to build an economy that was never overly dependent on any single employer in the first place.
 
@@ -843,7 +771,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-29
-  county_race: 
   response: |
     "I am committed to the following evidence-based approaches:
 
@@ -865,7 +792,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-29
-  county_race: 
   response: |
     "I will push for significant pay increases for educators and create pathways that attract professionals with real-world STEM experience into our classrooms. Teachers who have worked in science, technology, and engineering bring irreplaceable perspective.
 
@@ -885,7 +811,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-29
-  county_race: 
   response: |
     "I will support policies that rigorously measure the environmental cost of every development proposal, ensuring that green space, wetlands, and natural corridors are protected — not sacrificed for corporate profit.
 
@@ -904,7 +829,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-29
-  county_race: 
   response: |
     "I will employ advisors with formal scientific training and real research experience, ensuring that every major policy decision is informed by people who understand scientific methodology — not just political optics.
 
@@ -924,7 +848,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-29
-  county_race: 
   response: |
     "Science and research permeates my family from past to present. I have several family members who were in scientific fields at one time or another. I will advocate forcefully for increased funding to NIST, NSF, NIH, and NASA — institutions that have driven American scientific leadership for generations and are critical to Maryland's economy and workforce. Gutting these agencies is not fiscal responsibility; it is surrendering our competitive edge.
 
@@ -942,7 +865,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-29
-  county_race: 
   response: |
     "I would work to ban AI data centers."
 
@@ -954,7 +876,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-29
-  county_race: 
   response: |
     "Restore lost federal worker jobs and federally enshrine the right for all workers to collectively bargain."
 
@@ -966,7 +887,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-29
-  county_race: 
   response: |
     "Medicare for all and housing first."
 
@@ -978,7 +898,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-29
-  county_race: 
   response: |
     "MD-06 has some of the most significant STEM-related agencies in government, and we need to ensure our young people are gaining the knowledge needed at these key agencies. I would support funding at every stage of education; incentives for teachers in STEM; funding continuing education; and more funding for Title I schools."
 
@@ -990,7 +909,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-29
-  county_race: 
   response: |
     "More parks and open-spaces preserves."
 
@@ -1002,7 +920,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-29
-  county_race: 
   response: |
     "I am a former federal worker, a member of the federal unionists network, and part of an extensive community of current and past federal workers working in scientific fields, such as NASA and CDC. I would look to my network for advice on which orgs and coalitions are best to consult with to assist my policy making process."
 
@@ -1014,7 +931,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-29
-  county_race: 
   response: |
     "Work to restore all scientific research cuts in the last decade."
 
@@ -1026,7 +942,6 @@
   party: Democratic
   question: md-q1
   date: 2026-06-01
-  county_race: 
   response: |
     "I would require any proposal from a data center to include their method for mitigating environmental harm and financial burden to our communities. I also support transparency and oversight so that consumers are protected from unfair spikes in energy cost."
 
@@ -1038,7 +953,6 @@
   party: Democratic
   question: md-q2
   date: 2026-06-01
-  county_race: 
   response: |
     "I support raising the minimum wage and strengthening labor unions that defend Maryland's workforce. As a member of AFGE Local 17 and a former federal worker of 23 years, I saw firsthand the devastating effect of the Administration's dismantling of our federal agencies. I will defend the rights and dignity of our federal workforce and Unions across industries."
 
@@ -1050,7 +964,6 @@
   party: Democratic
   question: md-q3
   date: 2026-06-01
-  county_race: 
   response: |
     "As a Black woman and a clinical social worker who worked for the Department of Veterans Affairs for over 23 years, I know the value of evidence-based mental and behavioral heath approaches to treatment. Too many of our residents are incarcerated due directly to a lack of access to appropriate diagnosis and treatment for mental health and substance abuse needs. I support protecting and expanding the Affordable Care Act that makes mental health and substance abuse treatment essential and requires most insurance plans to cover these treatments. I also support legislation like the Safer Communities Act, which supports mental health treatment in schools and the community."
 
@@ -1062,7 +975,6 @@
   party: Democratic
   question: md-q4
   date: 2026-06-01
-  county_race: 
   response: |
     "I support policies that provide better access to science instruction, demonstration, and age-appropriate experimentation starting in early grade-school. I also support expanded training and development opportunities for teachers in STEM."
 
@@ -1074,7 +986,6 @@
   party: Democratic
   question: md-q5
   date: 2026-06-01
-  county_race: 
   response: |
     "Maintaining and improving the health of the Chesapeake Bay and its waterways is a top priority. The Bay is central to the 5th District’s identity and supports seafood, recreation, and tourism industries. I support evidence‑based policies that strengthen water quality and protect ecosystems in our communities. This includes addressing the spread of invasive ivy and other non‑native species that are damaging trees and disrupting local habitats throughout the region."
 
@@ -1086,7 +997,6 @@
   party: Democratic
   question: md-q6
   date: 2026-06-01
-  county_race: 
   response: |
     "We have world-class scientific experts in the State of Maryland.  I would establish an advisory council of accomplished scientists and other professionals from local universities including HBCUs, as well as mental health and public health clinicians from both government and private sector, experts from environmental organizations, and researchers to provide their expertise throughout the policymaking process."
 
@@ -1098,7 +1008,6 @@
   party: Democratic
   question: md-q7
   date: 2026-06-01
-  county_race: 
   response: |
     "I support restoring federal investment in universities and research agencies that conduct vital scientific research and innovation. Recent funding cuts have weakened research programs and slowed innovation. Reversing these cuts and fully reinvesting in these institutions is necessary to rebuild lost capacity, support the scientific community, and ensure that research programs can operate at high level."
 
@@ -1110,7 +1019,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-25
-  county_race: 
   response: |
     "I am not waiting to be elected as Congressman to act. It is important to address the needs of Maryland residents and businesses now. When utility bills were crushing people, I was the first legislator to call on the Public Service Commission for a moratorium on rate hikes. I co-led the Break STRIDE Act (HB1253) to protect ratepayers by closing loopholes that allow utility companies to overcharge consumers. I also introduced legislation to reduce energy costs
     and accelerate the transition to clean energy in buildings, including: the Better Buildings Act (HB0973), to cut fossil fuel dependence in new construction and the G.R.E.E.N. Act (HB0145), creating a no-interest clean energy loan program to help nonprofits lower their energy bills.
@@ -1128,7 +1036,6 @@
   party: Democratic
   question: md-q2
   date: 2026-05-25
-  county_race: 
   response: |
     "I have personally witnessed the effects of the DOGE agenda, which has dismantled well-known U.S. agencies that provided vital services right here in Maryland. The severe reductions in federal workforce led to immediate
     disruptions in essential services, have caused irreparable harm to local economies, and triggered a loss of expertise within these agencies. My career in public service revolves around solving problems, meeting the needs of my
@@ -1144,7 +1051,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-25
-  county_race: 
   response: |
     "Maryland can successfully address public health challenges through evidence-based policies centered on health equity, integrated behavioral health care, and targeted substance use interventions. Key strategies include expanding Health Enterprise Zones in underserved areas, integrating mental health and substance use treatment with primary care, sustaining addiction prevention and recovery funding, and improving early mental health intervention for youth and communities of color. Congressman Steny Hoyer (MD-5) has been a leader in addressing our public health challenges through passing the Affordable Care Act (ACA), championing the S.5293 - Health Enterprise Zones Act of 2022, and sponsoring the H.R.8323 - Comprehensive Addiction Resources Emergency (CARE) Act of 2024 to aggressively combat the opioid epidemic and I will continue to build on this important work."
 
@@ -1156,7 +1062,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-25
-  county_race: 
   response: |
     "Education is one of the greatest tools for economic mobility in America, and equal access to education has been a top priority for me as a Maryland State Delegate. To achieve the goal of high-quality, debt-free higher education, I believe
     we should be providing tuition-free higher education at public universities, and support provisions that provide Federal student debt relief for graduates currently struggling with debt. I would champion how Maryland can also strengthen its science and STEM pipeline by using evidence-based policy to reduce inequities, remove transfer barriers, and improve affordability for students. I would endorse key K–12 strategies to include aligning computer science and STEM standards (such as the Maryland Robotics Grant Program) across Local Education Agencies (LEAs) and expanding early Career and Technical Education (CTE) certifications and dual-enrollment opportunities to expose students to STEM pathways before college.
@@ -1173,7 +1078,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-25
-  county_race: 
   response: |
     "I am fighting to make Maryland a leader in protecting our natural resources that define our district. I championed Maryland’s RENEW Act (Responding to Emergency Needs from Extreme Weather), a landmark climate accountability law that forces massive out-of-state fossil fuel companies to pay for damages caused by climate change, rather than burdening taxpayers. As part of my agenda, I will hold big polluters accountable, protect the Chesapeake Bay and our rivers by fully funding the Chesapeake Bay restoration and strengthening clean water protections. I will support a legislative agenda that prioritizes expanding conservation efforts, opposing increased resource extraction, and ensuring long-term ecological preservation such as Wildlife Corridors and Habitat Connectivity Conservation Act of 2026 (H.R. 8438)."
 
@@ -1185,7 +1089,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-25
-  county_race: 
   response: |
     "I believe strong evidence-based policymaking processes should rely on structured systems that prioritize independent expertise, transparency, and ongoing evaluation. One key mechanism is establishing nonpartisan science and technology councils to provide objective recommendations on issues such as public health, climate, and technology. Another is requiring agencies to appoint evaluation and data officers so that policies are guided by clear evidence and measurable learning goals, as referenced in the Foundations for Evidence-Based Policymaking Act. Public transparency is also essential, including open-data portals that share the research and methods behind proposed policies for public and expert review. Finally, participatory stakeholder engagement and rapid-response research services help ensure policies are equitable, practical, and responsive to emerging challenges."
 
@@ -1197,7 +1100,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-25
-  county_race: 
   response: |
     "I am fighting to ensure the United States remains the pro-innovation capital of the world. America’s economic leadership in the 21st century will be defined by innovation. This budget would cut National Institutes of Health (NIH), National Aeronautics and Space Administration (NASA), and Department of Health and Human Services (HHS). That means less support for health care, research, and science. I think we should protect these agencies and keep funding new ideas in innovation.
 
@@ -1217,7 +1119,6 @@
   party: Democratic
   question: md-q1
   date: 2026-05-18
-  county_race: 
   response: |
     "My America@Work plan is to deliver $100B in FDI for high tech jobs in semiconductors manufacturing, robotics production, quantum computing, and industrial AI and to provide new 21 Century employing over 50,000 people."
 
@@ -1229,7 +1130,6 @@
   party: Democratic
   question: md-q3
   date: 2026-05-18
-  county_race: 
   response: |
     "Support policies with evidence-based models for type 2 diabetes, heart disease, and obesity."
 
@@ -1241,7 +1141,6 @@
   party: Democratic
   question: md-q4
   date: 2026-05-18
-  county_race: 
   response: |
     "Strongly support K-12 STEM pipeline program with industry."
 
@@ -1253,7 +1152,6 @@
   party: Democratic
   question: md-q5
   date: 2026-05-18
-  county_race: 
   response: |
     "Support managing land based programs that sustain agriculture, food access, clean water."
 
@@ -1265,7 +1163,6 @@
   party: Democratic
   question: md-q6
   date: 2026-05-18
-  county_race: 
   response: |
     "Implement legislation and Congressionally Directed Actions (CDA) to advance science programs."
 
@@ -1277,7 +1174,6 @@
   party: Democratic
   question: md-q7
   date: 2026-05-18
-  county_race: 
   response: |
     "My initiative will be sponsor legislation cutting DoW and DHS funding and to advance science investments and funding."
 
@@ -1289,7 +1185,6 @@
   party: Green
   question: md-q1
   date: 2026-08-19
-  county_race: 
   response: |
     "As a candidate for Congress in Maryland's 6th District, I will tackle rising electricity bills by championing a comprehensive Green New Deal to transition our power grid fully to clean, renewable energy while eliminating reliance on volatile fossil fuels. To prevent surge prices and peak-demand strain caused by the rapid expansion of regional data centers, I support enforcing strict energy efficiency standards and requiring major technology infrastructure projects to fund or directly source their own zero-emission renewable energy generation. By making robust federal investments in public-private green infrastructure, we can stabilize long-term energy prices, upgrade our transmission grid, and lower utility burdens for Maryland families and small businesses. Ultimately, achieving net-zero greenhouse gas emissions through rapid clean energy development will build a resilient energy economy that protects consumers while safeguarding our air, water, and environment."
 
@@ -1301,7 +1196,6 @@
   party: Green
   question: md-q2
   date: 2026-08-19
-  county_race: 
   response: |
     "To counter federal job losses and revitalize Maryland’s economy, I will drive public-private partnerships aimed at achieving 100% full employment across our state. My plan focuses on creating sustainable, well-paying local jobs by investing heavily in green technology, infrastructure, universal healthcare systems, and regenerative agriculture. By enforcing a fair tax system that rebuilds the middle class and reallocating bloated federal defense spending into domestic priorities, we can fund workforce development and vocational transition programs for impacted federal workers. This comprehensive approach ensures that individuals across all education levels and skill sets—from technical researchers to tradespeople and service workers—have access to secure, dignified employment that supports long-term economic prosperity."
 
@@ -1313,7 +1207,6 @@
   party: Green
   question: md-q3
   date: 2026-08-19
-  county_race: 
   response: |
     "To address Maryland's deep health disparities and strained infrastructure, I support implementing a universal healthcare system that will save an estimated 100,000 lives and $500 billion in costs annually. By eliminating financial barriers to care, this system ensures every resident—regardless of income or location—gains immediate access to comprehensive physical, behavioral, and mental health services. My platform prioritizes expanding funding for community-based mental health and addiction programs to directly tackle the opioid crisis and bridge the gap in underserved rural and minority communities. Additionally, by redirecting excess defense spending toward domestic public health infrastructure and environmental remediation—such as cleaning our air, water, and food—we can eliminate the root environmental causes of chronic illness and build healthier, more resilient communities."
 
@@ -1325,7 +1218,6 @@
   party: Green
   question: md-q4
   date: 2026-08-19
-  county_race: 
   response: |
     "To build a robust education pipeline for Maryland's youth, I support fully funding K-12 public education with a dedicated emphasis on hands-on science, technology, and environmental education that inspires early interest in STEM fields. I advocate for strengthening federal investments and partnerships between local school districts, community colleges, and universities to establish seamless transfer pathways and dual-enrollment STEM programs. To ensure college affordability and protect students from shifts in federal financial aid, I support expanding federal grants and subsidizing higher education and technical vocational training. Furthermore, by reallocating excess federal defense spending toward domestic education and public workforce initiatives, we can ensure equitable STEM learning opportunities for students across all economic backgrounds."
 
@@ -1337,7 +1229,6 @@
   party: Green
   question: md-q5
   date: 2026-08-19
-  county_race: 
   response: |
     "To protect and restore our district's natural resources, I support preserving at least 30% of our public lands and waters for nature and wildlife conservation. My platform prioritizes cleaning up our air, water, food systems, polluted mines, and brownfield sites to reverse environmental degradation and safeguard public health. Through holistic, regenerative agricultural practices, we can save local farmland, establish community food forests nationwide, and enhance soil and water quality across the district. By fully integrating these land management goals into a Green New Deal, we can expand green infrastructure, protect open-space preserves and parks, and ensure sustainable resource management for future generations."
 
@@ -1349,7 +1240,6 @@
   party: Green
   question: md-q6
   date: 2026-08-19
-  county_race: 
   response: |
     "To ensure evidence and rigorous scientific findings directly inform my policymaking process, I will establish independent advisory panels comprised of scientists, public health experts, engineers, and local community stakeholders. These panels will conduct open technical reviews and environmental impact assessments on all major legislative proposals, ensuring decisions are grounded in objective research rather than corporate or partisan interests. I will also mandate transparent data-sharing and public reporting metrics for federal and state programs to evaluate outcomes and continuously adapt policies based on empirical results. By fostering direct collaboration with research institutions, federal scientific agencies, and regional experts, we can implement forward-thinking solutions that serve the long-term public interest and protect our planet."
 
@@ -1361,7 +1251,6 @@
   party: Green
   question: md-q7
   date: 2026-08-19
-  county_race: 
   response: |
     "To drive innovation and advance federal science funding, I support reallocating wasteful government expenditures—such as cutting $500 billion annually from bloated defense spending—to directly fund civilian research and public interest technologies. My platform prioritizes federal investments in zero-emission green technologies, clean energy grid modernization, public health systems, and regenerative agricultural sciences. By pairing research grants with public-private partnerships, we can commercialize breakthrough discoveries in renewable energy, ecological restoration, and medical science while protecting intellectual investments from corporate monopolization. Ultimately, steering federal research dollars toward sustainable solutions will foster nationwide economic growth, tackle the climate crisis, and ensure Maryland remains a national hub for scientific innovation."
 
@@ -1373,7 +1262,6 @@
   party: Republican
   question: md-q1
   date: 2026-09-03
-  county_race: 
   response: |
     "Remove state from RGGI (Greenhouse Gas Initiative);  free up local energy generation through low-cost, reliable energy, especially through natural gas.  Work to speed up and facilitate nuclear power plant development.  Repeal legislation that restricts and limits gas-based energy use, such as by mandating elimination of gas-fueled cars.  Restrict bad energy generation through large-scale taxing for solar and wind.  Reject the whole "climate change" crisis argument against CO2."
 
@@ -1385,7 +1273,6 @@
   party: Republican
   question: md-q2
   date: 2026-09-03
-  county_race: 
   response: |
     "The key to job growth and a healthy economy begins with proper education for independent thinking, self-reliance, and basic skill knowledge in reading and math.  For this, the whole system of public education needs to be transformed away from "social engineering", and towards basic academic skills.  Offer more choice and opportunity for practical trade skills that prepare for useful, productive life in society.  Restrict student loan debt without credible accountability for repayment through the involvement of private banks."
 
@@ -1397,7 +1284,6 @@
   party: Republican
   question: md-q3
   date: 2026-09-03
-  county_race: 
   response: |
     "Strong support for concept of "my body, my choice", which means that all public policy should enable individual choice of doctor and medical services.  Again, proper early learning for self-reliance and practical life skills will remove need for extensive medical intervention for mental health and chronic disease therapies later on.   Schools need to support only helathy, natural food programs.  Choice and competition in public education is important component to support parental involvement and responsibility to assure guidance in making wise medical and personal health decisions later on."
 
@@ -1409,7 +1295,6 @@
   party: Republican
   question: md-q4
   date: 2026-09-03
-  county_race: 
   response: |
     "Support free tuition to state institutions of higher education for in-state students who show highschool academic ability to succeed in STEM major in college.  Contingent on continued success in completing degree once enrolled.  More students will qualify through sufficient high SAT scores, for example, as choice and competition at the K-12 level is assured for those skilled in STEM to excel at their own pace at that earlier level.  Alternatives need to be made available for individualized learning in mixed aged groups, rather than separated by age-determined curriculum mandated by state."
 
@@ -1421,7 +1306,6 @@
   party: Republican
   question: md-q5
   date: 2026-09-03
-  county_race: 
   response: |
     "Local zoning needs to avoid crowding people into single locations. Transportation needs to facilitate movement through private, personal means, such as car and bicycle, rather than just public transportation.  Government needs to secure and preserve open space for natural park and wild life habitat."
 
@@ -1433,7 +1317,6 @@
   party: Republican
   question: md-q6
   date: 2026-09-03
-  county_race: 
   response: |
     "Support and encourage private organization to have a seat at the table of public policy decisions wherever possible.  Expanding charter schools, home schooling, and choice in non-public education is a critical component of this non-government involvement in public policy decision-making."
 
@@ -1445,7 +1328,6 @@
   party: Republican
   question: md-q7
   date: 2026-09-03
-  county_race: 
   response: |
     "Limit tax-based funding in science to only projects and programs that have strong support for practical value in society.  Basis of this support is best assured by private funding and initiative already invested in such study and research."
 
@@ -1457,7 +1339,6 @@
   party: Democratic
   question: md-q1
   date: 2026-09-03
-  county_race: 
   response: |
     "My position is a firm ""No"" on new data centers and similar projects until developers are open and transparent with the communities and can provide compelling, independently reviewed evidence that they can—and will—take responsibility for their impact. That means binding plans to pay for power-grid and water-system upgrades, protect local water supplies, and cover long-term environmental costs. Communities and local businesses should not subsidize private data centers through higher utility bills or public incentives. I will oppose state support for projects that cannot meet those standards. If developers want Maryland communities to accept the risks, they must prove the public will receive clear, lasting benefits."
 
@@ -1469,7 +1350,6 @@
   party: Democratic
   question: md-q2
   date: 2026-09-03
-  county_race: 
   response: |
     "Maryland’s greatest economic asset is its people: their knowledge, practical skills, experience, and ability to work together. We should protect federal research jobs while building an economy that can survive changes in Washington. I support apprenticeships, community-college programs, help for small businesses, manufacturers and contractors, and turning Maryland research into Maryland businesses. Remote work can unlock significant opportunities in Western Maryland. With dependable broadband, shared workspaces, and sensible state-employment policies, residents can compete for technology, research, and other well-paying jobs without leaving their communities. Not every job can be remote, but many can. In addition to expanding the labor pool, state employees can better connect with and serve the communities they represent by living there, if they so choose."
 
@@ -1481,7 +1361,6 @@
   party: Democratic
   question: md-q3
   date: 2026-09-03
-  county_race: 
   response: |
     "Rural residents should not have to travel hours or wait months for basic care. We have to stop undercutting the services and programs that provide funding for our rural hospitals, clinics and medical organizations. I also support mobile clinics, school-based services, telehealth, stronger behavioral-health crisis response, and incentives for medical and mental-health professionals to practice in underserved areas. Opioid-settlement money should fund prevention, treatment, harm reduction, and long-term recovery programs with publicly reported results. Maryland should also support responsible medical AI that helps clinicians detect illness earlier, reach rural patients, and reduce paperwork. Technology should support medical judgment—not replace doctors or weaken patient privacy."
 
@@ -1493,7 +1372,6 @@
   party: Democratic
   question: md-q4
   date: 2026-09-03
-  county_race: 
   response: |
     "For over 20 years, Garrett County has been demonstrating a model worth building on. Local FIRST LEGO League programs connect elementary education, mentoring, robotics, and real achievement under the goal “All Kids—STEM Ready.” The sponsorship of local schools and businesses has funded much of the program but more importantly, it has and continues to strengthen and encourage social engagement, connections and lasting relationships. We should recognize, encourage and support this relationship. Maryland should support that kind of hands-on learning with teacher training, equipment, transportation, summer programs, and paid work experience. We must also bring Garrett College, Allegany College of Maryland, Frostburg State University, and other Western Maryland institutions fully into statewide academic and research partnerships. Students should be able to share courses, join research projects, transfer credits cleanly, and reach a bachelor’s degree without wasting time or money."
 
@@ -1505,7 +1383,6 @@
   party: Democratic
   question: md-q5
   date: 2026-09-03
-  county_race: 
   response: |
     "Western Maryland's water, forests, farms, parks, and open spaces are part of our identity and our economy. Communities have the right to voice and vote on proposals that impact them and their way of life. I support protecting drinking water and watersheds, maintaining parks and trails, conserving important habitat, and keeping farms and working forests economically productive. Decisions should use sound science while respecting property rights and local knowledge. Residents, farmers, businesses, and local governments and nature lovers of every variety need a real voice early in the process—not after decisions have already been made. We need to be responsible stewards, working to conserve and protect our natural resources while supporting recreation, tourism, agriculture, and the people who care for the land."
 
@@ -1517,7 +1394,6 @@
   party: Democratic
   question: md-q6
   date: 2026-09-03
-  county_race: 
   response: |
     "I earned an M.S. in Computer Science and spent 20 years working as a software engineer in Northern Virginia’s defense industry. That experience taught me to ask direct questions: What does the evidence show? What assumptions are being made? What can fail? How will we measure results? For major technical issues, I will seek input from universities, community colleges, agencies, local professionals, and affected residents. I will also explain the evidence and reasoning behind my positions whenever possible. Expert knowledge matters, but so does local experience. Good policy needs both."
 
@@ -1529,93 +1405,8 @@
   party: Democratic
   question: md-q7
   date: 2026-09-03
-  county_race: 
   response: |
     "Federal science funding supports far more than scientists. It supports technicians, tradespeople, teachers, suppliers, startups, and entire communities. I will work with Maryland’s congressional delegation, universities, federal facilities, and employers to defend stable research funding. At the state level, I support matching funds, partnerships with small businesses, and programs that turn publicly funded discoveries into Maryland businesses and jobs. Johns Hopkins is already doing serious work in medical AI and precision medicine. Maryland should consider a collaborative model similar to Mayo Clinic’s—connecting clinical expertise, protected data, researchers, and technology partners. Western Maryland colleges, healthcare providers, students, and patients must be part of that network, not an afterthought."
-
-- candidate_first_name: Andrew
-  candidate_last_name: Duck
-  state: md
-  race: State House of Delegates
-  district: 4
-  party: Democratic
-  question: md-q1
-  date: 2026-09-03
-  county_race: 
-  response: |
-    "Revoke the exception to noise and pollution regulations for data centers, impose a moratorium on additional data center until electricity and water are available, support residential rooftop solar with low or no interest loans, support various green energy initiatives including the off-shore wind project, mandate electrical utilities to modernize the electric grid to include energy storage for load balancing, and support for energy conservation measures such as improved insulation, transition to efficient heat pumps, and geothermal where appropriate.  This is only a partial list and I will seek additional policies to promote clean energy."
-
-- candidate_first_name: Andrew
-  candidate_last_name: Duck
-  state: md
-  race: State House of Delegates
-  district: 4
-  party: Democratic
-  question: md-q2
-  date: 2026-09-03
-  county_race: 
-  response: |
-    "Maryland should replace the lost federal funding with state funding, and pay for those efforts by increasing state taxes for those persons and corporations who benefited from the tax cuts in the "Big Bad Bill".  We should provide economic development funds to support highly skilled science and technical workers to start their own businesses, which could include providing access to venture capital, advice on how to monetize research, legal advice on how to file for patents, and provide awareness of scientific workspaces such as incubator facilities."
-
-- candidate_first_name: Andrew
-  candidate_last_name: Duck
-  state: md
-  race: State House of Delegates
-  district: 4
-  party: Democratic
-  question: md-q3
-  date: 2026-09-03
-  county_race: 
-  response: |
-    "I support MEDICARE For All.  If that cannot be done at the Federal level, we should start a Maryland MEDICARE For All program.  I support a second hospital in Frederick County.  If we increase the number of insured persons we must also train more health care providers.  I support offering tuition-free training for health care professionals.  We should require the University of Maryland system to increase the number of Medical Doctors graduated from their medical program, with a goal of doubling the number of M.D.s graduating over a 4 year period, with a requirement that they remain in Maryland for 10 years after degree completion."
-
-- candidate_first_name: Andrew
-  candidate_last_name: Duck
-  state: md
-  race: State House of Delegates
-  district: 4
-  party: Democratic
-  question: md-q4
-  date: 2026-09-03
-  county_race: 
-  response: |
-    "I believe that all students graduating from a Maryland high school should be able to complete a 4 year degree at a public University or at trade school tuition-free.  For key careers, such as medical care and clean energy research, any resident who can qualify for admission should be able to attend tuition-free provided they agree to remain in Maryland."
-
-- candidate_first_name: Andrew
-  candidate_last_name: Duck
-  state: md
-  race: State House of Delegates
-  district: 4
-  party: Democratic
-  question: md-q5
-  date: 2026-09-03
-  county_race: 
-  response: |
-    "In Frederick County, I support agricultural preservation programs.  (Particularly blocking data center expansion which plans to build data centers on land which had been zoned for agricultural use only."
-
-- candidate_first_name: Andrew
-  candidate_last_name: Duck
-  state: md
-  race: State House of Delegates
-  district: 4
-  party: Democratic
-  question: md-q6
-  date: 2026-09-03
-  county_race: 
-  response: |
-    "I will seek regular advice from the scientific community.  For environmental issues, I will consult the Sierra Club and CCAN.  For energy policy I will consult with the Bright Futures Maryland Coalition.  For economic issues, I will consult the Economic Policy Institute.  I will also consult with family members including one of my brothers, who has worked in agricultural biotech obtaining multiple patents and creating research companies, one of my sisters who is a research nurse at Sloan Kettering in New York, among other family member working in STEM fields. I would welcome additional sources of scientific advice."
-
-- candidate_first_name: Andrew
-  candidate_last_name: Duck
-  state: md
-  race: State House of Delegates
-  district: 4
-  party: Democratic
-  question: md-q7
-  date: 2026-09-03
-  county_race: 
-  response: |
-    "I will support funding for research programs at University of Maryland and other Maryland educational institutions.  I will support funding for TEDCO, a Maryland-sponsored venture capital effort.  I will support economic development by providing support to tech workers who wish to become tech entrepreneurs, as mentioned in the Jobs and Workforce question."
 
 - candidate_first_name: Seth
   candidate_last_name: Funk
@@ -1625,7 +1416,6 @@
   party: Democratic
   question: md-q1
   date: 2026-09-05
-  county_race: 
   response: |
     "Highest costs are from generation and transmission. As a Delegate I would attack those two costs by targeted investment into renovation for transmission and bringing new generation online rapidly. Community solar canopies for parking lots, public walkways, and the rooftops of public buildings are the most useful and applicable for my district. I'd also look to continue and expand support for homeowner solar. Rapid and widespread usage of this will lower the need for large transmission projects that cut across farmland, and improve reliability. I am open to wind power, however I have not found any information that leads me to believe it would be effective in my district and I believe Maryland as a whole is more suited for solar. I am open to nuclear energy, particularly SMRs and other advanced reactors, and would support proposals to advance this technology in Maryland with emphasis on safety.  I have pledged to sign onto the bipartisan data center moratorium; speaking with my constituents, they are very worried about the rapid expansion combined with the lack of clear answers on how to adjust for energy, land, and water use. I believe Maryland's greatest potential "industrial base" should be in technological advancement and development, and I would look to use Maryland's resources to support that effort from the way we educate our children to what we base our economy on. We must ensure that in this we install robust practices that serve everyday working people."
 
@@ -1637,7 +1427,6 @@
   party: Democratic
   question: md-q2
   date: 2026-09-05
-  county_race: 
   response: |
     "I spoke of community solar, nuclear construction and research development, and building a tech-based economy that serves Maryland and its everyday people. We should invest heavily in job training, connections, multi-stage planning, and ensuring our farthest communities receive these as well. Community solar is a perfect example. Multiple roles and education levels will be utilized in the preparation, construction, deployment, and maintenance of these projects. Having these widespread ensures far out communities like Western Maryland also receive the boons in this. There have been calls here for a nuclear plant, which would also bring the multi-stage and multi-level opportunities. I've also pledged to support united labor and collective bargaining, as well as trade schools to support these projects long term. We can't build an economy for high-level education alone; we must build for every level of a project to see true results."
 
@@ -1649,7 +1438,6 @@
   party: Democratic
   question: md-q3
   date: 2026-09-05
-  county_race: 
   response: |
     "Rural healthcare is among the first to be cut when budget crisis occur. I've committed to fighting those cuts, as well as expand telehealth and mental health care. I've proposed a Western MD Rural Health Program that would tuition forgiveness and job placement to students who pledge to serve here at least 10 years. I've pushed mobile medical teams that can respond to the elderly, people with disabilities, or without reliable transportation to attend to their medical needs. For substance abuse, Washington County lacks enough housing and programs to serve people who need to be removed from situations that hinder their will to be clean. I will push for specifically community housing for people in substance abuse programs that will remove them from the harmful environment and connect them with resources, jobs, and support systems. Getting users our of the situations that encourage substance use and into pro-social systems that work with them to get clean is the best method for addressing the crisis."
 
@@ -1661,7 +1449,6 @@
   party: Democratic
   question: md-q4
   date: 2026-09-05
-  county_race: 
   response: |
     "I would need to see information as to why they are not transferring/completing their programs. Addressing college affordability at the State level would be difficult without federal assistance. I would not have been able to attend college without a Pell Grant, a federal program. To address affordability, we should look to combat the high fees and costs associated with many STEM programs that discourage or prevent low-income individuals from enrolling. We should also look to incorporate the humanities, especially ethics (especially with AI rapidly evolving), social impact, and how to utilize to benefit communities rather than exploit. Right now technology is heavily associated with an elite class and their corporations that want to exploit communities for their labor but not give them anything in return. Focusing on courses, programs, and connections that emphasize bettering our communities rather than raiding them would interest more people."
 
@@ -1673,7 +1460,6 @@
   party: Democratic
   question: md-q5
   date: 2026-09-05
-  county_race: 
   response: |
     "Land-trusts and community involvement with development, focusing on denser neighborhoods and limiting over-development, programs for cleaning and maintaining nature areas, as well as community gardens and green spaces. All of this paired with community solar and sustainable energy practices. Western Maryland natural beauty must be protected, for its own sake and the sake of our people. Limiting over development and using least-intrustive-methods is a top priority for me."
 
@@ -1685,7 +1471,6 @@
   party: Democratic
   question: md-q6
   date: 2026-09-05
-  county_race: 
   response: |
     "I prefer direct and open channels with the scientific community to advise me. I'd encourage frequent conversations on the top priorities for the communities and how I can use my role to assist. My office will always be open to ensure legislation is evidence based."
 
@@ -1697,7 +1482,6 @@
   party: Democratic
   question: md-q7
   date: 2026-09-05
-  county_race: 
   response: |
     "Government has an important role to play in science funding to pressure scientific funding to benefit the State and its people as a whole, rather than a strict profit motive. As the "lobbyist" of its people, I'd support investment into innovation that seeks to address the needs of every day people, be that jobs, quality of life, etc. I'm very supportive of utilizing public funds for scientific advancement, so long as that advancement benefits the whole rather than only a small part."
 
@@ -1709,7 +1493,6 @@
   party: Republican
   question: md-q1
   date: 2026-09-07
-  county_race: 
   response: |
     "Maryland families should not be forced to subsidize massive new electric loads while their own bills keep rising. I would push the Public Service Commission to strictly enforce Maryland’s new large-load rate protections so data centers and other very large users pay the full costs they create for generation, transmission, and grid upgrades. Not residential ratepayers. I also support stronger transparency around projected demand and grid impacts before major projects are approved. Maryland needs more reliable in-state generation and a balanced energy strategy that keeps existing dependable capacity online while expanding cost-effective clean energy, storage, and grid modernization. I support rooftop, parking-lot, and brownfield solar before sacrificing productive farmland. I also believe local communities must retain a meaningful voice over data-center siting. My test is simple: energy policy should lower costs, improve reliability, and make the users creating extraordinary new demand pay their fair share."
 
@@ -1721,7 +1504,6 @@
   party: Republican
   question: md-q2
   date: 2026-09-07
-  county_race: 
   response: |
     "Maryland cannot replace tens of thousands of lost federal jobs with one industry or with programs that only benefit people with four-year degrees. I would focus on growing a broader private-sector economy in advanced manufacturing, cybersecurity, life sciences, skilled trades, logistics, health care, and emerging technology. That means making Maryland easier and less expensive for employers to invest in, supporting small businesses, and connecting displaced workers to jobs where their existing skills transfer. I would expand paid apprenticeships, career and technical education, community-college partnerships, and employer-led credential programs so people can enter good-paying careers without taking on unnecessary debt. For workers with advanced degrees, Maryland should do more to retain scientists, engineers, and researchers affected by federal cuts by connecting them with universities, startups, and Maryland-based employers. Economic growth should be measured not just by announcements, but by whether working families actually see better jobs, higher take-home pay, and real opportunity."
 
@@ -1733,7 +1515,6 @@
   party: Republican
   question: md-q3
   date: 2026-09-07
-  county_race: 
   response: |
     "Public health policy should be driven by outcomes. I support expanding access to evidence-based addiction treatment, medication-assisted treatment, naloxone, recovery services, and behavioral-health care while improving follow-up after overdoses so people are not simply stabilized and sent back into the same crisis. Maryland’s own data show that overdose disparities remain severe, including disproportionately high rates among older Black men, so resources should be targeted using real local data rather than one-size-fits-all programs. I would support telehealth, mobile crisis services, and incentives to place mental-health professionals in underserved and rural communities. I also support stronger school-based mental-health partnerships and better coordination among hospitals, local health departments, first responders, and treatment providers. Every program receiving public money should be evaluated for measurable results. If a program is not reducing overdoses, shortening treatment wait times, or improving access to care, we should fix it or redirect the funding."
 
@@ -1745,7 +1526,6 @@
   party: Republican
   question: md-q4
   date: 2026-09-07
-  county_race: 
   response: |
     "A strong STEM pipeline starts long before college. I support stronger math, science, and computer-science instruction in K–12 schools, hands-on laboratory learning, and partnerships that expose students to engineering, health care, cybersecurity, advanced manufacturing, and the skilled trades. We should expand career and technical programs, apprenticeships, and dual-enrollment opportunities so students can earn real credentials and college credit before graduation. Maryland also needs a smoother community-college-to-university pathway. I would strengthen and simplify transfer agreements so students do not lose credits unnecessarily, and protect programs such as Maryland’s 2+2 Transfer Scholarship that help community-college graduates complete bachelor’s degrees. College affordability matters, but so does value: state aid should help students complete degrees and credentials connected to real workforce needs. The goal should be multiple respected pathways—university, community college, apprenticeship, or skilled trade—each capable of leading to a good career."
 
@@ -1757,7 +1537,6 @@
   party: Republican
   question: md-q5
   date: 2026-09-07
-  county_race: 
   response: |
     "In District 34A, protecting land and water should go hand in hand with responsible growth. I support preserving open space, improving existing parks, protecting streams and the Chesapeake Bay watershed, and using state programs such as Program Open Space to help local governments acquire and improve recreation land. I would prioritize redevelopment of already-disturbed properties and brownfields before converting productive farmland or sensitive natural areas for large industrial or energy projects. Stormwater, flooding, drainage, and water-quality decisions should be based on current engineering and environmental data, especially in communities already dealing with repeated flooding or aging infrastructure. I also support maintaining public access to parks, trails, and waterways and making sure state grants are distributed transparently and based on demonstrated community need. Conservation should not mean freezing communities in place; it should mean growing intelligently while protecting the natural resources residents depend on."
 
@@ -1769,7 +1548,6 @@
   party: Republican
   question: md-q6
   date: 2026-09-07
-  county_race: 
   response: |
     "I would build evidence into the policymaking process instead of using it only after a position has already been chosen. For major legislation, I would review nonpartisan fiscal and policy analyses, agency data, peer-reviewed research when available, and testimony from qualified subject-matter experts. I would also seek input from the people directly affected, because data can show what is happening while residents and frontline professionals can explain why. When scientific evidence is uncertain or experts disagree, I would be transparent about that uncertainty rather than presenting assumptions as settled fact. I also support stronger use of legislative audits, program evaluations, and measurable performance goals so lawmakers can determine whether policies are actually working after they pass. Good policymaking requires being willing to change course when credible evidence shows that a program is ineffective, too costly, or producing unintended consequences."
 
@@ -1781,7 +1559,6 @@
   party: Republican
   question: md-q7
   date: 2026-09-07
-  county_race: 
   response: |
     "Maryland has a major advantage in research, medicine, cybersecurity, aerospace, and advanced technology, and we should turn more of that research into Maryland jobs and companies. I would support stable, competitively awarded state research funding where there is a clear public benefit, while protecting taxpayers through measurable goals, independent review, and transparency. I would also support programs that help universities and researchers commercialize discoveries, including partnerships with Maryland startups and employers. Existing efforts such as TEDCO’s Maryland Innovation Initiative show how the state can help move promising university research toward real products and businesses. I would prioritize fields where Maryland already has strong institutions and workforce advantages, while ensuring smaller companies and researchers have a fair opportunity to compete. Government should not pick political favorites, but it can create the conditions for high-value research, innovation, and private investment to stay and grow here."
 
@@ -1793,7 +1570,6 @@
   party: Democratic
   question: md-q1
   date: 2026-09-08
-  county_race: 
   response: |
     "I hear from neighbors every day that the cost of living is just too high – especially when it comes to their energy bills. That’s why, a month into office, I joined my Maryland colleagues in formally requesting the Maryland Public Service Commission (PSC) rescind the BGE utility rate increases that took effect in 2025 and stop future increases for the duration of the year. I am a proud co-sponsor of H.R. 7977, the Energy Bills Relief Act that reinstates clean energy tax credits, provides financial assistance to families, cracks down on price gouging, and holds data centers accountable for their fair share – all to lower costs, increase reliability, and ensure our electric grid can meet rising demands.  This past July, I joined my Maryland colleagues in calling on the Federal Energy Regulatory Commission (FERC) to ensure Marylanders are not forced to bear skyrocketing electricity costs due to increasing energy demand from out-of-state data centers. I’ve also used my committee assignments to further renewable energy generation and storage – fighting for commonsense permitting reform on the House Natural Resources Committee and putting pressure on the Department of Defense to double-down on renewables on installations through my seat on the House Armed Services Committee. As this Administration continues to prioritize corporations over consumers, I am committed to fighting for affordable and sustainable energy for Marylanders."
 
@@ -1805,7 +1581,6 @@
   party: Democratic
   question: md-q2
   date: 2026-09-08
-  county_race: 
   response: |
     "As the representative for over 45,000 federal employees, the daughter of civil servants, and a member of the Labor Caucus, protecting the federal workforce and our agencies has been a priority from day one. The first bill I introduced in Congress was the first-ever bipartisan anti-DOGE bill, the Protect Our Probationary Employees (POPE) Act. I spent my first year in Congress meeting with federal employee unions and researchers from Maryland’s world-class NIH, NASA, NIST, facilities and more to find ways to support workers and preserve scientific progress amid the sledgehammer of DOGE. Federal workers and their expertise are the backbone of our economy, and we all do better when the civil service is strong and focused on delivering services for our constituents. We must also diversify and grow Maryland’s economy. That’s why I’ve worked to attract light manufacturing and shipbuilding to the District through partnerships with public industry and successfully transferring surplus, underutilized federal property to the Maryland Economic Development Corporation. I have also been a consistent and strong proponent of alternate post-secondary paths for students not pursuing 4-year degrees. Robust investment in Career and Technical Education (CTE) and pre-apprenticeship programs in high schools – specifically those that strengthen the pipeline to registered apprenticeships and union jobs – are core tenets of an opportunity economy in which every American can participate and thrive."
 
@@ -1817,7 +1592,6 @@
   party: Democratic
   question: md-q3
   date: 2026-09-08
-  county_race: 
   response: |
     "The cuts to Medicaid, SNAP, the ACA, and Medicare through the President’s Big Ugly Law have had devastating consequences across our communities, and I fully support the expeditious repeal of these harmful cuts. I believe that health care is a human right. I have co-sponsored legislation like the Restoring Essential Healthcare Act to ensure Americans have protected access to the high-quality, low-cost medical treatments they need in the face of the President’s cuts. As we work towards this end goal, I will work towards lowering costs and never stand for policies that threaten to or restrict access to affordable health care for working families. As one of the youngest women serving in Congress, women’s health care decisions are not abstract – they are personal. I do not support policies that threaten or restrict access to FDA-approved birth control or reproductive health care. I firmly believe reproductive health care choices are a fundamental human right, and I also believe that no government should warrant control over those personal decisions. In the Maryland Senate, I proudly voted to expand access to reproductive healthcare and co-sponsored a constitutional amendment to enshrine reproductive freedom as a fundamental right in Maryland’s Constitution. On Capitol Hill, I have co-sponsored legislation like the Women’s Health Protection Act to codify the protections once afforded by Roe v. Wade and ensure every Marylander has the freedom they deserve."
 
@@ -1829,7 +1603,6 @@
   party: Democratic
   question: md-q4
   date: 2026-09-08
-  county_race: 
   response: |
     "I am a proud graduate of our country’s public school system and will continue to advocate for robust STEM education and opportunities in our K-12 and post-secondary institutions for all students who are interested in learning. I especially understand the critical need to support pathways for students not traditionally participating in STEM fields. In FY 2026, I delivered over $1 million in community project funding to the Chinese American Parent Association of Howard County (CAPA)’s STEM Forward program. These federal dollars have expanded STEM education efforts in Howard County and connected young students to educational programming around coding, earth sciences, robotics, and engineering. Annually, our Congressional office also hosts the Congressional App Challenge, a nationwide middle and high school STEM competition that recognizes and encourages the STEM talent in our District. I have also advanced STEM education priorities through the annual National Defense Authorization Act, securing a provision directing the Department of Defense to partner with academic institutions to train the next generation of cybersecurity leaders. H.R. 6631, the Establishing Cyber Security Educational Programs at Academic Institutions Act, builds on this work by partnering federal cyber agencies, including the NSA and U.S. Cyber Command, with leading universities like the University of Maryland to educate and train future cybersecurity leaders."
 
@@ -1841,7 +1614,6 @@
   party: Democratic
   question: md-q5
   date: 2026-09-08
-  county_race: 
   response: |
     "I’ve spent my entire career working to move faster, bolder, and smarter on environmental restoration. Protecting our environment is not only the right thing to do, but it’s also critically important for the thousands of Marylanders who earn their living on the Chesapeake Bay. As Vice Ranking Member of the House Natural Resources Committee, I am focused on building a clean energy future, tackling rising tides, and expanding access to public lands for all. My first bill to pass the House was the bipartisan MAWS Act to tackle invasive blue catfish and save our blue crabs, oysters, and rockfish. This year, I introduced the Maryland Whole Watershed Program Federal Partnership Act, a bill that would build on the Whole Watershed Act I passed during my time in the State Senate. In just two years, we’ve seen real progress from the Whole Watershed Program – from marsh restoration to combating invasive species in the Baltimore Harbor to addressing stream erosion in Hagerstown and more. But our state and local partners can’t do this work alone, and this new federal legislation will empower the EPA to collaborate with them to support needed restoration projects across the Chesapeake Bay Watershed. In the State Senate, I sponsored the Great Maryland Outdoors Act to address acquisition, accessibility, and equity in our state parks. In Congress, I co-sponsored the bipartisan Great American Outdoors Act 250 while fighting partisanship and Park Service cuts to protect our public lands."
 
@@ -1853,7 +1625,6 @@
   party: Democratic
   question: md-q6
   date: 2026-09-08
-  county_race: 
   response: |
     "No legislator can do this work alone. I rely on partners throughout the legislative process because I can never be the subject-matter expert on every topic my office takes on. Good policymaking must be grounded in facts, evidence, and the expertise of those who understand the issues best. Representing Maryland – home to leading scientists, researchers, universities, and federal institutions – my staff and I regularly meet with leaders from JHU Applied Physics Laboratory, the U.S. Naval Academy, Goddard Space Center, Walter Reed Medical Center, and more to hear about their research and challenges. I host Environmental Roundtables that also give me regular feedback on conservation, land management, fisheries science, renewable energy and more. These visits and conversations often produce our best ideas for legislation and funding. I also regularly rely on nonpartisan resources like the Congressional Research Service (CRS), Government Accountability Office (GAO), and federal agencies to evaluate policies. When DOGE planned to cancel NOAA’s cloud storage service, risking decades of digitally stored data, I introduced the NOAA Data Preservation Act to safeguard research crucial to our decision-making. As scientific institutions and research funding face unprecedented attacks, Congress must protect those producing this critical research. I will continue to preserve scientific integrity, support federal research, and ensure evidence, not political headwinds, guides policymaking."
 
@@ -1865,7 +1636,6 @@
   party: Democratic
   question: md-q7
   date: 2026-09-08
-  county_race: 
   response: |
     "At every opportunity, I've condemned and fought President Trump’s reckless DOGE cuts to our expert civil service and their life’s work – including at the National Institutes of Health, National Science Foundation, Department of Energy National Labs, and other higher education and federally funded institutions right here in Maryland. I am in full support of restoring and increasing the funding for these programs and their vital research. Weeks into President Trump’s second term, I joined the Maryland Delegation in demanding that the Administration reverse their decision to cut medical research in Maryland and nationwide. On the House Armed Services Committee and through government funding bills, I’ve delivered hundreds of millions of federal dollars to scientific innovation through the National Defense Authorization Act (NDAA), including $723 million for the Energy Resilience & Conservation Investment Program (ERCIP) and $220 million for Readiness and Environmental Protection Integration (REPI), both pivotal to strengthening resilience and infrastructure. Through appropriations requests, I’ve also secured funding for high school STEM education, invasive species research in the Chesapeake Bay, space exploration missions at JHU’s Applied Physics Lab, and more. I am working every day in Washington to champion our institutions and ensure all Americans can continue to access the critical, often life-saving scientific work of our strong, hardworking, merit-based federal workforce."
 
@@ -1877,7 +1647,6 @@
   party: Democratic
   question: md-q1
   date: 2026-09-08
-  county_race: 
   response: |
     "Maryland families and small businesses should not have to pay higher electric bills to accommodate large industrial energy users. If elected, I will work to make energy more affordable, reliable, and sustainable. I will support policies requiring data centers and other large energy users to pay the full cost of the generation, transmission, and grid upgrades they require, rather than shifting those costs to residential ratepayers and small businesses. I will also support expanding renewable energy, battery storage, geothermal, solar, and energy-efficiency programs to increase supply, strengthen reliability, and reduce long-term costs. I want to expand low-interest financing so homeowners, farmers, and businesses can invest in energy systems that reduce their dependence on the grid. Finally, I will advocate for reforms to the PJM energy market and oppose development that places unreasonable demands on Maryland’s electric grid. Economic growth should not come at the expense of Maryland families."
 
@@ -1889,7 +1658,6 @@
   party: Democratic
   question: md-q2
   date: 2026-09-08
-  county_race: 
   response: |
     "Maryland must build an economy that is resilient, diverse, and provides opportunity for workers at every education and skill level. The loss of nearly 25,000 federal jobs in 2025 shows the danger of relying too heavily on one sector. If elected, I will support investments in small businesses, manufacturing, clean energy, healthcare, agriculture, cybersecurity, and emerging technologies. I will also work to attract businesses that create good-paying jobs while strengthening Maryland-owned businesses. Workforce development must meet people where they are. I will support expanded apprenticeships, career and technical education, community-college programs, and paid job training that connect workers directly with employers. A four-year degree should not be the only path to a good career. I will also fight for fair wages, affordable housing, and access to childcare and transportation so workers can afford to live where they work. Maryland’s economy is strongest when every worker has a path to opportunity."
 
@@ -1901,7 +1669,6 @@
   party: Democratic
   question: md-q3
   date: 2026-09-08
-  county_race: 
   response: |
     "Public health must be accessible to every Marylander, regardless of income, race, or where they live. If elected, I will prioritize expanding access to affordable mental and behavioral healthcare, especially in rural and underserved communities. Maryland is already investing in rural health, including expanding behavioral health services, telehealth, and the healthcare workforce. I will support integrating mental health and substance-use treatment into primary care, expanding community-based crisis services, and improving continuity of care after hospitalization. Maryland’s behavioral health strategy emphasizes evidence-based practices, improved data, and coordinated care. I will also support strengthening local health departments and community organizations that address food security, transportation, preventive care, and other social determinants of health. Finally, I will advocate for better recruitment and retention of healthcare professionals, particularly in underserved areas. Mental healthcare is essential to long-term well-being, and every Marylander deserves access to quality care when they need it."
 
@@ -1913,7 +1680,6 @@
   party: Democratic
   question: md-q4
   date: 2026-09-08
-  county_race: 
   response: |
     "Maryland’s future depends on giving students meaningful opportunities to succeed in science, technology, engineering, and mathematics (STEM), regardless of their zip code or family income. If elected, I will support fully implementing the Blueprint for Maryland’s Future while strengthening hands-on STEM programs, career and technical education, apprenticeships, dual enrollment, and partnerships between schools, community colleges, universities, and Maryland employers. The Blueprint already emphasizes college and career readiness and connections between students and employers. I will work to expand STEM opportunities in underserved and rural communities, invest in teachers and classroom resources, and ensure students have access to modern technology and laboratories. For community-college students, I will support clearer transfer pathways, stronger advising, and expanded transfer scholarships so students can move efficiently into four-year programs. Maryland’s 2+2 Transfer Scholarship is an important model. Finally, I will protect college affordability and expand financial-aid opportunities so a student’s financial circumstances do not determine their ability to pursue a STEM career."
 
@@ -1925,7 +1691,6 @@
   party: Democratic
   question: md-q5
   date: 2026-09-08
-  county_race: 
   response: |
     "I support protecting Maryland’s natural resources while allowing responsible growth that respects local communities. As a Sierra Club-endorsed candidate, I am committed to protecting the farmland, forests, waterways, parks, and open spaces that make District 35A special. If elected, I will support increased funding for land preservation, agricultural conservation, parks, and restoration of streams and wetlands. I will also support farmers with conservation practices that protect our soil and waterways while keeping family farms economically viable. Development must be planned responsibly, with consideration for impacts on water quality, wildlife, traffic, and surrounding communities. I support preserving connected forests and sensitive environmental areas rather than unnecessary development and habitat fragmentation. I also want residents to have greater access to parks, trails, and waterways for recreation and environmental education. Protecting the Chesapeake Bay and its tributaries must remain a priority. Protecting our land and water today is an investment in the health, economy, and quality of life of future generations."
 
@@ -1937,7 +1702,6 @@
   party: Democratic
   question: md-q6
   date: 2026-09-08
-  county_race: 
   response: |
     "I believe good policymaking should be guided by facts, research, and the experiences of the people we serve, not ideology or political pressure. If elected, I will establish an informal advisory network of scientists, researchers, healthcare professionals, educators, environmental experts, economists, and community leaders who can provide objective expertise on major legislation. I will also regularly consult Maryland’s universities, community colleges, public agencies, and independent research organizations. Before supporting major legislation, I will seek evidence on its expected costs, benefits, environmental impacts, and effects on Maryland families and businesses. When scientific evidence is uncertain or evolving, I will acknowledge that uncertainty and support policies that can be evaluated and adjusted as new evidence becomes available. I will also hold community listening sessions and make research and supporting data accessible to constituents. My commitment is simple: listen, learn, follow the evidence, and remain accountable to the people of District 35A."
 
@@ -1949,7 +1713,6 @@
   party: Democratic
   question: md-q7
   date: 2026-09-08
-  county_race: 
   response: |
     "Government investment in science and research is an investment in Maryland’s future. If elected, I will support strong, sustained funding for research institutions, universities, community colleges, and public-private partnerships that turn scientific discoveries into jobs and economic opportunities. I will advocate for funding in areas where Maryland has a strong foundation, including biotechnology, healthcare, cybersecurity, environmental science, agriculture, renewable energy, and advanced manufacturing. I will also support grants and incentives that help Maryland’s small businesses and startups bring innovative ideas from research laboratories into the marketplace. I will work to strengthen STEM education and paid research opportunities for students, particularly those from rural and underserved communities, so Maryland can develop the workforce needed for tomorrow’s economy. I will also advocate for protecting federal research funding and pursuing state-level investments when federal support is reduced. Science funding should not simply create discoveries. It should create opportunity, strengthen our economy, improve lives, and prepare Maryland for the future."
 
@@ -1961,7 +1724,6 @@
   party: Green
   question: md-q1
   date: 2026-09-09
-  county_race: 
   response: |
     "Much of the increase in electric bills was predictable because of Exelon's acquisition of Pepco. Was noted at the time, in 2015, that was approved by at least one key government employee who ended up getting a position funded by the industry. This kind of revolving door is just one part of how corporate power takes over our lives and gouges regular people. So long as our political system is so corrupt, technology will not be used for human benefit, but for private profit and constant manipulation of the public. These threats are increasing with so-called AI. My opponent, Glenn Ivey, holds between $100,000 to $250,000 in stock in NVIDIA which designs the chips for data centers. This kind of brazen conflict of interest should be illegal. Public servants shouldn't have their private fortunes tied up with industries that are set to do a great deal of harm to the public. ""For where your treasure is, there your heart will be also."" Data centers clearly pose a threat to the environment, our electric supply and costs, and ultimately to our base of knowledge. They should be more than just stopped. This should be a wake-up call for the public to seriously assert itself and stop letting corporations run rampant, simply trying to regulate their worst excesses. Corporations are creations of the state by charter, but they have been granted legal ""personhood""—including First Amendment rights—by a perverted reading of the 14th Amendment which gave citizenship to formerly enslaved people."
 
@@ -1973,9 +1735,8 @@
   party: Green
   question: md-q2
   date: 2026-09-09
-  county_race: 
   response: |
-    "Government jobs that help humanity should be preserved and nefarious efforts by the Trump administration to attack Maryland's local jobs and science must be vigorously confronted. The closure of the NASA library is a travesty. Were I representing this district when that happened, I'd have more than just issued a statement against it. I'd have held a mock book burning at the Capitol to protest it. This is especially important given reports of so-called AI companies literally destroying books they are scanning and effectively monopolizing. The Trump administration is proposing a massive $1.5 trillion military budget. That should be greatly scaled down. US government aggression around the world violates domestic and international law and fosters a dynamic of science being misused for destructive purposes. We should find ways to strengthen the economy by building up more co-ops in the district. There should be mechanisms to try to convert businesses in danger of closing to some sort of co-op. Greenbelt is home to major co-ops and should be able to help such groups proliferate throughout the district so more people can benefit from such resources. "
+    "Government jobs that help humanity should be preserved and nefarious efforts by the Trump administration to attack Maryland's local jobs and science must be vigorously confronted. The closure of the NASA library is a travesty. Were I representing this district when that happened, I'd have more than just issued a statement against it. I'd have held a mock book burning at the Capitol to protest it. This is especially important given reports of so-called AI companies literally destroying books they are scanning and effectively monopolizing. The Trump administration is proposing a massive $1.5 trillion military budget. That should be greatly scaled down. US government aggression around the world violates domestic and international law and fosters a dynamic of science being misused for destructive purposes. We should find ways to strengthen the economy by building up more co-ops in the district. There should be mechanisms to try to convert businesses in danger of closing to some sort of co-op. Greenbelt is home to major co-ops and should be able to help such groups proliferate throughout the district so more people can benefit from such resources. "
 
 - candidate_first_name: Sam
   candidate_last_name: Husseini
@@ -1985,7 +1746,6 @@
   party: Green
   question: md-q3
   date: 2026-09-09
-  county_race: 
   response: |
     "A recent Yale study found that expanding Medicare could cover everyone, save more than 100,000 lives a year, and still cost $1 trillion less than the insurance company system it would replace. Just this step -- an enhanced Medicare-for-All -- would be a major enhancement to the health and well-being of people in the district and everyone in the US. We must resist moves to privatize Social Security, which does a great deal to keep the elderly out of poverty, however we must also recognize its shortcomings, for example, lots of Black men work their entire lives but live on average nine years less than the entire population. Serious healthcare coverage and access through enhanced Medicare-for-All would be a serious step toward that, but it means taking on the massive insurance companies, as well as corporations that now run hospitals, which used to be run by churches and other non-profits. Criminal corporations such as Purdue Pharma profited enormously off of people's opioid addictions. Facebook and other Big Tech firms similarly prey on human weaknesses -- including children and the elderly—by fostering addictive behavior. It's imperative that we superfund the corporate-crime police. The agencies which should be going after corporate criminals are often underfunded and lackadaisical. They must be well funded and aggressive in going after the perpetrators of white collar crime, which kills more than street crime."
 
@@ -1997,9 +1757,8 @@
   party: Green
   question: md-q4
   date: 2026-09-09
-  county_race: 
   response: |
-    "Once again, this year districtwide public school students’ standardized math test scores proficiency 13.7% vastly well below the statewide 27.1% proficiency rate. Countywide education performance remains stagnant year-over-year. The same holds true for standardized science tests, which are only given to fifth and eighth graders, each falling below the statewide average by more than half percentage points. The numbers are alarming: only 1 in 7 district students were proficient in math. The school board's solution is even more alarming: change the testing and make it shorter. The racial disparities in math are an atrocity to social justice, Hispanic / Latino  students across all grades have a proficiency rate of 10%, while Black students’ rate is 14%. We are failing racialized students and failing public education in a direct path to privatizing education, while increasing the funding for military, and sending billions of our tax dollars to genocidal Israel to destory schools. We must seriously fund our schools, creating an environment of inquiry and wonder. They shouldn't resemble prisons. They shouldn't be presided over by a ""CEO"" as they are now. I'm a very lucky beneficiary of an excellent public school education -- I ended up going to the Bronx High School of Science in New York. We should develop strong magnet schools to foster excellence in scientific education in Maryland. This means putting our money where our mouth is, making class sizes smaller."
+    "Once again, this year districtwide public school students’ standardized math test scores proficiency 13.7% vastly well below the statewide 27.1% proficiency rate. Countywide education performance remains stagnant year-over-year. The same holds true for standardized science tests, which are only given to fifth and eighth graders, each falling below the statewide average by more than half percentage points. The numbers are alarming: only 1 in 7 district students were proficient in math. The school board's solution is even more alarming: change the testing and make it shorter. The racial disparities in math are an atrocity to social justice, Hispanic / Latino  students across all grades have a proficiency rate of 10%, while Black students’ rate is 14%. We are failing racialized students and failing public education in a direct path to privatizing education, while increasing the funding for military, and sending billions of our tax dollars to genocidal Israel to destory schools. We must seriously fund our schools, creating an environment of inquiry and wonder. They shouldn't resemble prisons. They shouldn't be presided over by a ""CEO"" as they are now. I'm a very lucky beneficiary of an excellent public school education -- I ended up going to the Bronx High School of Science in New York. We should develop strong magnet schools to foster excellence in scientific education in Maryland. This means putting our money where our mouth is, making class sizes smaller."
 
 - candidate_first_name: Sam
   candidate_last_name: Husseini
@@ -2009,7 +1768,6 @@
   party: Green
   question: md-q5
   date: 2026-09-09
-  county_race: 
   response: |
     "Across the district and especially in peri-rural areas we need to drastically halt land grabbing via privatization. For far too long Maryland Land Ownership, has become Privately Owned 86.20%. The damage is so bad that only 2% of Maryland land is Public Federally Owned and 11.7% Public State Owned. Historically even our municipalities have long allowed privatization landgrabbing, with only 4.6% remaining city- and county-owned (public). We need to establish legislation that stops land grabbing. We have to prioritize putting an end to resource extraction, disguised as agricultural expansion and urban redevelopment, by smart growth resettlement agendas funded by corrupt political interests. Much ""development"" in the district has been at odds with Nature or common sense. Many of the buildings along Route 1 don't even have decent street offsets. There are some great parks in the district, but there should be a wider network of proper wetlands. The Beltsville Agricultural Research Center should be preserved, and by all means kept out of the hands of so-called developers. I'm an admirer of the architect Frank Lloyd Wright who wrote endlessly about the meaning of democracy in our country — which he called Usonia, partly out of respect to other counties in the Americas. He developed the notion of an ""organic architecture"" — buildings which conformed to Nature and the immediate environment rather than just pouring so much concrete that you could try to impose your will upon Nature."
 
@@ -2021,7 +1779,6 @@
   party: Green
   question: md-q6
   date: 2026-09-09
-  county_race: 
   response: |
     "There's been a huge drop in Congressional hearings drawing on the knowledge of experts in various fields. This allows lobbyists and special interests to cut deals behind the scenes. Given my own background -- a major in applied math and logic and computation from Carnegie Mellon University, with significant study in the philosophy of science -- I would delight in talking with various scientists to ensure the best possible policy making process. People are waking up to the threat of Flock cameras, but this is the tip of the iceberg. Antony Loewenstein in The Palestine Laboratory show how Israel has used technology of death and surveillance against the Palestinian people -- and how this acts as an incubator for rolling out those horrible uses of technology against others. Individuals from Israel's Unit 8200, the analogue to our NSA, have gotten into various Big Tech firms, which pose their own threats -- like Oracle and Palantir, working with ICE and other agencies. Scientists must live up to their responsibility, mindful of documents little known today like the Russell-Einstein Manifesto, which stated: "There lies before us, if we choose, continual progress in happiness, knowledge, and wisdom. Shall we, instead, choose death, because we cannot forget our quarrels? We appeal as human beings to human beings: Remember your humanity, and forget the rest. If you can do so, the way lies open to a new Paradise; if you cannot, there lies before you the risk of universal death."
 
@@ -2034,7 +1791,6 @@
   party: Green
   question: md-q7
   date: 2026-09-09
-  county_race: 
   response: |
     "Government funding should be based on actually advancing science and serving humanity, not reflecting military or corporate interests. The NIH and USAID doubtless fund good initiatives, but they also backed horrific ones, like efforts to make pathogens more deadly. This dangerous lab work—euphemistically called "gain of function"—likely led to the Covid pandemic. This cost millions of lives and trillions of dollars. And it comes from a whole structure of dangerous lab work. This was clear with the false flag anthrax attacks after the 9/11 attacks 25 years ago. The anthrax letters were labeled "Death to America / Death to Israel / Allah is Great" and there was massive propaganda that tried to tie them to Iraq. But scientists like Barbara Hatch Rosenberg found that the anthrax actually came from Fort Detrick here in Maryland or an allied lab. Congress incredibly never investigated this attack upon it. The fear this fostered led to Cheney/Bush ramming through the attacks on Afghanistan and Iraq, the so-called PATRIOT Act and ICE. The anthrax attacks ironically led to a vast INCREASE in more dangerous lab work. As a journalist, I've written extensively about this: husseini.substack.com. I've also seriously investigated the Ebola 2014 outbreak which likely originated in US labs in Kenema, Sierra Leone. Those labs were headed by scientists named Robert Garry and Kristian Andersen who would sign a widely cited propaganda article claiming Covid couldn't have come from a lab."
 
@@ -2046,7 +1802,6 @@
   party: Republican
   question: md-q1
   date: 2026-09-10
-  county_race: 
   response: |
     "Maryland needs an energy policy built around affordability, reliability, and abundance. For too long, the State has reduced reliable in-state generation while increasing mandates and costs, leaving Maryland increasingly dependent on electricity generated elsewhere. I would support restoring and expanding reliable in-state generation through an all-of-the-above strategy that includes nuclear power, including small modular reactors, natural gas, and renewable sources where they are economically and operationally viable. I would also review taxes, fees, and mandates that unnecessarily increase consumers’ electricity bills and oppose policies that prematurely retire reliable generating capacity. Data centers present both economic opportunities and significant energy challenges. They should not be permitted to place enormous new demands on an already constrained grid while shifting the resulting generation, transmission, and infrastructure costs to Maryland families and existing businesses. Large-load users should bear the costs they create, and I support policies that encourage data centers to provide or contract for new dedicated generation, including co-located natural gas or nuclear power. Maryland should welcome innovation and economic development, but new demand should be accompanied by new supply. Increasing generation while protecting existing ratepayers is essential to making electricity more affordable and reliable."
 
@@ -2058,7 +1813,6 @@
   party: Republican
   question: md-q2
   date: 2026-09-10
-  county_race: 
   response: |
     "Maryland has benefited enormously from its proximity to the federal government and institutions such as NIH, NASA, and NIST, but our economy should not be overly dependent on federal employment or spending. We need a stronger, more diverse private-sector economy that can create opportunity regardless of changes in Washington. That begins with making Maryland a more competitive place to start, grow, and operate a business. We should reduce unnecessary regulatory barriers, maintain reliable and affordable energy, exercise fiscal discipline, and encourage investment in industries where Maryland has significant strengths, including biotechnology, cybersecurity, advanced manufacturing, agriculture, energy, and technology. Workforce development must also recognize that a four-year college degree is not the only path to a successful career. I support stronger partnerships among employers, community colleges, career and technical education programs, and apprenticeship programs so students and workers can gain skills that lead directly to available jobs. Maryland should expand opportunities to earn while learning and make it easier for workers to retrain as industries change. Economic growth should create pathways for scientists and engineers, skilled tradespeople, technicians, healthcare workers, entrepreneurs, and workers entering the workforce without a college degree. The goal should be a Maryland economy with more opportunities and more pathways to reach them."
 
@@ -2070,7 +1824,6 @@
   party: Republican
   question: md-q3
   date: 2026-09-10
-  county_race: 
   response: |
     "Public health policy should be guided by reliable evidence, measurable outcomes, and the needs of individual communities rather than one-size-fits-all mandates from Annapolis. In Carroll County, access is particularly important. Rural communities can face shortages of behavioral health professionals, transportation barriers, and difficulty obtaining timely mental health and substance-use treatment. I support strong partnerships among local health departments, hospitals, behavioral health providers, schools, first responders, nonprofits, and other community organizations so people can access care closer to home. The opioid crisis requires both compassion and accountability. Maryland should support approaches demonstrated to save lives and help people reach recovery, including prevention and education, effective treatment, overdose-reversal medications such as naloxone, and recovery services. Programs receiving taxpayer dollars should also be evaluated for measurable results so resources go toward approaches that work. Good public health policy should use sound science as a tool, measure results honestly, protect individual liberty, and give local communities flexibility to address their particular needs."
 
@@ -2082,7 +1835,6 @@
   party: Republican
   question: md-q4
   date: 2026-09-10
-  county_race: 
   response: |
     "A strong STEM pipeline begins by giving students opportunities to discover science, technology, engineering, and mathematics early and then providing multiple pathways to turn those interests into careers. Maryland should strengthen hands-on STEM learning, career and technical education, dual enrollment, apprenticeships, and partnerships among local schools, community colleges, universities, and employers. Students should be able to see how what they learn in the classroom connects to real careers in fields such as engineering, healthcare, cybersecurity, advanced manufacturing, agriculture, and energy. Community colleges are especially important. Maryland should make transferring credits to four-year institutions as predictable and seamless as possible so students do not lose time or money repeating coursework. We should also expand opportunities for students to earn college credits or industry-recognized credentials while still in high school. Finally, success should be measured by student outcomes, not simply by how much Maryland spends. State policy should give local school systems flexibility to develop programs that reflect their students, communities, and regional workforce needs while maintaining high academic standards."
 
@@ -2094,7 +1846,6 @@
   party: Republican
   question: md-q5
   date: 2026-09-10
-  county_race: 
   response: |
     "Carroll County’s open space, farmland, waterways, and rural character are among our greatest assets, and protecting them should be done in partnership with the people who live and work on the land. I support continued investment in voluntary agricultural land preservation programs, which have helped Carroll County preserve more than 81,000 acres while respecting private property rights. Protecting productive farmland also supports our agricultural economy and helps preserve the character of our communities. Water resources require responsible long-term stewardship as well. State and local policy should protect drinking water, streams, groundwater, and watersheds using sound science, while working cooperatively with farmers, landowners, municipalities, and conservation organizations rather than relying unnecessarily on one-size-fits-all mandates. I also support maintaining parks and public open spaces for recreation and future generations. Decisions involving land use, conservation, and development should remain primarily local, where officials and residents best understand the needs, resources, and character of their communities. Good stewardship means balancing conservation, property rights, agriculture, recreation, and responsible economic growth."
 
@@ -2106,7 +1857,6 @@
   party: Republican
   question: md-q6
   date: 2026-09-10
-  county_race: 
   response: |
     "I believe good policymaking begins with recognizing what you do not know. When an issue comes before me where I have limited knowledge or experience, my first step is to seek out people who understand it. That means reviewing credible research and data, consulting subject-matter experts, and listening directly to the people who will be affected by the policy. I want to hear from scientists, engineers, physicians, educators, farmers, business owners, tradespeople, local officials, and others with relevant knowledge depending on the issue. Just as importantly, I want to hear from people in Carroll County who live with the practical consequences of the decisions made in Annapolis. As a legislator, I would also use the nonpartisan research and analysis available through Maryland’s Department of Legislative Services and testimony presented during the legislative process. Scientific evidence should play an important role in policymaking, but evidence does not eliminate the need for judgment. Policymakers must also consider costs, unintended consequences, individual liberty, and local circumstances. My approach is to ask questions, seek reliable evidence, listen to knowledgeable people and those directly affected, and then make the best-informed decision I can."
 
@@ -2118,7 +1868,6 @@
   party: Republican
   question: md-q7
   date: 2026-09-10
-  county_race: 
   response: |
     "Maryland has tremendous scientific and technological assets, including world-class universities, research institutions, federal laboratories, and a highly skilled workforce. State policy should help create an environment where those strengths can produce new discoveries, businesses, jobs, and opportunities. I support targeted public investment in scientific research and innovation when there is a clear public purpose, particularly foundational research, research partnerships, and infrastructure that can produce benefits beyond what individual companies are likely to fund on their own. Government can also help connect universities, community colleges, research institutions, entrepreneurs, and private industry so promising ideas have pathways from research to practical application. At the same time, government funding should not be measured simply by how much money is spent. Programs should have defined objectives, transparency, appropriate oversight, and measurable results. Wherever possible, public investment should leverage rather than replace private investment. Maryland should encourage innovation by combining responsible research investment with affordable energy, a skilled workforce, reasonable regulation, and a competitive business environment that allows discoveries made here to become businesses and jobs here."
 
@@ -2130,7 +1879,6 @@
   party: Democratic
   question: md-q1
   date: 2026-09-15
-  county_race: 
   response: |
     "Bills went up because of a regional power auction that raised prices sharply, two old power plants near us that BGE customers are paying to keep open until as late as 2029, and data centers using power faster than we can add it. When families pay for power lines built for someone else, it's like being asked to split the check for a dinner you didn't eat. This year's utility relief law makes data centers pay for their own upgrades, and I'd make sure families don't end up paying those costs if a data center leaves. I'd also permanently stop utilities from raising rates based on money they haven't spent yet, since the current pause ends in April 2027. And I'd speed up solar and battery projects and help seniors and families with the highest bills lower their energy use."
 
@@ -2142,7 +1890,6 @@
   party: Democratic
   question: md-q2
   date: 2026-09-15
-  county_race: 
   response: |
     "Maryland lost more federal jobs in 2025 than any other state, and many of those workers are our neighbors near Fort Meade and BWI, as well as my own daughter who lost her job at the FDA. The state's long-term plans for biotech and research jobs are smart, but they don't help a mom who lost her federal job this spring and has a mortgage due now. What's missing is a bridge from the job someone lost to the job that's open today. I'd fund job training at Anne Arundel Community College designed with real employers, the kind that has been shown to raise people's pay for years, and add apprenticeships to reach Maryland's goal of 60,000 by 2030. I'd also help people with security clearances find defense and cyber jobs quickly, and treat child care as part of the plan, because a parent can't take a job without it."
 
@@ -2154,7 +1901,6 @@
   party: Democratic
   question: md-q3
   date: 2026-09-15
-  county_race: 
   response: |
     "My husband and I have helped our parents through serious health problems, so I know how much depends on the system working. For addiction, I'd put opioid settlement money into what works: medicines that cut the risk of a fatal overdose by more than half, Narcan, and walk-in help at fire stations through Anne Arundel's Safe Stations. I'd keep the 988 crisis line and telehealth, and fund community health workers who help families get care. When new federal Medicaid work rules start in January 2027, Maryland should make it easy to stay covered, because when Arkansas tried this, 18,000 people lost coverage, mostly over paperwork. I support the state board that can limit what's paid for expensive prescriptions, because no one should have to ration medicine. And I treat gun violence as a health issue, which is why my Survivor Medical Debt Shield Act would spare survivors the medical bills."
 
@@ -2166,7 +1912,6 @@
   party: Democratic
   question: md-q4
   date: 2026-09-15
-  county_race: 
   response: |
     "I was the first in my family to finish college and I have two adult children who pursued STEM careers, and I want that to be normal for Maryland kids. I'd protect the $60,000 starting teacher pay and add bonuses that research shows help keep math and science teachers. Kids who score well in math should go into advanced classes automatically, and when North Carolina and Dallas did that, many more Black and Hispanic students took advanced math. With the Smithsonian Environmental Research Center here in Anne Arundel, let's get kids outside doing real science on the Bay. I'd copy a New York program that nearly doubled community college graduation rates with advisers and help with books and transportation, and make sure credits count toward a student's major at four-year schools. And I'd protect Maryland's college grants for families who need them and help every high school senior fill out the financial aid form."
 
@@ -2178,7 +1923,6 @@
   party: Democratic
   question: md-q5
   date: 2026-09-15
-  county_race: 
   response: |
     "Our district has shoreline on the Patapsco and Magothy rivers, plus creeks like Bodkin, Rock and Stoney. Anne Arundel has more than 40,000 septic systems, so I'd make state grants easier to get for upgrades that cut their pollution roughly in half, or for connecting to sewer where it's available. I'd fund natural shorelines made of plants and marsh instead of walls where they work, and fix stormwater problems in older neighborhoods where flooding is worst. Parks like Downs Park and Fort Smallwood Park are part of why we live here, and the state money set aside for parks and open land should be spent on parks and open land. I'd support oyster restoration and trees along our streams, and I'd keep decisions about how neighborhoods grow in local hands."
 
@@ -2190,7 +1934,6 @@
   party: Democratic
   question: md-q6
   date: 2026-09-15
-  county_race: 
   response: |
     "Voting on a bill without reading the evidence is like giving your child medicine without reading the label, and no parent would do that. I'd ask local scientists, nurses, teachers and watermen to advise me, including people from the Smithsonian research center in Edgewater and Anne Arundel Community College. I'd read the nonpartisan analysis the legislature's own staff writes on every bill, and I'd share the evidence behind my big votes with the people I represent. I'd work for a program that places scientists in the legislature as nonpartisan advisers, like California and Missouri have. And every new program should have clear goals and a set date to review results, so we keep what works and fix or end what doesn't."
 
@@ -2202,7 +1945,6 @@
   party: Democratic
   question: md-q7
   date: 2026-09-15
-  county_race: 
   response: |
     "Maryland can't replace the federal research money that's been cut, but we can keep talented people here. I'd protect state programs that already work, like the one that pairs Maryland companies with university researchers. I'd expand the state's matching grants for small tech companies that win federal research awards, since the latest round helped only seven companies. I'd support short-term jobs at our universities and state agencies for scientists who lost federal funding, so they can work on problems like clean water and public health. And I'd make sure this money is spent in Anne Arundel too, not just in Montgomery County and Baltimore, and that the public can see what we get back for business research tax breaks."
 
@@ -2214,9 +1956,8 @@
   party: Democratic
   question: md-q1
   date: 2026-09-15
-  county_race: 
   response: |
-    "My biggest policy effort for my first term in office will be address this rising electricity costs as a top priority. I plan to work with the federal government and private business along with the state to reinvigorate the production of electricity in this state. This goes from completing the wind energy project to expanding the nuclear power plant at Calver Cliffs. The biggest issue is we are simply not producing enough electricity in this state. Both the wind project and the new technologies in nuclear are clear ways forward to meet the electricity demands of the state while also moving towards more clean energy production. Additionally, I would like to completely ban cryptocurrency mining datacenters in the state. As a threat finance analyst, I see cryptocurrency as a means to drain electricity resources while facilitating illicit finance. There is no reason we are allowing it when other countries have already started banning crypto mining. On the idea of general use data-centers, we need to be careful and have a reasonable approach. I would be for a pause of new construction for a  couple years while we can get production back up to reasonable levels."
+    "The major issue is that Maryland is producing less than 40% of the energy that it consumes. We need to work with the federal government and private business to reinvigorate Calvert cliffs. We also need to make sure we can finish the wind project off the Easter shore. I also believe in turning public land parking lots into covered solar panels to increase production and lower electricity costs for the state. This will increase supply and ultimately lower costs."
 
 - candidate_first_name: Brent
   candidate_last_name: Mulrooney
@@ -2226,9 +1967,8 @@
   party: Democratic
   question: md-q2
   date: 2026-09-15
-  county_race: 
   response: |
-    "As part of the contractor work force in a federal agency, I understand the grave concern for job growth and resilience to Maryland as much as anyone. I believe we should work with business like Hyundai and create an environment where they want to move their factory from Georgia where they have been attacked to Maryland. Allow these workers to come here and train Americans to do the job that is needed. With that said, I also want to invest in education so that the people from Maryland are the best suited to be competitive for the best jobs inside the state or even remote jobs as we are moving to a digital world."
+    "We need to create opportunities from the trade skills through our union workers in the various trades with projects like the bridge and then the various projects for energy production. I also want to create opportunities for small business of various fields to be successful along with leveraging the skill sets of these federal employees to start businesses in new and emerging technologies such as robotics."
 
 - candidate_first_name: Brent
   candidate_last_name: Mulrooney
@@ -2238,9 +1978,8 @@
   party: Democratic
   question: md-q3
   date: 2026-09-15
-  county_race: 
   response: |
-    "I believe all people should have access to care in order to improve opportunity across the board. We have clear evidence that the war on drugs did not work by just putting users in jail. We need to create a path to help people get off any drugs one may have become addicted to at no fault of their own from the historical mistakes of health care and the pharmaceutical industry. I believe the Health Equity Resource Communities is a great idea and I am an advocate of this."
+    "Public health is always a difficult challenge. There are many different approaches to deal with these complex issues. I believe a sense of community is a major driver to get people rehabilitated off of opioids and supports mental health. We need to ensure we have community centers and parks available to use in all communities. This will hopefully prevent a never ending cycle post rehabilitation."
 
 - candidate_first_name: Brent
   candidate_last_name: Mulrooney
@@ -2250,9 +1989,8 @@
   party: Democratic
   question: md-q4
   date: 2026-09-15
-  county_race: 
   response: |
-    "The way to keep our youth interested in STEM is multi-faceted. We need to ensure the inquiusitive minds remain active by challenging our students at all levels. This can be done by showing the fun and cool things that can be done with science as early as elementary schools. This is also done by having robust GATE programs and AP programs for our students. Lastly, we need to invest and have funds available for after school programs ran by 3rd parties or by our teachers and provide our teachers who are able to do these programs extra pay. These programs can be from a MESA program to a robotics or coding program. All of these after school programs are beneficial to keep the mind inquisitive for our students."
+    "We need to have after school programs that focus on STEM activities either hosted at schools or grants for some after school programs that can add some focus and importance of our science focused children. This will ensure our future is ready for the future whether it is in computer science, health science, or physical sciences."
 
 - candidate_first_name: Brent
   candidate_last_name: Mulrooney
@@ -2262,9 +2000,8 @@
   party: Democratic
   question: md-q5
   date: 2026-09-15
-  county_race: 
   response: |
-    "I believe we need to preserve the public state and county parks in my district. I also actively support trash pickups in those areas. I am also working with a member of the watershed stewards who is providing input and feedback about ways to maintain the land resources in the district."
+    "Maryland desperately needs to have a concerted effort to clean up the bay and the surrounding areas. The water is in terrible condition. We also need to work on reducing littering in our public parks. These habitats need to be secured."
 
 - candidate_first_name: Brent
   candidate_last_name: Mulrooney
@@ -2274,9 +2011,8 @@
   party: Democratic
   question: md-q6
   date: 2026-09-15
-  county_race: 
   response: |
-    "I recognize I am not an expert of everything. I know my specific fields of finance and computer science. I plan to have access to experts in fields to provide feedback and input into policy making of specific fields. I find it extremely important to learn about a field from a person with the experience of working in the field. This means that I will combine the input/feedback from experts and review the data with the experts to develop a plan for the policymaking to reach the best possible outcome."
+    "I will also discuss with experts of their respective fields and create a roundtable discussion among various experts to come to a consensus of best course forward while presenting any relevant studies to the problem that is attempting to be solved."
 
 - candidate_first_name: Brent
   candidate_last_name: Mulrooney
@@ -2286,9 +2022,8 @@
   party: Democratic
   question: md-q7
   date: 2026-09-15
-  county_race: 
   response: |
-    "As a MENSA member, I deeply care about the always learning mindset. I will try my best to try to create opportunity and funding for the furtherment of science in our various labs along with the curating of the young minds of the future."
+    "I will always advocate for more funding to education. This could mean MESA at schools or research projects at our universities through grants and scholarships."
 
 - candidate_first_name: Alleria
   candidate_last_name: Stanley
@@ -2298,7 +2033,6 @@
   party: Democratic
   question: md-q1
   date: 2026-09-21
-  county_race: 
   response: |
     "Soaring electricity rates threaten family budgets and local business stability across Maryland. This crunch stems from a growing gap between retired generation capacity and rising regional demand. We cannot address this problem with empty promises. We must solve it through sound engineering, regional advocacy, and practical policy. To deliver long-term relief and stabilize our energy supply, I will prioritize three initiatives: Protect Residential Ratepayers: Data centers bring investment, but they also bring enormous load demands. I will mandate that large commercial users cover one hundred percent of the grid upgrades and specialized generation their facilities require. If they want to be our neighbors, they must be good neighbors. Modernize the Grid for Reliability: Lowering costs requires expanding capacity. I will champion investments in advanced grid-enhancing technologies, battery storage facilities, and utility-scale solar and nuclear options that keep power reliable and cost-effective. Advocate Aggressively at the Regional Level: PJM decisions dictate market prices for our state. Decisions are made by those who show up. Maryland must show up forcefully before federal and regional regulators to oppose cost allocations that penalize our residents for regional power demands. By pairing innovation with accountability, we can build a resilient, affordable energy future for every community."
 
@@ -2310,7 +2044,6 @@
   party: Democratic
   question: md-q2
   date: 2026-09-21
-  county_race: 
   response: |
     "Federal cuts demonstrate the vulnerability of over-relying on federal agency budgets. Maryland possesses tremendous human capital, and we must channel that expertise directly into private industry, state infrastructure, and local enterprise. Decisions are made by those who show up, and Maryland must step forward to build an economy that serves every community. My approach focuses on practical execution across three fronts: Mobilize Community College Engines: Community colleges offer the fastest, most affordable bridge to good careers. I will champion state investments in short-term workforce training programs that connect workers directly to high-wage, in-demand technical fields without forcing people to take on burdensome student debt. Anchor Innovation in Maryland: We must incentivize private commercialization of research. By offering targeted tax incentives and streamlining laboratory and manufacturing permitting, we can encourage life sciences, cybersecurity, and defense tech firms to establish commercial roots right here in Maryland. Value Operational and Support Workers: Federal cutbacks affect not only scientists, but also administrative staff, facilities personnel, and logistics workers. I will ensure state retraining and re-employment programs explicitly serve support professionals, pairing their valuable experience with high-demand private sector operations."
 
@@ -2322,7 +2055,6 @@
   party: Democratic
   question: md-q3
   date: 2026-09-21
-  county_race: 
   response: |
     "Health outcomes should never depend on a person's zip code or background. When we lift others, we all rise. Tackling Maryland's opioid crisis and mental health shortages requires practical, evidence-based solutions that meet people where they live. Having served in military healthcare and on local human relations and equity commissions, I know that lasting community health starts with accessible frontline care. In Annapolis, I will champion three specific initiatives: Integrate Behavioral Health into Primary Care: I support expanding the Collaborative Care Model across clinics statewide. Treating depression, trauma, and substance use disorders within routine primary care visits removes stigma, catches warning signs early, and dramatically improves patient outcomes. Close Rural Care Deserts: Rural communities face severe clinician shortages. I will advocate for permanent telehealth parity for both audio and video services, alongside state loan-repayment incentives to recruit and retain psychiatrists, licensed counselors, and dental professionals in rural Maryland. Expand Harm Reduction and Mobile Crisis Response: We must treat addiction as the complex medical condition that it is. I support utilizing our state Opioid Restitution Fund to deploy mobile crisis teams, expand access to medications for opioid use disorder, and sustain community peer recovery specialists."
 
@@ -2334,7 +2066,6 @@
   party: Democratic
   question: md-q4
   date: 2026-09-21
-  county_race: 
   response: |
     "A robust STEM pipeline powers Maryland's economic future. When we lift others, we all rise. As a community college graduate, I know firsthand that two-year institutions offer an essential, affordable launchpad. Decisions are made by those who show up, and Maryland must eliminate the institutional silos that cause capable students to lose credits or disengage early. In Annapolis, I will champion three evidence-based priorities: Mandate Seamless 2+2 STEM Transfer Pathways: I will sponsor legislation establishing uniform statewide articulation agreements and common course numbering across Maryland public institutions. Community college students who complete approved STEM curricula must transfer into four-year state universities with full junior standing and zero lost credits. Expand Hands-On K-12 STEM and Cohort Mentorship: Project-based learning sparks lasting curiosity. I support state grants for public school laboratory, robotics, and coding equipment, alongside dual-enrollment tracks and co-advising cohorts that pair community college students with university advisors from day one. Protect Affordability with Targeted Completion Aid: Unpredictable federal student aid threatens completion rates. I will advocate for expanding the Maryland Community College Promise Scholarship and funding need-based completion grants for transfer students finishing critical STEM bachelor's degrees."
 
@@ -2346,7 +2077,6 @@
   party: Democratic
   question: md-q5
   date: 2026-09-21
-  county_race: 
   response: |
     "Managing land-based resources requires proactive stewardship and clear community standards. In our district, rural landscapes, working family farms, and sensitive waterways define our quality of life. Decisions are made by those who show up, and our communities must have an active voice in protecting local assets. If large industrial developers want to be our neighbors, they must be good neighbors. They cannot consume or contaminate our local water tables. In Annapolis, I will champion three specific land and water policies: Protect Aquifers and Potable Water Supplies: Large industrial projects, including data centers, can strain water infrastructure. I will sponsor legislation requiring rigorous hydrogeological reviews and closed-loop, water-efficient cooling technologies to protect municipal reservoirs and private agricultural wells. Defend Program Open Space and Working Farmland: I will oppose raiding Program Open Space funds. We must fully fund the Maryland Agricultural Land Preservation Foundation and Rural Legacy programs to keep family farms viable, preserve contiguous forest tracts, and curb sprawling overdevelopment. Enhance Watershed Buffers and Park Access: When we lift others, we all rise, and green spaces support community health. I support cost-share grants for landowners to restore stream buffers and state capital investments that expand local parks, interconnected recreational trails, and river access."
 
@@ -2358,7 +2088,6 @@
   party: Democratic
   question: md-q6
   date: 2026-09-21
-  county_race: 
   response: |
     "Effective lawmaking requires intellectual humility. I know what I do not know. As a servant leader, I work for you, and my constituents will be my bosses. With a 90-day legislative session, minimal office staff, and only a few weeks to debate bills in committee before crossover, delegates cannot waste time on grandiose, unworkable proposals. We must integrate scientific expertise pragmatically. My approach relies on three realistic mechanisms: Leverage the Legislative Interim: The 90-day session moves too fast for deep research. I will use the nine-month interim to consult local scientists, healthcare clinicians, and engineers, vetting policy concepts and data well before bill-filing deadlines. Solicit Expert and Practitioner Testimony: Decisions are made by those who show up. When bills head to committee, I will proactively invite subject-matter experts, frontline operators, and community stakeholders to provide written and oral testimony, cutting through lobbying claims with empirical facts. Utilize Independent Analytical Staff: Rather than relying on partisan talking points, I will heavily lean on the nonpartisan Department of Legislative Services and state academic extension services. I will examine their fiscal notes and technical policy reviews to understand the real-world evidence behind each vote."
 
@@ -2370,7 +2099,104 @@
   party: Democratic
   question: md-q7
   date: 2026-09-21
-  county_race: 
   response: |
     "Strategic public investment in science drives economic growth and keeps Maryland competitive. When we lift others, we all rise. Decisions are made by those who show up, and Maryland must proactively invest to translate academic discovery into thriving local businesses. With federal research agency budgets facing real instability, our state must protect its innovation ecosystem and expand technical opportunities across all regions. In Annapolis, I will champion three concrete science funding priorities: Expand TEDCO Commercialization and Regional Hubs: I will support strengthening TEDCO and the Maryland Innovation Initiative to bridge the gap between university labs and startup commercialization. Furthermore, I will advocate for state capital investments in shared wet labs, maker spaces, and computing incubators across Frederick County and Western Maryland so local entrepreneurs can innovate without prohibitive overhead costs. Protect and Modernize the Small Business R&D Tax Credit: Early-stage research ventures operate on tight margins. I support raising the statutory cap on Maryland's refundable Research and Development Tax Credit, specifically increasing the set-aside for small businesses and tech startups. Multiply Federal Innovation Awards: I will back state matching grant programs for Maryland small businesses that win competitive federal SBIR/STTR grants, helping local innovators scale their operations and create high-wage technical jobs right here in Maryland."
 
+- candidate_first_name: Andrew
+  candidate_last_name: Duck
+  state: md
+  race: State House of Delegates
+  district: 4
+  party: Democratic
+  question: md-q1
+  date: 2026-10-10
+  response: |
+    "I oppose the expansion of the Data Center Complex in Frederick County.  I support a moratorium on new data centers until we can identify how we will power them and provide water for them.  I support the goal of moving Maryland to 100% clean power with no carbon pollution by a date certain (one goal is 2035, the legislature says 2045).  I want to close the electricity deficit which currently causes us to purchase 40% of our electricity from the PMJ grid. I will work with the Maryland Energy Administration to make a plan to meet those goals, including supporting offshore wind power, rooftop and balcony solar, geothermal for government buildings, improved conservation efforts, and any other effort which demonstrates effective results."
+
+- candidate_first_name: Andrew
+  candidate_last_name: Duck
+  state: md
+  race: State House of Delegates
+  district: 4
+  party: Democratic
+  question: md-q2
+  date: 2026-10-10
+  response: |
+    "America should restore federal investments in research because those science jobs drive economic development.  Within Maryland, we should attempt to increase science funding to offset some of the cuts at the federal level.  We should also support scientists who seek to start their own businesses conducting research to move new products to market, providing lab space as part of business incubators, expanding partner networks between the researchers and manufacturers, and providing advisors on the business aspects required to make a private business viable.  Existing programs associated with the University of Maryland such as TEDCO should be expanded."
+
+- candidate_first_name: Andrew
+  candidate_last_name: Duck
+  state: md
+  race: State House of Delegates
+  district: 4
+  party: Democratic
+  question: md-q3
+  date: 2026-10-10
+  response: |
+    "I support MEDICARE For All to ensure that all Maryland residents have health insurance.  We also need to increase (double) the number of doctors and other health care providers produced by the University of Maryland system.  I will work to bring a second hospital to Frederick County.  I will monitor the Frederick Health Hospital and their affiliated companies to measure the quality of care provided and ensure that appropriate care is being provided and staffing levels are sufficient.  I support increased spending on mental health.  We also need close the gap that exists in research on women's health versus research on men only.  We need to ensure we accurately measure the differences in both health care provisioning and outcomes based on race, gender, and geographic location in order to identify where the gaps are, so we can address them."
+
+- candidate_first_name: Andrew
+  candidate_last_name: Duck
+  state: md
+  race: State House of Delegates
+  district: 4
+  party: Democratic
+  question: md-q4
+  date: 2026-10-10
+  response: |
+    "We should start by making college education affordable for everyone.  I want every Maryland high school graduate to be able to attend a public university without going into debt.  As we increase Maryland spending on science jobs, we should include work-study options to bring students into science-related workplaces."
+
+- candidate_first_name: Andrew
+  candidate_last_name: Duck
+  state: md
+  race: State House of Delegates
+  district: 4
+  party: Democratic
+  question: md-q5
+  date: 2026-10-10
+  response: |
+    "I support the preservation of agricultural land in Frederick County.  I am also concerned with the small municipalities within my district who need financial assistance to upgrade sewage treatment plants and water systems to meet the increased standards that are being imposed and address the growth in population within Frederick County.  We need to restrict the increased number of new houses using well and septic, and move homes to "city water" to maintain or improve water quality.  Where development occurs, it should be adjacent to existing urban areas, include affordable housing and set aside land for parks and open spaces."
+
+- candidate_first_name: Andrew
+  candidate_last_name: Duck
+  state: md
+  race: State House of Delegates
+  district: 4
+  party: Democratic
+  question: md-q6
+  date: 2026-10-10
+  response: |
+    "I will work with Maryland state offices which have those responsibilities to provide oversight and assistance to ensure the measures they use are evidence-based.  I will both work with advocacy groups, as well as doing my own review of the literature, to identify emerging technology which can be speed up to solve Maryland's problems.  Please feel free to contact me at 240-344-5882 to follow up and provide advice after I get elected."
+
+- candidate_first_name: Andrew
+  candidate_last_name: Duck
+  state: md
+  race: State House of Delegates
+  district: 4
+  party: Democratic
+  question: md-q7
+  date: 2026-10-10
+  response: |
+    "We need to act at the State level to counter the cuts which are occurring at the Federal level.  As the Federal level cuts taxes for millionaires and billionaires, the State needs to increase taxes on them to fund the science initiatives we need to fund due to the federal cuts.  Maryland also needs to ensure we are receiving tax revenue from corporations who are not reporting earnings made in Maryland, but claiming their earnings in other states to avoid taxes.  These efforts are needed to fund the science initiatives outlined in the answers above.  As I said before  we should also support scientists who seek to start their own businesses conducting research to move new products to market, providing lab space as part of business incubators, expanding partner networks between the researchers and manufacturers, and providing advisors on the business aspects required to make a private business viable.  Existing programs associated with the University of Maryland such as TEDCO should be expanded."
+
+- candidate_first_name: Bob
+  candidate_last_name: White
+  state: md
+  race: State House of Delegates
+  district: 16
+  party: Working Class
+  question: md-q1
+  date: 2026-10-10
+  response: |
+    "We need to slow data center growth and put it under open local supervision-not just bribing a government official to ram it through. We need to see that the power company makes gradual and predictable rate changes."
+
+- candidate_first_name: Bob
+  candidate_last_name: White
+  state: md
+  race: State House of Delegates
+  district: 16
+  party: Working Class
+  question: md-q2
+  date: 2026-10-10
+  response: |
+    "We need to find a way to get more funding for science-once we loose it it will be hard to replace. Tax the rich."

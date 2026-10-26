@@ -29,10 +29,12 @@ races:
   - Mayor
   - Nebraska Public Power District  # for NE
   - RTD Board of Directors  # for CO
+  - School Board
   - Secretary of State
   - State Assembly
   - State Auditor
   - State Board of Education
+  - State Superintendent of Education
   - State House of Delegates
   - State House of Representatives
   - State Legislature  # necesary for NE, the only state with a unicameral legislature
@@ -63,8 +65,10 @@ race_ballot_order:
   - State House of Delegates
   - State House of Representatives
   - State Board of Education
+  - State Superintendent of Education
   - University Board of Regents
   - Mayor
+  - School Board
   - Local County Races [All]
   - Nebraska Public Power District
   - RTD Board of Directors
@@ -81,6 +85,7 @@ race_overrides:
     - VA-3
     - VA-5
     - VA-7
+    - VA-8
     - VA-9
     - VA-11
 
@@ -88,27 +93,36 @@ parties:
   - Democratic
   - Libertarian
   - Republican
-  - Unity
-  - No Party Preference
   - Independent
-  - Unaffiliated
   - Green
+  - No Party Preference
+  - Unaffiliated
   - Non-partisan
-  - Party for Socialism and Liberation
-  - No Labels Party
-  - Nebraska Working People
-  - America First
-  - Legal Marijuana NOW
-  - Center
   - Affordability, Accountability, People
+  - America First
+  - American Constitution
+  - Center
   - Common Sense Independent
+  - Conservative
+  - DC Statehood Green
   - End the Corruption!
+  - Forward
   - Hope for Tomorrow
   - Humane Sustainable Future
   - Kentucky
+  - Legal Marijuana NOW
+  - Nebraska Working People
+  - No Labels Party
+  - Party for Socialism and Liberation
   - Save Our Babies
   - Together for NJ
+  - United Citizens Party  # for SC
+  - Unity
   - We the People
   - Write-In
-  - DC Statehood Green
-  - Conservative
+  - Common Sense
+  - For All of Us
+  - Approval Voting # for CO
+  - Working Class # for MD
+  - American Solidarity Party
+  

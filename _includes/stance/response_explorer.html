@@ -14,6 +14,8 @@
                       who did not respond" checkbox (candidate + compare
                       views), so non-responders stay hidden with no way to
                       reveal them on this state's page.
+    include.hide_missing_note — when true, omits the "If you cannot find a
+                      candidate" note shown above the responses.
 
   Reads page.state to load this state's responses + questions, so the host page
   does not need to pass them in.
@@ -31,7 +33,9 @@
     {%- endif -%}
   {%- else -%}
 
+  {%- unless include.hide_missing_note -%}
   <p><i> If you cannot find a candidate, it means they have not yet submitted their response to Stance on Science. Please check back soon.</i></p>
+  {%- endunless -%}
   {%- if include.additional_note -%}
   <p><i>{{ include.additional_note | markdownify | remove_first: "<p>" | remove: "</p>" | strip }}</i></p>
   {%- endif -%}

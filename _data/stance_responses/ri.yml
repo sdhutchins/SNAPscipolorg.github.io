@@ -1,0 +1,643 @@
+- candidate_first_name: Ken # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Block # used for alphabetical sorting
+  state: ri
+  race: Governor # must match one of the options!
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: ri-q1
+  date: 2026-09-21 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Taxes and fees, many of them hidden, make up about 40% of RI’s electric bill. Our legislature shifts costs onto business electric bills to subsidize residential bills. I want to simplify our utility bills and make them less expensive by removing these taxes and fees. We should debate energy policy openly, every year, as part of our budget process. Moving taxes and fees from our energy bills into the budget, paid for through regular taxing means like corporate and personal taxes, will make our electric bills less regressive.
+    
+    What passes for RI’s energy policy and goals is, at best, a disconnected series of fees and spending programs. We have set a goal of “100% green” by 2033. The only way to meet that goal is to send money out-of-state – huge sums – to buy green energy certificates that are only good for one year. This isn’t “going green”. It isn’t stimulative. To meet our 2033 goal, we will end up spending over $100 million every year to buy out-of-state certificates.
+    That money should be spent to develop green energy infrastructure in RI. When we do, we build decades of green energy from our investment.
+
+    _Keywords: taxes fees investment_
+
+- candidate_first_name: Ken
+  candidate_last_name: Block
+  state: ri
+  race: Governor
+  party: Independent
+  question: ri-q2
+  date: 2026-09-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island could certainly use the economic stimulus that can come from large data center development, although most of that stimulus comes from the construction phase.
+    If the data center pays for all its electrical infrastructure needs, and statewide ratepayers don't bear those expenses, the project could lower electric rates in our state. Of course, our very high cost of electricity likely makes RI an unlikely place for a large data center to choose.
+
+    New England’s grid is also under supply pressure, making a data center's huge demands a concern.
+
+    As far as water consumption, RI should mandate that any data center use a closed-loop cooling system.
+
+    Rhode Island should be able to protect everyone’s interests through carefully crafted legislation.
+
+    Do I think that a large data center is in our state’s future? I do not.
+
+    _Keywords: closed-loop infrastructure supply_
+
+- candidate_first_name: Ken
+  candidate_last_name: Block
+  state: ri
+  race: Governor
+  party: Independent
+  question: ri-q3
+  date: 2026-09-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    The waters are rising, and RI will see escalating loss of land, property, and infrastructure. I am unaware of any credible way to eliminate this threat. We can raise roads and elevate utility infrastructure. However, in my town, Barrington, streets flood during king tides. Our beach now disappears during normal high tides.
+
+    Too many of our shoreline communities will experience this loss. A critical public policy debate needs to happen soon: what can we afford to spend to provide a temporary reprieve from the inevitable inundation to come?
+
+    Many interests compete for state spending. A third of the population is on Medicaid, and Medicaid spending is about $5 billion in our $15 billion budget. We are probably not spending enough on it. We are definitely not addressing the root cause: poor educational outcomes in our urban school districts.
+
+    RI will be forced to triage our response to rising waters. We should plan for how we retreat from areas that we know will be lost.
+
+    _Keywords: budget inevitability planning_
+
+- candidate_first_name: Ken
+  candidate_last_name: Block
+  state: ri
+  race: Governor
+  party: Independent
+  question: ri-q4
+  date: 2026-09-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    It should go without saying that the state needs to follow the science and act to protect our residents' health.
+
+    Testing and monitoring are easy things for state government to do. Governments are good at this sort of thing.
+
+    I cannot speak to “feasibility for manufacturers” or “availability of safer substitutes”. This requires specialized knowledge that few people outside those manufacturers can possibly have. I imagine that manufacturers will find safer alternatives – especially if they know that they can no longer produce goods that contain PFAS.
+
+    Lastly, we have to make tainted water supplies safe, which can be quite costly. System-wide solutions address the problem for all water supplied to businesses and households, while end-point filtering systems can make water safe for consumption without treating water used for other purposes.
+
+    _Keywords: test treat cost_
+
+- candidate_first_name: Ken
+  candidate_last_name: Block
+  state: ri
+  race: Governor
+  party: Independent
+  question: ri-q5
+  date: 2026-09-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    What RI has been doing is working. As Governor, I will allow the professionals who designed our current policies to continue their work and plans. I would only consider changing course if the improvements we currently enjoy are not continuous.
+
+    _Keywords: stay the course_
+
+- candidate_first_name: Ken
+  candidate_last_name: Block
+  state: ri
+  race: Governor
+  party: Independent
+  question: ri-q6
+  date: 2026-09-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Higher education research funding is very limited in RI’s budget. Most of that funding comes from the federal government and grant programs.
+
+    To be blunt, I don’t see how RI can replace substantial chunks of federal money if it's withdrawn. Our social services safety net depends on federal funding that might disappear. As I have stated in other answers, the demands on the state budget are extraordinary.
+
+    Accountability and integrity in the research community are not something that is typically driven by a state’s executive branch. I expect academia to provide the guardrails for the research programs under its purview.
+
+    _Keywords: federal scarce oversight_
+
+- candidate_first_name: Westin
+  candidate_last_name: Place
+  state: ri
+  race: State Senate
+  district: '38'
+  party: Republican
+  question: ri-q1
+  date: 2026-09-22
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We need to start looking at energy costs through the eyes of the people actually paying the bills. Rhode Islanders are already paying some of the highest electricity rates in the country, and adding more mandates and fees without looking at the total cost is not going to fix that.
+
+    I want to see us use every reliable energy source available, including natural gas, nuclear, hydropower, and renewables, while making sure we have enough dependable power when we need it. We can work toward our long-term environmental goals, but we have to be realistic about what families and small businesses can afford today.
+
+    I also think Rhode Island needs to stop assuming that every problem can be solved by creating another program or passing another mandate. We should be looking at what is actually working, what is driving up rates, and where we can cut unnecessary costs.
+
+    We can have cleaner energy, a reliable grid, and lower bills. But it takes common sense, competition, and making sure the people paying the bills are part of the conversation.
+
+    _Keywords: Affordability. Reliability. Common Sense._
+
+- candidate_first_name: Westin
+  candidate_last_name: Place
+  state: ri
+  race: State Senate
+  district: '38'
+  party: Republican
+  question: ri-q2
+  date: 2026-09-22
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I’m not against data centers or new investment in Rhode Island. But if a company is building a massive facility that puts significant demands on our electric grid or water system, they should pay the costs they create, not pass them on to Rhode Island families and small businesses.
+
+    Before a project moves forward, I’d want a clear assessment of its expected electricity and water use, the impact on local infrastructure, and what upgrades will be needed. If additional generation, transmission, water capacity, or other infrastructure is required because of the project, the developer should be responsible for those costs.
+
+    I also support straightforward public reporting so residents know how much power and water a project is expected to use and what public infrastructure will be affected. That information should be available before approvals are given, not after the fact.
+
+    I want Rhode Island to be open for business, but being open for business doesn’t mean giving companies a blank check. We can welcome investment, jobs, and new technology while making sure Rhode Islanders aren’t left paying the bill.
+
+    _Keywords: Fair Share. Accountability. Investment._
+
+- candidate_first_name: Westin
+  candidate_last_name: Place
+  state: ri
+  race: State Senate
+  district: '38'
+  party: Republican
+  question: ri-q3
+  date: 2026-09-22
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We need to spend resilience money where it will actually reduce risk and protect Rhode Islanders. That means looking at the science, the potential damage, and the cost of the project before deciding where funding goes.
+
+    I would prioritize critical infrastructure such as roads, bridges, drainage systems, wastewater facilities, evacuation routes, and infrastructure that protects public safety. Projects should be evaluated using measurable data on flood risk, sea-level rise, erosion, storm exposure, the number of people and businesses affected, and the expected cost of doing nothing.
+
+    I also think we need to make sure smaller communities are not pushed to the back of the line simply because they have fewer resources to contribute. State funding should help communities leverage federal and local dollars and get projects moving.
+
+    Where practical, we should also use natural solutions like wetlands and improved drainage rather than automatically relying on expensive engineered structures.
+
+    The goal should be simple: spend taxpayer money where it provides the greatest protection, use sound science to make those decisions, and make sure the public can see why a project was prioritized.
+
+    _Keywords: Science. Priorities. Protection._
+
+- candidate_first_name: Westin
+  candidate_last_name: Place
+  state: ri
+  race: State Senate
+  district: '38'
+  party: Republican
+  question: ri-q4
+  date: 2026-09-22
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    PFAS is an issue where we need to take the science seriously while also making sure regulations are practical and based on good evidence. Rhode Island has already taken steps to restrict intentionally added PFAS in certain consumer products, with additional restrictions taking effect in 2027 and 2029.
+
+    I support protecting drinking water and public health, but we need to distinguish between documented risks and areas where the science is still developing. That means continued testing and monitoring, transparent reporting, and updating policies as better evidence becomes available.
+
+    Manufacturers should have a reasonable path to comply, especially when a product has an important use and there is not yet a proven safer alternative. At the same time, when a safer substitute is available and effective, there is a strong reason to move away from unnecessary PFAS use.
+
+    The goal should be protecting people without creating regulations that are impossible or unnecessarily expensive to follow. Good policy should be based on sound science, practical alternatives, and regular review as we learn more.
+
+    _Keywords: Science. Safety. Practicality._
+
+- candidate_first_name: Westin
+  candidate_last_name: Place
+  state: ri
+  race: State Senate
+  district: '38'
+  party: Republican
+  question: ri-q5
+  date: 2026-09-22
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    The progress Rhode Island has made is encouraging, but this is not the time to declare victory. I would continue supporting approaches that are showing measurable results, including making naloxone widely available, connecting people to treatment quickly, expanding access to medication-assisted treatment, and supporting recovery programs and peer outreach. Rhode Island’s own data show that fentanyl and cocaine remain major contributors to overdose deaths, so our response needs to keep adapting as the drug supply changes.
+
+    I also want to make sure we are measuring outcomes, not simply how much money we spend. State programs should be evaluated using overdose deaths and nonfatal overdoses, treatment access and retention, repeat overdoses, recovery outcomes, and other measurable results. Rhode Island already has overdose surveillance and fatality-review systems that can help identify what is working and where resources are needed.
+
+    If a program is saving lives and helping people recover, we should support it. If it isn't producing results, we should be willing to change it. The goal should always be fewer deaths and more Rhode Islanders getting the opportunity to recover.
+
+    _Keywords: Prevention. Treatment. Recovery._
+
+- candidate_first_name: Westin
+  candidate_last_name: Place
+  state: ri
+  race: State Senate
+  district: '38'
+  party: Republican
+  question: ri-q6
+  date: 2026-09-22
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I support Rhode Island competing for research funding and making sure our universities, hospitals, and research organizations have the opportunity to bring those dollars and jobs into the state. But government funding should always come with accountability.
+
+    We should have clear reporting on how public dollars are being used, strong protections for scientific integrity, and measurable goals for research programs receiving significant state support. When research leads to new technology, treatments, or businesses, Rhode Island should make every effort to see those benefits reach our communities and economy.
+
+    I also think we should focus on leveraging state dollars rather than simply replacing federal funding. If a relatively small state investment can help attract significant federal research dollars, private investment, or new companies and jobs, that is worth considering.
+
+    The basic question should always be: What are Rhode Islanders getting for their investment? We should support good science and innovation, but we should also expect transparency, accountability, and a clear public benefit when taxpayer dollars are involved.
+
+    _Keywords: Innovation. Accountability. Results._
+
+- candidate_first_name: William "Angel"
+  candidate_last_name: Connell, Jr.
+  state: ri
+  race: State Senate
+  district: '5'
+  party: Republican
+  question: ri-q1
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Islanders should not have to choose between paying their electric bill and meeting other basic household expenses. With electricity costs among the highest in the nation, affordability must be a priority.
+
+    I would support a comprehensive review of state mandates, fees, and energy programs that increase electric bills, requiring greater transparency about their costs and benefits to ratepayers. I also support a diversified energy strategy that includes nuclear power, hydropower, natural gas where necessary for reliability, and renewable energy when it is cost-effective.
+
+    Because Rhode Island is part of a regional electric grid, we must work with other New England states to strengthen generation and transmission capacity and address infrastructure constraints that contribute to high prices.
+
+    I support reducing emissions and protecting our environment, but climate policies must also be realistic, affordable, and reliable. Major energy proposals should include clear analysis of their effects on electricity rates, grid reliability, and emissions.
+
+    Our goal should be straightforward: lower costs, maintain a dependable electric grid, and pursue cleaner energy in a practical and financially responsible way.
+
+    _Keywords: comprehensiveness, mandates, transparency_
+
+- candidate_first_name: William "Angel"
+  candidate_last_name: Connell, Jr.
+  state: ri
+  race: State Senate
+  district: '5'
+  party: Republican
+  question: ri-q2
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Large data centers can bring investment, jobs, and economic development to Rhode Island, but residents and small businesses should not be required to subsidize their extraordinary infrastructure demands.
+
+    I support requiring developers to pay the costs directly attributable to their projects, including necessary generation, transmission, distribution, and grid-reliability upgrades, rather than shifting those costs to existing ratepayers.
+
+    Before approval, developers should disclose projected electricity and water demand, proposed power sources, impacts on grid reliability, water conservation and recycling plans, and significant infrastructure needs. This information should be publicly available so communities can evaluate both the costs and benefits.
+
+    Rhode Island should welcome responsible investment and innovation while protecting taxpayers, ratepayers, natural resources, and grid reliability. When a private development creates extraordinary demands on public or utility infrastructure, the developer—not ordinary Rhode Islanders—should bear those additional costs.
+
+    _Keywords: infrastructure, innovation, investment_
+
+- candidate_first_name: William "Angel"
+  candidate_last_name: Connell, Jr.
+  state: ri
+  race: State Senate
+  district: '5'
+  party: Republican
+  question: ri-q3
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island should prioritize resilience investments based on risk, public safety, and measurable benefit—not political influence. Projects protecting drinking water, wastewater systems, roads, bridges, utilities, emergency facilities, and densely populated areas facing significant flooding or erosion should receive particular attention.
+
+    I support using objective scientific data to evaluate the probability and severity of flooding, sea-level rise, erosion, and extreme weather, while considering the number of people affected, infrastructure criticality, project cost, and expected reduction in future damage. Rhode Island’s Resilient Rhody framework already provides a useful foundation for this type of risk-based approach.
+
+    Funding should combine state resources with federal grants, municipal participation, and private investment where appropriate, with an emphasis on projects that leverage outside funding and provide strong long-term value.
+
+    Every resilience investment should have clearly defined costs, expected benefits, measurable outcomes, and public accountability so taxpayers know their money is being spent effectively.
+
+    _Keywords: criteria, funding, infrastructure_
+
+- candidate_first_name: William "Angel"
+  candidate_last_name: Connell, Jr.
+  state: ri
+  race: State Senate
+  district: '5'
+  party: Republican
+  question: ri-q4
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island should respond to PFAS based on sound science, measurable risk, and practical implementation. Protecting public health—particularly drinking water—should be the priority, while regulations should evolve as scientific evidence improves.
+
+    I support continued testing and monitoring of drinking water and other significant sources of PFAS exposure, with results made publicly available. State agencies should regularly review emerging federal standards, health research, and advances in testing and treatment so policies remain current.
+
+    At the same time, regulations should recognize that PFAS compounds and their uses differ. Manufacturers should have reasonable timelines to comply, and exemptions should be considered when a PFAS use is currently unavoidable or when no demonstrably safer, effective substitute exists. Rhode Island’s 2026 amendments appropriately provide DEM with authority to grant exemptions for unavoidable uses.
+
+    The goal should be to reduce unnecessary PFAS exposure while avoiding regulations that simply replace one chemical with an inadequately studied alternative or impose costs without a corresponding public-health benefit.
+
+    _Keywords: chemicals, exposure, protections_
+
+- candidate_first_name: William "Angel"
+  candidate_last_name: Connell, Jr.
+  state: ri
+  race: State Senate
+  district: '5'
+  party: Republican
+  question: ri-q5
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island’s decline in overdose deaths is encouraging, but continued progress requires sustained attention to prevention, treatment, and long-term recovery.
+
+    I would prioritize proven strategies, including broad access to naloxone, early intervention and education, timely access to medication-assisted treatment, strong connections to treatment following an overdose, and effective peer recovery and community-based services. Rhode Island already requires emergency departments to provide naloxone, peer recovery support, and active referrals to appropriate treatment, providing a strong foundation to build upon.
+
+    State funding should follow results. Programs receiving public or opioid-settlement dollars should be evaluated using measurable outcomes, including fatal and nonfatal overdoses, successful connections to treatment, treatment retention, repeat overdoses, and sustained recovery. Rhode Island already collects extensive overdose and harm-reduction data that can support this accountability.
+
+    We should continue investing in approaches that demonstrate results, modify those that do not, and ensure resources are directed where they can save lives and help people achieve lasting recovery.
+
+    _Keywords: drugs, overdoses, treatments_
+
+- candidate_first_name: William "Angel"
+  candidate_last_name: Connell, Jr.
+  state: ri
+  race: State Senate
+  district: '5'
+  party: Republican
+  question: ri-q6
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island’s universities, hospitals, and research institutions are important economic and scientific assets. I support maintaining a stable environment for competitive, merit-based research funding while aggressively pursuing federal and private investment.
+
+    Public funding must also come with accountability. Research institutions receiving taxpayer dollars should meet rigorous standards for scientific integrity, financial transparency, measurable outcomes, and appropriate oversight. Rhode Island already has grant-management systems designed to monitor effectiveness, compliance, and transparency, and those principles should apply consistently to state-supported research.
+
+    We should also do more to turn research discoveries into benefits for Rhode Islanders. State investments should encourage collaboration among universities, hospitals, businesses, and life-science companies, with particular attention to commercialization, workforce development, improved health care, and creation of good-paying jobs.
+
+    Rhode Island should support strong basic and applied research while measuring success not simply by dollars awarded, but by scientific advancement, additional investment attracted, technologies developed, businesses created, and tangible benefits delivered to our communities.
+
+    _Keywords: education, funding, institutions_
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Boylan
+  state: ri
+  race: State House of Representatives
+  district: '66'
+  party: Democratic
+  question: ri-q1
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We have a number of solutions. We should electrify everything and stop investing in natural gas-powered building systems. We must invest in renewables (wind and solar) and stick to our Act On Climate requirements. We need to cut red tape associated with residential solar (pass my Solar Cost Reduction Act) and make it cheaper and easier for people to pair batteries with residential and small scale solar. Microgrids and Virtual Power Plants (VPPs) are two emerging energy technologies that can promote grid resilience, energy independence, and renewable energy. We need to invest in utility scale battery systems and require Rhode Island Energy to roll out variable rates for electricity to encourage people to use more off-peak power. Rhode Island Energy’s spending should be under a microscope all the time; ratepayers should never pay for costs associated with advertising, marketing, communications, or public education that seek to influence public (H7881), and their profit margin should be trimmed.  We need to stop utility shutoffs during extreme heat waves. We need strong guardrails on datacenters.
+
+    _Keywords: renewables, batteries_
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Boylan
+  state: ri
+  race: State House of Representatives
+  district: '66'
+  party: Democratic
+  question: ri-q2
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Data centers need substantial guardrails to protect Rhode Island communities, consumers, and the environment. Data center owners must not only pay for the costs of grid upgrades needed to power their facilities, but they must also help expand less expensive clean energy and benefits for local Rhode Island residents.  We should establish a separate rate or rates for data centers, and incentivize data centers to meet a large portion of their energy with new clean energy. We should also require data centers to operate with flexibility, agreeing to reduce their power use when the grid is strained. We should consider requiring heat generated by data centers to be captured and reused.  We should require data center applications to include projected water use and source, and require that data centers employ water conservation, efficiency, and maintenance of watershed/aquifer health. We should also consider air quality, and require that diesel-powered backup generators must, at a minimum, meet the EPA’s Tier 4 Final Emission Standards and that backup generators can only be used during emergencies and within existing regulatory limits. Battery backup generators should be preferred or perhaps incentivized.  Last, we should prohibit non-disclosure agreements with municipalities.
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Boylan
+  state: ri
+  race: State House of Representatives
+  district: '66'
+  party: Democratic
+  question: ri-q3
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island’s resilience plan update, Resilient Rhody 2025, includes a statewide vulnerability assessment that inventoried and evaluated the risks posed to publicly owned assets from sea-level rise, extreme weather, and other climate-related impacts. Through technical screening and stakeholder input, the state then narrowed that list to identify critical assets for further analysis and potential investment. The plan also identified key resilience actions to be taken, defined various agencies’ roles in their implementation, and estimated that completing them would cost $112 million to $304 million. The plan includes a formal “prioritization framework” for directing resources toward the most impactful projects. We should make the polluters pay and pass my Climate Superfund bill.
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Boylan
+  state: ri
+  race: State House of Representatives
+  district: '66'
+  party: Democratic
+  question: ri-q4
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We need to continue to be vigilant in terms of monitoring for PFAS (see the latest news from Tiverton) and seeking safer water supplies for those affected by contaminated wells.  We need to stick with the PFAS laws on the books and not allow the laws to be weakened with carveouts.  We should simultaneously focus on source reduction, encouraging safer substitutes for things that we know to contain PFAS (like artificial turf for example). Manufacturers who profit from the products that contain PFAS must be held accountable when their products destroy aquifers and/or expose Rhode Islanders to toxic substances.
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Boylan
+  state: ri
+  race: State House of Representatives
+  district: '66'
+  party: Democratic
+  question: ri-q5
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island has a Governor ’s Overdose Prevention and Intervention Task Force. The Governor’s Overdose Prevention and Intervention Task Force Action Plan focuses on four strategies to prevent overdose and save lives:  1. Reinforcing Comprehensive Prevention, 2. Strengthening Rescue & Harm Reduction, 3. Increasing Engagement in Treatment, and 4. Supporting Recovery. All four of these pillars are critical to keep the downward decline in drug overdose deaths trending in the right direction. There are several Task Force Work Groups that are involved informing the larger Task Force. The Task Force issues semi-annual reports, the latest of which from March 2026 indicates that Rhode Island is on track to meet its 2030 goal of reducing overdose deaths by 30%. This is good news is proof that we are succeeding but it’s important to continue assessing the periodic reports to ensure that the progress continues going in the right direction.
+
+    _Keywords: Overdose, harm reduction, prevention_
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Boylan
+  state: ri
+  race: State House of Representatives
+  district: '66'
+  party: Democratic
+  question: ri-q6
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    As the Federal government seeks to terminate its funding commitments, we need to use every tool possible to get the funding reinstated.  That means entrusting our Attorney General’s office to collaborate with other states and sue where appropriate. It also means leaning on our Congressional delegation to advocate for our state. 
+
+    In the meantime, the state can leverage and expand dedicated state-level funding bodies, like the Rhode Island Life Science Hub, which is a quasi-public state agency, and the Rhode Island Research Alliance which is administered by the RI Science & Technology Advisory Council (STAC). There are private organizations, like the Rhode Island Foundation, that might be good partners to fund research. We should consider bonds to support state higher ed investments, and we should consider partnering with neighboring states where appropriate.  Use of public dollars should always involve processes for oversight to ensure transparency, responsible spending, reporting, and accountability.
+
+- candidate_first_name: Hon. Seth
+  candidate_last_name: Magaziner
+  state: ri
+  race: US House of Representatives
+  district: '2'
+  party: Democratic
+  question: ri-q1
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I am fighting in Congress to lower energy costs by getting more affordable clean energy including wind and solar onto the grid, cracking down on runaway profits by the big energy companies, ending the war in Iran, and fighting to end the Trump Administration’s tariffs that are contributing to high energy prices by making grid upgrades more expensive. The best way to make energy more affordable and protect ratepayers from the volatile price swings of the commodity markets is to produce more clean energy here locally as quickly as possible. 
+
+    To this end, I am fighting for legislation to reinstate the clean energy tax credits that were rolled back by the Trump Administration last summer, and for comprehensive permitting reform to make it easier to build the domestic clean energy projects and transmission and grid upgrades we need to keep pace.
+
+- candidate_first_name: Hon. Seth
+  candidate_last_name: Magaziner
+  state: ri
+  race: US House of Representatives
+  district: '2'
+  party: Democratic
+  question: ri-q2
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Local residents deserve full knowledge of the potential impacts that data centers will have on their communities. Data center developers should bear the full responsibility for their costs to connect to the grid and any needed impact mitigation. I support requiring data centers to be transparent about their impact on the public grid, the extent to which they will raise electricity rates for everyday homeowners and business owners, their demand on local water supplies, and the environmental impact they will have on the areas in which they are built so that local governments may make the best decisions for their residents. 
+
+    To achieve this, I am introducing a bill that will require FERC to establish a standardized study and review process conducted by a third party before data centers are permitted to connect to the grid. It will include requirements for data centers to cover grid upgrades that are necessary to their connection, so that consumers are not faced with higher utility bills and costly grid upgrades when data centers are approved.
+
+- candidate_first_name: Hon. Seth
+  candidate_last_name: Magaziner
+  state: ri
+  race: US House of Representatives
+  district: '2'
+  party: Democratic
+  question: ri-q3
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island is uniquely vulnerable to the worst effects of climate change as a low-lying area with extensive coastline and tidal waters, from rising oceans to stronger hurricanes and more. In Congress and as a Member of the House Natural Resources Committee, I am working to bring more federal funding home for Rhode Island’s coastal infrastructure to increase resilience and reduce damage to property and life. I am also focused on bringing home federal money to address and mitigate flooding in areas all across the second congressional district, as widespread chronic flooding continues to worsen as extreme rain and weather becomes more frequent. My office works closely with the Rhode Island Department of Environmental Management and the Emergency Management Agency, along with other state and local governments, to ensure that federal funds are directed to the communities that need them, for both acute solutions and long term projects and planning.
+
+- candidate_first_name: Hon. Seth
+  candidate_last_name: Magaziner
+  state: ri
+  race: US House of Representatives
+  district: '2'
+  party: Democratic
+  question: ri-q4
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    PFAS is a threat to our residents and our clean water now, and we have to act accordingly. In Congress, I am fighting to secure more funding to research and develop PFAS alternatives at the same time as we phase it out of use and clean it out of our environment. I cosponsor the PFAS Alternatives Act, which aims to accelerate the development of PFAS-free materials for firefighter gear, keeping them safe to do their life-saving work. I also worked with the rest of the Rhode Island Congressional delegation to deliver $47.5 million for the state to fund local clean water projects.These projects will address contaminants like PFAS to keep them from entering Rhode Island’s natural waters. 
+
+    Moving forward, the federal government must continue to work to replace PFAS in consumer and industrial products and abate its presence in our land and waters. I will continue to hold the Trump administration accountable to have the most expansive definition of PFAS to minimize PFAS exposure and keep Americans healthy.
+
+- candidate_first_name: Hon. Seth
+  candidate_last_name: Magaziner
+  state: ri
+  race: US House of Representatives
+  district: '2'
+  party: Democratic
+  question: ri-q5
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    The declines in drug overdose deaths that the state has seen are a testament to great work of the health care providers, first responders, and mental health organizations in the state. In Congress, I am focused on ensuring that our state has the federal resources we need to continue this trend. 
+
+    First, we must restore federal funding to Medicaid and the ACA following the nearly $1 trillion cut to the program that Republicans pushed through Congress last year to pay for tax cuts for billionaires. Medicaid is the largest payer for addiction treatment in the country.
+
+    Additionally, the Substance Abuse and Mental Health Services Administration (SAMHSA) is how federal dollars reach Rhode Island organizations on the front lines of overdose prevention. I have fought the Trump Administration’s reckless attempts to cancel billions in addiction and mental health grants, and proposals to eliminate SAMHSA as a standalone agency, and will fight to ensure that SAMHSA is protected and fully funded. It is imperative that local providers have reliable funding that they can count on, year after year, so they can hire staff, expand treatment, and reach more people.
+
+- candidate_first_name: Hon. Seth
+  candidate_last_name: Magaziner
+  state: ri
+  race: US House of Representatives
+  district: '2'
+  party: Democratic
+  question: ri-q6
+  date: 2026-09-28
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Rhode Island is home to some of the greatest research scientists and institutions in the world, and that’s because of federal support for science and technology, from basic research and development to cutting edge clinical trials. American research has led to countless biomedical advances that save lives every day, and our engineering advances add billions to the American economy. 
+
+    I am committed to ensuring that science funding remains strong in the United States, and that scientific research is not politicized. Along with my colleagues in Congress, I have successfully fought the Trump Administration’s arbitrary and devastating freeze of National Science Foundation grants, as well as their attacks on ocean monitoring, health research, and other core areas of research. I will continue to fight against new proposals to require political appointees to sign off on research grants, and when Democrats are in the majority in Congress next year, we will use our leverage over the government funding process to protect federal funding for our vital scientific research.
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Stewart
+  state: ri
+  race: State House of Representatives
+  district: '59'
+  party: Democratic
+  question: ri-q1
+  date: 2026-10-01
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I support a just transition to a sustainable energy economy including projects like Revolution Wind (the 65 turbine wind farm with a planned 704 megawatt capacity which was just completed by union workers), solar energy, and other renewable energy sources. Rhode Island's energy grid over relies on natural gas plants and imported energy. Our grid stability depends on transmission lines bringing power from out of state. So a transition to in state renewable energy sources is the best way to maintain grid reliability and avoid power outages. 
+
+    As Climate Action Rhode Island has pointed out, part of Rhode Island's transition to renewable energy is ensuring that Rhode Island Energy is held accountable by the Public Utilities Commission (PUC).  The PUC's decision-making process can be difficult for ordinary citizens and nonprofit organizations to participate in because it often requires expensive expert analysis and testimony. As a result, Rhode Island Energy is the best-funded and most influential player in the room.
+
+    I will reintroduce the Intervenor Support Bill to help level the playing field during the PUC process by creating a fund to help qualified community groups and nonprofits participate in PUC proceedings by hiring the experts they need to effectively advocate for the public interest. 
+
+    I will continue to support the work of grassroots utility justice groups like the George Wiley Center in Pawtucket and coalitions like Climate Jobs Rhode Island which recognize that our new green economy must be based on solid union jobs and access to electricity for our most at risk neighbors.
+
+    _Keywords: Support for intervenors at the RI Public Utilities Commission_
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Stewart
+  state: ri
+  race: State House of Representatives
+  district: '59'
+  party: Democratic
+  question: ri-q2
+  date: 2026-10-01
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Unless we can ensure that new data centers do not put Rhode Islanders at risk, we should not allow them to be built in our state. Data center developers should bear the full cost - there should be no tax breaks or other financial support from Rhode Island tax payers for data centers, and there should be strong public community agreements to protect RI utility ratepayers and to ensure our environment is protected and developers make the proper choices that benefit everyday Rhode Islanders regarding power, water, public reporting and oversight, before a project moves forward. State and local government must be part of the agreement along with community groups so they can use their regulatory powers such as land-use approvals and zoning amendments to secure community benefits.
+
+    _Keywords: strong public community agreements and oversight_
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Stewart
+  state: ri
+  race: State House of Representatives
+  district: '59'
+  party: Democratic
+  question: ri-q3
+  date: 2026-10-01
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Criteria should be developed in partnership with the Rhode Island Department of Environmental Management and the Coastal Resources Management Council because they have relevant expertise. In general, I think that priority should be given to areas that the public has access to and can enjoy, along with areas where the economic status of the area indicates that residents can not afford to fund their own individual resiliency. All too often poor people and people of color suffer the worst effects of climate change, as we all saw when Hurricane Katrina hit the southeastern U.S. in 2005, for example.
+
+    _Keywords: Our commitment to social justice must guide our response to climate change._
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Stewart
+  state: ri
+  race: State House of Representatives
+  district: '59'
+  party: Democratic
+  question: ri-q4
+  date: 2026-10-01
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I strongly supported our legislation restricting use of polyfluoroalkyl substances in Rhode Island. The General Assembly must also ensure that our government agencies involved with testing and monitoring have the resources they need to ensure the the public health and evolve as new evidence about pervasiveness of PFAS and their effects on people, animals, and the environment. All drinking water from public water systems must be rigorously tested for all substances which can harm our health. We also have to ensure that private wells, such as those in Tiverton, are safe from PFAS, including by funding testing by our DEM and DOH. Our priority must be the health of Rhode Islanders.
+
+    _Keywords: Our priority must be the health of Rhode Islanders._
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Stewart
+  state: ri
+  race: State House of Representatives
+  district: '59'
+  party: Democratic
+  question: ri-q5
+  date: 2026-10-01
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    The General Assembly passed a harm reduction pilot program and recently extended its run due to difficulty getting it established. Based on early reporting from its first year of operation it is making a difference in the prevention of overdoses - we have to track the numbers about use and outcomes over time. I think the state ought to make a greater investment in this area by making harm reduction a permanent program with more sites around the state. 
+
+    These sites should provide basic-needs support with medical and behavioral health care to meet people where they are. The state should support people who want access to clinical services, including substance use treatment services, so they are able to immediately get connected to care. 
+
+    I support the crucial work of Project Weber/RENEW and other harm reduction groups working on the front lines to protect our most vulnerable neighbors. Increased support for harm reduction initiatives can reduce crime and increase public safety.
+
+    _Keywords: permanent, expanded comprehensive services to support harm reduction_
+
+- candidate_first_name: Jennifer
+  candidate_last_name: Stewart
+  state: ri
+  race: State House of Representatives
+  district: '59'
+  party: Democratic
+  question: ri-q6
+  date: 2026-10-01
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    It is important for RI to invest more in its health infrastructure, including research itself and to encourage Rhode Islanders to enter the fields involved in biomedical and scientific research. As the federal government has become a unreliable partner, more responsibility must shift to the states. We must also require more from the entities that receive such support with respect to public reporting - information must not only be available to the public; it must also be comprehensible and accessible to the public. 
+
+    I also strongly support the efforts of the residents physicians and health care providers organized with SEIU and the Committee of Interns and Residents to ensure a just contract with fair compensation and work place protections for healthcare workers.
+
+    _Keywords: State funding for biomedical and scientific research for the benefit of everyday Rhode Islanders._

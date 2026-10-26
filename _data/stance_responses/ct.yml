@@ -104,7 +104,7 @@
   date: 2026-07-15
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
   response: |
-    _[no answer provided]_
+    [no answer provided]
 
 - candidate_first_name: Timothy
   candidate_last_name: Wilcox
@@ -124,7 +124,7 @@
   party: Democratic # must match one of the options!
   question: ct-q1
   date: 2026-07-16
-  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  primary_candidate: true # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
   response: |
     When the federal government cuts CDC funding, dismantles vaccine advisory infrastructure, and politicizes outbreak response, states have to fill the gap. Connecticut should treat public health as core infrastructure.
 
@@ -143,7 +143,7 @@
   party: Democratic # must match one of the options!
   question: ct-q2
   date: 2026-07-16
-  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  primary_candidate: true # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
   response: |
     Federal cuts to NIH and NSF funding are an attack on Connecticut's economy and its future. Research at UConn, Yale, and our other institutions drives discovery, trains our workforce, and anchors thousands of jobs in bioscience, engineering, and medicine. When Washington pulls back, the state has an obligation to act.
 
@@ -162,7 +162,7 @@
   party: Democratic # must match one of the options!
   question: ct-q3
   date: 2026-07-16
-  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  primary_candidate: true # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
   response: |
     Connecticut families and businesses pay among the highest electric rates in the country because our energy system is built to serve utility shareholders. Eversource and UI operate as monopolies guaranteed a profit on every dollar they spend, and ratepayers carry the cost.
 
@@ -181,7 +181,7 @@
   party: Democratic # must match one of the options!
   question: ct-q4
   date: 2026-07-16
-  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  primary_candidate: true # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
   response: |
     Environmental protection in Connecticut is a matter of health and economic justice. The communities living closest to legacy industrial pollution, highways, and peaker plants are working families in cities like New Haven, Bridgeport, and Hartford, and they carry the asthma rates and health costs to prove it.
 
@@ -200,7 +200,7 @@
   party: Democratic # must match one of the options!
   question: ct-q5
   date: 2026-07-16
-  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  primary_candidate: true # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
   response: |
     AI is arriving the way every major technology has: with enormous potential and with the costs falling on working families unless government sets the rules. Connecticut should shape this transition instead of reacting to it.
 
@@ -211,3 +211,140 @@
     Equity of access means every district's students learn to use these tools, and broadband reaches every home, so AI widens opportunity instead of concentrating it.
 
     The competitiveness case runs through our universities. The research investments I described earlier apply here directly: Connecticut can be a hub for AI research and the jobs that come with it, on terms that serve the public.
+
+- candidate_first_name: Andrew
+  candidate_last_name: Rice
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 3
+  party: Independent # must match one of the options!
+  question: ct-q1
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    We need to recommit to the World Health Organization (WHO) to ensure global efforts continue to monitor for re-emerging or novel viruses and other infectious disease. There needs to be reforms made to WHO with increased oversight. The heavy top-down bureaucracy needs to be reorganized to allow for better rapid on the ground decision making during localized crises while streamlining communications to better respond to health emergencies.  Protections need to be put in place to limit political influence liability from more powerful member states. The CDC cuts are also impacting public health. Staffing and funding need to be returned to 2024 levels with reforms. Trust in our public health systems have eroded, and care must be taken to restore that trust. Accountable learning for emerging novel diseases should be implemented, while also providing protections to ensure communication is free from political or corporate pressures and biases. People need to have the information but more importantly, must trust the information being given. The public also needs to be educated more on the realities of how policy develops especially during dynamic and rapidly evolving situations involving novel disease.  The public must have guarantees of transparency especially after unavoidable erroneous guidance is issued.   
+
+- candidate_first_name: Andrew
+  candidate_last_name: Rice
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 3
+  party: Independent # must match one of the options!
+  question: ct-q2
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Science is the foundation for which societies advance and improve the human condition. We need to increase the NIH Budget by 25% above its real (versus nominal) high in 2003 currently equating to $62.5 billion indexed to inflation to ensure scientific purchasing power remains constant. The same should be done for the NSF budget which would equate to a new budget of $15.5 billion. These research dollars continuously produce 150%-300% returns on economic activity through investments, jobs, and local spending on other economic sectors. To ensure trust in science, we must move away from a profit driven system and focus on a people driven model such that medicine prioritizes prevention and cures over treatment, with treatment still being an integral part of research. To further increase trust, we should restructure the Peer Review process and grant process to increase transparency and ensure equal access to all publicly funded data. We should impose fees on private industry using federally funded university research data to ensure these companies are paying into the system they are benefitting from. Lastly, federal dollars for research should only be used within the domestic United States with the exception of travel or similar necessities for collaborative efforts. 
+
+- candidate_first_name: Andrew
+  candidate_last_name: Rice
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 3
+  party: Independent # must match one of the options!
+  question: ct-q3
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    We can address rising costs of energy in Connecticut by breaking up large utilities into publicly owned energy sectors that would save customers money by not having to subsidize the profit these companies seek. We need to pursue avenues of generating more electricity in an environmentally and economically savvy manner. There needs to be great investment in wind and solar energy. The Revolution Wind offshore wind initiative is a great example of expanding wind energy. We can also expand solar energy by making it easier and cheaper to install solar panels on homes and businesses by getting rid of permitting barriers that would enable easy-to-install, small-scale solar for renters and homeowners without requiring permits or rooftop installation. We should also be creating incentives for businesses to have solar panels placed on their property to avoid using open space for solar farms. I am not in favor of nuclear power. It is not as cost effective and is environmentally problematic. The National Public Utilities Council’s Levelized cost of electricity shows that solar and wind energy is 50% cheaper or higher. Nuclear fission, although zero-carbon emission, still produces radioactive waste, thermally pollutes the surrounding water, and uranium extraction can disrupt local habitats.
+
+- candidate_first_name: Andrew
+  candidate_last_name: Rice
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 3
+  party: Independent # must match one of the options!
+  question: ct-q4
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Environmental policy should focus on urban greenspaces that include native plants to support biodiversity and local gardens providing climate-friendly food. We need to pursue environmental restoration in frontline communities, especially along the coast for the effects of climate change we cannot prevent. Preservations and restoration of salt marshes need to be a priority, both for conservation of biodiversity and their capacity to mitigate coastal flooding. I would form a task force on microplastics to present legislation to study and reduce impacts, find ways to reduce dependency on single-use plastics, and fund research for plastic alternatives. Increase funding and expand research to identify important habitats for imperiled species and expand protections for those habitats. Industries take an immense toll on biodiversity by driving resource extraction that destroys and degrades natural ecosystems. We need to reduce the demand for extraction of natural resources. I would introduce legislation that will shift us toward a more circular economy, wherein food and material waste is reduced, and resources are used and reused more efficiently. I would also work with the Nature Conservancy to draft legislation that supports the “30 x 30” framework to protect 30% of the planet’s oceans, lands, and freshwaters by 2030. 
+
+- candidate_first_name: Jonathan
+  candidate_last_name: De Barros
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 5
+  party: Independent # must match one of the options!
+  question: ct-q1
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Protecting public health requires preparedness, transparency, personal responsibility, and policies grounded in reliable scientific evidence. I support strong monitoring of infectious diseases, rapid testing, secure medical-supply stockpiles, and close coordination among federal, state, and local health authorities.
+    
+    For threats such as Hantavirus and Ebola, we must strengthen screening and surveillance at ports of entry, provide clear guidance to healthcare professionals, and ensure hospitals have the training, protective equipment, isolation capacity, and emergency plans needed to respond quickly. Current outbreaks should be addressed without creating unnecessary panic or imposing ineffective, one-size-fits-all mandates.
+    
+    I also support protecting individual medical freedom, improving public access to accurate information, and demanding accountability from public health agencies. Beyond emergencies, we must confront chronic disease by promoting healthier food, exercise, prevention, environmental safety, and better health education, especially for children and vulnerable communities.
+    
+    Our goal must be a public health system that responds quickly, respects constitutional rights, earns public trust, and keeps American families safe.
+
+- candidate_first_name: Jonathan
+  candidate_last_name: De Barros
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 5
+  party: Independent # must match one of the options!
+  question: ct-q2
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    I support federal investment in research that strengthens America’s economy, national security, energy independence, advanced manufacturing, agriculture, and public health. Taxpayer-funded research should produce measurable results, foster innovation, and help the United States remain a global leader in science and technology.
+    
+    Federal research funding should include strong oversight, financial transparency, regular audits, and performance-based evaluations to ensure taxpayer dollars are spent responsibly. I believe funding decisions should prioritize merit, scientific excellence, and projects with clear public benefits.
+    
+    Connecticut’s research universities are vital to training the next generation of scientists, engineers, healthcare professionals, and skilled workers. I support partnerships between universities, government, and private industry that accelerate innovation, create high-quality jobs, strengthen domestic manufacturing, and move new discoveries into the marketplace.
+    
+    My goal is to support a research system that rewards excellence, protects academic freedom, promotes accountability, and delivers meaningful benefits for Connecticut families, businesses, and taxpayers while ensuring our nation remains at the forefront of scientific discovery and innovation.
+
+
+- candidate_first_name: Jonathan
+  candidate_last_name: De Barros
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 5
+  party: Independent # must match one of the options!
+  question: ct-q3
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Connecticut families and businesses deserve affordable, reliable energy. I support an America First, all-of-the-above strategy that expands domestic natural gas production, protects nuclear power, modernizes the electric grid, and invests in new technologies without sacrificing reliability.
+    
+    Our region’s limited pipeline capacity contributes to high energy costs. Governor Kathy Hochul’s decision to block a natural gas pipeline carrying Canadian gas through New York into Connecticut has restricted access to a dependable energy supply. I believe state actions that obstruct federally approved interstate energy infrastructure conflict with federal authority and should be challenged under federal law.
+    
+    I would support faster permitting for pipelines, transmission lines, and other critical infrastructure, while maintaining reasonable safety and environmental standards. I would also work to eliminate unnecessary regulations, strengthen domestic energy production, and increase competition among energy suppliers.
+    
+    The goal is clear: lower utility bills, create good-paying American jobs, strengthen energy independence, protect our national security, and ensure Connecticut families and businesses have dependable power at an affordable price.
+
+- candidate_first_name: Jonathan
+  candidate_last_name: De Barros
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 5
+  party: Independent # must match one of the options!
+  question: ct-q4
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    I believe we can protect our environment while growing our economy through responsible conservation, clean water, and accountable government. My priorities are protecting drinking water, cleaning up legacy industrial pollution, improving flood resilience, and preserving Connecticut’s natural resources without placing unnecessary burdens on families, farmers, or small businesses.
+    
+    I also believe government must be transparent about the chemicals it introduces into our environment. I personally stood at the Connecticut State Capitol to protest the state’s use of Diquat to control hydrilla in our waterways because I was concerned about its potential environmental and public health impacts. Given that Diquat has been prohibited in the United Kingdom, I believe Connecticut should continually review the latest scientific evidence and pursue the safest, most effective methods available to manage invasive species.
+    
+    I support clean air, clean water, responsible stewardship of our natural resources, and environmental policies based on sound science, transparency, and accountability. My goal is to protect Connecticut’s environment and public health while ensuring government decisions are practical, evidence-driven, and respectful of taxpayers.
+
+- candidate_first_name: Jonathan
+  candidate_last_name: De Barros
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 5
+  party: Independent # must match one of the options!
+  question: ct-q5
+  date: 2026-07-09
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Artificial intelligence will transform our economy, healthcare, manufacturing, education, and national security. My priority is ensuring the United States leads the world in AI innovation while protecting the privacy, freedoms, and economic opportunities of the American people.
+    
+    I support policies that encourage investment in AI research, workforce development, and partnerships between universities and private industry without unnecessary regulations that slow innovation or send jobs overseas. At the same time, we must strengthen cybersecurity, protect sensitive personal data, and prevent foreign adversaries from exploiting AI to threaten our national security or intellectual property.
+    
+    As AI changes the workforce, we should expand apprenticeships, technical education, and job training so Connecticut workers have the skills to succeed in high-demand industries. I also support using AI to improve government efficiency, reduce waste, and deliver better services to taxpayers while ensuring appropriate human oversight for decisions that affect people’s rights and livelihoods.
+    
+    America should lead the future of AI by promoting innovation, protecting constitutional freedoms, strengthening our economy, and ensuring this technology benefits American workers, businesses, and families.

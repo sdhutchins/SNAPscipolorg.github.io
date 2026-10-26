@@ -104,10 +104,7 @@ published: true
   <p>This webpage houses the responses to {{ questions.size }} questions
   crafted by the {{ team_name }} team.</p>
   <p>Only official candidates who will appear on ballots were contacted.</p>
-  <p>Candidates were contacted in July 2026 (with a follow-up to those who
-  did not initially respond) and given the opportunity to answer all questions. Only the responses of candidates who answered the questions are
-  included. None of the candidates' responses were modified in any way before
-  being published on this resource page.</p>
+  <p>Primary candidates were contacted in July 2026 (with a follow-up to those who did not initially respond) and given the opportunity to answer all questions. General election candidates were contacted in September 2026 (with follow-up emails and phone calls). None of the candidates' responses were modified in any way before being published on this resource page.</p>
 
   <p><u>For the <strong>August 2026 Primary Election</strong></u>, only candidates in
   the following elections were contacted<sup>1</sup>:</p>
@@ -197,7 +194,7 @@ published: true
 
 <hr class="stance-rule"/>
 
-{% include stance/response_explorer.html heading="November 2026 General Election" %}
+{% include stance/response_explorer.html heading="November 2026 General Election" hide_missing_note=true %}
 
 {% include stance/press_mentions.html state=page.state %}
 

@@ -321,3 +321,98 @@
     4 year moratorium to full asses and understand their effect on the communities they are built near. We have over 100 in Florida, let’s catch our breath for a minute here.
 
     Keywords: 
+- candidate_first_name: Joseph
+  candidate_last_name: Thornton 
+  state: fl
+  race: State Senate
+  district: 6
+  party: American Solidarity Party
+  question: fl-q1
+  date: 2026-10-19 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I support stronger regulations on development in high‑risk coastal and flood‑prone areas. When new construction occurs in places that are especially vulnerable to hurricanes, storm surge, flooding, or extreme heat, the costs of mitigation should be carried by the developers and the buyers—not by the general public through higher insurance premiums or taxpayer‑funded disaster recovery. Risk should be priced where it is created.
+    Florida also needs to strengthen the resilience of its core infrastructure. Communications systems, transportation networks, and logistics must be built and maintained with an all‑hazards approach in mind. Hurricanes, flooding, extreme heat, and other climate‑related threats will continue to affect the state, and our infrastructure must be able to withstand and recover from these events quickly.
+    Protecting residents and the economy requires honest risk assessment, responsible land‑use policy, and a commitment to ensuring that the financial burden of building in dangerous areas does not fall on Floridians who live elsewhere or face lower levels of risk.
+    
+- candidate_first_name: Joseph
+  candidate_last_name: Thornton 
+  state: fl
+  race: State Senate
+  district: 6
+  party: American Solidarity Party
+  question: fl-q2
+  date: 2026-10-19 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Florida has already built a strong foundation in solar energy, and renewable power will play an even larger role in the state’s future economy. As clean energy industries expand, I believe Florida should prioritize home-based and community-based solar systems rather than relying solely on large corporate solar farms. Localized energy generation strengthens grid resilience, reduces transmission losses, and keeps economic benefits within communities. 
+    At the same time, artificial intelligence is rapidly transforming how energy systems are designed, installed, and maintained. AI will automate many technical tasks that once required specialized training, which means Florida’s workforce strategy must evolve. Workers will need skills that complement AI—hands on expertise, judgment, and the ability to manage home-based microgrids and battery systems.
+    To support job creation, I would promote training programs focused on practical skills such as solar installation, battery storage, energy efficiency upgrades, and community level resilience planning. Partnerships with technical colleges, trade schools, and apprenticeship programs can help build a workforce prepared for an energy sector that increasingly integrates AI tools.
+    Renewable energy—especially decentralized, home-based solar—should be a central part of Florida’s economic future. By preparing workers to operate alongside AI, we can strengthen resilience, create durable jobs, and ensure that clean energy benefits reach every community.
+  
+- candidate_first_name: Joseph
+  candidate_last_name: Thornton 
+  state: fl
+  race: State Senate
+  district: 6
+  party: American Solidarity Party
+  question: fl-q3
+  date: 2026-10-19 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    As a clinical scientist and academic, I rely on multiple experts when evaluating scientific information. My professional training has taught me how to ask precise questions, how to separate evidence from personal belief, and how to recognize when interpretations drift beyond what the data can support. I understand how limited samples can be overgeneralized and how conclusions can be stretched beyond their proper boundaries.
+    The COVID‑19 pandemic made these issues impossible to ignore. As a hospital‑based physician, I witnessed firsthand the relentless toll the virus took on vulnerable patients. I saw routine medical services disrupted as resources were diverted to manage the crisis. At the same time, I watched political leaders take firm positions on public‑health restrictions and, in some cases, influence data collection and reporting in ways that aligned with their preferred narratives.
+    These experiences pushed me to become more politically engaged. I wanted to help bring a more honest and informed discourse to public decision‑making.
+    Clinical science offers clues about what is happening in real time, but it is always evolving as new data emerge. Policy, by contrast, is often rigid and binary. Policymakers must weigh economic, social, and psychological factors that extend far beyond the scope of clinical evidence. For example, a decision to reopen society earlier than other states may be justified by economic or psychological considerations for the broader population. But it is wrong to reshape or reinterpret science simply to support that decision.
+    Sound decision‑making requires a clear assessment of risks, benefits, and alternatives. When leaders make difficult choices, they have a responsibility to explain the factors behind those decisions truthfully—without bending scientific information to fit a predetermined outcome.
+
+- candidate_first_name: Joseph
+  candidate_last_name: Thornton 
+  state: fl
+  race: State Senate
+  district: 6
+  party: American Solidarity Party
+  question: fl-q4
+  date: 2026-10-19 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    In my view, this thoughtful question—asked with good intentions—does not fully address the immediate crisis facing education in the era of rapidly advancing AI. For years, STEM fields were promoted as the primary pathway to support technological progress and strengthen our workforce. Today, however, those same fields are becoming a dead end for many students when compared to the capabilities of AI, AGI, and even emerging forms of superintelligence. Some prominent technology leaders now argue that we must return to the liberal arts to help young people develop the skills that machines cannot easily replicate: communication, critical thinking, and imagination.
+    Consider the current direction of national policy. The First Lady of the United States has called for every child to have access to a personalized AI teaching assistant and individualized education plan. If we take that seriously—and we should—then ensuring equitable access to high‑quality education requires urgent collaboration and planning. We must begin defining what “quality education” will look like not in a distant future, but next year and two years from now.
+    The landscape is shifting quickly. STEM education alone cannot prepare students for a world where AI systems outperform humans in many technical tasks. At the same time, liberal arts education cannot remain static; it must evolve to teach students how to think, interpret, and create in partnership with powerful new technologies. The challenge before us is to redesign education so that it strengthens the human capacities that remain essential—judgment, ethics, creativity, and the ability to understand context.
+    Preparing for this future requires clear thinking and collective action. The question is not whether AI will reshape education, but whether we will shape that transformation responsibly and equitably.
+
+- candidate_first_name: Joseph
+  candidate_last_name: Thornton 
+  state: fl
+  race: State Senate
+  district: 6
+  party: American Solidarity Party
+  question: fl-q5
+  date: 2026-10-19 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Cancer prevention and treatment are undergoing rapid and fundamental change. Because of this, we should pause any long‑term strategic planning that relies on outdated assumptions. We can continue our current practices in the short term, but our future planning must incorporate the capabilities of modern AI.
+    AI can help us evaluate the true impact of our existing efforts, re‑examine public‑health data to understand how cancer incidence is shifting, and synthesize emerging knowledge about new treatments and their expected effects on survival. Only after taking advantage of these tools should we return to the task of designing a forward‑looking public‑health strategy.
+    In other words, the landscape is changing too quickly for us to rely on traditional planning alone. To build an effective cancer‑prevention and treatment plan for the next year—and the next two years—we need to integrate AI‑driven analysis, updated evidence, and a realistic understanding of how innovation is reshaping outcomes.
+
+- candidate_first_name: Joseph
+  candidate_last_name: Thornton 
+  state: fl
+  race: State Senate
+  district: 6
+  party: American Solidarity Party
+  question: fl-q6
+  date: 2026-10-19 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Florida has not struck the right balance between encouraging AI‑driven data‑center development and protecting the interests of local communities. The pace of construction has accelerated, but the public has been given very little insight into how these facilities are planned.  Transparency has been minimal, and meaningful stakeholder engagement has been largely absent.
+    This matters because AI data centers are not just another category of commercial development. They reshape land use, energy demand, water consumption, and local infrastructure. They also concentrate enormous economic value. When decisions are made without community input, the result is predictable: the burdens fall on local residents, while the financial gains flow elsewhere.
+    To address these problems, I have proposed the Florida AI Bill, which establishes an independent oversight commission and requires structured stakeholder engagement from the local to the global level. More information about the proposed legislation is available here:   https://thorntonforhumandignity.com/legislation-proposed/the-florida-ai-bill/
+    The goal is not to halt innovation. It is to ensure that Florida builds an AI future that strengthens communities rather than bypassing them. Responsible governance requires open planning, honest communication, and a commitment to distributing the benefits of AI fairly.
+    

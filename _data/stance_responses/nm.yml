@@ -1,0 +1,874 @@
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q1
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      New Mexico needs dependable energy, good jobs, and clean water. I support responsible oil and gas production alongside science-based safeguards that protect public health and our limited freshwater supplies. 
+    
+      I would support recycling produced water within oil and gas operations, independent treatment research, and carefully controlled pilot projects evaluating reuse outside the industry. Any expanded use should require evidence that treatment consistently meets health and environmental standards for the specific application. 
+    
+      I would support comprehensive contaminant testing, groundwater monitoring, publicly accessible results, safe disposal of treatment residues, and enforceable industry responsibility for spills and cleanup. Disposal wells should have seismic monitoring and clear thresholds requiring reduced injection or shutdown when earthquake risks increase. 
+    
+      My position would be informed by peer-reviewed research, independent laboratory testing, long-term toxicity studies, and field demonstrations measuring treatment reliability, groundwater impacts, and actual freshwater savings. Researchers should disclose funding and conflicts of interest. 
+    
+      I would not support using produced water for drinking supplies or food-crop irrigation without compelling, independently verified safety evidence and enforceable protections. I would listen to scientists, communities, tribal governments, and industry, and update my position as reliable evidence develops.
+    
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q2
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      Water security is essential to New Mexico’s health, agriculture, jobs, and future growth. I would prioritize protecting existing supplies and making every public dollar produce measurable results. 
+    
+      My first priorities would be repairing leaking water lines, modernizing aging drinking-water and wastewater systems, and improving storage and delivery infrastructure. I would support voluntary agricultural conservation programs developed with farmers, ranchers, and acequia communities, while respecting tribal sovereignty and existing water rights. 
+    
+      I would invest in groundwater mapping, monitoring wells, watershed restoration, and research on drought, aquifer recharge, and reservoir evaporation. Promising technologies include leak-detection sensors, precision irrigation, and safely treated municipal wastewater reuse. New treatment technologies should demonstrate safety, affordability, and reliable performance before expansion. 
+    
+      Every funded project should establish a baseline, measurable targets, and public reporting. I would track verified acre-feet conserved or added annually, reductions in water-system leakage, groundwater levels, water quality, service reliability, and cost per acre-foot. Evaluations should account for drought conditions and distinguish reduced withdrawals from actual reductions in water consumption. 
+    
+      I would bring local utilities, scientists, tribal governments, agricultural producers, and communities together to select projects that protect affordable access to clean water and deliver lasting benefits.
+
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q3
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      As a hospice chaplain, I believe every person deserves dignity, safe drinking water, and protection from preventable harm. I would prioritize cleanup of abandoned uranium mines based on documented risks to nearby families, water supplies, and the environment. 
+    
+      I would support coordinated state, federal, and tribal cleanup efforts with clear deadlines, independent monitoring, and publicly reported results. Responsible companies should pay their legally established share of cleanup costs
+    
+      For new uranium mining proposals, I would require rigorous, independent review of groundwater impacts, water consumption, radiation exposure, waste management, and cumulative risks. Operators should provide adequate financial assurance for closure, cleanup, and long-term monitoring before operations begin. 
+    
+      Scientific evidence should guide decisions, with uncertainties openly acknowledged. Tribal governments must be involved from the outset, and their sovereignty, laws, and decisions on their lands must be respected. Projects outside tribal lands that could affect tribal water or communities require meaningful government-to-government consultation. 
+    
+      I would not support a proposal that cannot demonstrate enforceable protections for public health and water resources.
+    
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q4
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      I support developing New Mexico’s aerospace industry when it creates lasting opportunities for our residents and demonstrates responsible stewardship of taxpayer dollars. 
+    
+      Future state investment should require an independently reviewed business case, substantial private investment, transparent contracts, measurable milestones, and repayment provisions when companies fail to meet enforceable commitments. Public funding should prioritize shared infrastructure, research, and workforce training with clear public benefits. 
+    
+      Private operators should pay their operating expenses, company-specific infrastructure costs, and costs of preventing and addressing environmental harm from their activities. Lease payments and user fees should contribute fairly to maintaining public facilities. Insurance and financial guarantees should protect taxpayers from avoidable liabilities. 
+    
+      I would evaluate permanent jobs, wages, local purchasing, apprenticeships, and net tax revenue against the full public cost and alternative uses of those funds. Economic output alone does not establish a return to taxpayers. 
+    
+      Safety and environmental review should address wildfire risks, debris, air emissions, noise, water use, and emergency response capacity. Nearby communities and affected tribal governments should have meaningful input, with public monitoring and corrective action when problems arise. 
+    
+      My priority is connecting aerospace growth to education and skilled trades so New Mexicans can qualify for these jobs while protecting communities and public resources.
+ 
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q5
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      I would support WIPP continuing its authorized mission of disposing of defense-related transuranic waste, provided it meets rigorous safety standards and protects workers, nearby communities, and water resources. 
+    
+      I would oppose expanding WIPP to accept commercial spent nuclear fuel or high-level radioactive waste. Proposals to change accepted waste types or increase disposal amounts should require independent scientific review, transparent public hearings, applicable legal approvals, and meaningful consultation with affected tribal governments and communities. Economic benefits should be evaluated alongside long-term risks and costs. 
+     
+      I would support strong state permitting and federal oversight, independently verified waste characterization, certified shipping containers, vehicle inspections, shipment tracking, and federally funded emergency training and equipment for communities along transportation routes. 
+    
+      Worker protections should include radiation exposure monitoring, effective ventilation and fire protection, regular training, confidential reporting, protection against retaliation, and authority to stop unsafe work. Environmental monitoring results should be publicly available. 
+    
+      I would evaluate effectiveness through worker radiation doses, environmental measurements compared with baseline levels, transportation incidents and near misses, emergency drill performance, inspection findings, and timely correction of violations. Long-term assessments must also address containment after closure. 
+    
+      My priority is responsible stewardship: meeting national obligations while protecting New Mexicans today and future generations.
+    
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q6
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      I support attracting technology investment and good jobs to New Mexico, provided projects protect our water, public health, and affordable electricity. 
+    
+      I would support clear, predictable standards requiring independent assessments of water availability under drought conditions, electricity supply and reliability, air emissions, noise, lighting, and cumulative community impacts. Cooling systems should not use freshwater consumption and use desalination plants for brackish water. 
+    
+      Residents should receive understandable information early, accessible public hearings, and meaningful opportunities to shape permit conditions before decisions are made. Affected tribal governments should receive government-to-government consultation. 
+    
+      Developers should pay the infrastructure and resource costs attributable to their projects, including necessary utility upgrades, road improvements, and environmental mitigation. Utility agreements should protect households and small businesses from subsidizing project costs or paying for unused infrastructure if a company leaves. 
+    
+      Tax incentives should require verified investment, permanent jobs, wages, local hiring and apprenticeship commitments, and repayment provisions for unmet obligations. 
+    
+      I would evaluate benefits using independently reviewed financial projections and actual payroll, purchasing, and tax records. Ongoing monitoring should track water withdrawals and consumption, electricity demand, rate impacts, emissions, noise, and complaints against established baselines. My goal is responsible growth that delivers lasting opportunities for New Mexicans and measurable benefits for communities.
+
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q7
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      As a board-certified hospice chaplain, I see how distance, provider shortages, and financial barriers affect patients and families. Access to timely care is a central priority of my campaign. 
+    
+      I would support sustainable Medicaid reimbursement, make the Torte Reform similar to Texas as that’s where our healthcare professionals go, timely provider payments, targeted support for rural hospitals and clinics, and medical liability reforms that preserve patient accountability while helping retain providers. Medicare payment changes require federal action, and I would advocate with our congressional delegation. 
+    
+      I would expand rural training placements, service-linked loan repayment for serving 5-10 years, community health workers, mobile clinics, transportation assistance, and reliable broadband for telehealth. Priorities should include primary care, maternity services, behavioral health, and hospice and palliative care. 
+    
+      I would work directly with tribal governments through regular government-to-government consultation, allowing each community to identify its priorities. Partnerships with tribal health programs and the Indian Health Service should respect tribal sovereignty, cultural practices, and control over health data. 
+    
+      Progress should be measured through appointment wait times, travel distances, provider vacancies and retention, service availability, completed referrals, preventable hospitalizations, and patient experience. Measures should be developed with participating communities and reported with privacy protections. 
+    
+      My goal is dependable care closer to home, with resources directed toward demonstrated needs and measurable improvements.
+    
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q8
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      I support strengthening science education through excellent teaching, hands-on learning, and clear connections to careers. Every New Mexico student should have access to rigorous science instruction, including students in rural and tribal communities. 
+    
+      I would prioritize recruiting and retaining qualified science teachers, practical professional development, safe laboratory equipment, and dependable funding for classroom materials. Rural schools should have access to shared specialists, mobile laboratories, and partnerships with colleges that have trade school as part of their curriculum, universities, national laboratories, and local employers. 
+    
+      Reliable broadband and affordable devices matter, but students also need experiments, fieldwork, and materials they can use without internet access. Instruction should provide appropriate supports for students with disabilities and English learners, with tribal communities helping shape locally relevant learning. 
+    
+      I would connect science to shop classes and career pathways in electrical work, welding, healthcare, agriculture, water management, and aerospace. These opportunities should strengthen scientific understanding and prepare students for college, apprenticeships, and employment. 
+    
+      I would assess progress through science proficiency and growth, classroom demonstrations of scientific reasoning, teacher retention, course access, broadband availability, and participation in career pathways. Results should be examined by district and student group to identify gaps and direct support where it is needed.
+
+- candidate_first_name: Corey # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Zimmerman # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 26 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q9
+  date: 2026-10-03 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      I support stable, competitive federal research funding that advances scientific knowledge, strengthens national security, improves health, and creates opportunities for New Mexicans. 
+    
+      As a state representative, I would work with our congressional delegation to advocate for dependable funding and clear grant rules. I would support simpler application and reporting processes that reduce unnecessary paperwork while preserving independent peer review, financial audits, research integrity, and disclosure of conflicts of interest. 
+    
+      My priorities include healthcare, water security, energy reliability, and partnerships that connect research institutions with local businesses, schools, and skilled-trades programs. Basic research also deserves support because valuable discoveries may take years to produce practical benefits. 
+    
+      I would evaluate scientific value through independent expert review, sound methods, and contributions to knowledge. Benefits to residents should include workforce training, local employment and purchasing, business development, and useful technologies. 
+    
+      Growth plans should address housing affordability, transportation, utilities, water demand, and environmental impacts through coordination with local and tribal governments. Project budgets should account for these costs and identify who pays. 
+    
+      Public accountability requires transparent spending, appropriate milestones, and corrective action for misuse. Evaluation should recognize that well-conducted research can yield valuable findings even when an experiment does not achieve its expected result.
+      
+
+- candidate_first_name: Mark # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Duncan # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q1
+  date: 2026-10-03 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      Absolutely support this, other states are doing it now and we ship ours to TX and don’t get credit for it.
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q2
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      I would build dams/reservoirs and definitely replenish our aquifers
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q3
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      Since the Feds are responsible for most of the costs I would work side by side with them. I ran a bill this last session to do the cleanup of these mines. I am also in favor of new mines. We have learned a lot and can safely put it to use.
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q4
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      This may be a venture that should include private partners.
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q5
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      I am in favor of using this facility for any use.
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q6
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      I think data centers need to be closed loop systems, provide their own power and be far enough away from residents that they don’t hear or feel them.
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q7
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      I have supported the rural health initiatives and will continue to. Data driven evidence is what should drive all this, If it works use it if it doesn’t and we see that in 2 years we try something new.
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q8
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      We need to over haul our education. It shouldn’t be about the teachers, it should be about the students.
+
+- candidate_first_name: Mark
+  candidate_last_name: Duncan
+  state: nm
+  race: State House of Representatives
+  district: 2
+  party: Republican
+  question: nm-q9
+  date: 2026-10-03
+  primary_candidate: false
+  response: |
+      I support this but I don’t have any priorities on the matter.
+
+
+- candidate_first_name: Grace  # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Nagamine # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 51 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: nm-q1
+  date: 2026-10-05 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      In House District 51, water is everything. Alamogordo depends on mountain surface water, and well owners near Holloman have lived with PFAS contamination since 2016.
+
+      Oil and gas jobs matter to New Mexico families, and I want that industry to succeed. Recycling produced water inside the oilfield is a win for everyone, saving fresh water for homes and farms.
+
+      Outside the oilfield, my standard is the one I gave the Sierra Club, which has endorsed my campaign: prove it is safe first. No reuse until independent scientists with no financial tie to the industry confirm treatment removes salts, chemicals, and radioactive materials. Even then, I would limit it to industrial uses, never drinking water or agriculture.
+
+      I would also support:
+
+      Public monitoring of disposal wells, spills, and seismic activity
+      Independent water testing, toxicology studies, and pilot data, made public
+      Financial assurance so ratepayers never pay for cleanup
+
+      My opponent's biggest donor is the oil and gas industry. My donations come from individuals in this district, so I can respect the industry and its workers while answering only to the people who drink this water.
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q2
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Alamogordo has already shown what conservation can do, cutting per-person water use from 260 to 165 gallons a day. But conservation alone cannot fix 70-year-old pipes or replace a reservoir lost to wildfire, as Bonito Lake was in 2012.
+
+      My priorities:
+
+      Fix leaks first. Fund replacement of aging water mains so treated water reaches homes instead of soaking into the ground.
+      Conservation and reuse. Expand conservation programs and municipal wastewater reuse, proven and lower-cost sources of supply.
+      Finish desalination. Complete the pipeline for Alamogordo's brackish groundwater project, a drought-resistant new supply.
+      Protect watersheds. Invest in forest thinning and wildfire prevention above our surface water sources.
+      Know what we have. Fund aquifer mapping, groundwater monitoring, and the State Engineer's office so decisions rest on data.
+      Reform capital outlay. Billions in approved infrastructure dollars sit unspent statewide. Fund ready projects and help small communities win Water Trust Board and Colonias funds.
+
+      I would measure success with public numbers: annual water-loss audits, main breaks per mile, gallons used per person, acre-feet of new supply delivered, aquifer levels, and how quickly state dollars become finished projects.
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q3
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      New Mexico is still living with the last uranium boom. Hundreds of abandoned mines remain on or near the Navajo Nation, and the companies that profited never paid the full cost of cleanup.
+
+      Here in the Tularosa Basin, we know this story. Downwinder families waited generations for recognition after the Trinity test. I stand with them and will advocate for the compensation and health care they are owed.
+
+      My position is the one I gave the Sierra Club, which has endorsed my campaign:
+
+      Clean up first. I support state funding to speed remediation and pressing the federal government and responsible companies to pay, not taxpayers.
+      No new mines until the old bill is settled. I will not support new uranium mining until legacy contamination is addressed and independent review, not industry-funded review, confirms water and public health are protected.
+      Consent of affected communities. Tribal governments are sovereign. No project should move forward over the objection of the communities it affects.
+
+      Science should decide the safety questions: independent groundwater monitoring, health studies, and water-use data, all made public. I support nuclear energy and its jobs, but not at the expense of families' water.
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q4
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Space is part of who we are in Otero County. I attended the New Mexico Museum of Space History's 50th anniversary celebration in Alamogordo, and it reminded me how deeply space and Holloman Air Force Base are woven into our community and economy. I am proudly pro-military and pro-space, and I want New Mexico to lead in commercial aerospace.
+
+      I would support future state investment with clear conditions:
+
+      Public dollars, public returns. Tie funding to measurable benchmarks: jobs for New Mexicans, local contracts, and lease revenue, with repayment if commitments are missed.
+      Fair cost sharing. The state builds shared infrastructure such as roads and utilities. Private operators pay their own operating costs, insurance, debris recovery, and environmental cleanup.
+      Protect the mission. Commercial activity must be coordinated with Holloman and White Sands Missile Range so it never compromises airspace or military readiness.
+      Safety first. Require wildfire prevention plans, debris response plans, and financial assurance before launch.
+
+      I would evaluate benefits with an independent annual report: taxpayer dollars in, jobs and revenue out, alongside incidents, wildfire risk, and community concerns. We lost Bonito Lake to wildfire once. Growth and safety have to go together.
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q5
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      WIPP serves a national defense mission, and it provides good jobs for southeastern New Mexico families. I respect that work and want it done safely.
+
+      But New Mexico already carries more than its share of the nation's nuclear waste. My position is the one I gave the Sierra Club, which has endorsed my campaign: I oppose bringing additional high-level waste to our state.
+
+      For WIPP, that means:
+
+      Keep the mission as promised. WIPP was built for defense-related transuranic waste within limits set by law. I would oppose expanding the types or amount of waste without independent scientific review, state consent, and public input.
+      Strong state oversight. Fully fund the Environment Department's permitting and inspection role so the state is never just a bystander.
+      Safe transportation. Fund training and equipment for first responders along shipping routes.
+      Protect workers. The 2014 fire and radiation release closed WIPP for nearly three years. Workers deserve strong safety standards and whistleblower protection.
+
+      I would measure effectiveness with public data: shipment incidents, worker exposure records, independent air and groundwater monitoring, and inspection results, reported every year.
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q6
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      In the desert, water and affordable power come first. I am not calling for a ban, but a data center proposal must meet three conditions or it should not be considered:
+
+      Closed-loop water that does not draw on local aquifers or water-short areas.
+      Its own power, separate from the grid, with no effect on electric rates for residents or small businesses.
+      A noise mitigation plan that protects neighbors.
+
+      Costs should follow the project. If a data center needs new power plants, grid upgrades, roads, or water lines, the company pays, not households.
+
+      Residents deserve a real voice: public hearings before approval and full disclosure of water and energy use.
+
+      I would judge promises against evidence: independent audits of water and power use, verified local job counts, and tax revenue actually received, with incentives tied to results.
+
+      I have put my conditions in writing. My opponent has not stated a position in his own name, while the news site he founded and edits has welcomed Project Jupiter and criticized those who want to slow it down.
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q7
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      I worked as a certified nursing assistant and cared for family at home, so I know what distance costs rural families: missed work, missed appointments, and care that comes too late.
+
+      I would support:
+
+      Workforce first. Better pay and training for CNAs, nurses, and direct-care workers, loan repayment for providers who serve rural areas, and a stronger healthcare pipeline at NMSU-Alamogordo.
+      Faster licensing. License portability so military spouses and out-of-state professionals can start work quickly.
+      Care closer to home. Telehealth with reliable rural broadband, home- and community-based care for seniors, and transportation to appointments and pharmacies.
+      Behavioral health. More rural treatment capacity and crisis teams that pair officers with mental health professionals.
+
+      Tribal governments are sovereign partners, including our neighbors in the Mescalero Apache Tribe. I would start by listening, consult government to government before legislation is drafted, and support Tribal priorities for funding and facilities instead of substituting my own.
+
+      I would measure progress with public numbers: travel time to care, appointment wait times, provider vacancies, and preventable emergency room visits, reported by county and Tribal community so rural areas are not hidden in statewide averages.
+
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q8
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Otero County is a living science classroom. We have Holloman Air Force Base, White Sands, the New Mexico Museum of Space History, and a federal desalination research facility. Our students should graduate ready for those careers, yet only a third of New Mexico students are proficient in science.
+
+      I would support:
+
+      Qualified teachers. Competitive pay, loan repayment, and paid teacher residencies for science teachers who commit to rural and Tribal schools, plus grow-your-own programs through local colleges like NMSU-Alamogordo.
+      Hands-on labs. State funding for lab equipment and supplies, and mobile labs for small districts that cannot afford their own.
+      Advanced courses everywhere. Dual-credit and online advanced courses, backed by reliable rural broadband so a student's zip code does not limit their options.
+      Local partnerships. Connect classrooms with our national labs, military bases, museums, and employers for mentoring and internships.
+      Tribal leadership. Work with Tribal education departments on their priorities, including culturally relevant science instruction.
+
+      I would measure progress by district, not just statewide: science proficiency, certified science teacher vacancies, the share of schools with working labs, advanced course enrollment, and student broadband access, all reported publicly each year.
+
+- candidate_first_name: Grace
+  candidate_last_name: Nagamine
+  state: nm
+  race: State House of Representatives
+  district: 51
+  party: Independent
+  question: nm-q9
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Federal research is part of daily life in Otero County. Holloman Air Force Base, White Sands Missile Range, and the national desalination research facility in Alamogordo bring good jobs and solve real problems, including how desert communities will find water.
+
+      Three priorities would guide me:
+
+      Stability. Researchers, universities, and small businesses need predictable funding. I would work with our congressional delegation, across party lines, to protect New Mexico's research mission, and support state matching funds so sudden federal changes do not cost local jobs.
+      Local benefit. Research dollars should reach residents through local hiring, small-business contracts, and training pipelines at schools like NMSU-Alamogordo.
+      Communities kept whole. Growth strains housing, roads, and water. Institutions and the state should plan for those costs together, so local ratepayers are not left covering them.
+
+      On rule changes, I support oversight that prevents waste without burying scientists in paperwork or politics. Peer review should judge scientific merit.
+
+      I would evaluate results with public reporting: jobs and contracts in New Mexico, research outcomes, housing and infrastructure impacts, environmental compliance, and independent audits of how public funds are spent.
+
+- candidate_first_name: Zachary # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Withers # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 22 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: nm-q1
+  date: 2026-10-05 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      I support requiring the oil and gas industry to fully treat all produced water to remove all contaminants at their own expense to standards established by fully independent commission of scientific experts. I oppose allowing the oil and gas industry to use fresh water for hydrological fracturing. I support state funded monitoring, testing, and enforcement of water quality standards. I support levying fees on every gallon of produced water. I support reuse of produced water only where there is universal consensus amongst the scientific community, reflected in multiple independently funded and peer reviewed studies, that it poses no threat of harm to the environment. 
+
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q2
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      The water crisis is primarily a political crisis created through poor management and governance. The state has allocated roughly twice as many individual use rights as our water resources can sustainably support. Overuse is impairing water cycles and reducing water availability. The primary solution to this problem is creating effective governance structures at the local level to manage water in accordance with the hydrological realities we are facing and the based on the needs of local communities. Increasing water availability can be accomplished through increasing aquifer recharge and surface flows through effective watershed restoration and improving soil health, direct capture and storage, and investment in closed loop systems for treating and recycling water. I oppose inter basin transfers. I oppose mining deep aquifers and desalination as a long term solution.  We need a holistic framework for managing water that accounts for riparian health, short and longterm impacts on localized water cycles, aquifer level monitoring, total ecological health in the watershed, food sovereignty, and access to healthy water for personal needs as a basic human right. 
+
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q3
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      I oppose allowing private industry to externalize costs onto the public. I support requiring financial surety bonds for mining operations that are sufficient to cover the entirety of the following costs: long term site remediation; long term remediation for offsite environmental contamination; damages and punitive damages for any possible negative impacts on surrounding communities resulting from intentional or accidental contamination. I oppose approving applications to transfer agricultural or domestic water rights to mining operations. I support full remediation of existing sites, and accountability for the companies responsible. Tribal governments should have full sovereign control over their lands, and equal say in any decision on any project that may impact their lands. 
+
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q4
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      State investments should serve three functions, providing highly reliable and predictable returns to ensure adequate funding for provision of basic services and investments into public infrastructure, building and maintaining an collective sovereign wealth fund that ensures long term financial security for state and local governments, and drives the creation of real wealth and community health across New Mexico. I oppose state ownership in private enterprises. I oppose using public funds to continually subsidize private industries. I oppose commercial space tourism. I support using public funds to increase access to capital for locally owned businesses that provide real economic benefits to local communities without threatening the environment and undermining the health of the local communities. 
+
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q5
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      I would support requiring adequate financial surety bonds to address the full cost of long term storage as well as full remediation costs in the event of contamination during transport or at the storage facility as a condition of any change to the type and amount of waste being stored. I support the highest possible safety standards and strict monitoring and enforcement of those standards for the entire custody chain from mine to repository. 
+   
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q6
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      I oppose the development of mega scale data centers like Project Jupiter. I oppose any and all public subsidy to such projects. I oppose allowing agricultural or domestic water rights to be transferred to data center projects. I oppose using tax dollars to fund improvements to the grid or investment in power production to run these centers. I support state investment in small scale data processing capacity for universities and other public institutions. I support enacting and enforcing strict protections for intellectual property rights and personal data.
+ 
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q7
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      I support culturally appropriate investment in fostering community health through increasing access to healthy water, healthy food, reducing environmental toxins and addressing behavioral health needs. I support public subsidies for rural health care clinics, incentivizing health care practitioners to relocate to rural areas, and systemic efforts to increase transparency in the insurance agency and bringing down costs. Progress should be measured in total community health metrics, health care availability, and outcomes from treatment. 
+
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q8
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Improving educational outcomes requires addressing multiple independent challenges that range from logistical challenges around busing and transportation to the political quagmire created though partisan culture wars that politicize students bodies and distract from the real problems facing public eduction. Improving science proficiency is interdependent on addressing literacy rates, and providing an engaging and constructive learning environment for students. Increasing funding to pay more highly qualifies teachers and invest in laboratory equipment and technology is only one piece of the solution, but just throwing money at it won't fix anything . Giving more voice to the veteran class room teachers in specific steps we need to take to improve educational outcomes is key. Increasing standards and accountability for administrators is also important. Progress should be measured by students success in post primary educational life. 
+
+- candidate_first_name: Zachary
+  candidate_last_name: Withers
+  state: nm
+  race: State House of Representatives
+  district: 22
+  party: Independent
+  question: nm-q9
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Frankly I would like to see a lot more balance between funding for environmental research that is needed to address the multiple ecological crisis in our state and a little less focus on the military industrial complex. I understand that a huge part of our economy runs on defense funding. A bleak reality that we all need to wake up to is that our current systems for producing food, fuel, and fiber are unsustainable, and confronting the enormous challenges associated with maintaining our communities without the benefit of unrestricted groundwater pumping, extractive forms of industrial commodity food production, and negligent mismanagement of public and private lands cannot wait. I support reducing the influence of agri-industries on programing at state land grant university through re-investing authority over the New Mexico Department of Agriculture in the state, instead of the board of regents of NMSU. 
+
+
+- candidate_first_name: Andrea # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Romero # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic # must match one of the options!
+  question: nm-q1
+  date: 2026-10-05 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      In New Mexico, produced water is an ongoing area of study, and our office has participated in numerous forums, including with the NM Produced Water Consortium, to better understand the current science and ensure that any legislation we support is grounded in sound research. We are open to policies that advance research into how produced water can be safely treated and potentially utilized outside of oil and gas operations. However, at the same time, we need strong monitoring, treatment, and disposal standards to protect our water resources and communities. Before expanding reuse, we need reliable scientific evidence about treatment methods, contaminants, long-term environmental impacts, and public-health risks. Our office is committed to understanding the science and supporting legislation that puts New Mexico in a position to make responsible, evidence-based decisions about produced water. We committed to new water resources, and this has some promising potential, but other alarming results, so far. 
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q2
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Our district has been a strong supporter of New Mexico’s 50-Year Water Action Plan. The strategies outlined in the plan, including conservation, improved water infrastructure, groundwater monitoring, and protecting existing water resources, are an important starting point for addressing the long-term challenges facing our state. We should continue investing in water conservation and efficiency, repairing and modernizing aging infrastructure, expanding groundwater monitoring, and supporting research into water reuse and other technologies that can help us make the most of the water we have, including investing substantially in conservation. We also need to ensure that Tribal communities, agricultural producers, local governments, and other water users have a meaningful role in shaping these policies.
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q3
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      New Mexico has a responsibility to address the legacy of uranium mining and the contamination and health impacts that communities have experienced. Cleanup of abandoned uranium sites should remain a priority, and companies responsible for environmental damage should be responsible for remediation. Any proposal for uranium mining should be evaluated based on potential impacts to groundwater, surface water, public health, wildlife, and surrounding communities. We should also require strong monitoring, financial assurance, and reclamation plans before projects move forward, or even consider any new permits. I'm not convinced we need to stay in the uranium business whatsoever, and have not yet heard a compelling reason to continue this extractive and dangerous practice. 
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q4
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      New Mexico’s investments in commercial aerospace should produce meaningful benefits for New Mexicans while protecting public resources and surrounding communities. We know that aerospace can be an amazing place for invention, including more sustainable flight attainment, but it must be aligned with our cultural, social, and environmental values. Future state investment, tax breaks, and other taxpayer dollars, should be evaluated carefully and should include clear expectations for economic development, job creation, public safety, environmental protection, and accountability for taxpayer dollars. 
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q5
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      WIPP has been a "pilot" facility for over 25 years with no alternative repository developed—a failure of federal planning, not a solution. The 2014 radiological release and billion-dollar cleanup show the real costs of this approach. I oppose expanding the types or volume of waste WIPP accepts beyond its original defense-TRU mission and will use New Mexico's permitting authority as leverage with the Department of Energy. On oversight, I support strong state-led monitoring of transportation routes and container integrity, independent verification of waste packaging at generator sites to prevent incidents like 2014, and continuous environmental monitoring with public reporting of results. Effectiveness should be measured by tracking transportation and operational incidents, worker dose records, environmental monitoring against baselines, and DOE's compliance with permit conditions—all released publicly and reviewed by independent experts. Our federal partners control much of this work, so the state's role is to set clear expectations, verify performance, and hold DOE accountable when it falls short.
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q6
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      New Mexico should make sure that large data centers do not shift their environmental and infrastructure costs onto residents. Any major data-center proposal should receive a thorough review of water use, electricity demand, air quality, noise, light pollution, increased heat emissions, land use, and impacts on local infrastructure. We should also evaluate jobs created, tax revenue generated, water and energy consumption, impacts on utility rates and local infrastructure, inclusive of sustained community benefit to their existence. The spending power of AI companies have eclipsed all other economic development and construction projects, meaning we must be even more careful about how we allow these data centers to enter our landscape.
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q7
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      New Mexico needs to continue investing in rural hospitals, clinics, behavioral health services, telehealth, transportation, and the healthcare workforce so that rural and Tribal communities can access care closer to home. We also need to address the workforce challenges that make it difficult for rural communities to recruit and retain doctors, nurses, behavioral health professionals, and other healthcare workers. That means supporting training pipelines, incentives for providers to practice in underserved communities, and partnerships with New Mexico’s colleges, universities, and healthcare institutions. We also need to bring healthcare to the community through telehealth and other opportunities to allow doctors to come directly to patients. We have to think creatively and innovatively about the future of healthcare, but it must center patients and our healthcare workforce first and foremost. 
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q8
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      Reading reports this year that U.S. reading and math scores have nose-dived near a 25-year low should get us all asking questions. We see the repercussions in the misinformation running rampant in our scientific decision making. When science education is lacking, everyone is affected. 
+
+      Every New Mexico student should have access to a strong science education regardless of whether they attend school in Santa Fe, a rural community, or a Tribal community. We need to invest in teachers, classroom resources, laboratory experiences, broadband access, and opportunities for students to participate in advanced coursework. Science should be experiential with hands-on learning, making it accessible and fun for all students. 
+
+- candidate_first_name: Andrea
+  candidate_last_name: Romero
+  state: nm
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: nm-q9
+  date: 2026-10-05
+  primary_candidate: false
+  response: |
+      When evaluating research investments, we should consider both their scientific value and their broader community impacts. Institutions receiving public funding should be transparent about how those resources are used and should work with state, local, and Tribal governments when projects have significant infrastructure or environmental impacts. Research and data are critical for the future of our government’s contribution to discerning what our public resources can continue to invest in. Some areas of research are just too important to ignore, and we must look to shore up projects that the federal government is threatening to discontinue critical research, and find ways in which to support researchers to do great work in our state that will help our people. 
+
+
+
+- candidate_first_name: Robert # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Mason # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 21 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q1
+  date: 2026-10-06 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      Produced water can be a good source for the state. The water is of varying quality but can be treated and utilized for some uses even if it cannot be made potable. There are laws and regulations (Water Quality Act, Produced Water Act, etc) but the state must continue to move forward to develop guidelines and standards for that water. I would like to see the state develop guidelines that,
+      1.        Allows use of produced water in New Mexico.
+      2.        Provides standards for water quality for human and agricultural use. Such standards already exist for potable water, but need to be applied in this unique situation.
+      3.        Supports private efforts to treat and distribute produced water. The state only needs to provide sensible guidelines.
+      I am far from an expert in hydrogeology but my understanding from several university and USGS papers is that it would be much better to use the produced water than to inject it back into the ground. It also makes more sense to use the water in New Mexico than to sell it to Texas, which I understand is happening now. 
+
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q2
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      All these approaches are important towards reducing use and water loss, but I want to see us go beyond that. I believe we can increase water availability. As discussed in Q1 above, produced water is a tremendous source. Another important source is what is often referred to as “brackish water.” This water requires desalinization which is possible with current technology. In fact, the largest inland desalinization plant is located in El Paso. I don’t know how much brackish water we have under this state, but I understand it’s enough to take care of the water issue well into the future.
+
+      Of course, treating water requires energy but I believe there is a solution for that as well. Small modular reactors (SMR) produce clean energy and could power the energy needs of water processing facilities.
+
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q3
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      I am not very familiar with this issue. Uranium is an important resource, but extracting and milling it should not create environmental problems. I do support clean-up efforts; but I’m not sure the state should pay for it. I would prefer to see the companies involved shoulder that responsibility. 
+      
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q4
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      This is a difficult question to answer in the macro sense. In general, the state has a responsibility to protect it’s environment and resources; however, I am usually opposed to government carve outs to attract a specific business or industry. I would much rather see the state become a place where business wants to come because it’s a good place to do business. 
+
+      That requires a much more holistic approach. We need a tax structure that makes us competitive with our neighbor states. We need an education system that isn’t the last in the nation. We need to take our crime problem seriously to create a safe place where people want to live. 
+
+      Using your example of the Spaceport. Although it hasn’t been a total loss, it certainly hasn’t lived up to expectations and I don’t know what the environmental impact has been. But had the state not subsidized the project it probably would not have happened. 
+
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q5
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      I do not have enough knowledge to effectively address this situation. Nuclear waste management is primarily a federal function so I would have to study what the state’s responsibilities are. 
+
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q6
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      All the concerns you mention are valid and need to be addressed. However, data centers have become a very emotional issue and I’m having difficulty finding accurate information. One of the biggest issues is water use, but as I discussed in Qs 1 and 2 we have the ability to address that issue. Another issue is power consumption. Project Jupiter has settled on fuel cells after first planning a traditional power plant. The gigawatt plus requirement will require a sizable plant. The SMRs mentioned in Q1 are an option; however, SMRs produce 500 MW or less and so would require a large footprint to achieve gigawatt level production. What ever power source is used for a data center, there should be no cost to the population, either in dollars or availability.
+
+      If we are going to continue to be a technologically advanced country, these data centers are necessary. But, as in all questions of attracting industry, I oppose tax incentives. Instead, we should have policies in place that make the state attractive to any business wishing to locate here. 
+
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q7
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      New Mexico is a large and generally rural state. There is a shortage of necessary healthcare in the rural parts of the state, but we also can’t expect to have a fully staffed hospital in every town. That said, what we can do is make it easier and more attractive for health care providers to practice in New Mexico. The first issue to address in that regard is malpractice reform. Current law that allows unlimited punitive damages in all malpractice cases make the state unattractive; especially when most states limit those cases. Incentives for medical professionals to train and stay in the state is also an approach to improving care availability. 
+
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q8
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      The first step is to teach our children to read. The high illiteracy rate in this state is embarrassing. Over half our students can’t read at grade level. Math proficiency is even worse. We’ll never get to your STEM concerns until we fix those two issues. Experts say the third grade is a decision point so that’s where we need to decide if a child has the basic skills to be successful in further education. That means we must provide the necessary help in early grades to bring students up to the point where they can be more successful throughout their educational journey.
+
+      Not everyone will grow up to be a scientist, but in today’s advanced world every student should be given at least a rudimentary introduction to the basics. Rural schools need to have the facilities to teach science courses. How that should be funded is the question. This state spends an amazing amount of money on school budgets. Although I don’t yet have a complete picture of what all those funds go for, I believe that overhead is eating up a good bit of the total. The priority must be on good facilities for education, not executive overhead. 
+
+- candidate_first_name: Robert 
+  candidate_last_name: Mason
+  state: nm
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nm-q9
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+      As a prospective state legislator, I don’t anticipate much involvement in federal grant decisions. On a state level, I would be most likely to support efforts to improve education (not necessarily a funding issue), and address water and land use issues. My primary involvement would be in the state’s budget process. In that regard, I want to see an overall reduction in the state budget, eliminating fraud and waste, and intelligent use of available permanent funds. The evaluation you ask about would have to be answered for each proposed project.
+
+      There is one common thread throughout these questions – I’m not the expert! I expect to rely on the considered input of those who are experts as well as those who are most impacted by a particular project or action. The bottom line in decision making is what’s right for New Mexicans, the state, and the country.
+
+

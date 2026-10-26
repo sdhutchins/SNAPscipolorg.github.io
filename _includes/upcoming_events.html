@@ -24,21 +24,27 @@
   category bubble per row — with a toggle to expand a row and show its flyer
   and remaining details (description, link).
 
-  Pass `accordion=true` for Bootstrap accordion headers and collapsible details.
+  Pass `empty_message` to override the text shown when no events are listed.
 
-  Pass `heading_level=3` under an h2 section; other callers retain h4 titles.
+  Pass `past=true` to list events whose date has passed instead, most recent
+  first. Every matching event is rendered, with not-yet-past ones hidden, so the
+  browser pass can reveal events that ended after the last build.
 {%- endcomment -%}
 {%- assign now_seconds = 'now' | date: '%s' | plus: 0 -%}
 {%- assign events = site.data.events | sort: 'date' -%}
 {%- assign filter_category = include.category -%}
 {%- assign filter_len = filter_category | size -%}
 {%- assign compact = include.compact -%}
-{%- assign event_heading = 'h4' -%}
-{%- if include.heading_level == 3 -%}
-  {%- assign event_heading = 'h3' -%}
+{%- assign past = false -%}
+{%- if include.past -%}
+  {%- assign past = true -%}
+  {%- assign events = events | reverse -%}
+  {%- assign root_id = "snap-events-past" -%}
+{%- else -%}
+  {%- assign root_id = "snap-events" -%}
 {%- endif -%}
 
-<div class="snap-events{% if include.accordion %} accordion snap-events--accordion{% endif %}{% if compact %} snap-events--compact{% endif %}" id="snap-events">
+<div class="snap-events{% if compact %} snap-events--compact{% endif %}" id="{{ root_id }}"{% if past %} data-events-past{% endif %}>
   {%- assign shown = 0 -%}
   {%- for event in events -%}
     {%- assign cutoff = event.date | date: '%s' | plus: 86400 -%}
@@ -53,39 +59,23 @@
         {%- endif -%}
       {%- endfor -%}
     {%- endif -%}
-    {%- if cutoff > now_seconds and matches_filter -%}
-      {%- assign shown = shown | plus: 1 -%}
+    {%- assign is_past = false -%}
+    {%- if cutoff <= now_seconds -%}
+      {%- assign is_past = true -%}
+    {%- endif -%}
+    {%- assign render = matches_filter -%}
+    {%- if is_past and past == false -%}
+      {%- assign render = false -%}
+    {%- endif -%}
+    {%- if render -%}
+      {%- if is_past == past -%}
+        {%- assign shown = shown | plus: 1 -%}
+      {%- endif -%}
       {%- assign has_extra = false -%}
       {%- if event.flyer or event.description or event.website -%}
         {%- assign has_extra = true -%}
       {%- endif -%}
-      {%- if include.accordion -%}
-      <div class="snap-event accordion-item d-block p-0" data-event-cutoff="{{ cutoff }}">
-        <{{ event_heading }} class="accordion-header m-0" id="snap-event-heading-{{ forloop.index }}">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#snap-event-panel-{{ forloop.index }}" aria-expanded="false" aria-controls="snap-event-panel-{{ forloop.index }}">
-            <span class="d-flex flex-wrap align-items-center gap-2 gap-lg-3 me-3 flex-grow-1">
-              <span class="snap-event__date mb-0 flex-shrink-0">{{ event.date | date: '%B %-d, %Y' }}</span>
-              <span class="fw-semibold snap-event__accordion-title">{{ event.name }}</span>
-              {% if event.category %}<span class="snap-event__categories mb-0">{% for cat in event_categories %}<span class="snap-event__category">{{ cat }}</span>{% endfor %}</span>{% endif %}
-            </span>
-          </button>
-        </{{ event_heading }}>
-        <div id="snap-event-panel-{{ forloop.index }}" class="accordion-collapse collapse" aria-labelledby="snap-event-heading-{{ forloop.index }}" data-bs-parent="#snap-events">
-          <div class="accordion-body d-flex flex-column flex-md-row gap-4">
-            {% if event.flyer %}
-            <div class="snap-event__flyer">
-              <img class="snap-event__flyer-img" src="{{ event.flyer | relative_url }}" alt="Flyer for {{ event.name | escape }}" loading="lazy">
-            </div>
-            {% endif %}
-            <div class="snap-event__body">
-              {% if event.description %}<div class="snap-event__description">{{ event.description | markdownify }}</div>{% endif %}
-              {% if event.website %}<p class="snap-event__link"><a href="{{ event.website }}">More information &raquo;</a></p>{% endif %}
-            </div>
-          </div>
-        </div>
-      </div>
-      {%- else -%}
-      <div class="snap-event{% if compact %} snap-event--compact{% endif %}" data-event-cutoff="{{ cutoff }}">
+      <div class="snap-event{% if compact %} snap-event--compact{% endif %}" data-event-cutoff="{{ cutoff }}"{% if past and is_past == false %} hidden{% endif %}>
         {%- if event.flyer -%}
           <div class="snap-event__flyer"{% if compact %} hidden{% endif %}>
             <img class="snap-event__flyer-img" src="{{ event.flyer | relative_url }}" alt="Flyer for {{ event.name }}">
@@ -94,13 +84,13 @@
         <div class="snap-event__body">
           <div class="snap-event__summary">
             <p class="snap-event__date">{{ event.date | date: '%B %-d, %Y' }}</p>
-            <{{ event_heading }} class="snap-event__name">
+            <h4 class="snap-event__name">
               {%- if event.website -%}
                 <a href="{{ event.website }}">{{ event.name }}</a>
               {%- else -%}
                 {{ event.name }}
               {%- endif -%}
-            </{{ event_heading }}>
+            </h4>
             {%- if event.category -%}
               <p class="snap-event__categories">
                 {%- for cat in event_categories -%}
@@ -109,14 +99,14 @@
               </p>
             {%- endif -%}
             {%- if compact and has_extra -%}
-              <button type="button" class="snap-event__toggle" aria-expanded="false" aria-controls="snap-event-extra-{{ forloop.index }}">
+              <button type="button" class="snap-event__toggle" aria-expanded="false" aria-controls="{{ root_id }}-extra-{{ forloop.index }}">
                 <span class="snap-event__toggle-text">Expand</span>
                 <span class="snap-event__toggle-icon" aria-hidden="true">&#9662;</span>
               </button>
             {%- endif -%}
           </div>
           {%- if event.description or event.website -%}
-            <div class="snap-event__extra" id="snap-event-extra-{{ forloop.index }}"{% if compact %} hidden{% endif %}>
+            <div class="snap-event__extra" id="{{ root_id }}-extra-{{ forloop.index }}"{% if compact %} hidden{% endif %}>
               {%- if event.description -%}
                 <div class="snap-event__description">{{ event.description | markdownify }}</div>
               {%- endif -%}
@@ -127,12 +117,11 @@
           {%- endif -%}
         </div>
       </div>
-      {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
 
   <p class="snap-events__empty"{% if shown > 0 %} hidden{% endif %}>
-    <b>No upcoming events right now — check the calendar below, and check back soon!</b>
+    <b>{%- if past -%}{{ include.empty_message | default: "No past events." }}{%- else -%}{{ include.empty_message | default: "No upcoming events right now — check back soon!" }}{%- endif -%}</b>
   </p>
 
   {%- comment -%} Lightbox overlay for flyer images. Enhanced by snap-events-lightbox.js. {%- endcomment -%}
@@ -145,18 +134,18 @@
 <script src="{{ '/assets/javascript/snap-events-lightbox.js' | relative_url }}"></script>
 <script>
   // Second pass at the date filter: drop anything that passed since the site
-  // was last built, and reveal the empty-state message if nothing is left.
+  // was last built (or, for the past list, reveal it), and toggle the
+  // empty-state message to match.
   (function () {
-    var root = document.getElementById('snap-events');
+    var root = document.getElementById('{{ root_id }}');
     if (!root) return;
+    var past = root.hasAttribute('data-events-past');
     var now = Date.now() / 1000;
     var remaining = 0;
     root.querySelectorAll('.snap-event').forEach(function (el) {
-      if (parseInt(el.dataset.eventCutoff, 10) <= now) {
-        el.hidden = true;
-      } else {
-        remaining++;
-      }
+      var ended = parseInt(el.dataset.eventCutoff, 10) <= now;
+      el.hidden = ended !== past;
+      if (!el.hidden) remaining++;
     });
     var empty = root.querySelector('.snap-events__empty');
     if (empty) empty.hidden = remaining > 0;
@@ -165,7 +154,7 @@
   // Compact rows: the toggle button reveals/hides the flyer and the
   // description/link (".snap-event__extra") for that row.
   (function () {
-    var root = document.getElementById('snap-events');
+    var root = document.getElementById('{{ root_id }}');
     if (!root) return;
     root.querySelectorAll('.snap-event__toggle').forEach(function (btn) {
       btn.addEventListener('click', function () {

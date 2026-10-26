@@ -7,25 +7,17 @@ category: current
 date: 2025-09-10
 permalink: /initiatives/stance-on-science
 ---
-<h1 class="mt-0 mb-4">
-  <img src="{{ '/images/STANCE_Logo.png' | relative_url }}" alt="Stance on Science" class="img-fluid d-block w-100">
-</h1>
+<img src="{{ site.url }}{{ site.baseurl }}/images/STANCE_Logo.png"  width="100%">
 
 {% include stance/stats_bar.html %}
 
-<h2 id="stance-map" class="stance-map-anchor mt-5 mb-3">Find My Candidate's Responses</h2>
+<h2 id="stance-map" class="stance-map-anchor">Find My Candidate's Responses</h2>
 
 {%- assign active_states = site.initiatives | where_exp: "p", "p.state != nil and p.state != 'xx'" | map: "state" | sort -%}
 
-<p>Explore candidate responses by state, or <a href="{{ '/initiatives/stance-on-science/search' | relative_url }}">view all responses</a>.</p>
+<p>Click an <strong style="color:var(--snap-orange)">orange</strong> state to view
+candidate responses from that state. <a href="{{ '/initiatives/stance-on-science/search' | relative_url }}">Click here for all responses.</a> Scroll down for a list of states. This map will be updated as more states publish candidate responses.</p>
 
-<div class="stance-state-browser" id="stance-state-browser">
-  <div class="nav nav-tabs mb-4" role="tablist" aria-label="Browse states" hidden>
-    <button class="nav-link active" id="stance-map-tab" data-bs-toggle="tab" data-bs-target="#map" type="button" role="tab" aria-controls="map" aria-selected="true">Map</button>
-    <button class="nav-link" id="stance-states-tab" data-bs-toggle="tab" data-bs-target="#table" type="button" role="tab" aria-controls="table" aria-selected="false" tabindex="-1">Table</button>
-  </div>
-  <div class="tab-content">
-    <div id="map">
 <div class="stance-map" id="stance-map-canvas" role="img" aria-label="Map of the United States showing states with Stance on Science candidate responses highlighted in orange.">
   <noscript>
     <p><em>This map requires JavaScript to display. Browse responses directly:</em></p>
@@ -40,24 +32,61 @@ permalink: /initiatives/stance-on-science
   </noscript>
 </div>
 
-<p class="stance-map-legend mb-4">
+<p class="stance-map-legend">
   <span class="stance-map-legend__swatch stance-map-legend__swatch--active"></span> States with a published page
   &nbsp;&nbsp;
   <span class="stance-map-legend__swatch stance-map-legend__swatch--inactive"></span> No page yet
 </p>
 
-    </div>
-    <div id="table">
-      {% include stance/state_table.html %}
-    </div>
-  </div>
-</div>
+ <h4>List of States</h4>
 
-<h2 class="mt-5 mb-3">Upcoming Events</h2>
+<ul class="stance-states-list">
+  {%- assign state_pages = site.initiatives | where_exp: "p", "p.state != nil and p.state != 'xx'" | sort: "state" -%}
+  {%- for sp in state_pages -%}
+    <li><a href="{{ sp.url | relative_url }}">{{ sp.state_name }}</a></li>
+  {%- endfor -%}
+</ul>
 
-{% include upcoming_events.html category="Stance on Science" accordion=true heading_level=3 %}
+<select class="stance-states-select form-control" aria-label="Jump to your state" onchange="if (this.value) window.location.href = this.value;">
+  <option value="">Jump to your state</option>
+  {%- for sp in state_pages -%}
+    <option value="{{ sp.url | relative_url }}">{{ sp.state_name }}</option>
+  {%- endfor -%}
+</select>
 
-<h2 class="mt-5 mb-3">About Stance on Science</h2>
+<style>
+  .stance-states-list {
+    column-count: 5;
+    column-gap: 2rem;
+  }
+  .stance-states-list li {
+    break-inside: avoid;
+  }
+  .stance-states-select {
+    display: none;
+    margin-bottom: 1rem;
+    height: auto;
+    padding: 0.6rem 0.75rem;
+    font-size: 1.1rem;
+  }
+  .stance-states-select option {
+    font-size: 1.1rem;
+  }
+  @media (max-width: 600px) {
+    .stance-states-list {
+      display: none;
+    }
+    .stance-states-select {
+      display: block;
+    }
+  }
+</style>
+
+<h4>Upcoming Events</h4>
+
+{% include upcoming_events.html category="Stance on Science" compact=true empty_message="No upcoming events right now" %}
+
+<h2>About Stance on Science</h2>
 
 <p>Science affects every part of our daily lives—from the safety of our food and water, to the health of our communities, to the jobs and technologies that power our future. Yet too often, science is left out of political debates.</p>
 
@@ -70,7 +99,7 @@ permalink: /initiatives/stance-on-science
   <li>Encourage thoughtful engagement between communities and policymakers on science policy-related policies.</li>
 </ol>
 
-<h3 class="mt-4 mb-3">How It Works</h3>
+<h3>How It Works</h3>
 
 <p>Individual state teams will send political candidates a set of science policy-related (and state-specific) questions and ask for written responses. Their answers will be posted publicly on our website so that voters can easily compare positions. Find your state's page below!</p>
 
@@ -78,23 +107,22 @@ permalink: /initiatives/stance-on-science
 
 <p>Some states are organizing local town halls where candidates for office can answer questions about their Stance on Science for the public directly. <a href="{{ '/initiatives/stance-on-science/faq' | relative_url }}">See our FAQ</a> for more details on how town halls work.</p>
 
-<h3 class="mt-4 mb-3">Why This Matters</h3>
+<h3>Why This Matters</h3>
 
 <p>By highlighting candidates' views on science, SNAP and local state teams aim to elevate science as a key part of the political conversation and remind candidates that voters care about evidence-based leadership.</p>
 
-<h3 class="mt-4 mb-3">How to Get Involved</h3>
+<h3>How to Get Involved</h3>
 
 <p>If you'd like to support this initiative, <a href="https://docs.google.com/forms/d/e/1FAIpQLSem6bVuZnK7eWls-CTMpxWxaxHpuElNj4oOXIvLkgDYRO6YNg/viewform?usp=header">fill out our interest form</a>, and we'll be in touch! There are opportunities for everyone—whether you're ready to help lead outreach in your state or make a few calls or send emails to political candidates. Every contribution helps hold our political candidates accountable and strengthens our collective voice.</p>
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/SNAPStanceSlide.png" alt="SNAP Stance on Science Initiative Slide" class="img-fluid d-block mt-4" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/SNAPStanceSlide.png" alt="SNAP Stance on Science Initiative Slide" style="max-width: 100%; height: auto;" />
 
-{% include stance/press_mentions.html plain=true %}
+{% include stance/press_mentions.html %}
 
 <script>
   window.STANCE_ACTIVE_STATES = JSON.parse('{{ active_states | jsonify }}');
   window.STANCE_STATES_URL = "{{ '/initiatives/stance-on-science/states/' | relative_url }}";
 </script>
-<script src="{{ '/assets/javascript/stance-state-browser.js' | relative_url }}" defer></script>
 <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
 <script src="{{ '/assets/javascript/stance-map.js' | relative_url }}"></script>

@@ -5214,8 +5214,8 @@
     
     KEYWORDS: Housing, Employment, Mental Health
 
-- candidate_first_name: Rocco
-  candidate_last_name: .
+- candidate_first_name: _
+  candidate_last_name: Rocco
   state: mn
   race: State Senate
   district: 65
@@ -5231,8 +5231,8 @@
     
     KEYWORDS: evidence, audit, judgment
 
-- candidate_first_name: Rocco
-  candidate_last_name: .
+- candidate_first_name: _
+  candidate_last_name: Rocco
   state: mn
   race: State Senate
   district: 65
@@ -5248,8 +5248,8 @@
     
     KEYWORDS: minerals, review, watershed
 
-- candidate_first_name: Rocco
-  candidate_last_name: .
+- candidate_first_name: _
+  candidate_last_name: Rocco
   state: mn
   race: State Senate
   district: 65
@@ -5264,8 +5264,8 @@
     
     KEYWORDS: treat, polluter, standard
 
-- candidate_first_name: Rocco
-  candidate_last_name: .
+- candidate_first_name: _
+  candidate_last_name: Rocco
   state: mn
   race: State Senate
   district: 65
@@ -5279,8 +5279,8 @@
     
     KEYWORDS: rates, water, contract
 
-- candidate_first_name: Rocco
-  candidate_last_name: .
+- candidate_first_name: _
+  candidate_last_name: Rocco
   state: mn
   race: State Senate
   district: 65
@@ -5295,8 +5295,8 @@
     
     KEYWORDS: merit, deliverable, federal
 
-- candidate_first_name: Rocco
-  candidate_last_name: .
+- candidate_first_name: _
+  candidate_last_name: Rocco
   state: mn
   race: State Senate
   district: 65
@@ -6158,3 +6158,3894 @@
     “As Senator and a First Responder, I would support continued access to naloxone for families, schools, first responders and community organizations, particularly in rural Minnesota where emergency response and treatment is farther away. I would support expanding evidence based treatment for substance abuse disorder, while improving access to mental health and recovery programs. Prevention also matters. We need to strengthen education about dangerous substances such as fentanyl, giving the tools to communities to identify emerging overdose trends and prevention methods. I would insist the use of opioid settlement dollars are used for their intended purpose. Rural Minnesota cannot be an afterthought. Treatment and recovery services must be accessible regardless of Zip code.” 
     
     KEYWORDS: We should measure success by lives saved, people entering recovery and families kept whole.
+
+- candidate_first_name: Jen
+  candidate_last_name: Bloomquist
+  state: mn
+  race: State House of Representatives
+  district: 31B
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q1
+  response: |
+    “Science and peer-reviewed research must serve as the foundation of sound public policy. I would consult independent scientists, researchers, and academic experts early in the legislative process.
+
+    Rather than relying on industry-funded lobbying or political rhetoric, I would partner with institutional bodies like the University of Minnesota, the Minnesota Department of Health, the Pollution Control Agency, and federal agencies to interpret complex data, conduct impact assessments, and model long-term outcomes. I will actively support establishing legislative scientific advisory panels to ensure every major bill - particularly those addressing climate resilience, healthcare, and emerging technologies - is evaluated against the most rigorous, consensus-driven evidence available. When policy decisions involve public health and natural ecosystems, empirical evidence and preventative action must always guide our votes.” 
+    
+    KEYWORDS: Evidence-based, Independent, Rigorous
+
+- candidate_first_name: Jen
+  candidate_last_name: Bloomquist
+  state: mn
+  race: State House of Representatives
+  district: 31B
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q2
+  response: |
+    “I firmly oppose sulfide-ore copper mining within the watershed of the Boundary Waters Canoe Area Wilderness. The Boundary Waters is an irreplaceable ecological treasure, and peer-reviewed hydrology consistently demonstrates that sulfide mining carries an unacceptable risk of acid mine drainage, which would irreparably contaminate this pristine water system.
+
+    I support reinstating robust, permanent mineral withdrawal protections for the Rainy River Drainage Basin and passing state-level "Prove It First" legislation. This standard requires mining companies to demonstrate independent scientific proof of operating and closing a sulfide mine without polluting water resources before receiving permits in Minnesota. Additionally, I advocate for strengthening financial assurance rules so corporate polluters, not taxpayers, are entirely responsible for remediation costs, alongside expanding investments in sustainable, clean-energy economies and outdoor recreation for northern communities.” 
+
+    KEYWORDS: Conservation, Protection, Accountability
+
+- candidate_first_name: Jen
+  candidate_last_name: Bloomquist
+  state: mn
+  race: State House of Representatives
+  district: 31B
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q3
+  response: |
+    “Access to clean, safe drinking water is a fundamental human right. Minnesota made important strides with Amara’s Law to end non-essential PFAS uses, but we must urgently accelerate remediation where contamination already threatens public health.
+
+    I support establishing a dedicated state clean water infrastructure fund to assist municipalities and rural water systems in deploying advanced filtration technologies (such as granular activated carbon and reverse osmosis) without shifting costs onto local rate payers. Furthermore, we must hold chemical manufacturers legally and financially accountable through polluter-pays liability frameworks to recover cleanup costs. At the regulatory level, I will champion stringent monitoring across municipal supplies, private wells, and agricultural soils, while investing in university-led research to deploy emerging destructive technologies that eliminate PFAS rather than merely transferring them between waste streams.” 
+    
+    KEYWORDS: Remediation, Accountability, Infrastructure
+
+- candidate_first_name: Jen
+  candidate_last_name: Bloomquist
+  state: mn
+  race: State House of Representatives
+  district: 31B
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q4
+  response: |
+    “While technological innovation drives economic growth, hyperscale data centers pose immense challenges to Minnesota’s clean energy goals, grid reliability, and freshwater resources. We cannot allow high-tech expansion to derail our statutory commitment to 100% carbon-free electricity by 2040.
+
+    I support policies requiring comprehensive environmental impact reviews for all proposed data centers before approval, focusing on cumulative electric grid demand and water consumption used for cooling systems. Developers must be required to match their operations with new, dedicated off-site renewable energy generation rather than draining regional power reserves or increasing reliance on fossil fuels. Additionally, we must mandate closed-loop, zero-potable-water cooling technologies and ensure that utility rate structures prevent everyday residential consumers from subsidizing the massive infrastructure and transmission upgrades demanded by commercial tech facilities. Finally, we need to involve the impacted communities in the approval process and give their views the weight they deserve.” 
+    
+    KEYWORDS: Sustainability, Regulation, Transparency
+
+- candidate_first_name: Jen
+  candidate_last_name: Bloomquist
+  state: mn
+  race: State House of Representatives
+  district: 31B
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q5
+  response: |
+    “Robust funding for scientific research is both a driver of economic vitality and a catalyst for lifesaving discoveries. I will advocate for state-level matching grant programs to help Minnesota public universities and non-profit research institutions compete for and maximize federal awards from the NIH, NSF, and Department of Energy.
+
+    I support direct state appropriations to modernize research laboratories, upgrade digital research infrastructure, and expand fellowship opportunities for early-career scientists, with an emphasis on recruiting underrepresented researchers. At the federal level, I will actively lobby our congressional delegation to safeguard and expand basic science and translational research budgets. By fostering strong partnerships between public research universities and Minnesota's healthcare and green technology sectors, we ensure that public research investments translate into accessible medical treatments, sustainable technologies, and good-paying union jobs statewide.” 
+    
+    KEYWORDS: Innovation, Investment, Research
+
+- candidate_first_name: Jen
+  candidate_last_name: Bloomquist
+  state: mn
+  race: State House of Representatives
+  district: 31B
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q6
+  response: |
+    “Addressing the overdose crisis requires treating substance use as a public health imperative rather than a criminal justice failure, while directly dismantling systemic disparities in care. The stark racial inequities in overdose mortality demand culturally responsive, community-directed resources.
+
+    I support directly funding tribal-led and Black-led harm reduction and recovery networks, ensuring sovereign nations and community health providers receive the resources needed to deliver culturally specific care. We must expand state-wide access to life-saving tools by eliminating barriers to naloxone, fentanyl and xylazine test strips, and medically assisted treatment like buprenorphine and methadone. Furthermore, we must invest heavily in non-carceral mental health crisis response teams, supportive housing, and comprehensive wrap-around services to address the root socioeconomic determinants driving addiction and ensure recovery is accessible to every community.” 
+    
+    KEYWORDS: Equity, Harm-reduction, Treatment
+
+- candidate_first_name: Sam
+  candidate_last_name: Rosemark
+  state: mn
+  race: State Senate
+  district: 44
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q1
+  response: |
+    “I want good policy to be grounded in good information. I would rely on scientists and other subject-matter experts to understand the evidence, potential impacts, and tradeoffs of legislation. That includes listening to researchers at institutions like the University of Minnesota, state agency scientists, and experts working directly in our communities.” 
+    
+    KEYWORDS: Evidence, Expertise, Collaboration
+
+- candidate_first_name: Sam
+  candidate_last_name: Rosemark
+  state: mn
+  race: State Senate
+  district: 44
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q2
+  response: |
+    “I oppose sulfide-ore mining in the watershed of the Boundary Waters. Once polluted, these waters would be incredibly difficult, if not impossible, to restore. I support restoring long-term federal protections for the watershed and Minnesota's Prove It First legislation, requiring companies to demonstrate that this type of mining has been done elsewhere without polluting surrounding water before doing it here. Mining is important to Minnesota, but some places are simply too valuable and too vulnerable to risk.” 
+    
+    KEYWORDS: Clean Water, Prove It First, Sacred
+
+- candidate_first_name: Sam
+  candidate_last_name: Rosemark
+  state: mn
+  race: State Senate
+  district: 44
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q3
+  response: |
+    “PFAS is personal to me. I grew up in Oakdale near the 3M Superfund site and have seen what these chemicals can mean for communities. Minnesota should continue testing our water, help communities remove PFAS from drinking water, hold polluters accountable for cleanup costs, and prevent unnecessary PFAS from entering our environment in the first place. I also support continued research into the health effects of PFAS exposure.” 
+    
+    KEYWORDS: Clean Water, Accountability, Prevention
+
+- candidate_first_name: Sam
+  candidate_last_name: Rosemark
+  state: mn
+  race: State Senate
+  district: 44
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q4
+  response: |
+    “Data centers are needed, but they must be developed responsibly and with care for the communities where they are built. I support full transparency with no NDAs that prevent communities from understanding proposed projects. We must protect our water, prevent noise pollution, and require these facilities to be powered by renewable energy. Data centers should also pay the full cost of the energy and infrastructure they require rather than passing those costs on to existing ratepayers. Any public incentives should come with clear economic, environmental, and community benefits.” 
+    
+    KEYWORDS: Transparency, Sustainability, Accountability
+
+- candidate_first_name: Sam
+  candidate_last_name: Rosemark
+  state: mn
+  race: State Senate
+  district: 44
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q5
+  response: |
+    “For four years, I served as Director of Advocacy for the University of Minnesota Alumni Association, where I advocated for state and federal investment in the University and its research mission. Minnesota's universities and research institutions drive medical breakthroughs, innovation, jobs, and economic growth. I support strong state investment in research and would advocate for continued federal funding through agencies like NIH and NSF. Cutting scientific research ultimately costs us opportunities, jobs, and discoveries.” 
+    
+    KEYWORDS: Research, Innovation, University of Minnesota
+
+- candidate_first_name: Sam
+  candidate_last_name: Rosemark
+  state: mn
+  race: State Senate
+  district: 44
+  party: Democratic
+  date: 2026-09-29
+  question: mn-q6
+  response: |
+    “The decline in overdose deaths is encouraging, but there is much more work to do, particularly given the disparities facing American Indian and Black Minnesotans. I support expanding access to naloxone, evidence-based treatment and recovery services, mental health care, and harm-reduction programs. We also need to address the underlying factors that contribute to addiction, including housing instability and barriers to healthcare. Our response should be driven by evidence and focused on keeping people alive and helping them recover.” 
+    
+    KEYWORDS: Prevention, Treatment, Recovery
+
+- candidate_first_name: Angie
+  candidate_last_name: Hanson
+  state: mn
+  race: State Senate
+  district: 23
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q1
+  response: |
+    “I trust science and trust scientists. I would refer to scientists when it comes to any legislation concerning health, safety and the environment.” 
+    
+    KEYWORDS: Trust, Health, Environment
+
+- candidate_first_name: Angie
+  candidate_last_name: Hanson
+  state: mn
+  race: State Senate
+  district: 23
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q2
+  response: |
+    “I support Prove It First Legislation where mining companies would have to prove mining has been safe for 20 years prior to being able to perform that type of mining in the Boundary Waters Canoe Area Wilderness. I support mandatory money to be set aside in an escrow to ensure clean up during closure of the mine and to financially take care of an environmental issue. I support not allowing foreign countries to mine and not allowing "bad actors"- mining companies with a history of environmental or human rights violations.” 
+    
+    KEYWORDS: Protect, Proof, Prevent
+
+- candidate_first_name: Angie
+  candidate_last_name: Hanson
+  state: mn
+  race: State Senate
+  district: 23
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q3
+  response: |
+    “I support efforts to continue measuring the levels of PFAS (especially in water) and the risk to human health. I support preventing PFAS pollution. I support managing and cleaning up the exposure in air, water, food and fish and game.” 
+    
+    KEYWORDS: Study, Prevent, Clean Up
+
+- candidate_first_name: Angie
+  candidate_last_name: Hanson
+  state: mn
+  race: State Senate
+  district: 23
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q4
+  response: |
+    “We need to ensure that our water and energy are safe and that air is not polluted. We need to make sure that communities and residents are not exploited. 
+
+    We need transparency at every turn. I support banning NDAs. 
+    I support requiring data centers to create their own clean energy. 
+    No tax breaks or incentives should be given to data centers. 
+    I support banning hyperscale data centers because I do not believe that they can ensure that our water and energy is safe and that our air is not polluted. 
+
+    With those protections in place, I trust local communities to make their own decisions.” 
+    
+    KEYWORDS: Protect Water, Energy and Air
+
+- candidate_first_name: Angie
+  candidate_last_name: Hanson
+  state: mn
+  race: State Senate
+  district: 23
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q5
+  response: |
+    “The state of Minnesota awards research grants and contracts. I believe it is important to continue doing this. I believe the federal government should as well. If the federal government stops this funding, I would like to see if there are ways the state can help. However, the budget will be tight, so this may be difficult.” 
+    
+    KEYWORDS: Support, Grants, Contracts
+
+- candidate_first_name: Angie
+  candidate_last_name: Hanson
+  state: mn
+  race: State Senate
+  district: 23
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q6
+  response: |
+    “I support the following. 
+    -Study the safe prescribing of opioids to see what changes have been made and what changes still need to be made especially regarding the disparity. 
+    -Increase education and awareness of risks of drug misuse and the signs of overdose and increase access to Naloxone distribution. 
+    -Invest in mental health and community-based prevention programs.” 
+    
+    KEYWORDS: Study, Education, Mental Health
+
+- candidate_first_name: Erin
+  candidate_last_name: Murphy
+  state: mn
+  race: State Senate
+  district: 64
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q1
+  response: |
+    “I think it is critical that all of our state agencies, as applicable, employ experts in their fields, and that we look to those experts to inform our policy decisions. It is also important to me that the University of Minnesota have the support it needs to continue innovating and attracting and retaining brilliant scientists, and I look to them to inform my work.” 
+    
+    KEYWORDS: Trust the experts
+
+- candidate_first_name: Erin
+  candidate_last_name: Murphy
+  state: mn
+  race: State Senate
+  district: 64
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q2
+  response: |
+    “To me the most important question around this and any other project that has the ability to have a large environmental impact is, “Do we have the right standards in place?” If we do, then I’d hope we’d follow those standards, and if we don’t, I’d like us to update them and get them right. Those standards, not the whims of a politician OR a mining company, should define the answer. I’d like to avoid, unless it’s on the advice of scientists and an urgent question, just picking winners and losers. Instead my goal would be for legislators to provide frameworks that apply broadly, and scientists to make the decision about what does and doesn’t fit.” 
+    
+    KEYWORDS: Ensure high standards
+
+- candidate_first_name: Erin
+  candidate_last_name: Murphy
+  state: mn
+  race: State Senate
+  district: 64
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q3
+  response: |
+    “We advanced a lot of work around this issue in 2023-2024, and have further defined it since. I’d like us to continue to sharpen our laws (and their exceptions), as well as continue to fund the water projects that ensure every Minnesotan has safe water in their home” 
+    
+    KEYWORDS: Keep making progress
+
+- candidate_first_name: Erin
+  candidate_last_name: Murphy
+  state: mn
+  race: State Senate
+  district: 64
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q4
+  response: |
+    “In 2025 we took steps to define a framework for protecting our water when it comes to data centers. I would like us to keep working to ensure a strong permitting system, and ensure that we are also protecting our air, noise and light pollution, transparency in public decision making, and local input and local control.” 
+    
+    KEYWORDS: Expand our efforts
+
+- candidate_first_name: Erin
+  candidate_last_name: Murphy
+  state: mn
+  race: State Senate
+  district: 64
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q5
+  response: |
+    “This is a huge and difficult loss for our state and for our country. It also comes at a time when federal impacts on our state have placed an incredible burden on state, local, and family budgets. I support investing in higher ed and in research generally, but my core answer is that we need congress to get its act together when it comes to both oversight and the budget, and to reverse their horrible cuts” 
+    
+    KEYWORDS: Congress must act
+
+- candidate_first_name: Erin
+  candidate_last_name: Murphy
+  state: mn
+  race: State Senate
+  district: 64
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q6
+  response: |
+    “Outreach and education, access to treatment and safety measures, community driven and defined support and local resources with emphasis on communities disproportionately impacted.” 
+    
+    KEYWORDS: Equity requires more
+
+- candidate_first_name: Samuel
+  candidate_last_name: Grigsby
+  state: mn
+  race: State House of Representatives
+  district: 6A
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q1
+  response: |
+    “I think having an understanding of the studies done and a proper understanding of the information derived from them are important to making educated and informed decisions.” 
+    
+    KEYWORDS: understanding, competency, comprehension
+
+- candidate_first_name: Samuel
+  candidate_last_name: Grigsby
+  state: mn
+  race: State House of Representatives
+  district: 6A
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q2
+  response: |
+    “I think that we need to protect the watershed, we need to ensure all applicable environmental protections and policies are being followed and record keeping is enforced. Mining has been a leading employer in our area for decades, but this area relies on tourism for a lot of small businesses in the area. This watershed is very critical to the people who live there.” 
+    
+    KEYWORDS: protections, policy, tourism
+
+- candidate_first_name: Samuel
+  candidate_last_name: Grigsby
+  state: mn
+  race: State House of Representatives
+  district: 6A
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q3
+  response: |
+    “We need to ensure that all drinking water is safe for all who rely on it. We can’t go backwards on the regulations in place and we need to work closely with the people who can advise us on the best way to move forward and assist the areas to ensure they have safe water to drink and bathe in.” 
+    
+    KEYWORDS: Ensure, advisors, communities
+
+- candidate_first_name: Samuel
+  candidate_last_name: Grigsby
+  state: mn
+  race: State House of Representatives
+  district: 6A
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q4
+  response: |
+    “We need to have make sure that they have transparent information available for all residents in the areas they plan on proposing the centers. We also need to see how this has affected areas that already have the centers in operation. I understand they do create several jobs while under construction, but we need to assess the long term employment viability and possible health and environmental impacts they can cause.” 
+    
+    KEYWORDS: Jobs, health, environmental
+
+- candidate_first_name: Samuel
+  candidate_last_name: Grigsby
+  state: mn
+  race: State House of Representatives
+  district: 6A
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q5
+  response: |
+    “Funding research has provided many scientific advances and jobs that have improved our lives. We need to find economic ways to help the research continue from a state level and hopefully the federal administration will follow suit. ” 
+    
+    KEYWORDS: Economic, state, and federal
+
+- candidate_first_name: Samuel
+  candidate_last_name: Grigsby
+  state: mn
+  race: State House of Representatives
+  district: 6A
+  party: Democratic
+  date: 2026-09-30
+  question: mn-q6
+  response: |
+    “We need to continue the advances for all in our state. We need to work on education and outreach programs for the underserved populations in our state. We need to work with leaders in the indigenous and all communities to expand these programs. The programs will need funding to help and we need to be greative in finding ways to serve these groups.” 
+    
+    KEYWORDS: education, outreach, funding
+
+- candidate_first_name: Aaron
+  candidate_last_name: Klemz
+  state: mn
+  race: State House of Representatives
+  district: 39A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q1
+  response: |
+    “I place a high priority on utilizing peer reviewed scientific research in all public policy decisions. In particular, on matters of public health and environmental protection, too often we ignore science in favor of ideology. I believe in following the evidence.” 
+    
+    KEYWORDS: Evidence, Research, Health
+
+- candidate_first_name: Aaron
+  candidate_last_name: Klemz
+  state: mn
+  race: State House of Representatives
+  district: 39A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q2
+  response: |
+    “Sulfide mining has an unbroken track record of polluting downstream waters and groundwater, and I oppose copper-nickel sulfide mining proposals for that reason. The BWCA watershed mineral withdrawal was based on reams of scientific research and tremendous public participation, but was overturned by a bare majority based on politics. I support the Permanent Protection for the BWCA bill and Prove it First as two policies, informed by science, that would protect Minnesota's waters.” 
+    
+    KEYWORDS: pollution, protection, public
+
+- candidate_first_name: Aaron
+  candidate_last_name: Klemz
+  state: mn
+  race: State House of Representatives
+  district: 39A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q3
+  response: |
+    “I was part of the lobbying team that helped pass "Amara's Law," which made Minnesota a global leader in phasing out PFAS "forever chemicals." My home city of Fridley is currently constructing a $6 million water treatment facility to treat PFAS pollution. We must protect Amara's Law, and not delay implementation of the 2032 ban on all non-essential uses. We must also ensure that polluters pay the cost of cleaning up and treating polluted water. The $850 million 3M PFAS settlement is nearing the end, but the costs continue to escalate.” 
+    
+    KEYWORDS: essential, water, 3M
+
+- candidate_first_name: Aaron
+  candidate_last_name: Klemz
+  state: mn
+  race: State House of Representatives
+  district: 39A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q4
+  response: |
+    “I support ending all tax subsidies and creating a robust permitting system for hyperscale data centers that protect electric ratepayers, protects our groundwater, and protects local residents from pollution. I also support requiring data centers to bring their own new clean energy, paying for renewable energy such as solar + battery storage equal to their power draw.” 
+    
+    KEYWORDS: subsidy, permit, water
+
+- candidate_first_name: Aaron
+  candidate_last_name: Klemz
+  state: mn
+  race: State House of Representatives
+  district: 39A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q5
+  response: |
+    “Minnesota can't prevent federal cuts to scientific research, but we can defend academic freedom in our universities and ensure that critical research continues with state support. We must continue training the next generation of researchers by funding our public universities, including graduate education. I'm also open to targeted state investments to continue critical research needs. Minnesota's Legacy Fund and the Environmental and Natural Resources Trust Fund also support scientific research, and I will be a strong voice in support of both.” 
+    
+    KEYWORDS: academic freedom, legacy
+
+- candidate_first_name: Aaron
+  candidate_last_name: Klemz
+  state: mn
+  race: State House of Representatives
+  district: 39A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q6
+  response: |
+    “I believe in harm reduction approaches such as needle exchanges, narcan availability, and methadone treatment. Some argue these approaches enable addiction, but I follow the research that shows that they keep people alive. A person once told me "you can't go clean if you're dead." I think the logic of that statement is undeniable, and I support policies that keep people alive and give them access to services. I also support supportive housing models like Avivo Village that see access to addiction care and mental health care as important parts of responding to homelessness.” 
+    
+    KEYWORDS: harm reduction, homelessness
+
+- candidate_first_name: Alex
+  candidate_last_name: Falconer
+  state: mn
+  race: State House of Representatives
+  district: 49A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q1
+  response: |
+    “I earned my biology degree from St. Olaf, so I was trained to start with the evidence: ask questions, understand what the data can and cannot tell us, and change course when the facts demand it. That is how I try to approach my work in the Legislature, too.
+
+    Scientists and subject-matter experts are especially important when we are making decisions about public health, clean water, emerging technology and our natural resources. On the Environment Committee, I regularly hear from scientists, agency experts and people directly affected by the policies we are considering. Their expertise helps us understand the likely consequences of a decision and where uncertainty remains.
+
+    Science does not make every policy choice for us. Legislators still have to weigh cost, implementation and the lived experiences of the people we represent. But good policy should begin with an honest understanding of the evidence.” 
+    
+    KEYWORDS: Evidence | Expertise | Informed Decisions
+
+- candidate_first_name: Alex
+  candidate_last_name: Falconer
+  state: mn
+  race: State House of Representatives
+  district: 49A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q2
+  response: |
+    “I spent nearly a decade professionally working to protect the Boundary Waters before I was elected, and my position has not changed: sulfide-ore copper mining does not belong in the Boundary Waters watershed.
+
+    This is not about opposing mining everywhere. It is about recognizing that some places are too valuable and too vulnerable to put at risk. The Boundary Waters is a connected system of lakes, rivers and wetlands with water so clean we can drink straight from the source. Pollution upstream does not stay neatly contained at a mine site.
+
+    That is why the first bill I introduced in the House was legislation to permanently protect the Boundary Waters watershed from sulfide-ore copper mining on state lands. I have also supported permanent federal protection, because protections that can be reversed from one administration to the next are not truly permanent.
+
+    Minnesota has an obligation to honor our treaties with tribes, protect clean water, wild rice and the places we want our kids and grandkids to inherit. I will keep working for permanent protection at every level of government.” 
+    
+    KEYWORDS: Stewardship | Clean Water | Permanent Protection
+
+- candidate_first_name: Alex
+  candidate_last_name: Falconer
+  state: mn
+  race: State House of Representatives
+  district: 49A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q3
+  response: |
+    “Minnesota has been a national leader in addressing PFAS, and I want us to continue reducing these chemicals at the source while identifying and cleaning up contamination that already exists.
+
+    I serve on the House Environment and Natural Resources Committee, where we have heard directly from scientists and state agencies about PFAS pollution, prevention and management. I have opposed efforts to weaken Minnesota's PFAS restrictions, including voting against legislation that would have created additional exemptions for commercial and industrial products. 
+
+    Going forward, I support strong, science-based drinking-water standards, continued monitoring and testing, reducing unnecessary uses of PFAS before they enter our water, and making sure the companies responsible for contamination contribute to the cost of cleaning it up. Protecting Minnesotans from PFAS means addressing both the contamination we have inherited and preventing more of it from entering our water in the first place.” 
+    
+    KEYWORDS: Prevention | Safe Drinking Water | Polluter Accountability
+
+- candidate_first_name: Alex
+  candidate_last_name: Falconer
+  state: mn
+  race: State House of Representatives
+  district: 49A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q4
+  response: |
+    “Minnesota should not mistake a promise of economic development for proof that a massive data center is good for the communities being asked to host it. These projects can require extraordinary amounts of electricity, water and public infrastructure, and those costs and consequences deserve the same scrutiny as the benefits companies promise.
+
+    I support rigorous environmental review of proposed data centers, including their water use, energy demands, infrastructure needs and impact on surrounding communities.
+
+    If a project moves forward, the corporation should bear its full costs. Minnesota families and small businesses should never find themselves subsidizing Amazon’s utility bill or paying for infrastructure built primarily to serve a billion-dollar corporation.
+
+    Minnesota should welcome economic development that strengthens our communities, but you and I as average residents should never pay a single dime out of our own pockets so the richest corporations in the world can make another billion dollars while we struggle to pay our bills.” 
+    
+    KEYWORDS:  Rigorous Review | Full-Cost Accountability | Community Benefit
+
+- candidate_first_name: Alex
+  candidate_last_name: Falconer
+  state: mn
+  race: State House of Representatives
+  district: 49A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q5
+  response: |
+    “I fully support continued public investment in scientific research at both the state and federal levels. Minnesota's universities and research institutions are economic engines, but their value goes well beyond the jobs they create. Their research improves healthcare, protects our environment, drives innovation and helps us solve problems that affect Minnesotans every day.
+
+    As someone with a biology degree, I also understand that important research often takes years to produce results. Researchers and universities need stable, predictable funding that allows them to pursue that work rather than lurching from one funding crisis to another.
+
+    I would oppose efforts to politicize or arbitrarily cut federal research funding, and at the state level I support continued investment in Minnesota's universities and research capacity. We should treat scientific research as part of the infrastructure that keeps Minnesota healthy, innovative and economically competitive.” 
+    
+    KEYWORDS: Public Investment | Stable Funding | Scientific Innovation
+
+- candidate_first_name: Alex
+  candidate_last_name: Falconer
+  state: mn
+  race: State House of Representatives
+  district: 49A
+  party: Democratic
+  date: 2026-10-01
+  question: mn-q6
+  response: |
+    “Minnesota should build on the progress we've made by making it easier for people struggling with substance use disorder to get treatment before a crisis becomes fatal. That means expanding access to mental-health and substance-use treatment, reducing financial barriers to care and supporting prevention and recovery services in communities across the state.
+
+    The disparities in overdose deaths among Indigenous and Black Minnesotans also make clear that statewide progress is not reaching every community equally. We need to understand where those gaps are coming from and make sure prevention, treatment and recovery resources are reaching the communities experiencing the greatest harm.
+
+    My broader goal in healthcare is universal access that includes mental healthcare. Substance-use treatment has to be part of that. No Minnesotan seeking help should be unable to get treatment because of cost, insurance coverage or where they live.” 
+    
+    KEYWORDS: Treatment Access | Prevention | Health Equity
+
+- candidate_first_name: Amanda
+  candidate_last_name: Hemmingsen-Jaeger
+  state: mn
+  race: State Senate
+  district: 47
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “Scientists combine their knowledge and experience in methodical, testable ways that seek to understand the world we live in. As a geneticist, all of my decisions are data-driven and consider all perspectives to craft comprehensive policy decisions.  I have a strong record of seeking information and opinions of subject matter experts, researchers, and scientists, and taking their feedback seriously. Finally, I have publicly stood up for science and confronted scientific falsehoods in committee, with colleagues, and on the Minnesota House and Senate floors.” 
+    
+    KEYWORDS: Geneticist, Feedback, Champion
+
+- candidate_first_name: Amanda
+  candidate_last_name: Hemmingsen-Jaeger
+  state: mn
+  race: State Senate
+  district: 47
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “The Boundary Waters Canoe Area (BWCA) is a beloved and pristine, natural part of Minnesota.  Governor Walz recently issued an Executive Order to terminate the leases of the interested mining companies.  However, we know that Executive Orders do not last forever, and we must take legislative action to protect this state treasure.  I have a strong history of supporting bold action to protect the BWCA, including holding companies responsible for clean-up and permanent protections of the Boundary Waters. “Prove-It First” legislation requires peer-reviewed research, industrial and commercial precedent, input from the community, and safe practices be demonstrated before deploying mining for experimentation in our precious ecosystems.  It is imperative that activities that would drastically affect the health of the environment be robustly shown to not harm the environment.  I look forward to continuing to work towards permanent protection status of the BWCA, as well as other policies that protect the health of our people and our environment.” 
+    
+    KEYWORDS: Permanent protection, Proof
+
+- candidate_first_name: Amanda
+  candidate_last_name: Hemmingsen-Jaeger
+  state: mn
+  race: State Senate
+  district: 47
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “I was proud to support banning non-essential uses on PFAS in my first term in the Minnesota House.  As a geneticist, I understand the real cancer-causing dangers of fluorinated compounds in our drinking water.  I continue to advocate for my community by authoring bills for bonding money and sales tax exemptions on construction materials.  Bringing real dollars to my community helps alleviate the taxpayer burden as my community builds a new water treatment facility, a new water tower to hold treated water, and miles of new pipe to address the widespread PFAS contamination.  As we continue to learn of the extent of PFAS pollution and the environmental and public health impacts of this chemical, I look forward to keeping Minnesota on the leading edge in protecting our citizens.” 
+    
+    KEYWORDS: Amara’s Law, Advocate
+
+- candidate_first_name: Amanda
+  candidate_last_name: Hemmingsen-Jaeger
+  state: mn
+  race: State Senate
+  district: 47
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “The discovery potential of utilizing AI can be very promising if proper guardrails are implemented with the values we hold as a society.  First, I was proud to support a nation-leading laws that ban AI nudification technology and AI deepfakes with the intent to influence an election.  I understand the desire and hopes for this innovative technology, as well as the interest in creating good paying jobs for Minnesotans.  I believe there needs to be a balance for keeping jobs in Minnesota, protecting our environment, and ensuring that the profits made by large corporations primarily go back to the communities hosting them (and not to line billionaire pockets).  I will continue to support policies that keep community safety and well-being at the forefront as we being to regulate this technology.” 
+    
+    KEYWORDS: Guardrails, Community safety
+
+- candidate_first_name: Amanda
+  candidate_last_name: Hemmingsen-Jaeger
+  state: mn
+  race: State Senate
+  district: 47
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “I will continue to be a vocal champion of science funding at the state and federal level.  Whether for research or education, it is imperative we support our scientists, researchers, and teachers in all levels of schooling.  Policies can include programs to increase the number of science teachers and teachers of color for our classrooms, direct financial support to schools for field trips for young and curious students, grants to conduct empirical research on cancers and other diseases, and funded studies to better understand mental health and addiction.” 
+    
+    KEYWORDS: Vocal supporter, Education
+
+- candidate_first_name: Amanda
+  candidate_last_name: Hemmingsen-Jaeger
+  state: mn
+  race: State Senate
+  district: 47
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “I will continue to support policies that address the visible and root causes of addiction and mental health, utilizing a lens for equity.  I have supported policies that provide naloxone in schools and other public places so lives can be saved from an overdose.  We need to fund and provide resources for people to feel supported across all aspects of their lives, including parenting, education, jobs, and healthcare. We must also ensure that qualified practitioners are compensated and ready to care for people needing mental health services before and during a crisis.  Finally, policies should be led by community to meet their unique needs.” 
+    
+    KEYWORDS: Community, Mental health
+
+- candidate_first_name: Brad
+  candidate_last_name: Olson
+  state: mn
+  race: State Senate
+  district: 38
+  party: Republican
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “"Trust in science" is a contradiction of terms.  Science, by definition is a just a tool that is based in skepticism, not trust.  The purpose of this tool is to try to disprove a given theory through empirical testing.  When a person or group of people continue to chant the "Trust in Science" mantra, then the public should become very concerned that the science being pushed is flawed because true science welcomes scrutiny.  Take the covid epidemic, for example.  We were continually being instructed to trust or follow the science when it came to the vaccines, the masks, the distancing, the treatments, but what have learned?  The masks were useless, the treatments were ineffective, the vaccines were dangerous, and the distancing was unnecessary.  Yet,  many respected doctors and scientists were silenced when their findings contradicted the mainstream message.  Science must be objective if it is to provide benefit when making legislation,  so when elected, I will support all legitimate scientific viewpoints.” 
+    
+    KEYWORDS: objective covid tool
+
+- candidate_first_name: Brad
+  candidate_last_name: Olson
+  state: mn
+  race: State Senate
+  district: 38
+  party: Republican
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “For over 50 years, I have enjoyed those times that I have spent canoeing, camping, and even working in the BWCA.  I would be totally opposed to any activity that could potentially harm this gem of God's creation.  So opening up areas outside of the BWCA to mining efforts would be a serious concern, were it not for the fact that we have safeguards in place that are intended to prevent the pollution and the altering of land that have people so concerned.  There are numerous benefits to opening up these areas in the form of jobs, revenue to the state, and supplying needed minerals for products that would otherwise require those resources to come from places like China and Africa that have demonstrated no regard for the environment, or human dignity.  This is a prime example of how we can utilize science and technology to provide us with the ability to guard and protect our treasured BWCA, as well as other treasured Minnesota resources.” 
+    
+    KEYWORDS: safeguards guard benefits
+
+- candidate_first_name: Brad
+  candidate_last_name: Olson
+  state: mn
+  race: State Senate
+  district: 38
+  party: Republican
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “I am making the assumption that PFAS is indeed a hazardous material that has been proven to be detrimental to all forms of life.  And I know that there is currently an ongoing effort by various industries that use PFAS in their products to remove it and replace with other materials that deliver similar, harmless benefits.  These efforts should continue on the part of the private sector, and these industries should also assist in the efforts to clean up the existing PFAS in our water systems.  
+    The question then becomes one of determining what is the best method for removing PFAs from our water systems.  Where are those communities affected by it, what is extent of the contamination, and what is the most feasible approach to addressing the contamination?
+    One option is for the affected municipalities to install central filtration systems, but this comes at a huge expense, but it would cover the entire community with no expectations of the public.  
+    Another option is for each home to install under-the-sink filtration systems.  This could very well be the most economical solution in smaller communities at about $100/household, with a cost of replacing the filters periodically as needed.” 
+    
+    KEYWORDS: industries filtration diet
+
+- candidate_first_name: Brad
+  candidate_last_name: Olson
+  state: mn
+  race: State Senate
+  district: 38
+  party: Republican
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “AI is here to stay, and we must decide if we are going to be players in that industry.  Fortunately, we don't need to install 20 data centers immediately.  We can learn from the ones that exist what is working, what doesn't, and what are the positive and negative impacts of these data centers on the surrounding communities.  We also have the ability to make improvements as they become available.  Building and operating additional nuclear plants is certainly a viable solution for the energy needs these data centers require.  Close system cooling systems can reuse water.  
+
+    As a legislator, I would support a county or city's right to have a say in what industries they  want to come into it.   So then it is incumbent on the local voters to put people in office who either agree or disagree with what the community wants, and they would tax and regulate how that business would operate.” 
+    
+    KEYWORDS: nuclear impact voter
+
+- candidate_first_name: Brad
+  candidate_last_name: Olson
+  state: mn
+  race: State Senate
+  district: 38
+  party: Republican
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “Research grants given to universities can produce tremendous benefits to all parties concerned, provided the grants don't come with pre-determined outcomes or biased agendas.  Too often, the grants are awarded with pressure to meet the expected results, which violates the scientific process.  If tax money is going to be used, which is the only source of NIH funds, then it must follow objective scientific methods and be used for research that will benefit people.  For example, gender studies of some animal life form would not be considered a benefit to the people of Minnesota and I would not support it.” 
+    
+    KEYWORDS: benefit grant gender
+
+- candidate_first_name: Brad
+  candidate_last_name: Olson
+  state: mn
+  race: State Senate
+  district: 38
+  party: Republican
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “The decline in deaths by drug overdoses is indeed something to be celebrated, but the fact that this question makes it a racial issue is telling.  It is also ironic, that we hear such an outcry over drug overdoses yet it can be argued that the Standard American diet (SAD) is significantly more dangerous than drug related deaths, and yet where is the outcry?  The sugar and processed foods that Americans consume has contributed to an epidemic of health related issues that become increasingly evident as people age.  Almost every major health issue can find it's origins in the foods people eat.  As a legislator, I will make it my personal crusade to help Minnesotans understand what a healthy diet consists of, and the importance of making good decisions when it comes to the food we eat.  We are a free people and responsible for making life choices that impact us, and as free people we can purchase products that are not healthy.  That does not mean that our tax dollars need to pay for those things.  I would push for limiting those grocery items covered under SNAP programs to single ingredient items such as meat, dairy, fruits, and vegetables.” 
+    
+    KEYWORDS: celebrate diet food
+
+- candidate_first_name: Trina
+  candidate_last_name: Swanson
+  state: mn
+  race: US House of Representatives
+  district: 8
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “Good policy starts with good information, and scientists are the key experts in their fields. I would rely on scientists, career agency experts, and other subject-matter experts to help establish the facts, identify risks, and explain the likely consequences of policy choices. That is especially important on issues involving public health, the environment, energy, agriculture, technology, and national security. Science should inform our decisions, while elected officials remain responsible for weighing competing priorities, listening to affected communities, and being accountable for the final decision.” 
+    
+    KEYWORDS: Evidence, Expertise, Accountability
+
+- candidate_first_name: Trina
+  candidate_last_name: Swanson
+  state: mn
+  race: US House of Representatives
+  district: 8
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “I support mining in northern and central Minnesota when it can be done responsibly, meet strong environmental standards, and create good union jobs. But the Boundary Waters watershed deserves special protection, because contamination there could cause lasting, irreversible harm. I support restoring the protections overturned by H.J. Res. 140 and establishing permanent protections for the watershed. I also support rigorous environmental review, meaningful Tribal consultation, strong water-quality standards, and financial assurance requirements so mining companies, not taxpayers, are responsible for cleanup.” 
+    
+    KEYWORDS: Ban, Responsibility, Water
+
+- candidate_first_name: Trina
+  candidate_last_name: Swanson
+  state: mn
+  race: US House of Representatives
+  district: 8
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “Every Minnesotan should be able to trust the water coming from their tap. I will continue to support the Investing in America funding for drinking water and clean water infrastructure upgrades, along with the Minnesota Department of Health’s Clean Water Fund to ensure the safety of Minnesota’s water systems. I support strong, science-based federal drinking-water standards for PFAS, continued testing of public water systems, and federal assistance to help communities install treatment systems without placing the entire cost on local ratepayers. Companies responsible for PFAS contamination should also be held accountable for cleanup costs. We should continue investing in research on the health effects of PFAS and technologies that can safely remove and destroy these chemicals.” 
+    
+    KEYWORDS: Water, Accountability, Cleanup
+
+- candidate_first_name: Trina
+  candidate_last_name: Swanson
+  state: mn
+  race: US House of Representatives
+  district: 8
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “Data centers theoretically could bring investment and good construction and technology jobs to Minnesota, but families should not be asked to subsidize their enormous demands for electricity, water, and infrastructure. Local government leaders should not be allowed to enter into NDAs to conduct secret negotiations with AI companies. AI companies must prove the benefits of a data center before they are permitted to break ground. I support requiring data centers to disclose projected energy and water use, and pay for any necessary grid and infrastructure upgrades. Regulators should ensure these projects do not drive up utility bills for residential customers or threaten grid reliability. Public incentives should be tied to measurable benefits for Minnesota workers and communities.” 
+    
+    KEYWORDS: Ratepayers, Resources, Accountability
+
+- candidate_first_name: Trina
+  candidate_last_name: Swanson
+  state: mn
+  race: US House of Representatives
+  district: 8
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “I strongly support continued federal investment in scientific and medical research through agencies such as NIH and NSF. These investments lead to medical breakthroughs, new technologies, good-paying jobs, and economic growth, and Minnesota has benefited enormously from them. Research funding should be stable, competitive, peer-reviewed, and based on scientific merit. I would oppose arbitrary cuts that disrupt promising research, clinical trials, or the ability of Minnesota universities and medical centers to attract talented researchers and remain leaders in innovation.” 
+    
+    KEYWORDS: Research, Innovation, Jobs
+
+- candidate_first_name: Trina
+  candidate_last_name: Swanson
+  state: mn
+  race: US House of Representatives
+  district: 8
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “We should continue investing in approaches that are saving lives, including widespread access to naloxone, evidence-based addiction treatment, prevention, recovery services, and mental-health care. We also need to address the severe disparities affecting Indigenous and Black Minnesotans by working directly with Tribal Nations and community organizations on effective, culturally appropriate programs. In rural Minnesota, we need more treatment and recovery options where providers are scarce. These public-health efforts should be paired with strong law enforcement focused on the traffickers bringing fentanyl and other dangerous drugs into our communities.” 
+    
+    KEYWORDS: Naloxone, Treatment, Prevention
+
+- candidate_first_name: Calvin
+  candidate_last_name: Larson Jr
+  state: mn
+  race: State Senate
+  district: 2
+  party: Independent
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “If it regards natural resources and peoples health, i will seek the opinions of experts in the stated fields to better understand the good, the bad and the ugly of new proposals. If it regards monetary policy, i would not be open to listening to the experts.” 
+    
+    KEYWORDS: Research, Determine, Act
+
+- candidate_first_name: Calvin
+  candidate_last_name: Larson Jr
+  state: mn
+  race: State Senate
+  district: 2
+  party: Independent
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “Keeping the boundary waters free of mining in any capacity and preserve the state’s natural resources and not to exploit them. Keep foreign interests out of the state’s interests.” 
+    
+    KEYWORDS: Protect, Preserve, Restore
+
+- candidate_first_name: Calvin
+  candidate_last_name: Larson Jr
+  state: mn
+  race: State Senate
+  district: 2
+  party: Independent
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “Ban PFAS for creation and use in the state of Minnesota. PFAS have repeatedly been linked to cancer and contaminating water sources.
+
+    Citizens are subjected to PFAS for corporate profit and not safety.” 
+    
+    KEYWORDS: Safety over profit
+
+- candidate_first_name: Calvin
+  candidate_last_name: Larson Jr
+  state: mn
+  race: State Senate
+  district: 2
+  party: Independent
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “Repeal the Data Center “sales tax exemption.”
+
+    Artificial Intelligence Transparency Act
+    1. Require a disclaimer for companies using AI on the building and website stating the purpose for the AI.
+    2. Information deletion policy, after 30 days AI must delete all personal data on the individual.
+    3. Ban on social score/public rating.
+    4. AI must be used to improve working conditions and not as a replacement for workers.
+    5. Companies utilizing AI must develop training and safety policies for AI and its use.
+    6. Prohibition of AI accessing healthcare data (medical bills, treatment, medical history)
+    7. A human must approve of all decisions of an AI (Accountability)
+    8. Require company disclaimer to employees of use of AI in its purpose, functionality and applications in the job.” 
+    
+    KEYWORDS: Inform, Regulate, Safety
+
+- candidate_first_name: Calvin
+  candidate_last_name: Larson Jr
+  state: mn
+  race: State Senate
+  district: 2
+  party: Independent
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “State will continue to fund scientific research regardless of federal cuts. More funding on the state level will be required to continue the amount of research currently.
+
+    Establishing a “surplus investment program” could help fund scientific research. The Surplus Investment Program or SIP would use funds from a state surplus to be invested in stocks, bonds, or CDs to promote future growth in the budget by generating money instead of purely spending it. Between the years of 2022-2026 if this program was created in 2022 and invested 5 billion of the 11.5 billion in surplus funds, this program would have profited approximately 2.5 billion in 5 years. This could have kept us out of a budget deficit in 2027 and had money for new programs into the future.” 
+    
+    KEYWORDS: Surplus Investment Program
+
+- candidate_first_name: Calvin
+  candidate_last_name: Larson Jr
+  state: mn
+  race: State Senate
+  district: 2
+  party: Independent
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “Low income communities tend to be farther from Hospitals and Police Departments, this could potentially lead to the stat discrepancy stated above.
+
+    Minorities have always faced disparities in treatment for health and the law. Racism plays a big role.
+
+    Drugs should be treated as a health problem and not a legal problem.
+
+    Drug possession offenses should require addiction treatment on the first 2 offenses as the “punishment.”” 
+    
+    KEYWORDS: Treatment, Disparities, Racism
+
+- candidate_first_name: Jess
+  candidate_last_name: Lewis
+  state: mn
+  race: State House of Representatives
+  district: 43B
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “As an environmental and air pollution scientist who has served at the EPA, FAA, USAID, and WHO, scientific integrity guides every decision I make. Good policy must be rooted in peer-reviewed evidence and public health consensus, not political expediency or corporate lobbying. In the Minnesota Legislature, I will ensure independent researchers have a direct seat at the policymaking table.
+
+    When reviewing bills on climate, clean water, and the energy transition, I will partner with climate modelers, environmental engineers, and hydrologists to ensure statutory targets reflect real ecological data. On public health, I will consult epidemiologists and medical researchers to strengthen community health infrastructure and protect clinical autonomy from political interference. For emerging challenges like artificial intelligence and data center energy demands, I will look to computer scientists and systems engineers to evaluate grid impacts, data privacy, and ethical guardrails.
+
+    Having worked inside federal regulatory agencies, I know how corporate interests distort science. I will work with independent academic and state scientists to rigorously vet data, uncover conflicts of interest, and prevent biased legislation. Finally, I will collaborate with data scientists to embed evidence-based metrics into our laws, ensuring we continuously measure real-world outcomes for everyday Minnesotans.” 
+    
+    KEYWORDS: Evidence-based, integrity, accountability
+
+- candidate_first_name: Jess
+  candidate_last_name: Lewis
+  state: mn
+  race: State House of Representatives
+  district: 43B
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “I strongly oppose sulfide-ore copper mining in the Boundary Waters Canoe Area Wilderness watershed. 
+
+    The passage of H.J. Res. 140—overturning the 20-year mineral withdrawal via the Congressional Review Act—was a devastating rollback driven by corporate lobbying. Sulfide mining carries severe risks of acid mine drainage, threatening this low-buffering aquatic ecosystem, Voyageurs National Park, and downstream Canadian waters with irreversible contamination.
+
+    With federal protections abdicated, Minnesota must act as the ultimate backstop. In the Minnesota House, I will fight for robust state safeguards:
+
+    Pass the Boundary Waters Permanent Protection Act: Champion legislation (H.F. 309 / S.F. 875) to permanently ban sulfide-ore mining in the Rainy River drainage basin under state law.
+
+    Enforce Strict State Permitting: Demand the DNR and MPCA apply rigorous standards and deny permits whenever proposals risk toxic pollution or tailings failures. Federal leases are not a green light to dig.
+
+    Mandate "Polluter Pays" Protections: Require 100% upfront, bankruptcy-proof financial assurances for full lifecycle remediation so taxpayers never shoulder cleanup costs.
+
+    Respect Tribal Sovereignty: Ensure meaningful consultation and consent with Sovereign Tribal Nations to protect treaty-reserved rights, wild rice waters, and sacred resources.
+
+    We can advance a clean-energy economy without sacrificing our most pristine wilderness.” 
+    
+    KEYWORDS: Conservation, stewardship, transparency
+
+- candidate_first_name: Jess
+  candidate_last_name: Lewis
+  state: mn
+  race: State House of Representatives
+  district: 43B
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “Clean drinking water is a fundamental right. As an environmental scientist, the fact that 21 Minnesota community water systems exceed federal PFAS standards is an urgent public health crisis. These bioaccumulative "forever chemicals" cause cancers, immune dysfunction, and developmental harm. No family should worry about whether their tap water is safe.
+
+    Addressing this contamination demands bold, science-based action:
+
+    Defend Amara’s Law: Protect the phase-out of non-essential PFAS by 2032. I will fight corporate lobbying to delay deadlines, add exemptions, or narrow chemical definitions. Prevention is our most cost-effective tool.
+
+    Enforce "Polluter Pays": Remediating drinking water and wastewater will cost billions. I will champion legislation holding chemical manufacturers and polluters financially liable so working families and local ratepayers do not shoulder cleanup costs.
+
+    Fund Municipal Infrastructure: Secure state bonding and dedicated grants to help local utilities install advanced filtration—like granular activated carbon and reverse osmosis—without hiking utility bills.
+
+    Expand Testing & Set Strict Limits: Provide state-funded testing for private wells, increase landfill and biosolid monitoring, and direct the MPCA to establish enforceable industrial discharge caps that regulate PFAS as an entire chemical class.
+
+    I will always put public health over corporate polluters.” 
+    
+    KEYWORDS: Prevention, remediation, oversight
+
+- candidate_first_name: Jess
+  candidate_last_name: Lewis
+  state: mn
+  race: State House of Representatives
+  district: 43B
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “Technological innovation must serve the public good, not corporate convenience. Hyperscale data centers demand massive amounts of electricity and water. We cannot let tech corporations rush developments that hike utility rates for working families, deplete local aquifers, or derail Minnesota’s statutory target of 100% clean electricity by 2040. We need proactive, science-based guardrails before shovels hit the ground.
+
+    First, we must safeguard everyday ratepayers and grid reliability through strict Public Utilities Commission standards, preventing utilities from shifting infrastructure and capacity costs onto residential and small-business customers. Operators must also achieve true clean energy additionality by bringing dedicated new wind, solar, and battery storage online to match their demand—rather than cannibalizing existing renewables or extending the lifespan of fossil-fuel plants.
+
+    Second, because cooling server banks consumes millions of gallons daily, comprehensive hydrologic reviews must be required before granting high-volume water permits. This ensures facilities adopt closed-loop cooling and wastewater-reuse technologies over evaporative systems. Finally, we must end lavish state tax giveaways for multi-billion-dollar tech giants and ban municipal non-disclosure agreements that conceal resource impacts from local communities. Through rigorous oversight, we can ensure technology serves Minnesota families rather than exploiting them.” 
+    
+    KEYWORDS: Regulation, caution, disclosure
+
+- candidate_first_name: Jess
+  candidate_last_name: Lewis
+  state: mn
+  race: State House of Representatives
+  district: 43B
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “As an environmental scientist, I know scientific research is both an economic engine and the foundation of our state’s well-being. Minnesota’s $700+ million in NIH awards sustains thousands of good-paying jobs, supports local supply chains, and drives life-saving medical breakthroughs. With federal funding increasingly vulnerable to political disruption, Minnesota must take proactive steps to defend and expand research investment.
+
+    First, we should establish dedicated state matching funds—leveraging models like the Minnesota State Competitiveness Fund—to keep our universities hyper-competitive for NIH, NSF, and DOE grants that require institutional cost-sharing. Simultaneously, we must champion robust capital bonding and direct appropriations for the University of Minnesota and Minnesota State systems to modernize research facilities, reduce deferred maintenance, and attract top-tier scientific talent.
+
+    Crucially, I will fiercely protect public research institutions from ideological interference, ensuring researchers can freely investigate urgent topics like climate impacts, reproductive healthcare, and vaccine science. To translate these discoveries into shared prosperity, we must fund early-stage tech transfer, commercialization grants, and paid fellowships that keep young innovators working here in Minnesota. Finally, state leaders must actively partner with our congressional delegation to safeguard predictable federal research budgets, ensuring Minnesota remains a national leader in scientific innovation.” 
+    
+    KEYWORDS: Investment, innovation, competitiveness
+
+- candidate_first_name: Jess
+  candidate_last_name: Lewis
+  state: mn
+  race: State House of Representatives
+  district: 43B
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “We must treat the overdose epidemic as an urgent public health crisis requiring evidence-based, compassionate solutions—not criminalization. While overall declines in fatal overdoses are encouraging, glaring racial disparities reveal systemic failures: Indigenous Minnesotans still die at up to fifteen times the rate of white residents. We cannot declare victory while our neighbors are left behind.
+
+    To dismantle these disparities, we must expand low-barrier harm reduction by broadly distributing naloxone, fentanyl test strips, and xylazine testing, while authorizing evidence-based overdose prevention centers. Crucially, a top-down model will not work. We must direct state grants and opioid settlement funds directly to Sovereign Tribal Nations and Black-led community organizations to support culturally grounded healing, peer networks, and traditional medicine.
+
+    Additionally, we must eliminate barriers to gold-standard medications like buprenorphine and methadone by removing prior-authorization hurdles, deploying mobile clinics to rural and underserved areas, and providing treatment inside correctional facilities. Because addiction is intertwined with poverty and trauma, lasting recovery requires investing in supportive Housing First initiatives and broader healthcare access. Ending failed carceral approaches in favor of pre-arrest diversion and trauma-informed care will save lives and ensure every Minnesota community receives the protection it deserves.” 
+    
+    KEYWORDS: Equity, prevention, dignity
+
+- candidate_first_name: Skylar
+  candidate_last_name: Fynboh
+  state: mn
+  race: State Senate
+  district: 5
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “I think it's important to speak with experts on all aspects of policy. Generally policy isn't limited to one discipline so I would need to speak to experts on economics, community health, as well as any number of other disciplines. I would need to pull the data and analyze it while getting context and recommendations from those who have dedicated themselves to understanding a subject.” 
+    
+    KEYWORDS: Evidence based consensus
+
+- candidate_first_name: Skylar
+  candidate_last_name: Fynboh
+  state: mn
+  race: State Senate
+  district: 5
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “Like with every policy I try to view it through an ecological economic lens. I need to know the true costs of any policy before my affirmation or dissent. In regards to this specific issue, the mining that some are seeking to do will result in ecological damage costing billions over the next 500 years as I understand it. The boundary waters are a gift that we should steward for the next generations. The economic benefits of mining in the Boundary waters aren't anywhere near outweighing the costs so I can't support mining there. Mining experts have came out against it, hydrologists have come out against it, and the data just doesn't support it being beneficial to the state or local communities.” 
+    
+    KEYWORDS: Data says no.
+
+- candidate_first_name: Skylar
+  candidate_last_name: Fynboh
+  state: mn
+  race: State Senate
+  district: 5
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “PFAS aren't something I'm an expert on so I would consult with experts on where the root problems are and how we can address them. I would support policy that is supported by evidence driven research on how to address the problem.” 
+    
+    KEYWORDS: Evidence based consensus
+
+- candidate_first_name: Skylar
+  candidate_last_name: Fynboh
+  state: mn
+  race: State Senate
+  district: 5
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “They need full environmental evaluations before construction, tax breaks need to be evaluated and rescinded when the costs outweigh the benefits, and from where I'm sitting as someone who works with AI and LLMs on a daily basis its hard to justify how we're implementing hyperscale data centers. There are positives, but there are also major negatives when done without regulation. We need to account for power and water usage, environmental pollution, but also the economic benefit. If any of these are a net negative on our communities we need to find a way to address it if we're going to implement hyperscale datacenters. Policy exists to protect the public so we shouldn't pass legislation to benefit share holder value over our communities.” 
+    
+    KEYWORDS: Regulate for sustainability
+
+- candidate_first_name: Skylar
+  candidate_last_name: Fynboh
+  state: mn
+  race: State Senate
+  district: 5
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “We need scientific research. Our economy is reliant on innovation and IP which requires research. The cuts to research coming from the federal government has implications here at home. A facility in Morris was recently completed and now it doesn't have funds to operate as I understand it. That hurts us economically, and it hurts our ability to compete. I support funding research that benefits the people of Minnesota, and that means finding room in the budget to ensure that the investments we've made with the federal government aren't wasted.
+    Without funding research we risk falling losing the investments in our communities that are brought in by those seeking to do research. Education institutions bring in investment from a variety of sources, and has downstream economic benefits. Fund it, but ensure the investment is sound.” 
+    
+    KEYWORDS: Science invests in the future
+
+- candidate_first_name: Skylar
+  candidate_last_name: Fynboh
+  state: mn
+  race: State Senate
+  district: 5
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “We need to ensure that addiction resources are following best practices. Reducing overdoses requires an availability of things like Narcan, availability of patient centered treatment, and funding the social work that helps address root causes for addiction. In my experience as an EMT, addiction and overdoses are linked with poverty or a need that isn't met like lacking healthcare. We need to ensure we are able to provide good paying jobs and healthcare that allows our community members to build a life without the crutch of addiction.” 
+    
+    KEYWORDS: Public Health is Community Health
+
+- candidate_first_name: Betty
+  candidate_last_name:  McCollum
+  state: mn
+  race: US House of Representatives
+  district: 4
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “My record in Congress reflects a strong deference to science on health and environmental issues. My staff and I regularly meet with subject matter experts from various fields and interests, including scientists, to ensure professional expertise and the facts are at the forefront of my decisions as a member of Congress. My congressional office has also employed fellows from scientific backgrounds over the years, who’ve helped provide their professional perspective and expertise to help educate and inform my staff and I.” 
+    
+    KEYWORDS: deference, facts, evidence-based
+
+- candidate_first_name: Betty
+  candidate_last_name:  McCollum
+  state: mn
+  race: US House of Representatives
+  district: 4
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “In the 119th Congress, Republicans have weaponized the Congressional Review Act (CRA) against environmental protections and our public lands. In February, I led the fight in the House against Representative Stauber’s bill, H.J. Res. 140, that overturned the 2023 mineral withdrawal using the Congressional Review Act (CRA). With the unfortunate passage of this bill, I will keep fighting to pass my bill, the Boundary Waters Wilderness Protection and Pollution Prevention Act (H.R. 588), to permanently protect the Boundary Waters Wilderness from toxic sulfide-ore mining. Additionally, I have voted against all bills that have weaponized the CRA against resource management and land management plans, as well as bills that repeal Biden-era rules that protect our land, air, and water and help us address climate change.” 
+    
+    KEYWORDS: wilderness, pristine, irreplaceable
+
+- candidate_first_name: Betty
+  candidate_last_name:  McCollum
+  state: mn
+  race: US House of Representatives
+  district: 4
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “Earlier this year, I reintroduced the Forever Chemical Regulation and Accountability Act (H.R. 8016) to phase out the use of PFAS chemicals within ten years. As a member of the House Appropriations Committee, I’ve funded clean water projects in the East Metro to decontaminate PFAS from our drinking water sources. I’ve also funded efforts to research PFAS destruction as the Ranking Member of the Defense Appropriations Subcommittee.” 
+    
+    KEYWORDS: clean, health, remediation
+
+- candidate_first_name: Betty
+  candidate_last_name:  McCollum
+  state: mn
+  race: US House of Representatives
+  district: 4
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “I’m committed to ensuring data centers can’t be constructed at the expense of our environment, our health, or our utility bills. I’m co-sponsoring the Reverse Big Ugly Tax Breaks for Data Centers Act (H.R. 10448), which would repeal the massive tax breaks for data centers that were included in Republicans’ Big Ugly Bill. I just voted to pass the Ratepayer Protection Act (H.R. 9340) to help prevent data centers from passing the cost of their increased energy consumption on to local communities.” 
+    
+    KEYWORDS: health, sustainability, affordability
+
+- candidate_first_name: Betty
+  candidate_last_name:  McCollum
+  state: mn
+  race: US House of Representatives
+  district: 4
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “The Trump administration and Republicans in Congress have time and time again tried to cut funding for the NIH. As an appropriator, I’ve worked to protect and restore funding for the NIH, and as the Ranking Member of the Defense Appropriations Subcommittee, I work to support robust funding for medical research at the Department of Defense.” 
+    
+    KEYWORDS: health, research, innovation
+
+- candidate_first_name: Betty
+  candidate_last_name:  McCollum
+  state: mn
+  race: US House of Representatives
+  district: 4
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “Congress needs to take a comprehensive approach to stop the sale of illicit drugs and compassionately treat addiction by bringing together medical professionals, addiction specialists, researchers, and law enforcement to implement evidence-based strategies. Criminalizing addiction, particularly through mandatory minimum sentencing policies, has failed to achieve that goal. I’ve previously helped lead the bipartisan Community Action Opioid Response Act to provide grants to local entities that are effectively working to address the root causes and consequences of addiction.” 
+    
+    KEYWORDS: compassion, prevention, treatment
+
+- candidate_first_name: Karla
+  candidate_last_name: Hult
+  state: mn
+  race: State Senate
+  district: 50
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “As a longtime journalist, I know how valuable expertise is when tackling complex problems. My instinct is to listen to multiple perspectives before forming a position, and I would prioritize connecting directly with scientists.
+
+    We need scientists now more than ever as we face rapid advances in AI, a changing climate, and threats to our natural resources. Before voting on related policy, I would seek briefings from independent researchers, consult agency staff and advisory boards, and read the underlying evidence. I would also ask where uncertainty remains; honest answers about what we don't know matter as much as what we do.
+
+    Case in point: I frequently mention a promising partnership with the University of Minnesota's new AI Hub, which aligns education, research, and external partnerships under one strategy. Not everyone there may represent the traditional definition of scientist, but its leaders offer exactly the expertise needed to weigh AI's harms and benefits.
+
+    To be clear: science can tell us what is likely to happen, but not always what we should do. Weighing cost, fairness, and community values is an elected official's job, and I'll do it with the best evidence in hand.” 
+    
+    KEYWORDS: Listening. Evidence. Accountability.
+
+- candidate_first_name: Karla
+  candidate_last_name: Hult
+  state: mn
+  race: State Senate
+  district: 50
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “I oppose overturning the ban. This decision shows why we must listen to scientists on complex environmental questions.
+
+    My friend, meteorologist Paul Douglas, wrote in his January Star Tribune editorial, "I am not anti-mining... I am a proponent of responsible mining." But on the BWCA's future, he concluded, "The data isn't encouraging." I agree.
+
+    The Boundary Waters watershed is a fragile ecosystem and the foundation of a vital tourism economy. I would support:
+
+    •        Permanent legal protection for the watershed, so it can't be reversed with a single vote
+    •        Independent, science-based water-quality monitoring
+    •        Strict financial assurance requirements so taxpayers never foot the bill for cleanup
+    •        Responsible mining in places that don't put wilderness water at risk
+
+    I will base every decision on verified information from scientists. I will also engage directly with the people who live and work around the Boundary Waters, including Ely-area residents, outfitters and resort owners, and Tribal Nations. I think it's critical that all voices be heard on this controversial issue, particularly with such a valuable resource, and the tourism sector that depends on it, at stake.” 
+    
+    KEYWORDS: Legacy. Responsibility. Respect.
+
+- candidate_first_name: Karla
+  candidate_last_name: Hult
+  state: mn
+  race: State Senate
+  district: 50
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “I approach this issue as a journalist, 3M daughter, and concerned Minnesotan. I also believe this issue requires ongoing conversation based on fairness, equity, and –  most importantly – science, beginning with one fundamental truth: every Minnesotan deserves safe drinking water. The science is clear: PFAS are harmful at very low levels. I support the DFL approach of stopping PFAS at the source and protecting people now.
+
+    First, I oppose the federal rollback. The EPA has proposed rescinding limits on four PFAS and delaying compliance for PFOA and PFOS until 2031. Attorney General Ellison has challenged it, and I'd support Minnesota keeping the 2024 standards, with state standards as a backstop.
+
+    Second, I support Minnesota's 2023 law phasing out PFAS in consumer products by 2032, and would defend it. I'd ensure the MPCA has the resources to enforce manufacturer reporting, first due this July.
+
+    Third, I'd fund affected communities. Treatment is expensive, and small systems shouldn't pass the cost to ratepayers. I'd prioritize Clean Water Fund dollars and federal infrastructure money for the 21 systems exceeding limits, along with expanded testing.
+
+    Finally, polluters should pay for cleanup, not taxpayers. And yes, I'll always listen to Health Department and MPCA scientists.” 
+    
+    KEYWORDS: Responsibility. Accountability. Engagement.
+
+- candidate_first_name: Karla
+  candidate_last_name: Hult
+  state: mn
+  race: State Senate
+  district: 50
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “As a journalist, I believe data centers shouldn't be developed in secret. I would require meaningful community input, including public hearings, before incentives are approved. Transparency shouldn't end when a deal is signed: I support mandatory, ongoing public disclosure of energy use, water use, tax incentives, and community impacts.
+
+    I will protect and strengthen Minnesota's guardrails against cost-shifting, so families, seniors, and small businesses never pay higher utility bills because of data centers. Reliable, affordable service must come first for people and businesses already here.
+
+    Minnesota's clean water and natural resources make this a great place to live, work, and raise a family. Data centers should support, not undermine, our goal of 100% carbon-free electricity by 2040, so I would require them to use renewable energy.
+
+    Economic development should benefit Minnesotans, not just Big Tech. Companies that build here should create good-paying local jobs, pay their fair share of infrastructure costs, and deliver clear public benefits that outweigh the costs.
+
+    Importantly, this reflects my position on data center development and its impact. My concerns about AI generally are significant, so I support a state task force of scientists, utilities, local governments, and concerned residents for oversight.” 
+    
+    KEYWORDS: Transparency. Engagement. Evidence.
+
+- candidate_first_name: Karla
+  candidate_last_name: Hult
+  state: mn
+  race: State Senate
+  district: 50
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “I profoundly believe in the value of scientific investment to our economy and to our quality and sustainability of life. I know the cost of cutting research funding, in economic loss and in time lost to finding answers for overwhelming challenges, including Alzheimer's and other dementias, which my family knows well, and other chronic illnesses. Again, those $700 million in NIH awards supported over 7,000 Minnesota jobs, so this is an economic issue as much as a scientific one.
+
+    Federally, I support:
+
+    * Stable, predictable NIH funding, and opposition to arbitrary caps on indirect costs, which keep labs running. Minnesota joined other states in challenging the 15% cap.
+    * Protecting peer review, so grants are awarded on scientific merit.
+    At the state level, I support:
+    * Sustained investment in the University of Minnesota, Mayo, and programs like MnDRIVE.
+    * Bridge funding to keep researchers and jobs here when federal dollars are disrupted.
+    * Partnerships between industry and universities to turn research into Minnesota jobs.
+
+    Research funding isn't a cost; it's an investment that returns jobs, discoveries, and healthier lives. I will keep listening to scientists on what they need.” 
+    
+    KEYWORDS: Investment. Hope. Just good economics.
+
+- candidate_first_name: Karla
+  candidate_last_name: Hult
+  state: mn
+  race: State Senate
+  district: 50
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “I wish this devastating disparity were limited to overdose deaths. Alas, we see the same gap in other health outcomes, including Alzheimer's and other dementias, where I've been a strong public advocate. Black Americans are twice as likely to live with dementia, Hispanic Americans 1.5 times, and Indigenous Minnesotans even more so. These gaps are tied to systemic racism: unequal access to high-quality, safe, and trustworthy healthcare, education, housing, and even food, given food deserts.
+
+    So I support thoughtful, consistent policies that address access and quality of life, paired with outreach that meets people where they are:
+
+    * Keep naloxone widely available, free of stigma, and expand access to treatment and recovery services.
+    * Direct opioid settlement dollars to the communities hit hardest, including Black- and Indigenous-led organizations and tribal nations, with transparency about where the money goes.
+    * Fund culturally specific, community-led prevention and care.
+    * Invest in healthcare access, nutrition, and education, which shape health outcomes long before a crisis.
+
+    The 28% decline shows what's possible, but progress has leveled off recently, and that is no reason to ease up. We should meet this crisis in the communities most affected.” 
+    
+    KEYWORDS: Equity. Access. Outreach.
+
+- candidate_first_name: Tracey
+  candidate_last_name: Breazeale
+  state: mn
+  race: State House of Representatives
+  district: 45A
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q1
+  response: |
+    “I believe good policy starts with balanced fact based information which means evaluating data and listening to the people who have spent their careers studying the problem. When a bill touches public health, clean water, our lakes and land, agriculture, energy, schools, or new technology, I want to hear directly from the experts who know the subject best: researchers, scientists, doctors, nurses, engineers, academic experts, etc. I'll read the research with a critical eye, look at reliable data, and ask the hard questions to arrive at solutions that are grounded in science. Minnesotans deserve leaders who make decisions based on facts, not politics or pressure from special interests.” 
+    
+    KEYWORDS: Fact-based, Independent, Balanced
+
+- candidate_first_name: Tracey
+  candidate_last_name: Breazeale
+  state: mn
+  race: State House of Representatives
+  district: 45A
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q2
+  response: |
+    “Not all mines are created equal and there is a big difference between taconite mining and the copper-sulfide mining being proposed near the Boundary Waters Canoe Area. The Boundary Waters Canoe Area is a collection of highly interconnected lakes and rivers and it is simply not possible to limit pollution to any one area. Copper-sulfide mining is particularly toxic - when sulfur and water mix, an acid is released and history shows these types of mines leak and pollute the surrounding water. This type of damage cannot be fixed and therefore I will support the “Prove It First” legislation. “Prove It First”  would require copper-sulfide mining companies to demonstrate they can operate without polluting the local environment before they can receive a permit in Minnesota.” 
+    
+    KEYWORDS: Protect the BWCA
+
+- candidate_first_name: Tracey
+  candidate_last_name: Breazeale
+  state: mn
+  race: State House of Representatives
+  district: 45A
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q3
+  response: |
+    “Every Minnesotan deserves to know the water coming from their tap is safe. As a member of the Minnetonka Beach City Council that approved a new water plant with PFAS treatment, I've seen this challenge up close. Minnetonka Beach is a small city of about 230 households, and building modern treatment was a major financial commitment. Residents shouldn't have to carry that cost alone. I support the use of state funds to help cities fund necessary investments in water infrastructure. PFAS contamination requires action at both ends: cleaning up existing pollution and preventing more forever chemicals from entering our water. I support strong, science-based drinking-water standards for PFAS, and helping communities test, treat, and remediate contaminated water without placing the burden on local taxpayers and ratepayers. I also support holding manufacturers and polluters responsible for cleanup costs when they caused the contamination. Minnesota is already leading through Amara's Law, which phases out nonessential uses of PFAS. I support building on it by reducing unnecessary PFAS use, requiring greater transparency from manufacturers, and investing in safer alternatives. We also need continued monitoring of public water systems and private wells, investment in effective treatment technologies, and aggressive cleanup of known contamination sites.” 
+    
+    KEYWORDS: Infrastructure, Clean Water
+
+- candidate_first_name: Tracey
+  candidate_last_name: Breazeale
+  state: mn
+  race: State House of Representatives
+  district: 45A
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q4
+  response: |
+    “I support a moratorium on construction of hyper-scale data centers so we can develop legislation that protects local communities and consumers. It’s unclear how many will actually be needed and it’s important not to overbuild.  Legislation should include environmental review, water usage, energy usage and transparency.
+    Environmental review: I support mandatory environmental review before construction. Data centers affect our water, air, and neighborhood noise levels, and current requirements don't cover all of that. We need a review designed specifically for data centers.
+    Water:  Hyper-scale data centers can use a lot of water and we need to ensure they are using as little as possible, encouraging underground cooling so consumers and local businesses do not face water shortages or rate increases. 
+    Energy and ratepayers:  I support requiring data centers to run on 100% new clean energy. Data centers should pay for the new generation and transmission they require, so families and small businesses aren't subsidizing big tech. 
+    Transparency:  I support banning or strictly limiting non-disclosure agreements between local officials and tech developers. Public trust depends on transparency and residents deserve to know what's proposed, what it will cost them, and what protections are in place.” 
+    
+    KEYWORDS: Planful, Community Focused
+
+- candidate_first_name: Tracey
+  candidate_last_name: Breazeale
+  state: mn
+  race: State House of Representatives
+  district: 45A
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q5
+  response: |
+    “I will be a vocal advocate against federal cuts that jeopardize our researchers, universities, hospitals, and the patients who depend on them. I would also work closely with our congressional delegation to help secure stable funding. At the state level, I would champion sustained investment in the University of Minnesota, Minnesota State, and our other public research institutions. That includes modernizing laboratories and research facilities and building partnerships that position Minnesota researchers to compete successfully for outside funding. I would also expand STEM education so that students can pursue rewarding careers in science, healthcare, and advanced manufacturing here at home.
+    Equally important is the scientific expertise within our state agencies. When we confront emerging diseases, invasive species, agricultural challenges, or PFAS contamination, we depend on their knowledge. Eroding that capacity undermines our ability to protect public health and our natural resources.” 
+    
+    KEYWORDS: Science, Research, Jobs
+
+- candidate_first_name: Tracey
+  candidate_last_name: Breazeale
+  state: mn
+  race: State House of Representatives
+  district: 45A
+  party: Democratic
+  date: 2026-10-02
+  question: mn-q6
+  response: |
+    “Overdose deaths in Minnesota have fallen, but the work isn't finished until help reaches everyone who needs it. My approach is public health first: prevent addiction, make treatment easy to get, reduce the harm of use, and hold traffickers accountable.
+    Naloxone should be available everywhere people gather, including schools, libraries, community groups, and clinics, with training so people can use it confidently. Treatment shouldn't be blocked by paperwork or cost. That means making medication-assisted treatment, counseling, peer support, and recovery housing available in rural areas and city neighborhoods alike. The gap for non-white Minnesotans is too large to ignore, and general programs won't close it.  Resources should follow the data and serve anyone who needs help. I also support improving prescription tracking, and teaching young people early about the risks. Lasting change depends on stable housing, mental health care, and economic security, too.” 
+    
+    KEYWORDS: Prevention, Treatment, Naloxone
+
+- candidate_first_name: Tara
+  candidate_last_name: Killen
+  state: mn
+  race: State Senate
+  district: 10
+  party: Democratic
+  date: 2026-10-05
+  question: mn-q1
+  response: |
+    “Science helps us understand what is happening, why, and what different choices may mean for people. I will consult scientists with relevant expertise when considering legislation involving healthcare, agriculture, water, energy, infrastructure, and emerging technology.
+    I will seek input from researchers, state agency scientists, and other qualified experts through hearings and briefings. I will ask about evidence, methods, uncertainties, funding sources, and areas of agreement or disagreement. Different opinions deserve consideration in proportion to the evidence supporting them.
+    My work in construction and compliance has taught me that the big picture and the details affect one another. I support protections where reliable scientific evidence establishes the need. I will also examine whether requirements are effective, practical, and affordable, especially for farmers, small businesses, and individuals. Protecting people includes considering unintended consequences and helping them meet necessary standards.
+    I am responsible for my votes. I will consider affected communities’ experiences, explain my reasoning, and remain willing to change my position when reliable new evidence warrants it.” 
+    
+    KEYWORDS: Evidence, Balance, Accountability
+
+- candidate_first_name: Tara
+  candidate_last_name: Killen
+  state: mn
+  race: State Senate
+  district: 10
+  party: Democratic
+  date: 2026-10-05
+  question: mn-q2
+  response: |
+    “Minnesota needs good jobs, essential minerals, and clean water. Mining decisions must consider all three, including consequences that can last long after a mine closes.
+    I oppose weakening protections for the Boundary Waters watershed. I would not support a mining project there unless rigorous scientific review demonstrates that it can meet protective standards without unacceptable long-term harm. A company’s assurances alone are not enough.
+    As a state senator, I support strong water quality standards, thorough environmental review, independent monitoring, public findings, and meaningful government-to-government consultation with affected Tribal Nations. Review must address cumulative impacts, waste storage, accidents, and conditions after closure.
+    I support requiring project owners to fund independent inspection and monitoring throughout the project and maintain financial assurance for reasonably foreseeable damage, cleanup, closure, and long-term care. Those requirements need regular review as risks and costs change, protecting taxpayers if an operator cannot meet its obligations.
+    Requirements must be clear, proportionate to risk, and consistently enforced. Protecting this watershed also protects recreation and tourism livelihoods. If a project cannot meet protective standards, I would oppose its approval.” 
+    
+    KEYWORDS: Water, Evidence, Responsibility
+
+- candidate_first_name: Tara
+  candidate_last_name: Killen
+  state: mn
+  race: State Senate
+  district: 10
+  party: Democratic
+  date: 2026-10-05
+  question: mn-q3
+  response: |
+    “Safe drinking water is a basic need. Families deserve clear information about their water and practical help when contamination is found.
+    I support continued PFAS testing, understandable public reporting, and enforceable drinking water protections informed by current science. I support funding and technical assistance for effective treatment, especially for small rural systems with limited resources. Private well owners also need testing, guidance, and assistance based on risk and need.
+    Preventing contamination is essential. I support implementing Minnesota’s PFAS prevention law, known as Amara’s Law, with clear guidance, practical timelines, and assistance for businesses transitioning to safer alternatives. I will consider the availability, effectiveness, and cost of replacements. Exceptions for currently unavoidable uses need scientific justification and regular review.
+    I support holding responsible polluters accountable for cleanup costs and pursuing available federal funding.
+    Protecting health and keeping water affordable belong in the same conversation. Farmers, small businesses, and individuals need workable ways to meet necessary protections. Residents cannot be left to carry this burden alone.” 
+    
+    KEYWORDS: Prevention, Affordability, Accountability
+
+- candidate_first_name: Tara
+  candidate_last_name: Killen
+  state: mn
+  race: State Senate
+  district: 10
+  party: Democratic
+  date: 2026-10-05
+  question: mn-q4
+  response: |
+    “Data centers can bring investment, but communities need to understand their benefits, demands, and long-term costs before decisions are made.
+    I support thorough environmental review of large data centers, including water use, electricity demand, backup generator emissions, noise, and cumulative effects. Review must consider drought conditions, grid reliability, and competing needs for water and energy.
+    I support enforceable safeguards proportionate to demonstrated risks, including efficient water and energy use, ongoing monitoring, and public reporting. Residents and affected Tribal Nations need meaningful participation before commitments are finalized. Communities and businesses also need predictable rules and a permitting process that is thorough and timely.
+    Data center owners must pay the costs attributable to serving their facilities, including necessary utility upgrades, with safeguards against shifting those costs to households and other businesses.
+    I would evaluate tax incentives against measurable public benefits, including lasting jobs, local revenue, and infrastructure costs. Agreements need clear obligations and consequences when commitments are not met.
+    Growth works best when communities share in its benefits and their essential resources remain protected.” 
+    
+    KEYWORDS: Resources, Transparency, Fairness
+
+- candidate_first_name: Tara
+  candidate_last_name: Killen
+  state: mn
+  race: State Senate
+  district: 10
+  party: Democratic
+  date: 2026-10-05
+  question: mn-q5
+  response: |
+    “Scientific research is an investment in people’s health, our workforce, and our ability to solve problems. Its value includes discoveries whose practical benefits may take years to emerge.
+    As a state senator, I support stable funding for research and education at Minnesota’s public universities, including research infrastructure, training, and competitive grants with independent scientific review. I would consider both basic research and work addressing Minnesota’s needs, including rural healthcare, agriculture, clean water, and energy.
+    I would advocate with our congressional delegation for reliable NIH and other federal research funding. State government cannot replace the federal research budget, but it can be a strong partner and voice for Minnesota.
+    Public funding requires accountability through clear reporting, sound research practices, and evaluation appropriate to the work. Funding decisions need scientific merit and public benefit at their center, with protection from political interference.
+    I also want research findings to reach communities, patients, farmers, and businesses, including practical solutions that help them protect health and natural resources while managing costs.” 
+    
+    KEYWORDS: Research, Investment, Independence
+
+- candidate_first_name: Tara
+  candidate_last_name: Killen
+  state: mn
+  race: State Senate
+  district: 10
+  party: Democratic
+  date: 2026-10-05
+  question: mn-q6
+  response: |
+    “Every overdose death is someone’s family member, friend, or neighbor. Progress matters, but it must reach communities experiencing the greatest losses.
+    I support accessible naloxone and overdose response training, medications for opioid use disorder, timely treatment, and sustained recovery support. Rural residents need care they can reach and afford, including transportation and appropriate telehealth services.
+    I support prevention education and services that connect people to care after an overdose, during hospital discharge, and when leaving incarceration. Housing and mental healthcare also affect a person’s ability to recover.
+    I would work with Tribal Nations, Native-led organizations, Black community organizations, healthcare providers, and people with lived experience to fund and evaluate services designed around their communities’ needs. Tribal sovereignty and culturally responsive care belong at the center of those partnerships.
+    I support transparent use of opioid settlement funds and public reporting on results, including whether disparities are narrowing. Funding and implementation need to account for rural providers’ limited staffing and resources.
+    People need a path to safety and recovery, with dignity throughout that process.” 
+    
+    KEYWORDS: Prevention, Treatment, Dignity
+
+- candidate_first_name: Peggy
+  candidate_last_name: Flanagan
+  state: mn
+  race: US Senate
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Michele
+  candidate_last_name: Tafoya
+  state: mn
+  race: US Senate
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Rebecca
+  candidate_last_name: Whiting
+  state: mn
+  race: US Senate
+  party: Libertarian
+  did_not_respond: true
+- candidate_first_name: Jake
+  candidate_last_name: Johnson
+  state: mn
+  race: US House of Representatives
+  district: District 1
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Brad
+  candidate_last_name: Finstad
+  state: mn
+  race: US House of Representatives
+  district: District 1
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Matt
+  candidate_last_name: Little
+  state: mn
+  race: US House of Representatives
+  district: District 2
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Eric
+  candidate_last_name: Pratt
+  state: mn
+  race: US House of Representatives
+  district: District 2
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Kelly
+  candidate_last_name: Morrison
+  state: mn
+  race: US House of Representatives
+  district: District 3
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Tyler
+  candidate_last_name: Bass
+  state: mn
+  race: US House of Representatives
+  district: District 3
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Paul
+  candidate_last_name: Wikstrom
+  state: mn
+  race: US House of Representatives
+  district: District 4
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ilhan
+  candidate_last_name: Omar
+  state: mn
+  race: US House of Representatives
+  district: District 5
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Nagel
+  state: mn
+  race: US House of Representatives
+  district: District 5
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Tom
+  candidate_last_name: Emmer
+  state: mn
+  race: US House of Representatives
+  district: District 6
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Erik
+  candidate_last_name: Osberg
+  state: mn
+  race: US House of Representatives
+  district: District 7
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Michelle
+  candidate_last_name: Fischbach
+  state: mn
+  race: US House of Representatives
+  district: District 7
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Pete
+  candidate_last_name: Stauber
+  state: mn
+  race: US House of Representatives
+  district: District 8
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Lisa
+  candidate_last_name: Demuth
+  state: mn
+  race: Governor
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Mark
+  candidate_last_name: Johnson
+  state: mn
+  race: State Senate
+  district: District 1
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Steve
+  candidate_last_name: Green
+  state: mn
+  race: State Senate
+  district: District 2
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Grant
+  candidate_last_name: Hauschild
+  state: mn
+  race: State Senate
+  district: District 3
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Andrea
+  candidate_last_name: Zupancich
+  state: mn
+  race: State Senate
+  district: District 3
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Rob
+  candidate_last_name: Kupec
+  state: mn
+  race: State Senate
+  district: District 4
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Austin
+  candidate_last_name: Peterson
+  state: mn
+  race: State Senate
+  district: District 4
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Mike
+  candidate_last_name: Wiener
+  state: mn
+  race: State Senate
+  district: District 5
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Keri
+  candidate_last_name: Heintzeman
+  state: mn
+  race: State Senate
+  district: District 6
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Kim
+  candidate_last_name: McLaughlin
+  state: mn
+  race: State Senate
+  district: District 7
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Robert
+  candidate_last_name: Farnsworth
+  state: mn
+  race: State Senate
+  district: District 7
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jen
+  candidate_last_name: McEwen
+  state: mn
+  race: State Senate
+  district: District 8
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Darrick
+  candidate_last_name: Law
+  state: mn
+  race: State Senate
+  district: District 8
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jordan
+  candidate_last_name: Rasmusson
+  state: mn
+  race: State Senate
+  district: District 9
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nathan
+  candidate_last_name: Wesenberg
+  state: mn
+  race: State Senate
+  district: District 10
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Mary
+  candidate_last_name: Carlson
+  state: mn
+  race: State Senate
+  district: District 11
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jason
+  candidate_last_name: Rarick
+  state: mn
+  race: State Senate
+  district: District 11
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kari
+  candidate_last_name: Dorry
+  state: mn
+  race: State Senate
+  district: District 12
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Torrey
+  candidate_last_name: Westrom
+  state: mn
+  race: State Senate
+  district: District 12
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jared
+  candidate_last_name: Gapinski
+  state: mn
+  race: State Senate
+  district: District 13
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Trent
+  candidate_last_name: Dilks
+  state: mn
+  race: State Senate
+  district: District 13
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Aric
+  candidate_last_name: Putman
+  state: mn
+  race: State Senate
+  district: District 14
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Bernie
+  candidate_last_name: Perryman
+  state: mn
+  race: State Senate
+  district: District 14
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Andrea
+  candidate_last_name: Boettger
+  state: mn
+  race: State Senate
+  district: District 15
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Braxton
+  candidate_last_name: Seifert
+  state: mn
+  race: State Senate
+  district: District 15
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Andrew
+  candidate_last_name: Lang
+  state: mn
+  race: State Senate
+  district: District 16
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Julie
+  candidate_last_name: Kelzer
+  state: mn
+  race: State Senate
+  district: District 17
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Glenn
+  candidate_last_name: Gruehagen
+  state: mn
+  race: State Senate
+  district: District 17
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nick
+  candidate_last_name: Frentz
+  state: mn
+  race: State Senate
+  district: District 18
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jackie
+  candidate_last_name: Henry
+  state: mn
+  race: State Senate
+  district: District 18
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Jasinski
+  state: mn
+  race: State Senate
+  district: District 19
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Steven
+  candidate_last_name: Jacob
+  state: mn
+  race: State Senate
+  district: District 20
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jason
+  candidate_last_name: Lohmann
+  state: mn
+  race: State Senate
+  district: District 20
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Chris
+  candidate_last_name: Knoll
+  state: mn
+  race: State Senate
+  district: District 21
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Marisa
+  candidate_last_name: Ulmen
+  state: mn
+  race: State Senate
+  district: District 22
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Gene
+  candidate_last_name: Dornink
+  state: mn
+  race: State Senate
+  district: District 23
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Simon
+  candidate_last_name: Glaser
+  state: mn
+  race: State Senate
+  district: District 24
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Nels
+  candidate_last_name: Pierson
+  state: mn
+  race: State Senate
+  district: District 24
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Howie
+  state: mn
+  race: State Senate
+  district: District 25
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jack
+  candidate_last_name: Hedin
+  state: mn
+  race: State Senate
+  district: District 26
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Cherie
+  candidate_last_name: Johnson
+  state: mn
+  race: State Senate
+  district: District 26
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Brandon
+  candidate_last_name: Van Dover
+  state: mn
+  race: State Senate
+  district: District 27
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Andrew
+  candidate_last_name: Mathews
+  state: mn
+  race: State Senate
+  district: District 27
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Max
+  candidate_last_name: Glenna
+  state: mn
+  race: State Senate
+  district: District 28
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Mark
+  candidate_last_name: Koran
+  state: mn
+  race: State Senate
+  district: District 28
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Michael
+  candidate_last_name: Holmstrom Jr.
+  state: mn
+  race: State Senate
+  district: District 29
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Leah
+  candidate_last_name: Temple
+  state: mn
+  race: State Senate
+  district: District 30
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Eric
+  candidate_last_name: Lucero
+  state: mn
+  race: State Senate
+  district: District 30
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Calvin
+  candidate_last_name: Bahr
+  state: mn
+  race: State Senate
+  district: District 31
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Chris
+  candidate_last_name: Ford
+  state: mn
+  race: State Senate
+  district: District 32
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Michael
+  candidate_last_name: Kreun
+  state: mn
+  race: State Senate
+  district: District 32
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nat
+  candidate_last_name: Smith
+  state: mn
+  race: State Senate
+  district: District 33
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Karin
+  candidate_last_name: Housley
+  state: mn
+  race: State Senate
+  district: District 33
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Hoffman
+  state: mn
+  race: State Senate
+  district: District 34
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Karen
+  candidate_last_name: Attia
+  state: mn
+  race: State Senate
+  district: District 34
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Angela
+  candidate_last_name: Nelson
+  state: mn
+  race: State Senate
+  district: District 35
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jim
+  candidate_last_name: Abeler
+  state: mn
+  race: State Senate
+  district: District 35
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Heather
+  candidate_last_name: Gustafson
+  state: mn
+  race: State Senate
+  district: District 36
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Heidi
+  candidate_last_name: Heino
+  state: mn
+  race: State Senate
+  district: District 36
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Brady
+  candidate_last_name: Hoag
+  state: mn
+  race: State Senate
+  district: District 37
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Susan
+  candidate_last_name: Pha
+  state: mn
+  race: State Senate
+  district: District 38
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Mary K
+  candidate_last_name: Kunesh
+  state: mn
+  race: State Senate
+  district: District 39
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Pam
+  candidate_last_name: Wolf
+  state: mn
+  race: State Senate
+  district: District 39
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ngone Saliou
+  candidate_last_name: Niang
+  state: mn
+  race: State Senate
+  district: District 39
+  party: Green
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Marty
+  state: mn
+  race: State Senate
+  district: District 40
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Rachel
+  candidate_last_name: Japuntich
+  state: mn
+  race: State Senate
+  district: District 40
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Judy
+  candidate_last_name: Seeberger
+  state: mn
+  race: State Senate
+  district: District 41
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Tom
+  candidate_last_name: Dippel
+  state: mn
+  race: State Senate
+  district: District 41
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Bonnie
+  candidate_last_name: Westlin
+  state: mn
+  race: State Senate
+  district: District 42
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kevin
+  candidate_last_name: Peterson
+  state: mn
+  race: State Senate
+  district: District 42
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Mike
+  candidate_last_name: Freiberg
+  state: mn
+  race: State Senate
+  district: District 43
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: James
+  candidate_last_name: Tacheny
+  state: mn
+  race: State Senate
+  district: District 44
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ann
+  candidate_last_name: Johnson Stewart
+  state: mn
+  race: State Senate
+  district: District 45
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Shannon
+  candidate_last_name: Bruce
+  state: mn
+  race: State Senate
+  district: District 45
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ron
+  candidate_last_name: Latz
+  state: mn
+  race: State Senate
+  district: District 46
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kayla
+  candidate_last_name: Wright
+  state: mn
+  race: State Senate
+  district: District 46
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Dan
+  candidate_last_name: Kessler
+  state: mn
+  race: State Senate
+  district: District 48
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Julia
+  candidate_last_name: Coleman
+  state: mn
+  race: State Senate
+  district: District 48
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Dustin
+  candidate_last_name: DuFault
+  state: mn
+  race: State Senate
+  district: District 49
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Owen
+  candidate_last_name: Michaelson
+  state: mn
+  race: State Senate
+  district: District 50
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Simon
+  candidate_last_name: Trautmann Cordova
+  state: mn
+  race: State Senate
+  district: District 51
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Juline
+  candidate_last_name: Birgersson
+  state: mn
+  race: State Senate
+  district: District 51
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Brady
+  candidate_last_name: O'Neil
+  state: mn
+  race: State Senate
+  district: District 52
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Paul
+  candidate_last_name: Cumings
+  state: mn
+  race: State Senate
+  district: District 53
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Todd
+  candidate_last_name: Podgorski
+  state: mn
+  race: State Senate
+  district: District 53
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ben
+  candidate_last_name: Bakeberg
+  state: mn
+  race: State Senate
+  district: District 54
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Lindsey
+  candidate_last_name: Port
+  state: mn
+  race: State Senate
+  district: District 55
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Van
+  candidate_last_name: Holston
+  state: mn
+  race: State Senate
+  district: District 55
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Raymond
+  candidate_last_name: Peterson
+  state: mn
+  race: State Senate
+  district: District 56
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Erin
+  candidate_last_name: Maye Quade
+  state: mn
+  race: State Senate
+  district: District 56
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Steven
+  candidate_last_name: Schroer
+  state: mn
+  race: State Senate
+  district: District 57
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Zach
+  candidate_last_name: Duckworth
+  state: mn
+  race: State Senate
+  district: District 57
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Bill
+  candidate_last_name: Lieske
+  state: mn
+  race: State Senate
+  district: District 58
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Bobby Joe
+  candidate_last_name: Champion
+  state: mn
+  race: State Senate
+  district: District 59
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Doron
+  candidate_last_name: Clark
+  state: mn
+  race: State Senate
+  district: District 60
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Abigail
+  candidate_last_name: Wolters
+  state: mn
+  race: State Senate
+  district: District 60
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Scott
+  candidate_last_name: Dibble
+  state: mn
+  race: State Senate
+  district: District 61
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Zaynab
+  candidate_last_name: Mohamed
+  state: mn
+  race: State Senate
+  district: District 63
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Diane
+  candidate_last_name: Napper
+  state: mn
+  race: State Senate
+  district: District 63
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Robert
+  candidate_last_name: Bushard
+  state: mn
+  race: State Senate
+  district: District 64
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Clare
+  candidate_last_name: Oumou Verbeten
+  state: mn
+  race: State Senate
+  district: District 66
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kathleen
+  candidate_last_name: Bart
+  state: mn
+  race: State Senate
+  district: District 66
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Foung
+  candidate_last_name: Hawj
+  state: mn
+  race: State Senate
+  district: District 67
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Toby
+  candidate_last_name: Hesselgrave
+  state: mn
+  race: State Senate
+  district: District 67
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Leanna
+  candidate_last_name: Sandahl
+  state: mn
+  race: State House of Representatives
+  district: District 1A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Burkel
+  state: mn
+  race: State House of Representatives
+  district: District 1A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Steve
+  candidate_last_name: Gander
+  state: mn
+  race: State House of Representatives
+  district: District 1B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Reed
+  candidate_last_name: Olson
+  state: mn
+  race: State House of Representatives
+  district: District 2A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Bidal
+  candidate_last_name: Duran
+  state: mn
+  race: State House of Representatives
+  district: District 2A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Matt
+  candidate_last_name: Bliss
+  state: mn
+  race: State House of Representatives
+  district: District 2B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Roger
+  candidate_last_name: Skraba
+  state: mn
+  race: State House of Representatives
+  district: District 3A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Aaron
+  candidate_last_name: Schweiger
+  state: mn
+  race: State House of Representatives
+  district: District 3B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Natalie
+  candidate_last_name: Zeleznikar
+  state: mn
+  race: State House of Representatives
+  district: District 3B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Erika
+  candidate_last_name: Yoney
+  state: mn
+  race: State House of Representatives
+  district: District 4A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jim
+  candidate_last_name: Joy
+  state: mn
+  race: State House of Representatives
+  district: District 4B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Dan
+  candidate_last_name: Mitchell
+  state: mn
+  race: State House of Representatives
+  district: District 5A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Krista
+  candidate_last_name: Knudsen
+  state: mn
+  race: State House of Representatives
+  district: District 5A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Maggie
+  candidate_last_name: Evers
+  state: mn
+  race: State House of Representatives
+  district: District 5B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jonathan
+  candidate_last_name: Claussen
+  state: mn
+  race: State House of Representatives
+  district: District 5B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ben
+  candidate_last_name: Davis
+  state: mn
+  race: State House of Representatives
+  district: District 6A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nicky
+  candidate_last_name: Hardy
+  state: mn
+  race: State House of Representatives
+  district: District 6B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Josh
+  candidate_last_name: Heintzeman
+  state: mn
+  race: State House of Representatives
+  district: District 6B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Erin
+  candidate_last_name: Ningen
+  state: mn
+  race: State House of Representatives
+  district: District 7A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Spencer
+  candidate_last_name: Igo
+  state: mn
+  race: State House of Representatives
+  district: District 7A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Dan
+  candidate_last_name: Horoshak
+  state: mn
+  race: State House of Representatives
+  district: District 7B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Cal
+  candidate_last_name: Warwas
+  state: mn
+  race: State House of Representatives
+  district: District 7B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Pete
+  candidate_last_name: Johnson
+  state: mn
+  race: State House of Representatives
+  district: District 8A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Allan
+  candidate_last_name: Kehr II
+  state: mn
+  race: State House of Representatives
+  district: District 8A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Alicia
+  candidate_last_name: Kozlowski
+  state: mn
+  race: State House of Representatives
+  district: District 8B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Shawn
+  candidate_last_name: Savela
+  state: mn
+  race: State House of Representatives
+  district: District 8B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nicholas
+  candidate_last_name: Hanson
+  state: mn
+  race: State House of Representatives
+  district: District 9A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jeff
+  candidate_last_name: Backer
+  state: mn
+  race: State House of Representatives
+  district: District 9A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Owen
+  candidate_last_name: Werner
+  state: mn
+  race: State House of Representatives
+  district: District 9B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Tom
+  candidate_last_name: Murphy
+  state: mn
+  race: State House of Representatives
+  district: District 9B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Melissa
+  candidate_last_name: Maertens
+  state: mn
+  race: State House of Representatives
+  district: District 10A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Mark
+  candidate_last_name: Striemer
+  state: mn
+  race: State House of Representatives
+  district: District 10A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jeff
+  candidate_last_name: Larson
+  state: mn
+  race: State House of Representatives
+  district: District 10B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Isaac
+  candidate_last_name: Schultz
+  state: mn
+  race: State House of Representatives
+  district: District 10B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Chris
+  candidate_last_name: Swanson
+  state: mn
+  race: State House of Representatives
+  district: District 11A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jeff
+  candidate_last_name: Dotseth
+  state: mn
+  race: State House of Representatives
+  district: District 11A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jack
+  candidate_last_name: L'Heureux
+  state: mn
+  race: State House of Representatives
+  district: District 11B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Nathan
+  candidate_last_name: Nelson
+  state: mn
+  race: State House of Representatives
+  district: District 11B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Talitha
+  candidate_last_name: Anderson
+  state: mn
+  race: State House of Representatives
+  district: District 12A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Paul
+  candidate_last_name: Anderson
+  state: mn
+  race: State House of Representatives
+  district: District 12A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Mary
+  candidate_last_name: Franson
+  state: mn
+  race: State House of Representatives
+  district: District 12B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Tanja
+  candidate_last_name: Goering
+  state: mn
+  race: State House of Representatives
+  district: District 13A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Justin
+  candidate_last_name: Doyle
+  state: mn
+  race: State House of Representatives
+  district: District 13B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Dawn
+  candidate_last_name: Loberg
+  state: mn
+  race: State House of Representatives
+  district: District 13B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Abdi
+  candidate_last_name: Daisane
+  state: mn
+  race: State House of Representatives
+  district: District 14A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Michael
+  candidate_last_name: Conway
+  state: mn
+  race: State House of Representatives
+  district: District 14A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Sue
+  candidate_last_name: Ek
+  state: mn
+  race: State House of Representatives
+  district: District 14B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nathan
+  candidate_last_name: Schmig
+  state: mn
+  race: State House of Representatives
+  district: District 15A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Geri
+  candidate_last_name: Theis
+  state: mn
+  race: State House of Representatives
+  district: District 15B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: David
+  candidate_last_name: Torgelson
+  state: mn
+  race: State House of Representatives
+  district: District 16A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Scott
+  candidate_last_name: Van Binsbergen
+  state: mn
+  race: State House of Representatives
+  district: District 16A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Dave
+  candidate_last_name: Baker
+  state: mn
+  race: State House of Representatives
+  district: District 16B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Mali
+  candidate_last_name: Anderson
+  state: mn
+  race: State House of Representatives
+  district: District 17A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Dawn
+  candidate_last_name: Gillman
+  state: mn
+  race: State House of Representatives
+  district: District 17A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ben
+  candidate_last_name: Wieman
+  state: mn
+  race: State House of Representatives
+  district: District 17B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Bobbie
+  candidate_last_name: Harder
+  state: mn
+  race: State House of Representatives
+  district: District 17B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Leah
+  candidate_last_name: Hanson
+  state: mn
+  race: State House of Representatives
+  district: District 18A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Erica
+  candidate_last_name: Schwartz
+  state: mn
+  race: State House of Representatives
+  district: District 18A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Luke
+  candidate_last_name: Frederick
+  state: mn
+  race: State House of Representatives
+  district: District 18B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Keith
+  candidate_last_name: Allen
+  state: mn
+  race: State House of Representatives
+  district: District 19A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Zack
+  candidate_last_name: Meyman
+  state: mn
+  race: State House of Representatives
+  district: District 19B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Tom
+  candidate_last_name: Sexton
+  state: mn
+  race: State House of Representatives
+  district: District 19B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Heather
+  candidate_last_name: Arndt
+  state: mn
+  race: State House of Representatives
+  district: District 20A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Pam
+  candidate_last_name: Altendorf
+  state: mn
+  race: State House of Representatives
+  district: District 20A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Steve
+  candidate_last_name: Holm
+  state: mn
+  race: State House of Representatives
+  district: District 20B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Sara
+  candidate_last_name: Bertschinger
+  state: mn
+  race: State House of Representatives
+  district: District 20B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Krist
+  candidate_last_name: Wollum
+  state: mn
+  race: State House of Representatives
+  district: District 21A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jon
+  candidate_last_name: Wilson
+  state: mn
+  race: State House of Representatives
+  district: District 21B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Marj
+  candidate_last_name: Fogelman
+  state: mn
+  race: State House of Representatives
+  district: District 21B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Sonja
+  candidate_last_name: Denn
+  state: mn
+  race: State House of Representatives
+  district: District 22A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Bjorn
+  candidate_last_name: Olson
+  state: mn
+  race: State House of Representatives
+  district: District 22A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Terry
+  candidate_last_name: Stier
+  state: mn
+  race: State House of Representatives
+  district: District 22B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Joe
+  candidate_last_name: Staloch
+  state: mn
+  race: State House of Representatives
+  district: District 23A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Nick
+  candidate_last_name: Ronnenberg
+  state: mn
+  race: State House of Representatives
+  district: District 23A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Christoph
+  candidate_last_name: Dundas
+  state: mn
+  race: State House of Representatives
+  district: District 23B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Patricia
+  candidate_last_name: Mueller
+  state: mn
+  race: State House of Representatives
+  district: District 23B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Heather
+  candidate_last_name: Holmes
+  state: mn
+  race: State House of Representatives
+  district: District 24A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Duane
+  candidate_last_name: Quam
+  state: mn
+  race: State House of Representatives
+  district: District 24A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Tina
+  candidate_last_name: Liebling
+  state: mn
+  race: State House of Representatives
+  district: District 24B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: John Michael
+  candidate_last_name: Ajouri
+  state: mn
+  race: State House of Representatives
+  district: District 24B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Kim
+  candidate_last_name: Hicks
+  state: mn
+  race: State House of Representatives
+  district: District 25A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Brad
+  candidate_last_name: Trahan
+  state: mn
+  race: State House of Representatives
+  district: District 25A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Andy
+  candidate_last_name: Smith
+  state: mn
+  race: State House of Representatives
+  district: District 25B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Wes
+  candidate_last_name: Lund
+  state: mn
+  race: State House of Representatives
+  district: District 25B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Daniel
+  candidate_last_name: Wilson
+  state: mn
+  race: State House of Representatives
+  district: District 26A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Aaron
+  candidate_last_name: Repinski
+  state: mn
+  race: State House of Representatives
+  district: District 26A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Allie
+  candidate_last_name: Wolf
+  state: mn
+  race: State House of Representatives
+  district: District 26B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Greg
+  candidate_last_name: Davids
+  state: mn
+  race: State House of Representatives
+  district: District 26B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Shane
+  candidate_last_name: Mekeland
+  state: mn
+  race: State House of Representatives
+  district: District 27A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Charles
+  candidate_last_name: McConaughay
+  state: mn
+  race: State House of Representatives
+  district: District 27B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Bryan
+  candidate_last_name: Lawrence
+  state: mn
+  race: State House of Representatives
+  district: District 27B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Tim
+  candidate_last_name: Dummer
+  state: mn
+  race: State House of Representatives
+  district: District 28A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: James
+  candidate_last_name: Gordon
+  state: mn
+  race: State House of Representatives
+  district: District 28A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Daniel Colten
+  candidate_last_name: Schmidt
+  state: mn
+  race: State House of Representatives
+  district: District 28B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Max
+  candidate_last_name: Rymer
+  state: mn
+  race: State House of Representatives
+  district: District 28B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Emily
+  candidate_last_name: Dahlgren
+  state: mn
+  race: State House of Representatives
+  district: District 29A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Joe
+  candidate_last_name: McDonald
+  state: mn
+  race: State House of Representatives
+  district: District 29A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Marion
+  candidate_last_name: Rarick
+  state: mn
+  race: State House of Representatives
+  district: District 29B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Joey
+  candidate_last_name: Smyth
+  state: mn
+  race: State House of Representatives
+  district: District 30A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Walter
+  candidate_last_name: Hudson
+  state: mn
+  race: State House of Representatives
+  district: District 30A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Chad
+  candidate_last_name: Westberg
+  state: mn
+  race: State House of Representatives
+  district: District 30B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Brian
+  candidate_last_name: Walker
+  state: mn
+  race: State House of Representatives
+  district: District 31A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Harry
+  candidate_last_name: Niska
+  state: mn
+  race: State House of Representatives
+  district: District 31A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Peggy
+  candidate_last_name: Scott
+  state: mn
+  race: State House of Representatives
+  district: District 31B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nolan
+  candidate_last_name: West
+  state: mn
+  race: State House of Representatives
+  district: District 32A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Matt
+  candidate_last_name: Noris
+  state: mn
+  race: State House of Representatives
+  district: District 32B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Leslie
+  candidate_last_name: Larson
+  state: mn
+  race: State House of Representatives
+  district: District 32B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Angela
+  candidate_last_name: Thompson
+  state: mn
+  race: State House of Representatives
+  district: District 33A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Stacey
+  candidate_last_name: Stout
+  state: mn
+  race: State House of Representatives
+  district: District 33A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Josiah
+  candidate_last_name: Hill
+  state: mn
+  race: State House of Representatives
+  district: District 33B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jessica L
+  candidate_last_name: Johnson
+  state: mn
+  race: State House of Representatives
+  district: District 33B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Danny
+  candidate_last_name: Nadeau
+  state: mn
+  race: State House of Representatives
+  district: District 34A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Xp
+  candidate_last_name: Lee
+  state: mn
+  race: State House of Representatives
+  district: District 34B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Ruth
+  candidate_last_name: Bittner
+  state: mn
+  race: State House of Representatives
+  district: District 34B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Zack
+  candidate_last_name: Stephenson
+  state: mn
+  race: State House of Representatives
+  district: District 35A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Josh
+  candidate_last_name: Jungling
+  state: mn
+  race: State House of Representatives
+  district: District 35A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Kari
+  candidate_last_name: Rehrauer
+  state: mn
+  race: State House of Representatives
+  district: District 35B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Steve
+  candidate_last_name: Pape
+  state: mn
+  race: State House of Representatives
+  district: District 35B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jim
+  candidate_last_name: DeMay
+  state: mn
+  race: State House of Representatives
+  district: District 36A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Sebastian
+  candidate_last_name: Stoss
+  state: mn
+  race: State House of Representatives
+  district: District 36A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Brion
+  candidate_last_name: Curran
+  state: mn
+  race: State House of Representatives
+  district: District 36B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Patty
+  candidate_last_name: Bradway
+  state: mn
+  race: State House of Representatives
+  district: District 36B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Tom
+  candidate_last_name: McKee
+  state: mn
+  race: State House of Representatives
+  district: District 37A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Kristin
+  candidate_last_name: Bahner
+  state: mn
+  race: State House of Representatives
+  district: District 37B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Luke
+  candidate_last_name: Doerer
+  state: mn
+  race: State House of Representatives
+  district: District 37B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Huldah
+  candidate_last_name: Hiltsley
+  state: mn
+  race: State House of Representatives
+  district: District 38A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Charlie
+  candidate_last_name: Kistler
+  state: mn
+  race: State House of Representatives
+  district: District 38A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Samantha
+  candidate_last_name: Vang
+  state: mn
+  race: State House of Representatives
+  district: District 38B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Andy
+  candidate_last_name: Macko
+  state: mn
+  race: State House of Representatives
+  district: District 39A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Kt
+  candidate_last_name: Jacobs
+  state: mn
+  race: State House of Representatives
+  district: District 39B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Aisha
+  candidate_last_name: Elmquist
+  state: mn
+  race: State House of Representatives
+  district: District 40A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Luis
+  candidate_last_name: Withrow
+  state: mn
+  race: State House of Representatives
+  district: District 40A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: David
+  candidate_last_name: Gottfried
+  state: mn
+  race: State House of Representatives
+  district: District 40B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Cole
+  candidate_last_name: Birkeland
+  state: mn
+  race: State House of Representatives
+  district: District 41A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Wayne
+  candidate_last_name: Johnson
+  state: mn
+  race: State House of Representatives
+  district: District 41A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jen
+  candidate_last_name: Fox
+  state: mn
+  race: State House of Representatives
+  district: District 41B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: William
+  candidate_last_name: Beck
+  state: mn
+  race: State House of Representatives
+  district: District 41B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ned
+  candidate_last_name: Carroll
+  state: mn
+  race: State House of Representatives
+  district: District 42A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kathy
+  candidate_last_name: Burkett
+  state: mn
+  race: State House of Representatives
+  district: District 42A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ginny
+  candidate_last_name: Klevorn
+  state: mn
+  race: State House of Representatives
+  district: District 42B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kyrstin
+  candidate_last_name: Schuette
+  state: mn
+  race: State House of Representatives
+  district: District 43A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Todd
+  candidate_last_name: Hesemann
+  state: mn
+  race: State House of Representatives
+  district: District 43A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Peter
+  candidate_last_name: Fischer
+  state: mn
+  race: State House of Representatives
+  district: District 44A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Justin
+  candidate_last_name: Middaugh
+  state: mn
+  race: State House of Representatives
+  district: District 44A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Leon
+  candidate_last_name: Lillie
+  state: mn
+  race: State House of Representatives
+  district: District 44B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Andrew
+  candidate_last_name: Myers
+  state: mn
+  race: State House of Representatives
+  district: District 45A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Patty
+  candidate_last_name: Acomb
+  state: mn
+  race: State House of Representatives
+  district: District 45B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Thomas
+  candidate_last_name: Bergerson
+  state: mn
+  race: State House of Representatives
+  district: District 45B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Karl
+  candidate_last_name: Olson
+  state: mn
+  race: State House of Representatives
+  district: District 46A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Cheryl
+  candidate_last_name: Youakim
+  state: mn
+  race: State House of Representatives
+  district: District 46B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kim
+  candidate_last_name: Rich
+  state: mn
+  race: State House of Representatives
+  district: District 46B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Shelley
+  candidate_last_name: Buck
+  state: mn
+  race: State House of Representatives
+  district: District 47A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Ethan
+  candidate_last_name: Cha
+  state: mn
+  race: State House of Representatives
+  district: District 47B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kim
+  candidate_last_name: Wilson
+  state: mn
+  race: State House of Representatives
+  district: District 47B
+  party: Unaffiliated
+  did_not_respond: true
+- candidate_first_name: Joe
+  candidate_last_name: Brothers
+  state: mn
+  race: State House of Representatives
+  district: District 48A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jim
+  candidate_last_name: Nash
+  state: mn
+  race: State House of Representatives
+  district: District 48A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Lucille
+  candidate_last_name: Rehm
+  state: mn
+  race: State House of Representatives
+  district: District 48B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Caleb
+  candidate_last_name: Steffenhagen
+  state: mn
+  race: State House of Representatives
+  district: District 48B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jeff
+  candidate_last_name: Houdek
+  state: mn
+  race: State House of Representatives
+  district: District 49A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Carlie
+  candidate_last_name: Kotyza-Witthuhn
+  state: mn
+  race: State House of Representatives
+  district: District 49B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Wendy
+  candidate_last_name: Cregg
+  state: mn
+  race: State House of Representatives
+  district: District 49B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Julie
+  candidate_last_name: Greene
+  state: mn
+  race: State House of Representatives
+  district: District 50A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Chris
+  candidate_last_name: Wedum
+  state: mn
+  race: State House of Representatives
+  district: District 50A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Steve
+  candidate_last_name: Elkins
+  state: mn
+  race: State House of Representatives
+  district: District 50B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Michael
+  candidate_last_name: Howard
+  state: mn
+  race: State House of Representatives
+  district: District 51A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Frank
+  candidate_last_name: Pafko
+  state: mn
+  race: State House of Representatives
+  district: District 51A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Nathan
+  candidate_last_name: Coulter
+  state: mn
+  race: State House of Representatives
+  district: District 51B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jim
+  candidate_last_name: Lund
+  state: mn
+  race: State House of Representatives
+  district: District 51B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Christos
+  candidate_last_name: Jenson
+  state: mn
+  race: State House of Representatives
+  district: District 52A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: George
+  candidate_last_name: Gilmour
+  state: mn
+  race: State House of Representatives
+  district: District 52A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Bianca
+  candidate_last_name: Virnig
+  state: mn
+  race: State House of Representatives
+  district: District 52B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Tom
+  candidate_last_name: Lopac
+  state: mn
+  race: State House of Representatives
+  district: District 52B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Mary Frances
+  candidate_last_name: Clardy
+  state: mn
+  race: State House of Representatives
+  district: District 53A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: AJ
+  candidate_last_name: Gubash
+  state: mn
+  race: State House of Representatives
+  district: District 53A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Rick
+  candidate_last_name: Hansen
+  state: mn
+  race: State House of Representatives
+  district: District 53B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Patti
+  candidate_last_name: Mikulski
+  state: mn
+  race: State House of Representatives
+  district: District 53B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Brad
+  candidate_last_name: Tabke
+  state: mn
+  race: State House of Representatives
+  district: District 54A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Aaron
+  candidate_last_name: Paul
+  state: mn
+  race: State House of Representatives
+  district: District 54A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Christopher
+  candidate_last_name: Kartschoke
+  state: mn
+  race: State House of Representatives
+  district: District 54B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Natalie
+  candidate_last_name: Barnes
+  state: mn
+  race: State House of Representatives
+  district: District 54B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jessica
+  candidate_last_name: Hanson
+  state: mn
+  race: State House of Representatives
+  district: District 55A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Pam
+  candidate_last_name: Myhra
+  state: mn
+  race: State House of Representatives
+  district: District 55A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Hunter
+  candidate_last_name: Cantrell
+  state: mn
+  race: State House of Representatives
+  district: District 55B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Todd
+  candidate_last_name: Buchwald
+  state: mn
+  race: State House of Representatives
+  district: District 55B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Robert
+  candidate_last_name: Bierman
+  state: mn
+  race: State House of Representatives
+  district: District 56A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: AJ
+  candidate_last_name: Prospect
+  state: mn
+  race: State House of Representatives
+  district: District 56A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Huot
+  state: mn
+  race: State House of Representatives
+  district: District 56B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: JD
+  candidate_last_name: Delgado
+  state: mn
+  race: State House of Representatives
+  district: District 57A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jon
+  candidate_last_name: Koznick
+  state: mn
+  race: State House of Representatives
+  district: District 57A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jeff
+  candidate_last_name: Witte
+  state: mn
+  race: State House of Representatives
+  district: District 57B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Kristi
+  candidate_last_name: Pursell
+  state: mn
+  race: State House of Representatives
+  district: District 58A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Steven
+  candidate_last_name: Cherney
+  state: mn
+  race: State House of Representatives
+  district: Distrct 58A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Ed
+  candidate_last_name: Fellows
+  state: mn
+  race: State House of Representatives
+  district: District 58B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Drew
+  candidate_last_name: Roach
+  state: mn
+  race: State House of Representatives
+  district: District 58B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Fue
+  candidate_last_name: Lee
+  state: mn
+  race: State House of Representatives
+  district: District 59A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Esther
+  candidate_last_name: Agbaje
+  state: mn
+  race: State House of Representatives
+  district: District 59B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kenneth
+  candidate_last_name: Smoron
+  state: mn
+  race: State House of Representatives
+  district: District 59B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Sydney
+  candidate_last_name: Jordan
+  state: mn
+  race: State House of Representatives
+  district: District 60A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: John
+  candidate_last_name: Holmberg
+  state: mn
+  race: State House of Representatives
+  district: District 60A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jamie
+  candidate_last_name: Long
+  state: mn
+  race: State House of Representatives
+  district: District 61B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Aisha
+  candidate_last_name: Gomez
+  state: mn
+  race: State House of Representatives
+  district: District 62A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Anquam
+  candidate_last_name: Mahamoud
+  state: mn
+  race: State House of Representatives
+  district: District 62B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Bob
+  candidate_last_name: Sullentrop
+  state: mn
+  race: State House of Representatives
+  district: District 62B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Samantha
+  candidate_last_name: Sencer-Mura
+  state: mn
+  race: State House of Representatives
+  district: District 63A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Kyle
+  candidate_last_name: Bragg
+  state: mn
+  race: State House of Representatives
+  district: District 63A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Emma
+  candidate_last_name: Greenman
+  state: mn
+  race: State House of Representatives
+  district: District 63B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Nicholas
+  candidate_last_name: Peters
+  state: mn
+  race: State House of Representatives
+  district: District 63B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Meg
+  candidate_last_name: Luger-Nikolai
+  state: mn
+  race: State House of Representatives
+  district: District 64A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Dave
+  candidate_last_name: Pinto
+  state: mn
+  race: State House of Representatives
+  district: District 64B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Samakab
+  candidate_last_name: Hussein
+  state: mn
+  race: State House of Representatives
+  district: District 65A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Sebastian
+  candidate_last_name: Ellefson
+  state: mn
+  race: State House of Representatives
+  district: District 65B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Leigh
+  candidate_last_name: Finke
+  state: mn
+  race: State House of Representatives
+  district: District 66A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Mark
+  candidate_last_name: Born
+  state: mn
+  race: State House of Representatives
+  district: District 66A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Athena
+  candidate_last_name: Hollins
+  state: mn
+  race: State House of Representatives
+  district: District 66B
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Mary
+  candidate_last_name: O'Neal
+  state: mn
+  race: State House of Representatives
+  district: District 66B
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Liz
+  candidate_last_name: Lee
+  state: mn
+  race: State House of Representatives
+  district: District 67A
+  party: Democratic
+  did_not_respond: true
+- candidate_first_name: Jennifer
+  candidate_last_name: McPherson
+  state: mn
+  race: State House of Representatives
+  district: District 67A
+  party: Republican
+  did_not_respond: true
+- candidate_first_name: Jay
+  candidate_last_name: Xiong
+  state: mn
+  race: State House of Representatives
+  district: District 67B
+  party: Democratic
+  did_not_respond: true

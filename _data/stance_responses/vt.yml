@@ -310,3 +310,264 @@
     “FOCUS ON NUCLEAR." 
 
     KEYWORDS: NUCLEAR
+
+- candidate_first_name: Henry
+  candidate_last_name: Bonges
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q1
+  date:
+  response: |
+    “Bring back 181 with the infamous "road rule" that had bipartisan support until it became politicized.  Work to get a useful bill that will pass.  Concentrate development (also more walkable, less fuel for traveling, supports public transit).  More stable NRCD support.  Otherwise, I've a bit to learn though I am a strong support of  limiting development." 
+
+    KEYWORDS:
+
+- candidate_first_name: Henry
+  candidate_last_name: Bonges
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q2
+  date:
+  response: |
+    “Maple syrup will go up for a few years (happening) then go down - need to transition to more heat tolerant trees now. Dairy - Jerseys are more heat tolerant than our beloved Holsteins.  Then there is invasive species - what can we do??" 
+
+    KEYWORDS:
+
+- candidate_first_name: Henry
+  candidate_last_name: Bonges
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q3
+  date:
+  response: |
+    “Vt's flood plain map needs to be the projected flood plains 100 years from now.  More microgrids to protect towns in an emergency." 
+
+    KEYWORDS: microgrid "flood plain"
+
+- candidate_first_name: Henry
+  candidate_last_name: Bonges
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q4
+  date:
+  response: |
+    “Bring back H.727, An act relating to sustainable data center deployment.  AI liability - huge problem.  Currently the tool developer, the platform presenting the tool and users all share responsibility - meaning no one is responsible.  The AI tool developers need to be made responsible.  And get AI out of schools, it makes people dumber." 
+
+    KEYWORDS: liability
+
+- candidate_first_name: Henry
+  candidate_last_name: Bonges
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q5
+  date:
+  response: |
+    “Solar + batteries (grid level, not Li based) + smr (small modular nuclear at VT Yankee)" 
+
+    KEYWORDS: solar, "grid levle battery", smr
+
+- candidate_first_name: Sarita 
+  candidate_last_name: Austin 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q1
+  date:
+  response: |
+    “Act 250 (1970) is a major piece of of Legislation in VT that requires major development address certain criteria regarding the impacts as a result of the construction and final project.The criteria looks at:water quality,impact on soils(ag and forest),wildlife habitat,energy consumption,impact on traffic,schools,air quality,growth patterns,air quality and other environmental factors. Current use/UVA-Reduces property taxes for land owners if they agree to conserve their land for ad and/or forrest purposes." 
+
+    KEYWORDS: Stewardship Natural Resources Protection
+
+- candidate_first_name: Sarita 
+  candidate_last_name: Austin 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q2
+  date:
+  response: |
+    “As above,Act 250. In addition Act 181 also addresses land management,additional protections of our most vulnerable natural habitat,smart growth,sustainable development,and land stewardship. Local Town Plans and Development Regulations, where public engagement is very important, also informs how and where growth should occur in order to achieve an intentional,balanced and sustainable outcome." 
+
+    KEYWORDS: Smart Growth Affordable Sustainable
+
+- candidate_first_name: Sarita 
+  candidate_last_name: Austin 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q3
+  date:
+  response: |
+    “I wouldn’t call them “ natural disasters “ I would argue they are “man made disasters “ as a result of human consumption and reliance on fossil fuels. Vermont has had increased droughts,flooding,and changing weather patterns.The droughts are having an impact on our agriculture economy and the floods are causing destruction of buildings in our communities that (historically) built homes,factories,and farms next to rivers. Vermont policies addressing disaster response and prevention are spread across our statues: Where/how/when housing construction can occur, Dam Safety, Flood Response, Wetland Management and Protection,Best Practices for Economic Growth and Environmental Protection" 
+
+    KEYWORDS: Regulatory Structure Accountability Data Driven
+
+- candidate_first_name: Sarita 
+  candidate_last_name: Austin 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q4
+  date:
+  response: |
+    “Re-Introduce H.727-Vermont Data Center Act next session for data centers that will have a 20MW or above capacity. Address concerns: What is not regulated in Act 250 to address concerns of Vermonters regarding data centers protections. Additional land and water use protections. Additional roles and responsibilities for the PUC, Department of Public Service,and ANR. Add a section to Act 250 to specifically address gaps regarding the building,operations,oversight,and public safely concerns. Assure protections for Vermonter’s health,safety,quality of life,economy,and future anticipated and unanticipated outcomes" 
+
+    KEYWORDS: Slow Down
+
+- candidate_first_name: Sarita 
+  candidate_last_name: Austin 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q5
+  date:
+  response: |
+    “Under this current administration encouraging and funding alternative energy sources/solutions is not a priority.As a member of the VT Climate Caucus (if re-elected) I will work with the Caucus to introduce legislation that will realistically address how to transition to renewable energy sources that are affordable,reliable,cost saving,and sustainable. At gas and diesel prices are skyrocketing Vermonters may be receptive to alternative fuel sources (electricity). Vermont and the US needs to seriously invest in building out our current infrastructure in order to carry the load of current and emerging sources of renewables" 
+
+    KEYWORDS: Renewable Alternative Essential
+
+- candidate_first_name: Carol 
+  candidate_last_name: Ode 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q1
+  date:
+  response: |
+    “Preservation. Restoration.  No toxins. Conservation." 
+
+    KEYWORDS: Preservation. Restoration.  No toxins. Conservation 
+
+- candidate_first_name: Carol 
+  candidate_last_name: Ode 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q2
+  date:
+  response: |
+    “Strong government support to collect data and make data-informed decisions to steward the environment." 
+
+    KEYWORDS: Strong government support
+
+- candidate_first_name: Carol 
+  candidate_last_name: Ode 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q3
+  date:
+  response: |
+    “Build resiliency in the natural environment and in the built environment." 
+
+    KEYWORDS: Build resiliency in the natural environment resiliency in the built environment.
+
+- candidate_first_name: Carol 
+  candidate_last_name: Ode 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q4
+  date:
+  response: |
+    “Without doubt, we need to enact a law based on the bill, H. 727, that we passed last session. It was a major tri-partisan bill intended to regulate large-scale artificial intelligence and cryptocurrency data centers. 1. Goal: Create a comprehensive regulatory framework to shield Vermont's electric ratepayers from skyrocketing energy bills, limit climate/carbon pollution, and protect water supplies from heavy industrial cooling demands. 2. Key Protections: Required closed-loop water systems or strict water-use limits, mandated quarterly water usage reports for large facilities, triggered Act 250 environmental reviews, and ensured utility contracts protected standard ratepayers from absorbing the infrastructure costs of massive 20MW+ data centers." 
+
+    KEYWORDS: comprehensive regulatory framework. consumer and environmental protection
+
+- candidate_first_name: Carol 
+  candidate_last_name: Ode 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q5
+  date:
+  response: |
+    “Alternative energy sources could be used across the globe to meet all new demand. We could accomplish environmental, climate and economic goals all at once. Green jobs that can not be outsourced would be one positive outcome." 
+
+    KEYWORDS: Green jobs
+
+- candidate_first_name: Natalie 
+  candidate_last_name: Cashen 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q1
+  date:
+  response: |
+    “I support science-based management of Vermont’s land and water resources that protects our environment while keeping working farms and forests viable and allowing responsible development. My priorities include maintaining strong funding for Vermont’s Clean Water Initiative to reduce phosphorus, stormwater runoff, and other pollution; restoring wetlands and stream buffers; and helping towns improve culverts, river corridors, and floodplains to reduce erosion and future flood damage. I support strengthening Current Use and conservation incentives that keep farms and forests productive and prevent fragmentation. I also support investing in state and municipal parks, trails, and public access to outdoor recreation." 
+
+    KEYWORDS: clean water, flood resilience, wetland protection
+
+- candidate_first_name: Natalie 
+  candidate_last_name: Cashen 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q2
+  date:
+  response: |
+    “Vermont’s environment supports our economy, public health, agriculture, tourism, and quality of life. I support environmental policies grounded in science and measurable results. I support sustained funding for Vermont’s Clean Water Initiative to reduce phosphorus and stormwater runoff, upgrade wastewater infrastructure, restore wetlands and stream buffers, and help farmers implement conservation practices. I support continued implementation of Vermont’s PFAS restrictions, expanded testing of drinking water and contaminated sites, and holding polluters responsible for cleanup costs. I also support funding environmental research and monitoring through the Agency of Natural Resources, UVM, and other research partners, particularly for water quality, soil health, forests, invasive species, and flood resilience. Vermont should continue supporting Current Use, conservation easements, and technical and financial assistance that help farmers and forestland owners protect soil, water, and wildlife habitat. These policies should use scientific data to measure results and direct limited state resources toward programs that demonstrably improve Vermont’s environment." 
+
+    KEYWORDS: clean water, PFAS protection, pollution prevention
+
+- candidate_first_name: Natalie 
+  candidate_last_name: Cashen 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q3
+  date:
+  response: |
+    “Vermont needs to invest in resilience before disasters occur, not simply pay to rebuild afterward. I support fully implementing the Flood Safety Act, including stronger floodplain standards, river-corridor protections, wetland restoration, and improved dam safety. I support funding municipal projects that replace undersized culverts, strengthen roads and bridges, restore floodplains, and protect water and wastewater systems. I also support voluntary buyouts for repeatedly flooded properties and incentives for communities to adopt stronger flood-resilience standards. Vermont should implement its Resilience Implementation Strategy by prioritizing nature-based flood protection, resilient infrastructure, and improved early-warning systems. I also support UVM Extension and state programs that help farmers and foresters adapt to changing rainfall, growing seasons, pests, and forest conditions. For communities dependent on skiing and other winter recreation, Vermont should support economic diversification and four-season outdoor recreation. These investments can reduce disaster costs while protecting our homes, working lands, businesses, and local economies." 
+
+    KEYWORDS: flood resilience, Flood Safety Act, river-corridor protection
+
+- candidate_first_name: Natalie 
+  candidate_last_name: Cashen 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q4
+  date:
+  response: |
+    “AI can improve healthcare, education, manufacturing, and state services, but Vermont should establish strong safeguards as its use expands. I support strengthening Vermont’s Division of Artificial Intelligence and requiring transparency, privacy protections, human oversight, and testing for bias when AI is used by state government or for consequential decisions affecting Vermonters. I support workforce development through Vermont State University, career and technical education centers, and employers to prepare workers for AI-related jobs and help those affected by automation. Schools should teach responsible AI use and digital literacy while protecting student data. I oppose the development of large-scale data centers in Vermont. Their enormous electricity demands could strain our grid, increase infrastructure needs, and conflict with Vermont’s energy and environmental goals. I would support legislation establishing strict limits on large data centers and preventing their energy and infrastructure costs from being passed on to Vermont ratepayers. Vermont should embrace useful AI technology without sacrificing affordability, environmental stewardship, or local control." 
+
+    KEYWORDS: responsible AI, AI transparency, consumer protection, data privacy
+
+- candidate_first_name: Natalie 
+  candidate_last_name: Cashen 
+  state: vt
+  race: State House of Representatives
+  district: 
+  party: Democratic
+  question: vt-q5
+  date:
+  response: |
+    “My energy priorities are affordability, reliability, and responsible renewable development. Alternative energy should play a major role in Vermont’s future, but the transition must lower costs for households and businesses rather than create additional financial burdens. I support Vermont’s Renewable Energy Standard and cost-effective, responsibly sited solar, existing and small-scale hydropower, geothermal energy, battery storage, and community renewable projects. I also support grid modernization and weatherization, with greater access for low- and middle-income Vermonters. These investments can create jobs for electricians, lineworkers, HVAC and heat-pump technicians, solar installers, engineers, and construction workers. I support expanding career and technical education, Vermont State University programs, and apprenticeships that connect Vermonters directly with these jobs. Energy policy should reduce household costs, maintain a reliable grid, protect our environment, and keep more energy dollars and jobs in Vermont." 
+
+    KEYWORDS: energy affordability, renewable energy, energy reliability
+

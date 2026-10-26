@@ -161,12 +161,58 @@
       - Protecting Rural Healthcare Infrastructure: Addressing vaccine hesitancy requires stable local medical infrastructure. Current budget projections show that proposed cuts place 35 rural Kentucky hospitals and 20,000 healthcare jobs at risk; I am committed to protecting these facilities to ensure localized access to medical treatments and public health education.
       - Supporting Scientific Research and Advocacy: I support robust funding for federal scientific initiatives and the integration of educated patient advocates into healthcare decision-making. Promoting non-partisan, evidence-based health policies is essential to communicating the safety and efficacy of vaccines to skeptical communities.
 
-- candidate_first_name: "Charles"
-  candidate_last_name: "Booker"
+- candidate_first_name: Charles 
+  candidate_last_name: Booker
+  state: ky
+  race: US Senate 
+  party: Democratic 
+  question: ky-q1
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    As a Type 1 diabetic who’s had to ration my insulin in order to have enough money to feed my daughters, I understand the struggles Kentuckians face every single day. Healthcare is a human right. 
+    No one should have to ration their medicine, skip a doctor’s appointment, or choose between paying a medical bill or putting food on the table. 
+    We need to make healthcare more affordable for every Kentuckian. We need to restore the Affordable Care Act subsidies, provide additional options for access to health insurance, lower prescription drug costs,
+    and restore the devastating cuts to Medicaid threatening to close dozens of rural hospitals across Kentucky and even more across the country. 
+    
+    
+
+- candidate_first_name: Charles 
+  candidate_last_name: Booker
   state: ky
   race: US Senate
   party: Democratic
-  did_not_respond: true
+  question: ky-q2
+  primary_candidate: false
+  response: |
+    Every Kentuckian deserves access to clean drinking water. 
+    We need to make sure we direct federal resources into our communities to address the damage done to our groundwater and streams. 
+    When I served as Director of Administrative Services at the Kentucky Department of Fish and Wildlife, I saw firsthand the impact of water pollution and was left especially motivated to combat it.
+
+- candidate_first_name: Charles 
+  candidate_last_name: Booker
+  state: ky
+  race: US Senate
+  party: Democratic
+  question: ky-q3
+  primary_candidate: false
+  response: |
+    Kentuckians deserve to know how data centers will impact their utility bills, environment, and their communities. 
+    It’s why I support a national moratorium on all new AI data center construction until we fully understand the impact on our health, environment, water supply, and utility bills. 
+    We must ensure that existing data centers pay the full costs for the impact on our electric bills and pass legislation to limit the impact of data centers on our environment and natural resources.
+
+
+- candidate_first_name: Charles 
+  candidate_last_name: Booker
+  state: ky
+  race: US Senate
+  party: Democratic
+  question: ky-q4
+  primary_candidate: false
+  response: |
+    Access to healthcare remains a barrier to trusting healthcare professionals. Surprise medical bills, lost coverage, closed hospitals. 
+    All of this can breed mistrust and skepticism of healthcare professionals and lead to lower vaccination rates. 
+    I believe healthcare is a human right and improving the access, affordability, and quality of care will help us improve community trust. 
+    This means restoring funding to Medicaid and the ACA while providing options for accessing and affording the same type of high-quality care people like Mitch McConnell receive.
 
 - candidate_first_name: "Andy"
   candidate_last_name: "Barr"

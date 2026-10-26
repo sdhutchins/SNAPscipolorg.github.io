@@ -1,0 +1,148 @@
+- id: ga-q1
+  question: >-
+    Georgia is becoming a hub for data centers due to tax breaks, amenable
+    regulations, and available land (Perdue, 2025). While data centers may grow
+    the tech industry in Georgia, data centers also have environmental and
+    health impacts, such as significant water and electricity usage, as well as
+    noise pollution (Science for Georgia, 2026). How will you protect Georgian
+    health and property values with data center legislation?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+    - Public Health
+
+- id: ga-q2
+  question: >-
+    How will you ensure communities have meaningful opportunities to provide
+    public comments that inform state and local decision making?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+    - Policymaking Process
+
+- id: ga-q3
+  question: >-
+    How have you learned about data centers in the past, and how will you stay
+    abreast of important findings based on scientific research regarding data
+    center impacts on energy affordability and the environment?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+    - Policymaking Process
+
+- id: ga-q4
+  question: >-
+    How will you work and communicate with voters to ensure your policy
+    decisions around data centers reflect the values of your constituency?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+    - Policymaking Process
+
+- id: ga-q5
+  question: >-
+    Extreme heat is a serious public health issue and vulnerable populations are
+    most at risk (Bell et al., 2024; Ebi et al., 2021; Hess et al., 2023).
+    Additionally, the number of annual extreme heat days have increased
+    statewide and are projected to increase in the future (McCullough, 2026). At
+    the same time, Georgia is projected to experience more frequent and intense
+    droughts (National Integrated Drought Information System, 2026). What
+    policies do you plan to implement to mitigate the rising health risk of
+    extreme heat and drought on Georgians?
+  tag:
+    - Climate
+    - Environment
+    - Public Health
+
+- id: ga-q6
+  question: >-
+    PFAS, or forever chemicals, are common, long-lasting chemicals used in dyes,
+    pesticides, and common household products, like water-resistant clothes,
+    cleaners, and cookware (EPA, 2026a). Forever chemicals have contributed to
+    high risk of thyroid disruption, developmental delays, and cancer (EPA,
+    2026a). The EPA recently rolled back regulation on some forever chemicals
+    and extended the deadline for utility companies to limit exposure to
+    contaminated water (EPA, 2026b). What policies or investments would you
+    support to improve drinking water safety in Georgia?
+  tag:
+    - Environment
+    - Public Health
+
+- id: ga-q7
+  question: >-
+    Environmental harms are not distributed evenly: landfills, industrial
+    plants, and waste treatment facilities are disproportionately placed in
+    communities of color and low income neighborhoods (Deganian & Thompson,
+    2012; Jbaily et al., 2022; Liddie et al., 2023). For example, the Pittard
+    Road and Pinewoods communities in Athens have struggled to gain access to
+    safe drinking water for decades (Dua-Swartz, 2025). Such environmental
+    burdens cause generational health and economic impacts (Colmer & Voorheis,
+    2025; Grineski et al., 2025). How will you address environmental injustice
+    in your district?
+  tag:
+    - Environment
+    - Public Health
+
+- id: ga-q8
+  question: >-
+    Nitrate run off and pesticide use have been correlated with risk of
+    long-term illnesses, like cancer, and ecosystem degradation, for example
+    water deoxygenation and “dead zones” (EPA, 2013, 2015; European Commission,
+    2026; Zhao et al., 2026). How will your policies balance farmers’
+    technological needs while reducing the impact of previously restricted
+    pesticides and overfertilization on agricultural workers, their neighbors,
+    and our water systems?
+  tag:
+    - Agriculture
+    - Environment
+    - Public Health
+
+- id: ga-q9
+  question: >-
+    The construction of data centers has triggered the call for an expansion in
+    energy production (Science for Georgia, 2025). Georgia, and its largest
+    energy provider, Georgia Power, derives 87% of its energy output from
+    natural gas, coal, and nuclear sources, while 6% comes from renewables
+    (Georgia Power, 2025). GA Power is proposing an expansion of a “natural gas”
+    pipeline through Georgia and Alabama to meet their projected energy demands;
+    however, there are several viable options for expanding solar energy,
+    including plug-in solar panels, agrivoltaics, and parking lot solar systems,
+    that would give consumers power over their electricity bills (Science for
+    Georgia, 2026). What policies do you support to expand consumer energy
+    choice and renewable energy?
+  tag:
+    - Artificial Intelligence
+    - Energy
+
+- id: ga-q10
+  question: >-
+    The globalization of groceries has given us access to a diverse selection of
+    produce products. At the same time, international supply chains can heighten
+    the risk of foodborne illnesses. Recent outbreaks of foodborne illnesses,
+    like Cyclospora and Salmonella, have resulted in recalls of common foods,
+    including lettuce, blueberries, and eggs (Vollers, 2026). What actions
+    should we take on the state level to track and reduce foodborne illnesses?
+  tag:
+    - Public Health
+    - Science Funding
+
+- id: ga-q11
+  question: >-
+    What assistance, if any, does GA need from the federal government to track
+    and reduce foodborne illnesses?
+  tag:
+    - Public Health
+    - Science Funding
+
+- id: ga-q12
+  question: >-
+    About 17% of Georgia adults lack health insurance (The Commonwealth Fund,
+    2025). Since tax credits for Affordable Care Act plans expired in December
+    2025, more than half a million Georgians have lost health insurance (Hart,
+    2026). What are your views on medicaid expansion, and what policies will you
+    support to assist Georgians struggling to access quality healthcare?
+  tag: Public Health

@@ -1,0 +1,488 @@
+- candidate_first_name: Eric # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Gisler # used for alphabetical sorting
+  state: ga
+  race: State House of Representatives # must match one of the options!
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic # must match one of the options!
+  question: ga-q1
+  date: 2026-10-02 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I will start by repealing the current state tax credits1.  Beyond that, the state should set standards for water consumption, and perhaps offer tax credits for reaching certain "stretch goals".  As far as power, at a bare minimum, legislation should ensure that residents do not foot the bill for infrastructure improvements, and datacenter owners should be incentivized to use green energy sources as much as possible.  Local residents should have final say on location and whether datacenters are allowed in their communities at all.  Ideally that should be done through local representatives, but if requiring referendums is necessary, so be it. 
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q2
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    In my short time as a State Rep, I have gone out of my way to be transparent and accessible.  In our system, I think it is up to elected officials to ensure that they provide these opportunities.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q3
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I have mostly learned through activists and reading reasonably-sourced news articles.  I plan to continue doing that and I am open to learning from people who are able to stay up to speed on these issues.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q4
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I have had 9 town halls since being elected, not including a town hall focused specifically on data centers, and I am hosting another one in a couple of weeks.  Being present in the community and open to discussion is the best way to work with and communicate with voters.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q5
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Setting hard limits on data center water consumption, and predicating any tax credits on going above and beyond those requirements is a way to stop the bleeding.  I support laws that promote green energy and local generation as much as possible to reduce our reliance on fossil fuels, but that is a longer term solution.  In the short term, we need to ensure that people are protected from extreme heat exposure.  That could include delaying certain sports seasons for youth, and ensuring that cooling centers are available during the hottest months.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q6
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I actually sponsored legislation last year (HB 1501)1 to require the state to maintain a public website showing monitored levels of forever chemicals, and to require water utilities to notify customers if certain thresholds are met.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q7
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I'll be honest.  I know that environmental injustice is an issue, but I do not have specific ideas for how to address this at this time.  I am open to suggestions.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q8
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I believe we should work with experts in the field and academia to determine the correct balance for the use of these chemicals when it comes to growing food vs. "downstream" impacts.  As I understand it, the industry is probably too reliant on chemicals today and newer technologies may help reduce that dependence.  When we find the right balance, we should be able to set reasonable regulations on usage.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q9
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    All of them.  I co-sponsored the "Plug-in Solar" bill last year, and I know how hard the industry fought against it.  It was shameful.  Georgia is a very sunny state and is ripe for solar energy production.  We even have manufacturers right here in Georgia building solar panels from raw materials through to finished product.  We should be promoting green energy solutions every way we can.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q10
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    We used to be able to rely on the Federal level for much of this, but that has obviously changed. I am also aware that the VDL lab at UGA is aging and is losing capacity to do much of this diagnostic work.  If the feds are abandoning much of their prior responsibility, the state has no choice but to invest in the necessary resources to keep GA residents safe through increased local regulation.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q11
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Since much of our food system comes from places outside of the state, it is critical to be able to have resources that can track food coming from other states or countries.
+
+- candidate_first_name: Eric
+  candidate_last_name: Gisler
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q12
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Healthcare in Georgia is a full-on crisis, in nearly every conceivable way.  Medicaid expansion would help, but with the hardest cuts to Medicaid from HR1 coming next year, it is probably too late.  I am open to any ideas from any source, from a mystery "free market" solution, to a state-run exchange with a state-run public option, to a full Medicare For All solution at the state level, and anything in between.  We have let this get to crisis levels, and it is only getting worse by the day.
+
+- candidate_first_name: Ray # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Smith # used for alphabetical sorting
+  state: ga
+  race: State Senate # must match one of the options!
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic # must match one of the options!
+  question: ga-q1
+  date: 2026-10-02 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I’m in favor of a one year moratorium to give us time to properly regulate these projects. We don’t currently have sufficient safeguards to ensure that the costs, both financial and environmental, don’t fall disproportionately on local residents. We should require them to cover the full cost of transmission and generation upgrades that are built to supply them with power.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q2
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    On public input, no elected official or public employee should sign a non-disclosure agreement about a project that needs a public vote. The public has a right to know what impacts these projects will have on their local communities and have an opportunity to bring their concerns before the local government before the projects are approved.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q3
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    On policy I go to primary sources: Georgia Power's filings at the Public Service Commission, where I submitted public comment on its All-Source RFP, state audits of the tax exemption, and EPD permit records. In office I'd lean on researchers at UGA and Georgia Tech and groups like Science for Georgia.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q4
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I will be as responsive as possible to calls and emails from constituents, and I’m always happy to talk about someone’s concerns. I plan to hold monthly town halls for the duration of my term. I encourage anyone to reach out.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q5
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Georgia has no heat standard for workers, and neither does the federal government. I support a state standard guaranteeing water, shade, rest breaks, and time to acclimate, indoors and out. Workers aren't the only ones at risk, so I'd fund cooling centers and weatherization for seniors and low-income households and protect families from utility shutoffs in extreme heat. On drought, large water users, data centers included, should report their consumption publicly and follow the same restrictions as everyone else, and the state should invest in leak repair and water reuse.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q6
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I will support expanded testing programs to screen for major sources to eliminate the most harmful. I will also support additional testing and reporting requirements for companies that use PFAS in their products to monitor any potential contamination or exposure. We need data driven reporting and concrete mitigation procedures to prevent harm to human health and the environment.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q7
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I'd require EPD to weigh cumulative impacts on the surrounding community before permitting or expanding a landfill or industrial site, with early notice and public monitoring data. And I'd direct state infrastructure money to water lines for communities that have been passed over. Currently there are site suitability studies that are required, but not a comprehensive community impact study.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q8
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I'd expand cost-share funding and UGA Extension support for soil testing, precision application, cover crops, and stream buffers, so using less fertilizer is the cheaper choice. For pesticides once restricted for health reasons, the people closest need protection: training and protective equipment for farmworkers, notice before spraying near homes and schools, and state monitoring of wells and streams in farm country.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q9
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Georgia is one of four states with no consumer advocate at the Public Service Commission. I'd restore the Consumers' Utility Counsel so ratepayers have a lawyer in the room in rate cases. I'd lift the cap on net metering for rooftop solar, pass community solar so renters can take part, legalize plug-in solar, and open virtual power plant programs that pay customers for batteries and smart thermostats they already own. The state should lead by moving its own fleets to electric and hybrid vehicles.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q10
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Georgia is one of ten FoodNet states, CDC's active surveillance system for foodborne illness. In July 2025, CDC cut the pathogens FoodNet requires states to track from eight to two, and Cyclospora was one of the six dropped. That doesn't cause outbreaks, but we find them later, after more people are sick. I'd fund the Department of Public Health and the state lab to keep full active surveillance of all eight, and fund enough inspectors to trace an outbreak to its source quickly.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q11
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Restore FoodNet funding for all eight pathogens, and give states stable multi-year funding through the Emerging Infections Program so we aren't rebuilding capacity every budget cycle. Most recalled food crosses state or national borders. Only the federal government can inspect imports and coordinate recalls across state lines.
+
+- candidate_first_name: Ray
+  candidate_last_name: Smith
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q12
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    We should fully expand Medicaid, and with the ACA tax credits gone it's more urgent than a year ago. Coverage doesn't help if there's no one to see you. I'd let nurse practitioners practice to the full extent of their training without a physician protocol agreement. And I'd fund LPN-to-RN bridge programs along with the nursing faculty positions that limit how many students those programs can admit.
+
+- candidate_first_name: Suzanna # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Karatassos # used for alphabetical sorting
+  state: ga
+  race: State House of Representatives # must match one of the options!
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic # must match one of the options!
+  question: ga-q1
+  date: 2026-10-02 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I support an immediate moratorium on all data centers, until the legislature can better assess their impact on our state. I also would legislate that they have to innovate their cooling systems to not use our fresh drinking water. Data centers should only be built in Industrial zones.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q2
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    There are already many opportunities for public comment in these processes, what we need is elected representatives that will actually listen to public input.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q3
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I stay up to date on current events in Georgia, and I follow the Public Service Commission proceedings with regards to data centers.  I have seen the public outcry against the water usage, the noise pollution, the energy demands and rising costs, and I will continue to prioritize my constituents concerns surrounding data centers. Personally I am alarmed at the blind disregard of usage of our natural resources.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q4
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    I plan to continue daily communication with voters through a variety of outlets. Once elected I plan to have town halls and an open door policy to always hear voters concerns.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q5
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    This is very concerning to me. We need a statewide extreme heat emergency plan to protect citizens from power company shut-offs due to unpaid bills, and ensure access to cooling centers for citizens without a/c. We must start focusing on renewable energies, solar power and invest in the recyclables industry statewide which we are woefully behind on. I believe Georgia should implement a water/drought resilience plan to ensure longevity of our water resources.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q6
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Georgia is a state of 11 million people and we need to strengthen all of our own agencies to protect ourselves if DC is going to loosen all their regulatory system that protect the population. Georgia should ban harmful forever chemicals and require improved filtration and water systems. I fully support regulations that keep us safe and healthy.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q7
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Increase regulations on the waste industry to the standard that it would be safe no matter where it was located. I believe no matter what your income level is, you should have access to the same clean air, water, and land as anyone else. I would never ignore communities that are clearly affected by their environmental contamination.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q8
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Educate farmers on soil testing and proper fertilization rates and use more nature based solutions that lower the need for synthetic fertilizer. Expand funding to assist farmers with clean irrigation and cover crop seeds to improve soil quality and reduce runoff. Georgia needs to regulate harmful fertilizers and pesticides where DC has deregulated them.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q9
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    The Georgia Legislature should require Georgia Power to have a much higher percentage of renewables with an ultimate goal of 100% renewables. I would expand funding to residential and municipal renewable energy microgrids. As mentioned before, extreme weather will test our power grids and we need to innovate and reduce the risk of disruptions. I fully support expanding solar energy as much as possible including balcony solar, plug-in solar, agrivoltaics, parking lot solar and abandoned farming lots producing energy for free.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q10
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Increase all operations and staff at the Georgia Department of Public Health to make up for the cuts to the CDC, FDA and HHS. If the federal government is not ensuring public safety then Georgia must do what's right for our state. I would also support legislation in Georgia for an Urban Agriculture Incentive Zones for Residential property.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q11
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    Georgia and all states need the federal government to stop making cuts to all the federal agencies that test our foods for bacteria, foodborne diseases and communicable diseases.
+
+- candidate_first_name: Suzanna
+  candidate_last_name: Karatassos
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: ga-q12
+  date: 2026-10-02
+  primary_candidate: false
+  response: |
+    The first thing I will do once elected is advocate for full Georgia Medicaid Expansion. But I would not stop there, every person in our state should have affordable health insurance where no claim is denied and no one is going into medical debt. Right now our for-profit system is untenable, and is designed to profit off our illnesses instead of prioritizing better health outcomes. We need to reform the entire Georgia medical industry.
+
+# a candidate who did not respond to any questions gets ONE entry like this. Omit `question` and `response`; the build fails if either is filled in here
+- candidate_first_name: Marc
+  candidate_last_name: McMain
+  state: ga
+  race: State Senate
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  did_not_respond: true
+
+# a candidate who did not respond to any questions gets ONE entry like this. Omit `question` and `response`; the build fails if either is filled in here
+- candidate_first_name: Frank
+  candidate_last_name: Ginn
+  state: ga
+  race: State Senate
+  district: 47 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  did_not_respond: true
+
+# a candidate who did not respond to any questions gets ONE entry like this. Omit `question` and `response`; the build fails if either is filled in here
+- candidate_first_name: Ward
+  candidate_last_name: Black
+  state: ga
+  race: State House of Representatives
+  district: 120 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  did_not_respond: true
+
+# a candidate who did not respond to any questions gets ONE entry like this. Omit `question` and `response`; the build fails if either is filled in here
+- candidate_first_name: Carol
+  candidate_last_name: Hubbard
+  state: ga
+  race: State House of Representatives
+  district: 122 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  did_not_respond: true
+
+# a candidate who did not respond to any questions gets ONE entry like this. Omit `question` and `response`; the build fails if either is filled in here
+- candidate_first_name: Spencer
+  candidate_last_name: Frye
+  state: ga
+  race: State House of Representatives
+  district: 122 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  did_not_respond: true
+
+# a candidate who did not respond to any questions gets ONE entry like this. Omit `question` and `response`; the build fails if either is filled in here
+- candidate_first_name: Mack "Dutch"
+  candidate_last_name: Guest
+  state: ga
+  race: State House of Representatives
+  district: 121 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  did_not_respond: true

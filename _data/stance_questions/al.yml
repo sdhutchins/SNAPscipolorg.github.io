@@ -1,0 +1,49 @@
+- id: al-q1
+  question: >-
+    Communities located along the coast, like those on Dauphin Island, face
+    rising insurance premiums and more difficulty rebuilding after increasingly
+    severe storms. Shoreline restoration and the management of natural buffer
+    zones have shown promise in lessening the damage from hurricanes. What
+    strategies, if any, would you pursue as a leader to protect our coastal
+    communities?
+  tag:
+    - Climate
+    - Environment
+
+- id: al-q2
+  question: >-
+    Natural gas generated about 45% of Alabama's electricity in 2024, while
+    renewable sources generated about 9%. Energy affordability is an important
+    concern for many Alabamians. What role, if any, should renewable energy
+    sources such as solar, wind, hydroelectric, and geothermal play in
+    Alabama's strategy to provide affordable, reliable, and resilient energy?
+  tag: Energy
+
+- id: al-q3
+  question: >-
+    Alabama is a state inextricably tied to its waterways, whether it be
+    through fishing, tourism, irrigation, or the water we all need to drink.
+    What actions, if any, will you take to ensure the health of Alabama's
+    rivers and lakes?
+  tag: Environment
+
+- id: al-q4
+  question: >-
+    Over the past few years, federal funding for scientific research has faced
+    the prospect of significant cuts. Alabama's universities, hospitals, and
+    research institutions receive hundreds of millions of dollars in federal
+    research funding each year, supporting scientific discovery, workforce
+    development, and economic growth. What policies, if any, do you plan to
+    implement to support scientific research in Alabama?
+  tag: Science Funding
+
+- id: al-q5
+  question: >-
+    Alabama has attracted major data center investments in recent years, with
+    projects totaling billions of dollars announced across the state. How do
+    you see data centers impacting Alabama's, and the wider United States',
+    economy, livelihoods, energy infrastructure, and environment?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment

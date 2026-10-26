@@ -1,0 +1,115 @@
+- id: id-q1
+  question: >-
+    In 2026, the Idaho Department of Water Resources projected a 181,600 acre-foot shortfall for senior surface water users and ordered curtailment of 924 junior groundwater rights on the Eastern Snake Plain Aquifer, affecting farms, cities, businesses, and school districts. The 2024 groundwater mitigation plan is scheduled to be renegotiated in 2027. What policies, if any, would you support to manage Idaho’s aquifers sustainably, and how would you balance competing demands from agriculture, growing communities, industry, and the environment?
+  tag: Environment
+  races:
+    - State Senate
+    - State House of Representatives
+
+- id: id-q2
+  question: >-
+    Proposed data centers in Kuna, along with Micron’s planned expansion,
+    could require a large share of Idaho Power’s current generating
+    capacity. In 2026, the Legislature passed laws requiring data centers
+    to recycle cooling water and to cover the full cost of the electricity
+    they use, but left existing data center tax incentives in place. How
+    should the costs and benefits of large data center development be
+    divided between developers and the public, and what further
+    requirements on power, water, or tax incentives, if any, would you
+    support?
+  tag: Energy
+  races:
+    - State Senate
+    - State House of Representatives
+    - Governor
+
+- id: id-q3
+  question: >-
+    By mid-August 2026, nearly 700,000 acres had burned in Idaho,
+    including about 580,000 acres in Owyhee County’s Big Grass Fire, and
+    the state’s fire suppression fund was depleted in June. What policies,
+    if any, would you support to reduce wildfire risk on Idaho’s forests
+    and rangelands, and what role should scientific research and
+    monitoring play in those decisions?
+  tag: Climate
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+    - Governor
+
+- id: id-q4
+  question: >-
+    Idaho has one of the highest school vaccine exemption rates in the
+    country, 15.9% in the 2025-26 school year, up from 7.9% in 2019-20,
+    and the state has recorded measles cases in 2026 as national cases
+    reached their highest level since 1991. As a policymaker, how do you
+    approach engaging with communities that have concerns about infectious
+    disease outbreaks and vaccine safety, and what policies, if any, would
+    you support related to these issues, and why?
+  tag: Public Health
+  races:
+    - State Senate
+    - State House of Representatives
+    - Governor
+
+- id: id-q5
+  question: >-
+    Many rural Idahoans now travel an hour or more for specialty care.
+    What policies, if any, would you support to improve access to health
+    care in rural Idaho, and what evidence would you use to measure
+    progress?
+  tag: Public Health
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+    - Governor
+
+- id: id-q6
+  question: >-
+    Idaho National Laboratory, the University of Idaho, Boise State
+    University, and Idaho State University rely substantially on federal
+    research funding; the University of Idaho’s research funding reached a
+    record $140 million in 2024. As a member of Congress, you would vote
+    on appropriations for federal science agencies, including the
+    Department of Energy, the National Science Foundation, the National
+    Institutes of Health, and the U.S. Department of Agriculture. What
+    priorities, if any, would guide your decisions on federal science
+    funding, and why?
+  tag: Science Funding
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: id-q7
+  question: >-
+    Electricity demand in Idaho is rising, driven in part by proposed data
+    centers and new semiconductor manufacturing, and Idaho National
+    Laboratory is the Department of Energy’s lead laboratory for nuclear
+    energy research, including the testing of advanced reactor designs.
+    What role, if any, do you believe sources such as nuclear, hydropower,
+    natural gas, solar, wind, and geothermal should play in the country’s
+    future energy mix? What federal policies, if any, would you support
+    related to energy development, regulation, and/or research, and why?
+  tag: Energy
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: id-q8
+  question: >-
+    Since H5N1 avian influenza was first detected in Idaho dairy cattle in
+    2024, Idaho has had among the highest numbers of affected dairy herds
+    in the nation, with dozens of herds placed under quarantine in
+    southern Idaho in 2025. Outbreaks can reduce milk production, disrupt
+    farm operations, and expose farmworkers to infection. What federal
+    policies, if any, would you support to strengthen agricultural disease
+    surveillance and outbreak response, and what evidence or
+    considerations would inform your approach?
+  tag: Agriculture
+  races:
+    - US Senate
+    - US House of Representatives

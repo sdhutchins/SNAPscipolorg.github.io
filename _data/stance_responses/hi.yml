@@ -1,0 +1,989 @@
+#candidate1_response
+- candidate_first_name: Stevie Kathryn # titles and middle names go here
+  candidate_last_name: Chung # used for alphabetical sorting
+  state: hi
+  race: Local County Races [All] # must match one of the options!
+  county_race: Maui County Council # feel free to remove if not applicable
+  party: Non-partisan # must match one of the options!
+  question: hi-q1
+  response: |
+    "The role they should play is near primary. When I say that I am all in on net zero energy goals, I mean tackling more ethical and sustainable energy plans that act to protect and sustain future generations from their basic needs becoming an overpriced commodity. The federal government and private companies want to put us into a chokehold where we cant seek sustainable alternatives while the fuel shortages are already hitting us where it hurts. All the while wind moves, water rushes, hydrogen reacts, and many other forms of energy have been used to create clean perpetual energy in the climates that suit them, with the battery power to store them. I see no reason why we can't have these solutions here on Maui in spite of the corperations that seek to prevent them."
+    
+    KEYWORDS: clean, free, renewable, ethical, sustainable
+  
+- candidate_first_name: Stevie Kathryn # titles and middle names go here
+  candidate_last_name: Chung # used for alphabetical sorting
+  state: hi
+  race: Local County Races [All] # must match one of the options!
+  county_race: Maui County Council # feel free to remove if not applicable
+  party: Non-partisan # must match one of the options!
+  question: hi-q2
+  response: |
+    "Hard and soft infrastructure are a delicate balance. Without planting natives onto the shorelines, the beaches will continue to erode instead of grow. If the dunes dont become restored, tsunamis and typhoons will continue to tear away at the coastline. They put in hard infrastructure with concrete flood basins but the refugee camp got flooded anyhow. If we're not doing the proper restoration efforts, the island will never become resilient to the natural disasters. I also am pushing for architectural methods that are more sustainable, cost effective, and organic in shape to take on any force of wind thrown at it. Think Arcosanti, cob housing, cellular lightweight concrete and fibreglass. Homes that are engineering marvels built to last generations." 
+    
+    KEYWORDS: the climate is underprotected and deeply threatened
+
+- candidate_first_name: Stevie Kathryn # titles and middle names go here
+  candidate_last_name: Chung # used for alphabetical sorting
+  state: hi
+  race: Local County Races [All] # must match one of the options!
+  county_race: Maui County Council # feel free to remove if not applicable
+  party: Non-partisan # must match one of the options!
+  question: hi-q3
+  response: |
+    "Every billionaire pushing for a datacenter is a dweeb, and any politicians supporting them have no spine. Period. The people who are pushing ai datacenters have shown us time and time again who they really are, everyone needs to stop pretending they want anything good for this generation or any generation to follow."
+    
+    KEYWORDS: gross, invasive, volatile, anti human, unethical, Bond Villain type bs, full of semiprecious metals
+  
+- candidate_first_name: Stevie Kathryn # titles and middle names go here
+  candidate_last_name: Chung # used for alphabetical sorting
+  state: hi
+  race: Local County Races [All] # must match one of the options!
+  county_race: Maui County Council # feel free to remove if not applicable
+  party: Non-partisan # must match one of the options!
+  question: hi-q4
+  response: |
+    "Absolutely. Extracurricular activities and stem programs are vital to raising kids with amazing critical thinking and problem solving skills, as well as fostering creative curiosity! We can even go pre-k with it. MEO has a Math and Science STEM program here on Maui that I wholeheartedly support in their efforts to teach engineering and robotics to the keiki."
+    
+    KEYWORDS: Fun, explorative, educational, and a vital tool to teach
+  
+- candidate_first_name: Stevie Kathryn # titles and middle names go here
+  candidate_last_name: Chung # used for alphabetical sorting
+  state: hi
+  race: Local County Races [All] # must match one of the options!
+  county_race: Maui County Council # feel free to remove if not applicable
+  party: Non-partisan # must match one of the options!
+  question: hi-q5
+  response: | 
+    "As someone who doesnt drive, and lives deep in country, public transport here on Maui needs a bit of help. Especially as fuel costs are projected to increase dramatically, people will need alternative methods of transportation to their workplace and for basic errands. Electric busses are rad, especially when they have a solar roof on them, I want to bring the train back but that may have to be for another election cycle unless I can get the rest of the council on board, and for aviation, i dont know how soon it will be before drone-like people movers become available but for now I'm worried about the affordability of air travel and the effects that it may have on the locals who may be travelling to the Continental United States or interisland. Hopefully seeking [better] sustainable energy alternative initiatives in the home and on commercial lots, we can help decrease the amount of strain and necessity for diesel."
+    
+    KEYWORDS: necessary
+  
+#candidate2_response
+- candidate_first_name: Amy
+  candidate_last_name: Perruso
+  state: hi
+  race: State House of Representatives
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q1
+  response: |
+    "We should be relying primarily on solar and wind, not LNG. We can get very close to achieving goals given recent dramatic changes in solar technology, with increased efficientcy and lower costs."
+    
+    KEYWORDS: N/A
+  
+- candidate_first_name: Amy
+  candidate_last_name: Perruso
+  state: hi
+  race: State House of Representatives
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q2
+  response: |
+    "We need to get serious about hardening community centers, especially public schools, managed retreat and investing in watershed management based on aloha 'āina principles."
+
+    KEYWORDS: N/A
+
+- candidate_first_name: Amy
+  candidate_last_name: Perruso
+  state: hi
+  race: State House of Representatives
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q3
+  response: |
+    "Yes."
+
+    KEYWORDS: N/A
+
+- candidate_first_name: Amy
+  candidate_last_name: Perruso
+  state: hi
+  race: State House of Representatives
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q4
+  response: |
+    "Better funding for public education across the board."
+
+    KEYWORDS: N/A
+
+- candidate_first_name: Amy
+  candidate_last_name: Perruso
+  state: hi
+  race: State House of Representatives
+  district: 46 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q5
+  response: |
+    "Moving rapidly to EV vehicles, decreasing distances people have to travel for work by implementing work from home policies as widely as possible, and making public transportation free."
+
+    KEYWORDS: N/A
+
+#candidate3_response
+- candidate_first_name: Daniel
+  candidate_last_name: de Garcia
+  state: hi
+  race: State House of Representatives
+  district: 39 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q1
+  response: |
+    "I believe that clean, alternative forms of energy that are safe, affordable and sustainable are essential to energy independence. I would support expanding the portfolio of energy diversification in Hawaii to lower energy prices, reduce brownouts/rolling blackouts, and enable the state to be more resilient during storms. Energy security is also important because of the large number of individuals in Hawaii who have chronic diseases, especially chronic kidney disease, who require dialysis. I will work in office to ensure making our energy independence a top priority."
+    
+    KEYWORDS: Research, development, state-of-the-art, technology, national security, health equity
+
+- candidate_first_name: Daniel
+  candidate_last_name: de Garcia
+  state: hi
+  race: State House of Representatives
+  district: 39 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q2
+  response: |
+    "I believe that we need to approach this from a civil engineering standpoint at the local level since Hawaii is harmed by, and cannot stop alone, climate change impacts by ourselves and must prepare for it. I would like to make use of subject matter experts and qualitative interviews to develop Bayesian statistics about areas most likely in Hawaii to be affected and address those areas first and work with residents to begin whatever infrastructure or built environment changes need to be done. I also think that we need to have policies at the international level that coordinate our environmental policies so that the response to climate change is global and uniform."
+
+    KEYWORDS: One Health, resilence, sustainability, stewardship, technology
+
+- candidate_first_name: Daniel
+  candidate_last_name: de Garcia
+  state: hi
+  race: State House of Representatives
+  district: 39 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q3
+  response: |
+    "I think that large data centers pose significant detriments to communities and lower the quality of life for the residents that live near them in terms of noise, pollution, heat emissions, and water consumption. This is a matter that I think needs to be discussed further with the informed consent of every community where they are proposed to be built."
+
+    KEYWORDS: Informed consent, environmental impact
+
+- candidate_first_name: Daniel
+  candidate_last_name: de Garcia
+  state: hi
+  race: State House of Representatives
+  district: 39 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q4
+  response: |
+    "I think that we need to address this through a combination of pursuing more federal funding through our congressional delegation and seeking out cooperative agreements and grants with the federal government. I believe that there are opportunities for robotics, astronomy, nanotechnology, genetics, and many other cutting-edge fields that can be brought to Hawaii public schools through national grants and partnerships."
+
+    KEYWORDS: Science, technology, grants, cooperative agreements, NSF, DARPA
+
+- candidate_first_name: Daniel
+  candidate_last_name: de Garcia
+  state: hi
+  race: State House of Representatives
+  district: 39 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q5
+  response: |
+    "As someone who is currently a CDC grant communications director for the Hawaii Department of Health's Racial, Ethnic, and Community Approaches to Health (REACH) Grant, I fully support equity and closing gaps for underserved communities. Because transportation is a complex matter, I would like to explore this further and study this matter in greater detail, particularly with regards to aviation fuel and electric or hybrid vehicles before answering this question."
+
+    KEYWORDS: Transit oriented development, energy independence, sustainability, health equity, built environment, active transport
+
+#candidate4_response
+- candidate_first_name: Misty
+  candidate_last_name: Cluett
+  state: hi
+  race: State House of Representatives
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q1
+  response: |
+    "Hawaiʻi’s test for any energy source should be simple: does it lower bills, keep the lights on and commerce moving, and is it safe for the communities that host it, especially the keiki. 
+
+    Hawaiʻi’s families already pay the highest rates in the nation. Oil, solar, wind, geothermal, and liquefied natural gas should all be allowed to compete, provided they meet minimum standards for health, safety and environmental impact. None should be locked in or locked out by special interests. It's time to make the people's interests the only interests. 
+
+    I support an all-of-the-above policy with health and safety first, cost-benefit analysis before new mandates, lights on goals, and research on storage and geothermal rather than subsidies. The 2045 renewable mandate should be a goal, not a blank check."
+
+    KEYWORDS: Safe power, reliable power, affordable power
+
+- candidate_first_name: Misty
+  candidate_last_name: Cluett
+  state: hi
+  race: State House of Representatives
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q2
+  response: |
+    "Hurricanes Lala and Lowell showed what happens when maintenance is already behind. Lala took down poles and transmission lines on Hawaiʻi Island in August. Lowell did the same on Kauaʻi in September, where distribution poles past their useful life failed, roads washed out where breakwalls were dilapidated or missing, and a month later some communications lines are still on the ground.
+
+    The same standard has to cover every island. Kauaʻi is served by the electric cooperative, KIUC. Hawaiʻi Island, Oʻahu, Maui, Lānaʻi, and Molokaʻi are served by the Hawaiian Electric companies. All of them answer to the Public Utilities Commission, and the commission follows statutes the House writes.
+
+    I will require each utility to publish pole age, last inspection, and failure rate, and to fund replacement of equipment past its service life, before the PUC approves a rate increase or sets storm costs aside for later recovery. Damage to an asset already beyond its service life should not be billed to customers a second time. Management pay should follow that schedule: replacements done, incentives paid; replacements missed, incentives withheld.
+
+    State money for county roads and breakwalls should work the same way. An inspection and a public repair schedule come before the check. Children are safer when the infrastructure is properly maintained so that it doesn't have as high a failure rate when stressed."
+    
+    KEYWORDS: better maintanence
+  
+- candidate_first_name: Misty
+  candidate_last_name: Cluett
+  state: hi
+  race: State House of Representatives
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q3
+  response: |
+    "Other counties should follow the substance of Hawaiʻi County Bill 170. A hospital server room or a bank’s data closet is not the same thing as an industrial campus built to train artificial intelligence models. The bill draws that line. Ordinary data processing can stay in the zoning code. Large AI data centers should not.
+
+    These facilities do not belong on Hawaiʻi’s grids. Each island is electrically isolated. Rates are already the highest in the country because most of the power is still imported oil. A data center that runs around the clock would add a load the system does not have, and the members would pay for the upgrade. Water is the same problem. These plants need a steady supply for cooling. That water is already spoken for by drinking, farming, and firefighting."
+    
+    KEYWORDS: No AI Data Centers in Hawaii
+
+- candidate_first_name: Misty
+  candidate_last_name: Cluett
+  state: hi
+  race: State House of Representatives
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q4
+  response: |
+    "A little more than 40 percent proficiency in math and science is a classroom result, not a budget result. In 2023–24 the Department of Education spent $22,670 per student, $19,583 of it state and local. Counted another way, Hawaiʻi public schools received about $26,100 per student, roughly $5,100 above the national average. Another appropriation will not teach a child to multiply or to read a lab question.
+
+    What I support is a return to the basics, and a way for parents to leave a school that will not teach them. Early grades need phonics and arithmetic, practiced until the student has them. Middle and high school need real algebra and real science, with the score published by school so a family can see what it is getting. Discipline belongs in that list. A classroom that cannot keep order cannot teach STEM.
+
+    Money should follow the student. If a charter, private, or another program is actually producing proficiency, the dollars go there. The Department of Education does not get a blank check because it is the default. Competition creates value.
+
+    AI does not belong in math and science instruction. Students have to be able to do the work without it. A computer-lab elective is a different thing, and a school can offer one. It is not a substitute for a teacher.
+
+    Extracurricular STEM is a school and family job: clubs, fairs, and apprenticeships where a teacher or a parent will run them. The House should not build a new program to simulate that. Equitable access starts with every school teaching the same fundamentals, and with parents free to choose the one that does."
+    
+    KEYWORDS: school choice
+
+- candidate_first_name: Misty
+  candidate_last_name: Cluett
+  state: hi
+  race: State House of Representatives
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q5
+  response: |
+    "People have to be able to get there: airports, harbors, and roads are the system. I would not require airlines to buy a particular fuel, drivers to buy an electric vehicle, or counties to build rail. If a technology is cost prohibitive, and the neighbor islands cannot justify the use or cost, then it is not a valid transportation policy.
+
+    Passengers are limited to planes, and freight is stuck going through Young Brothers which is the only operator for bulk cargo between the islands. Airfare has increased significantly over the last several years, and the Public Utilities Commission approved a 25.75 percent rate increase for YB in 2026, and state law now allows further increases of up to 5 percent a year. Competition is the check on that. I would support another operator that can meet the safety rules, so shippers are not stuck with one option. We need competition to bring prices down.
+
+    The Superferry had a false start in 2009. Whale strikes and invasive species were argued, but what mitigation efforts were weighed? And how are whale strikes and invasive species handled by Young Brothers; could that be applied to a ferry? What about weighing these concerns against the flights that could be replaced by the ferry? I think we need to take a new look at this strategy to bring in more options to drive prices down."
+    
+    KEYWORDS: Superferry, Need competition
+
+#candidate5_response
+- candidate_first_name: Frederick
+  candidate_last_name: Fogel
+  state: hi
+  race: State Senate
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian
+  question: hi-q1
+  response: |
+    "Nuclear power generation.  No pollution.  Constant energy."
+
+    KEYWORDS: It's a good thing.
+
+- candidate_first_name: Frederick
+  candidate_last_name: Fogel
+  state: hi
+  race: State Senate
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian
+  question: hi-q2
+  response: |
+    ""Volatile, climate-driven risks" are overblown.  Our communities are already well protected."
+
+    KEYWORDS: The only constant is change.
+
+- candidate_first_name: Frederick
+  candidate_last_name: Fogel
+  state: hi
+  race: State Senate
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian  
+  question: hi-q3
+  response: |
+    "Each county should do what is best for it."
+  
+    KEYWORDS: It depends on what the counties what to do.
+
+- candidate_first_name: Frederick
+  candidate_last_name: Fogel
+  state: hi
+  race: State Senate
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian  
+  question: hi-q4
+  response: |
+    "Parental vouchers to identify the schools that best suit their keiki needs."
+
+    KEYWORDS: Definitely a good thing.
+
+- candidate_first_name: Frederick
+  candidate_last_name: Fogel
+  state: hi
+  race: State Senate
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian  
+  question: hi-q5
+  response: |
+    "Leave it up to the people using it."
+
+    KEYWORDS: Definitely a good thing.
+
+#candidate6_response
+- candidate_first_name: Max
+  candidate_last_name: Hanna
+  state: hi
+  race: State Senate
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "I strongly advocate for research and creation of Nuclear power, specifically building a Nuclear Power Plant on Oahu that can generate close to all of the Islands electric consumption while cutting carbon emissions 95%."
+
+    KEYWORDS: Nuclear 
+
+- candidate_first_name: Max
+  candidate_last_name: Hanna
+  state: hi
+  race: State Senate
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "Our best defense is taking the steps now to reduce our carbon footprint by building Nuclear power plants and then we will be able to implement more electric vehicles while lowering our carbon output rather then shifting it to fossil fuel power plants."
+
+    KEYWORDS: N/A
+  
+- candidate_first_name: Max
+  candidate_last_name: Hanna
+  state: hi
+  race: State Senate
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "If a Data center is gonna be built, we need to ensure that the center won't damage the environment of the land around it and make sure that local residents aren't footing the bill in electric prices or having their water contaminated by making the corporations pay the bills instead of taxpayers."
+    
+    KEYWORDS: N/A
+
+- candidate_first_name: Max
+  candidate_last_name: Hanna
+  state: hi
+  race: State Senate
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "Shift Public school funding from property taxes to general funds insuring equal payout to schools, Have Teacher pay be determined through competition of the best educators through emphasizing Civics/Morality and STEM to foster a future generation that is educated and has a strong moral compass, thus ensuring good teachers thrive and bad teachers get cut while also having teachers pay match college professor pay."
+
+    KEYWORDS: N/A
+
+- candidate_first_name: Max
+  candidate_last_name: Hanna
+  state: hi
+  race: State Senate
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "Find the gaps in our current system and renovate/expand to decrease car dependence on the island."
+
+    KEYWORDS: N/A
+    
+#candidate7_response
+- candidate_first_name: Jonathan
+  candidate_last_name: Kennealy
+  state: hi
+  race: State House of Representatives
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q1
+  response: |
+    "I definitely agree with and support alternative energy options. There are countries like Sweden who make use of their garbage to create Waste-to-energy options and make an excellent decision for us. While some of the mentioned options for energy are better used for small scale use like solar and wind, I do think other options need to be used and must be explored."
+
+    KEYWORDS: N/A
+
+- candidate_first_name: Jonathan
+  candidate_last_name: Kennealy
+  state: hi
+  race: State House of Representatives
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q2
+  response: |
+    "We can only work on climate when we focus on us individually. When we collect trash and waste and provide stiff fines for littering. Focusing on being more self-sustainable would also help to reduce our footprint as a state. These are direct answers to support the cause of climate change without wasting finances on global initiatives."
+
+    KEYWORDS: N/A
+  
+- candidate_first_name: Jonathan
+  candidate_last_name: Kennealy
+  state: hi
+  race: State House of Representatives
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q3
+  response: |
+    "We first need to ask the bigger questions. How would Hawaii benefit from the use of data gathering? Why can we not have data stored in Mainland data centers? Where do they want to place them as far as an island state. What data is being collected; are we illegally collecting private information? There are a lot of negative aspects to placing a data center in Hawaii, such as natural disasters of hurricanes, flooding, and lava flow. These questions need to be answered before we talk about placement."
+
+    KEYWORDS: N/A
+
+- candidate_first_name: Jonathan
+  candidate_last_name: Kennealy
+  state: hi
+  race: State House of Representatives
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q4
+  response: |
+    "I would like to push for a revamp of our entire education system. The need to implement parents into this discussion is dire. A strong but lean education department that focuses on good teachers and a strongly academic curriculum will help to alleviate some of the issues in this department. The federal system has granted states the ability to build and sustain our own education system. We must change the way things are currently run and yes, I would support putting STEM into our curriculum."
+    
+    KEYWORDS: N/A
+
+- candidate_first_name: Jonathan
+  candidate_last_name: Kennealy
+  state: hi
+  race: State House of Representatives
+  district: 2 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q5
+  response: |
+    "Adapting Hydrogen technology into our transportation infrastructure to sustain our transportation obstacles. We also need to make sure there are multiple ways out of our rural communities in case of natural disasters which was evidenced in Maui during the fires and The Big Island during the 2014 and 2018 lava flows. Public transportation of a hydrogen powered trackless tram connecting areas which are highly trafficked such as Hilo to Kona over saddle road or Honolulu to North Shore would bring down traffic congestion in addition to being better for our environment than Lithium ion and gas."
+
+    KEYWORDS: N/A
+    
+#candidate8_response
+- candidate_first_name: Dan
+  candidate_last_name: Johnson
+  state: hi
+  race: State House of Representatives
+  district: 12 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q1
+  response: |
+    "I fully support renewable energy incentives, and opposed SB3125 which placed a cap on the solar energy tax credits. This does not make sense for our state to have a goal of 100% renewable by 2045 and harming this credit at the same time. 
+
+    I would support using liquefied natural gas as a component of our energy portfolio, but also think we should diversify our energy supply to include biofuels and biochar from green waste more. Expanding our tax incentives to renewable energy plants would be a good move with stipulations that these plants are set to export to the grid at peak hours and after sundown to balance the solar production window and contribute to more firm renewable sources."
+    
+    KEYWORDS: Sustainability, resilience, and firm energy sources
+
+- candidate_first_name: Dan
+  candidate_last_name: Johnson
+  state: hi
+  race: State House of Representatives
+  district: 12 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican  
+  question: hi-q2
+  response: |
+    "Hardening our grid is an appropriate response. However, I think we need more forward looking plans that include burying transmission lines underground instead of overhead. As project manager, I typically am burying blank conduits for future utilities on most projects that are forward thinking about future development. Our Department of Transportation should likewise plan this way and coordinate with the utilities to partially phase in conduit trenching with planned replacement projects to be used for future transmission lines. We need to be wise with our funds and get the most “bang for our buck” with properly planning ahead for grid hardening."
+
+    KEYWORDS: Grid hardening, planning ahead, forward thinking
+
+- candidate_first_name: Dan
+  candidate_last_name: Johnson
+  state: hi
+  race: State House of Representatives
+  district: 12 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican  
+  question: hi-q3
+  response: |
+    "I don’t have a very strong stance on this as of yet, but I am hearing many concerns from the community about data centers in Hawaii. First, I don’t believe we offer the most competitive facilities from a land cost or energy perspective for it to make sense to position our state to investors and developers for data centers as is. Second, if the community strongly opposes them, then we should head those concerns and place a quota on the number of data centers that can be built by creating a licensing standard or something of that effect. Use the funds from the fees to improve infrastructure and regulate the allowable bandwidth of available resources."
+
+    KEYWORDS: Community involvement, licensing, and regulation
+
+- candidate_first_name: Dan
+  candidate_last_name: Johnson
+  state: hi
+  race: State House of Representatives
+  district: 12 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q4
+  response: |
+    "I strongly support STEM programs and improving the quality and value of our educational system. I would support funding for these programs and also look at getting other businesses in the community to support these programs in collaboration with educational and pre-employment opportunities."
+  
+    KEYWORDS: STEM, robotics, pre-employment opportunities
+
+- candidate_first_name: Dan
+  candidate_last_name: Johnson
+  state: hi
+  race: State House of Representatives
+  district: 12 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q5
+  response: |
+    "We need another option for people and businesses to move between the islands easily and cost effectively. The super ferry was great while it lasted and could continue to expanded produce, goods and services to be traded between the islands."
+
+    KEYWORDS: Superferry 
+    
+#candidate9_response
+- candidate_first_name: Jesse
+  candidate_last_name: Fitzgerald
+  state: hi
+  race: State House of Representatives
+  district: 50 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q1
+  response: |
+    "Solar and geothermal are key , LNG is a no go, period, this is energy from fracking and produces methane gas, the deadliest of the greenhouse gasses.  We should make HECO a state entity, upgrade the infrastructure, convert to all renewables and structure Hawaii in a way to lead the nation and the world in sustainability. Lower energy prices to boost domestic production and allow businesses to thrive and families to afford the energy they need."
+  
+    KEYWORDS: Sustainable, clean, jobs, Green Revolution.
+
+- candidate_first_name: Jesse
+  candidate_last_name: Fitzgerald
+  state: hi
+  race: State House of Representatives
+  district: 50 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q2
+  response: |
+    "We need to produce our own food and energy to insulate us from the fluctuations of the market that are to come.  We need to look into state run insurance companies to provide the coverage we will need and improve response time.  We need to be proactive in determining the impacts in our communities that are currently experiencing the effects of climate change.  We need to be proactive not reactionary to the changing climate."
+
+    KEYWORDS: Proactive, self sustainable, insurance reform.
+
+- candidate_first_name: Jesse
+  candidate_last_name: Fitzgerald
+  state: hi
+  race: State House of Representatives
+  district: 50 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q3
+  response: |
+    "Ban all data centers period.  The current production standards are antithetical to the human condition.  We cannot afford to give up more water and space to these polluting systems that most likely won’t benefit the average person."
+    
+    KEYWORDS: Ban
+
+- candidate_first_name: Jesse
+  candidate_last_name: Fitzgerald
+  state: hi
+  race: State House of Representatives
+  district: 50 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q4
+  response: |
+    "Hawaii should have the highest quality public education, STEM programs are great and we need them for the modern world , but equitable efforts to support the arts, trades, and agriculture to increase the vibrancy of life and prosperity of a well rounded work force and society."
+    
+    KEYWORDS: Public school investment, a well rounded curriculum 
+
+- candidate_first_name: Jesse
+  candidate_last_name: Fitzgerald
+  state: hi
+  race: State House of Representatives
+  district: 50 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q5
+  response: |
+    "Public transportation is the key to Hawaii’s future prosperity.  We need to incentivize mass transit, biking, free transportation for children, maybe for all, this would lead to less pollution, traffic, road wear and maintenance, we need to discourage private transport as much as possible."
+  
+    KEYWORDS: Mass transit, future, equity, free, sustainable
+    
+#candidate10_response
+- candidate_first_name: Gary
+  candidate_last_name: Cordery
+  state: hi
+  race: Governor
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q1
+  response: |
+    "Geothermal makes sense for the Big Island, hydrogen is for the future, SNR’s are the most efficient, clean scalable. They represent energy for Hawaii’s future."
+  
+    KEYWORDS: N/A
+
+- candidate_first_name: Gary
+  candidate_last_name: Cordery
+  state: hi
+  race: Governor
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q2
+  response: |
+    "Contrary to most opinions, the actual global data shows the earth is in a cooling trend. This addresses the question of sea level rise
+    Fire mitigation is a stewardship responsibility. Counties must maintain their lands ensuring the fuel is mitigated."
+
+    KEYWORDS: N/A
+  
+- candidate_first_name: Gary
+  candidate_last_name: Cordery
+  state: hi
+  race: Governor
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q3
+  response: |
+    "I am opposed to data centers."
+    
+    KEYWORDS: N/A
+
+- candidate_first_name: Gary
+  candidate_last_name: Cordery
+  state: hi
+  race: Governor
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q4
+  response: |
+    "The DOE must prioritize science in the classroom and support advanced placement."
+    
+    KEYWORDS: N/A
+
+- candidate_first_name: Gary
+  candidate_last_name: Cordery
+  state: hi
+  race: Governor
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q5
+  response: |
+    "Hawaii must create competition in this sector, there is no incentive to improve our transportation infrastructure."
+
+    KEYWORDS: N/A
+    
+#candidate11_response
+- candidate_first_name: Adriel
+  candidate_last_name: Lam
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q1
+  response: |
+    "Western science has historically been rooted in seeking to understand the Laws of Nature and God's creation.  American ingenuity has brought that understanding to making common for every person what was once the luxuries of kings and queens.  We should always encourage innovation and development, to include alternative energy source, but to then end that it remains efficient, economical and affordable to the general population."
+    
+    KEYWORDS: efficient, economical, affordable
+
+- candidate_first_name: Adriel
+  candidate_last_name: Lam
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q2
+  response: |
+    "Climate and weather cycles have been understood for centuries.  Preparation and adaptation to these events do not need carbon-driven dogma for sensible leaders to act.  We have witnessed how Hawaii was wholly deficient in preparing for windstorm from a bypassing hurricane. We need to better in improving and hardening infrastructure, instead of skimping on the transportation, waterways, and utilities budgets until the next crisis necessitates repair. The engineering and technology exists but it require leadership and priorities to implement and invest in Hawaii's future."
+    
+    KEYWORDS: invest, adapt, improve
+  
+- candidate_first_name: Adriel
+  candidate_last_name: Lam
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q3
+  response: |
+    "AI/SI is inevitable to technological growth.  We can either adapt to it or get left behind.  Corporate investment should not come at the expense of the community but for its benefit.  We do not need bans, but we should require partnerships. One does not take advantage of community simply for its land value, but should bring value added to a community in raising the existing standards and quality of life."
+    
+    KEYWORDS: partnership, community investment
+
+- candidate_first_name: Adriel
+  candidate_last_name: Lam
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q4
+  response: |
+    "The state-wide education bureaucracy continues to hamper overall progress in education. While some schools thrive, others are left behind to fulfill low-hanging social mandates while jeopardizing solid education in the math and science. Public schools need to focus and prioritize on the basics, reading, writing, math and sciences. This is best done when each community has the independence to direct and prioritize the educational goals of their own schools."
+    
+    KEYWORDS: independence, priorities
+
+- candidate_first_name: Adriel
+  candidate_last_name: Lam
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q5
+  response: |
+    "Equity comes at a price, and not all communities are locked into their predicament. Collaboration and community engagement integrates human factors into sound policy making.  Technological advances are successful, not for the accolades of the inventor, but when great benefit comes to the people."
+    
+    KEYWORDS: human factors, greater benefit
+    
+#candidate12_response
+- candidate_first_name: Jordan
+  candidate_last_name: Conley
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q1
+  response: |
+    "I think Hawaii should utilize solar, wind, geothermal, and tidal energies. I would suggest or support bills that would bring money into Hawaii for all of our schools in the island to teach about these things.this would be k through college."
+
+    KEYWORDS: Education geothermal tidal
+
+- candidate_first_name: Jordan
+  candidate_last_name: Conley
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q2
+  response: |
+    "Education is always key. However action needs to be taken. I would hold town halls to discuss with the community and scientists what needs to and can be done. This would be to build local and larger scale projects. I would reach out across the nation and would to do similar. The goal would be to get things going soon. There are many global projects that just need funding that could have an impact very quickly. I would help bring these to the attention of all."
+
+    KEYWORDS: Education community projects 
+
+- candidate_first_name: Jordan
+  candidate_last_name: Conley
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green  
+  question: hi-q3
+  response: |
+    "I think they should. Data centers should be put away from people. Maybe burry them deep in the ground. I don't see why they need to be close to people."
+  
+    KEYWORDS: Far underground distance 
+
+- candidate_first_name: Jordan
+  candidate_last_name: Conley
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green
+  question: hi-q4
+  response: |
+    "This is what I do. For your best answer from myself, Google "Hapa Mana non profit on a mission Jordan Conley" and that is a local interview of me about Hapa Mana, a nonprofit i started to do just this. It shut down due to covid. I would restart it. Restart partnerships and build new ones. IHS, HPH, YMCA, Kunia Village Development Corporation are some local partnerships ships we would start off with."
+    
+    KEYWORDS: Rural contact outreach 
+
+- candidate_first_name: Jordan
+  candidate_last_name: Conley
+  state: hi
+  race: US House of Representatives
+  district: 1 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Green 
+  question: hi-q5
+  response: |
+    "To be honest, I would not know the technicalities of it. I know it is important and I would look to get the right people on it. I would look to places, even other countries, who have done good jobs at connecting communities while staying environmentally conscious. I just would not be able to explain what they were doing until they explained it to me."
+
+    KEYWORDS: Technical outsource important 
+    
+#candidate13_response
+- candidate_first_name: Anthony Makana
+  candidate_last_name: Paris
+  state: hi
+  race: State House of Representatives
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q1
+  response: |
+    "Aloha: Hawaiʻi should pursue energy independence by producing and storing more energy locally. Reducing reliance on imported fuels can protect residents from global price shocks and strengthen resilience. Solar, wind, geothermal, and wave energy can contribute, alongside efficiency, storage, microgrids, demand management, and grid upgrades. Because no resource meets every need, decisions should rely on transparent analysis of reliability, cost, and environmental impacts.
+
+    I support exploring public ownership of the grid and expanding community and cooperative energy projects. But ownership changes alone won’t necessarily lower bills. Proposals should receive independent public cost-benefit reviews, protect workers and ratepayers, and ensure accountability. Utilities should be rewarded for affordability, reliability, and connecting local renewables.
+
+    The transition must benefit working families through targeted bill assistance and wider access to rooftop and shared solar, storage, and efficiency upgrades, including for renters and households unable to afford their own systems. Projects should create local jobs, deliver community benefits, involve residents early, and protect land, water, wildlife, and Native Hawaiian cultural practices.
+
+    I would prioritize local renewables and storage over long-term fossil-fuel dependence. Any liquefied natural gas proposal should undergo an independent, transparent review of lifecycle emissions, costs, reliability, and the risk of locking Hawaiʻi into imported fuel, and must not delay a locally powered energy system."
+  
+    KEYWORDS: Energy Independence, Affordability, Accountability, and Community Resilience
+
+- candidate_first_name: Anthony Makana
+  candidate_last_name: Paris
+  state: hi
+  race: State House of Representatives
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q2
+  response: |
+    "Hawaiʻi must prepare for disasters before they strike by strengthening homes, shelters, neighborhoods, infrastructure, and natural defenses.
+
+    I support grants and tax credits to help homeowners and associations retrofit homes and shared infrastructure for high winds, with priority for low-income households and high-need communities. Applications should be simple, with staff available to guide residents. New construction should meet updated, evidence-based wind standards, while existing homes should have practical retrofit options.
+
+    Schools and other suitable public buildings should be assessed and upgraded as shelters, with safe rooms, backup power, supplies, and plans for flooding and other local hazards. Neighborhood resilience hubs should offer emergency supplies, backup power, multilingual communication, and trained local teams. Investments in stormwater systems, roads, and utilities should prioritize communities facing the greatest risks and having the fewest resources.
+
+    Green infrastructure, including rain gardens, permeable surfaces, native landscaping, and rainwater capture, can help manage runoff. Healthy watersheds, wetlands, reefs, and dunes can also support natural defenses, guided by community knowledge, Native Hawaiian stewardship, and science.
+
+    I support a unified state park system with transparent, dedicated funding for maintenance, conservation, visitor facilities, and community resilience. Visitors would pay admission and parking fees, residents a nominal fee, while access on foot remains free.
+
+    Public investments should prioritize prevention, accessible recovery assistance, local jobs, and clear reporting so every community benefits."
+
+    KEYWORDS: Preparedness, Resilience, Equity, and Stewardship
+  
+- candidate_first_name: Anthony Makana
+  candidate_last_name: Paris
+  state: hi
+  race: State House of Representatives
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q3
+  response: |
+    "Hawaiʻi should invest in ʻāina and people by strengthening energy and water systems, growing local food production, expanding vocational training, and keeping more dollars circulating in the islands. We can also become a Pacific data hub, provided data-center growth serves the public and respects limits on land, water, and infrastructure.
+
+    I would not support a statewide ban on data centers. Counties should distinguish large, energy-intensive facilities from standard data-processing centers and regulate them through zoning, permits, and enforceable standards. Projects that threaten essential water supplies, strain the grid, raise residents’ costs, or cause unacceptable harm to agricultural land, ecosystems, or cultural resources should be denied.
+
+    Before approval, large projects should undergo independent, transparent review of energy and water use, emissions, noise, land impacts, infrastructure costs, and effects on utility bills. Developers should pay for the power, water, and grid upgrades they require. Facilities should meet strong efficiency standards, use additional clean energy and storage, and publicly report resource use and environmental performance. Public subsidies should depend on measurable local benefits.
+
+    Communities should help shape projects from the beginning. Benefits should include local hiring, quality jobs, apprenticeships, vocational training, and shared infrastructure. Hawaiʻi can welcome technology without giving companies a blank check: projects must support affordable, reliable services, environmental protection, good jobs, and community self-determination."
+  
+    KEYWORDS: Community Benefit, Clean Energy, Water Stewardship, Accountability
+
+- candidate_first_name: Anthony Makana
+  candidate_last_name: Paris
+  state: hi
+  race: State House of Representatives
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q4
+  response: |
+    "Every student in Hawaiʻi deserves high-quality education and meaningful STEM opportunities, regardless of island, neighborhood, or family income. That requires sustained investment in educators, school facilities, foundational learning, and locally relevant opportunities.
+
+    My priorities include competitive teacher salaries, permanent differentials for hard-to-staff roles, housing assistance for school staff, and modern, safe classrooms. Funding should reflect each school’s needs, including staffing challenges and support for students with disabilities and multilingual learners.
+
+    AI can support learning but should not replace teachers, human judgment, or relationships. Schools should set clear rules for classroom use, teach students to assess accuracy and bias, and protect student information. AI should not be the sole basis for grading or high-stakes decisions. Schools should evaluate tools before adopting them broadly, and provide teachers with training, planning time, and technical support.
+
+    STEM learning should be hands-on and connected to Hawaiʻi, with opportunities in robotics, coding, engineering, agriculture, marine science, renewable energy, and community problem-solving. I support expanding after-school and summer programs, internships, science fairs, and career and technical education through partnerships with UH, community colleges, employers, and community organizations. Transportation, meals, equipment, and fees should not keep students from participating.
+
+    Public investments should be transparent and measured by whether they improve learning and access. Every student should have caring educators, safe schools, and the tools to thrive."
+  
+    KEYWORDS: Teacher Support, Equitable Access, Hands-On STEM, Student Success
+
+- candidate_first_name: Anthony Makana
+  candidate_last_name: Paris
+  state: hi
+  race: State House of Representatives
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Democratic
+  question: hi-q5
+  response: |
+    "Hawaiʻi should reduce transportation emissions while making it safer and more affordable to reach jobs, schools, health care, and essential goods. That requires coordinated action on land use, transit, walking and biking, vehicles, aviation, and shipping.
+
+    Focus housing and daily services in existing communities, near rail and frequent bus routes, while protecting agricultural and rural lands. Pair new development with affordable housing, infrastructure, tenant protections, and measures to prevent displacement. Use routine road maintenance to close sidewalk gaps, improve crossings and bus stops, add protected bike connections, and provide shade, prioritizing high-injury areas and routes to essential destinations.
+
+    Expand reliable, affordable transit across islands, including flexible rides and medical-trip connections in rural communities. Electrify buses and public fleets while ensuring charging is accessible to renters, lower-income households, rural residents, and small businesses. Evaluate aviation and marine fuels using transparent lifecycle analysis, including effects on land, water, food production, and local energy security.
+
+    Transportation projects should create quality local jobs and involve Native Hawaiian communities, people with disabilities, workers, youth, and underserved residents from the start. Publish island- and community-level measures of safety, affordability, access, reliability, emissions, and displacement. Communities bearing infrastructure’s burdens should have a meaningful voice and secure benefits and protections.
+
+    Success means safer, more affordable access to daily needs, lower emissions, and growth that strengthens communities rather than displacing them. Mahalo."
+  
+    KEYWORDS: Accessibility, Affordability, Accountability, Community empowerment
+    
+#candidate14_response
+- candidate_first_name: Mike
+  candidate_last_name: Coots
+  state: hi
+  race: Local County Races [All]
+  county_race: Kaua'i Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "I believe Hawaiʻi needs to keep moving toward renewable energy, but we need to do it in a way that makes sense for our people and our island. Nobody should have to choose between paying their electric bill and putting food on the table. We should make the most of solar, battery storage,and other options that work for Kauaʻi, while being careful about where we put large projects and how they affect our farmland, water, and neighborhoods. I’m open to exploring new technologies, when the costs and environmental impacts make sense. At the end of the day, we need practical solutions that lower costs, keep the lights on, protect what makes Kauaʻi special, and give our community a real voice in decisions that affect our future. My family is a huge solar proponent, and feel for Kaua'i that currently is our best resource for alternative energy."
+    
+    KEYWORDS: Sustainability, renewable, affordable, less oil more alternatives. 
+
+- candidate_first_name: Mike
+  candidate_last_name: Coots
+  state: hi
+  race: Local County Races [All]
+  county_race: Kaua'i Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "Wish I had a concrete plan, and be suspicious of any who does. I do feel less oil-driven energy and more options like solar. Not only better for the plant, but also not funding adversary countries and in Hawai'i, solar makes sense."
+    
+    KEYWORDS: Not day to day weather, but long term trends.
+
+- candidate_first_name: Mike
+  candidate_last_name: Coots
+  state: hi
+  race: Local County Races [All]
+  county_race: Kaua'i Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "Would oppose any and all data centers on Kaua'i."
+    
+    KEYWORDS: N/A
+
+- candidate_first_name: Mike
+  candidate_last_name: Coots
+  state: hi
+  race: Local County Races [All]
+  county_race: Kaua'i Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "Much needed, and strongly support."
+    
+    KEYWORDS: N/A
+    
+- candidate_first_name: Mike
+  candidate_last_name: Coots
+  state: hi
+  race: Local County Races [All]
+  county_race: Kaua'i Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    N/A
+    
+    KEYWORDS: N/A
+    
+#candidate15_response
+- candidate_first_name: Tamara
+  candidate_last_name: Paltin
+  state: hi
+  race: Local County Races [All]
+  county_race: West Maui Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "I support alternative energy production that engages the community affected by the related infrastructure and takes Environmental and ecological impacts into account and mitigates them to the extent possible. Important policies would be planning ahead for end of useful life dismantling and disposal. I am most familiar with solar and wind power as alternative energy sources but open to learning more."
+  
+    KEYWORDS: Safety, Accountability, Transparency, Efficiency
+
+- candidate_first_name: Tamara
+  candidate_last_name: Paltin
+  state: hi
+  race: Local County Races [All]
+  county_race: West Maui Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "Working on coastal retreat adaptive pathway policies, water conservation policy/strategies and source development with County of Maui Department of Water Supply, food security through partnerships and grants with County and State Departments of Agriculture and Resilience hubs and networks with Maui emergency management agency"
+
+    KEYWORDS: Retreat, Conservation, Resilience, Food Security
+  
+- candidate_first_name: Tamara
+  candidate_last_name: Paltin
+  state: hi
+  race: Local County Races [All]
+  county_race: West Maui Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "Sure, from my research the large data centers would not be suitable for Hawaii and we have some of the smaller types already. I believe data centers that do not use/pollute large amounts of water or draw large amounts of energy are most concerning and the output of funny memes and flyers just arent worth that kind of trade off. There may be ethical data centers but as a community we would need to look into what is being offered, what it’s used for and what is the tradeoff in terms of our Natural resources."
+
+    KEYWORDS: Water/Energy comsumption, pollution, ethicalqqq
+
+- candidate_first_name: Tamara
+  candidate_last_name: Paltin
+  state: hi
+  race: Local County Races [All]
+  county_race: West Maui Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "I support more training and workshops for teachers and organizations instructors(such as Boys and girls club or A plus) specifically in areas where science and math proficiency is low and incentives for students to participate in STEM programs."
+
+    KEYWORDS: Training, Workshops, Incentives
+
+- candidate_first_name: Tamara
+  candidate_last_name: Paltin
+  state: hi
+  race: Local County Races [All]
+  county_race: West Maui Councilmember # feel free to remove if not applicable
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "I support fare free public transit for buses especially in areas that have traffic congestion. Currently we are working on a county sponsored inter county ferry to help with transportation between Maui, Molokai and Lānaʻi. I support trying hybrid or electric buses with a designated way to get rid of those batteries at the end of their useful life and trying algae or seaweed based jet fuel. In more rural communities I support micro-transit or rideshare type programs."
+
+    KEYWORDS: Fare-free, micro-transit, ride share

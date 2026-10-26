@@ -1,28 +1,47 @@
 - id: il-q1
   question: >-
     Illinois currently has 138 data centers, with 8 underway, and plans for 29
-    more. What policies, if any, do you support in managing existing data
-    centers or establishing additional data centers? What specific plans do
-    you have, if any, to mitigate utility cost burden for residents? Why these
-    steps? (modified from previous questions)
+    more. Additionally, the cost of electricity and water are on the rise with
+    nearby data centers straining current resources in combination with
+    increased energy costs to consumers. Data centers also have several
+    environmental and health impacts, such as significant water usage and
+    noise pollution, which can lead to decrease in net economic gains. What
+    policies, if any, do you support in managing existing data centers or
+    establishing additional data centers? What specific plans do you have, if
+    any, to mitigate utility cost burden for residents? Why these steps?
   tag: Energy
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
 
 - id: il-q2
   question: >-
     Research activities in Illinois heavily depend on federal funding.
     However, federal funding cuts for science research and agencies like the
-    NIH and NSF leaves the future for science research uncertain. What
-    policies, if any, do you support or plan to implement to fund scientific
-    research at either the state or federal level?
+    NIH and National Science Foundation leaves the future for science research
+    less assured. What policies, if any, do you support or plan to implement
+    to secure funding for continued science research at either the state or
+    federal level?
   tag: Science Funding
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
 
 - id: il-q3
   question: >-
-    Agriculture is an important part of Illinois’ economy. However, changing
-    weather patterns pose a challenge for Illinois agriculture. What policies
-    or plans do you have, or support, to support Illinois agriculture against
-    challenges like Illinois agriculture?
+    Illinois is an agricultural hub, making it an important factor for the
+    state’s economy. What policies or plans do you have, or support, to
+    support Illinois agriculture against changing weather patterns?
   tag: Climate
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
 
 - id: il-q4
   question: >-
@@ -32,12 +51,44 @@
     and ensure your decisions are well informed? If you can, please share an
     example of when this process influenced your perspective or decision.
   tag: Trust in Science
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
 
 - id: il-q5
   question: >-
     Measles and whooping cough (pertussis) cases are on the rise in Illinois,
-    with multiple outbreaks in 2026. How have you, or how do you plan to,
-    address this public health concern? How will you plan to work with
-    relevant stakeholders (epidemiologists, scientists, physicians, for
-    example) to mitigate this problem?
+    with multiple outbreaks in 2026. How have you, how do you plan to, address
+    this public health concern? How will you plan to work with relevant
+    stakeholders (epidemiologists, scientists, physicians, for example) to
+    mitigate this problem?
   tag: Public Health
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: il-q6
+  question: >-
+    How do you view the role of science in K-12 education? What policies or
+    investments, do you support, or have supported to ensure and improve the
+    quality science instruction for students, and explain why these are your
+    policies?
+  tag: K-12 Science Education
+  races:
+    - School Board
+
+- id: il-q7
+  question: >-
+    The use of Artificial Intelligence (AI) has become more integrated in the
+    classroom. What policies would you support for AI use by students and
+    teachers in the classroom to ensure that students receive quality science
+    instruction?
+  tag:
+    - Artificial Intelligence
+    - K-12 Science Education
+  races:
+    - School Board

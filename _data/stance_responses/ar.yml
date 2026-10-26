@@ -1,0 +1,90 @@
+- candidate_first_name: Terri
+  candidate_last_name: Green
+  state: ar
+  race: US House of Representatives
+  district: 1
+  party: Democratic
+  question: ar-q1
+  response: |
+    “I advocate for communities to be directly involved in decisions about data centers, with public meetings and information with full transparency from the companies proposing the construction.  Communities should vote and decide for themselves whether they want a data center in their backyard.”
+
+- candidate_first_name: Terri
+  candidate_last_name: Green
+  state: ar
+  race: US House of Representatives
+  district: 1
+  party: Democratic
+  question: ar-q2
+  response: |
+    "I would support bills funding research and development as well as government subsidies for these technologies so that they could be implemented with maximum benefit."
+
+- candidate_first_name: Terri
+  candidate_last_name: Green
+  state: ar
+  race: US House of Representatives
+  district: 1
+  party: Democratic
+  question: ar-q3
+  response: |
+    "I have repeatedly voiced my support for a robust Department of Education providing funding for K-12 schools and mandating civics education that is thorough and increases in complexity with each grade.  This should include the history of government intersection with scientific discoveries and support of scientific research.  The historical impact of science on the lives of people should be emphasized. The curriculum for these mandatory topics would require new textbooks and detailed planning. The program as I see it would take a few years to fully develop and then be rolled out to every school district. 
+      Ten years from now this could be ready for implementation across the nation."
+
+- candidate_first_name: Steve G
+  candidate_last_name: Parsons
+  state: ar
+  race: US House of Representatives
+  district: 1
+  party: Libertarian
+  question: ar-q1
+  response: |
+    "I don't want governments to provide corporate welfare or favoritism to data centers (like the $1 billion/year tax benefit in Virginia).  But I don't want government to artificially burden data centers either.  Bills that require data centers to pay their own way (or to reduce regulations to allow them to more readily produce their own power would be acceptable to me."
+
+- candidate_first_name: Steve G
+  candidate_last_name: Parsons
+  state: ar
+  race: US House of Representatives
+  district: 1
+  party: Libertarian
+  question: ar-q2
+  response: |
+    "I would look for the major government regulations that handicap such activities.  I would attempt to eliminate such regulations (such as the 1920 Jones Act that forces shipment of agricultural products between two US ports using ships that are twice as old and 5 times as expensive as those used by other countries."
+
+- candidate_first_name: Steve G
+  candidate_last_name: Parsons
+  state: ar
+  race: US House of Representatives
+  district: 1
+  party: Libertarian
+  question: ar-q3
+  response: |
+    "Arkansas has moved up in the ranks of states in recent years (although still below the national average).  However, in math in particular, we are below the OECD average.  Our ranking in science is only slightly better.  Partnerships with science-based businesses would greatly help. Unfortunately, there is substantial science denial in segments of the AR population.  For example, fully 10% of the population (higher among younger people) believe the earth is flat and another 9% are unsure whether it is flat or spherical.  An even higher percentage believe in an helio-centric (earth-centered) solar system or even helio-centric universe.  We need to help young people understand the difference between critical thinking - and simply rejecting standard knowledge and authority. A short module in a class on sources would help.  For example, using the top medical sources (e.g., Mayo Clinic, Cleveland Clinic, Harvard ...) with a medical search term (such as MMR vaccine safety and effectiveness) eliminates the vast majority of misinformation in a search. As a Libertarian candidate (who believes we should question government) , it is easier for me to talk about these topics without people automatically stop listening."
+
+- candidate_first_name: Robb
+  candidate_last_name: Ryverse
+  state: ar
+  race: US House of Representatives
+  district: 3
+  party: Democratic
+  question: ar-q1
+  response: |
+    "I am pro-technology, but I am also deeply concerned about data centers. I think we need a moratorium on data centers until the environmental and human repercussions are understood and mitigated. We have a history of plowing forward with advancement without concern for the impact on people and the planet (coal mines, the railroad). We need to make sure we dont make the same mistake with data centers."
+
+- candidate_first_name: Robb
+  candidate_last_name: Ryverse
+  state: ar
+  race: US House of Representatives
+  district: 3
+  party: Democratic
+  question: ar-q2
+  response: |
+    "Too often, environmental protections are thought to be the enemy of economic health. The bioeconomy proves this isn't the case. I will work to see further federal investments in the innovations necessary to advance a job market in Arkansas that includes biotechnology and agriculture."
+
+- candidate_first_name: Robb
+  candidate_last_name: Ryverse
+  state: ar
+  race: US House of Representatives
+  district: 3
+  party: Democratic
+  question: ar-q3
+  response: |
+    "As a Congressperson, my job will be to ensure the federal Department of Education has the leadership and resources to do its job. I will work to protect quality, well-resourced public education because it is invaluable to the next generation of scientists and leaders."

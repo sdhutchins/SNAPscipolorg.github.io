@@ -65,9 +65,14 @@
     });
   }
 
+  // The include can appear more than once on a page (upcoming + past), and each
+  // copy loads this script, so mark sections as set up to avoid doubling up.
   function init() {
-    var root = document.getElementById("snap-events");
-    if (root) setupSection(root);
+    document.querySelectorAll(".snap-events").forEach(function (root) {
+      if (root.dataset.lightboxReady) return;
+      root.dataset.lightboxReady = "true";
+      setupSection(root);
+    });
   }
 
   if (document.readyState === "loading") {

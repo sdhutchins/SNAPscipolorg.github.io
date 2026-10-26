@@ -1074,3 +1074,113 @@
   date:
   response: |
     "I remember the scientific method being drilled into my brain in school and I have adapted it in a variety of ways in my personal and professional life.  I believe it could be a formula that could allow some of the trust to be rebuilt in this country."
+
+- candidate_first_name: Vicky
+  candidate_last_name: Wors 
+  state: mo
+  race: State Senate
+  district: 26
+  party: Democratic
+  question: mo-q1
+  date:
+  response: |
+    "To begin we need to expand telehealth to a larger rural footprint. Secondly, we need to rethink the administration's approach to funding of rural hospitals and clinics by rolling back unneeded tax cuts for Missouri's wealthiest citizens and reallocate these funds to save current and future hospitals.We have to roll back the unmercenary tax cuts for Missouri's wealthiest and the TIF's awarded to companies doing business in Missouri. These funds are necessary for funding telehealth, medical clinics staffing, and Medicaid expansion are necessary for the continued health of our farmers. small town residents and our aging communities."
+  
+- candidate_first_name: Vicky
+  candidate_last_name: Wors 
+  state: mo
+  race: State Senate
+  district: 26
+  party: Democratic
+  question: mo-q2
+  date:
+  response: |
+    "This is  top economic generator in Missouri maintaining the  continuation of the family farm as well as the education of the next generation of farmers is essential to Missouri's economic health. We must redirect Missouri general revenue to support education and training of our farming communities. The development of programs meant to incentivize interested young people to seek careers in agriculture and farming."
+
+- candidate_first_name: Vicky
+  candidate_last_name: Wors 
+  state: mo
+  race: State Senate
+  district: 26
+  party: Democratic
+  question: mo-q3
+  date:
+  response: |
+    "It is essential that data center developers be regulated starting before the first drilling rig arrives on the premises. All proposed development must be presented to local citizens which will include geological surveys, where the developer will acquire water, electricity, and manpower to build and operate the facility. Developers must put in escrow cost of remediation in escrow. NDA's are invalidated. All data center developers must submit plans for proposed data centers which identify the geological studies of the land where the proposed center will be built before the firft drill arrives on the scene, The plans must also include how the developer will provide for the resources necessary to operate a center, where the labor force will be recruited from and include a commitment to hire union labor. the commitment to place funds for remediation in escrows should the site close."
+
+- candidate_first_name: Vicky
+  candidate_last_name: Wors 
+  state: mo
+  race: State Senate
+  district: 26
+  party: Democratic
+  question: mo-q4
+  date:
+  response: |
+    "If a question arises which requires validated and relevant scientific data to develop plans, divisions that impact the greater good, I will actively solicit and adhere to recommendations from the scientific community. In instances where decisions regarding state wide health, environmental issues and decisional on allowing new industries into the state; I will consult with experts in the fields and utilize their recommendations. I believe in science and will encourage scientific study were necessary."
+
+- candidate_first_name: Vicky
+  candidate_last_name: Wors 
+  state: mo
+  race: State Senate
+  district: 26
+  party: Democratic
+  question: mo-q5
+  date:
+  response: |
+    "Encouraging and fostering the natural inquisitiveness of the young mind is imperative to insure future scientific exploration in many fields. Students showing a mental capacity and basic interest in STEMS should be fully funded. The study of science develops critical thinking therefore the establishment of screen related study is important for creating intelligent future generations. Starting scientific education and training as early as possible helps children solve problems in the classroom as well as in daily life,"
+  
+- candidate_first_name: Mike
+  candidate_last_name: McCaffree 
+  state: mo
+  race: State Senate
+  district: 28
+  party: Democratic
+  question: mo-q1
+  date:
+  response: |
+    "Broadly, I want to see as many people be able to afford health insurance.  I'm very concerned about the upcoming Medicaid cuts and people losing their health insurance from the Affordable Care Act due to the strict 2x year reporting requirement under the Trump administration policy staring [sic] Jan 1 2027."
+  
+- candidate_first_name: Mike
+  candidate_last_name: McCaffree 
+  state: mo
+  race: State Senate
+  district: 28
+  party: Democratic
+  question: mo-q2
+  date:
+  response: |
+    "I support Ag Tech business and Ag Education in Missouri.  I've served on the local school board for 17 years and am a firm believer in public schools and education."
+  
+- candidate_first_name: Mike
+  candidate_last_name: McCaffree 
+  state: mo
+  race: State Senate
+  district: 28
+  party: Democratic
+  question: mo-q3
+  date:
+  response: |
+    "I'm most concerned about data centers effect on utility rates and how they might effect water quality in the surrounding areas.  I'm willing to learn more if there is technology available that can mitigate any of these byproducts."
+  
+- candidate_first_name: Mike
+  candidate_last_name: McCaffree 
+  state: mo
+  race: State Senate
+  district: 28
+  party: Democratic
+  question: mo-q4
+  date:
+  response: |
+    "I think it is always important to listen to all sides and listen to people with scientific knowledge especially in technical fields."
+  
+- candidate_first_name: Mike
+  candidate_last_name: McCaffree 
+  state: mo
+  race: State Senate
+  district: 28
+  party: Democratic
+  question: mo-q5
+  date:
+  response: |
+    "We need to make science and math a priority in our public schools again.  Missouri teacher pay ranks second to last in the nation and we need to invest in our teachers to attract and keep the best science and math teachers."

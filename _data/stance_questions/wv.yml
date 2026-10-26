@@ -1,0 +1,39 @@
+- id: wv-q1
+  question: >-
+    Technology Infrastructure / Data Centers: What role should local communities play in approving large infrastructure or technology projects (like data centers or renewable energy infrastructure), and should the state prioritize that economic benefits from new technologies stay in local communities?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+    - Jobs and Workforce
+
+- id: wv-q2
+  question: >-
+    Flooding / Scientific Consultation: West Virginia has faced significant flooding over the last decade. To what extent, if any, will you consult with scientists and experts to prevent/mitigate future flooding risk and damage?
+  tag:
+    - Climate
+    - Environment
+    - Trust in Science
+
+- id: wv-q3
+  question: >-
+    Trust in Science: Do you think elected officials have a role in working with local scientists or physicians to build the general public's trust in science? If so, what plans do you have to work with those experts?
+  tag:
+    - Policymaking Process
+    - Science Diplomacy
+    - Trust in Science
+
+- id: wv-q4
+  question: >-
+    Water Quality / Environmental Regulation: West Virginia faces significant ongoing environmental challenges with industry contaminating groundwater and streams. What policies, if any, would you implement or better enforce to address our state’s water quality degradation and why?
+  tag:
+    - Agriculture
+    - Environment
+    - Public Health
+
+- id: wv-q5
+  question: >-
+    Healthcare Access: Federal medicaid cuts have strained many rural hospitals and left thousands of previously covered West Virginians without insurance. In a state with one of the highest reliances on Medicaid funding to support its constituents, what can you do to help ensure that West Virginians have the healthcare access they need?
+  tag:
+    - Jobs and Workforce
+    - Public Health

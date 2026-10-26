@@ -122,6 +122,54 @@
 
     As I push to build these structures, as an elected official. This work with scientists is going to build the general public’s trust in science, in food, and in our education system. Assurance that we have modern upgrades to the way our water and electricity is disbursed, along with sub stipends. The citizens will be honored. As they vote me as their Senator of District 22. Visit www.lakeshiamalstonsenate.net for more information.
 
+- candidate_first_name: David
+  candidate_last_name: Bankert
+  state: nc
+  race: State Senate
+  district: 15
+  party: Republican
+  question: nc-q1
+  date: 2026-10-07
+  primary_candidate: false
+  response: |
+    I evaluate data center proposals primarily by scale. Hyperscale centers (over one million square feet) require a distinct evaluation process compared to average-sized facilities. While advanced data infrastructure is essential to remaining competitive, facilities of that size may not be suitable for North Carolina. However, average and smaller-sized data centers are well-suited for our state, as their economic, public health, and environmental impacts are significantly easier to manage. Regarding utility rates, my baseline principle is that non-data center consumers must not subsidize these operations or see their electric bills increase.
+
+- candidate_first_name: David
+  candidate_last_name: Bankert
+  state: nc
+  race: State Senate
+  district: 15
+  party: Republican
+  question: nc-q2
+  date: 2026-10-07
+  primary_candidate: false
+  response: |
+    Workforce readiness begins with a strong foundational education. K-12 schools should focus on core educational basics in grades K-8, followed by broad access to STEM curricula in high school. Additionally, we should foster direct partnerships between schools and local science and engineering businesses through industry visits, field trips, and workforce mentorship programs.
+
+- candidate_first_name: David
+  candidate_last_name: Bankert
+  state: nc
+  race: State Senate
+  district: 15
+  party: Republican
+  question: nc-q3
+  date: 2026-10-07
+  primary_candidate: false
+  response: |
+    Every American should have access to basic food, shelter, clothing, and healthcare. Addressing environmental health risks, particularly PFAS contamination and general waste management, must be a high priority, guided by a strong commitment to environmental stewardship. For emergency preparedness, we should examine and adopt successful international models. Regarding vaccines, based on my personal family experiences, I hold significant concerns about their safety and usage.
+
+- candidate_first_name: David
+  candidate_last_name: Bankert
+  state: nc
+  race: State Senate
+  district: 15
+  party: Republican
+  question: nc-q4
+  date: 2026-10-07
+  primary_candidate: false
+  response: |
+    Building trust in science is complex, as public perception is often influenced by media, financial interests, and institutional challenges. Because the scientific process inherently relies on continuous questioning and verification, the most effective way to foster public trust is for the scientific community to maintain rigorous self-regulation and transparency.
+
 - candidate_first_name: LeVon
   candidate_last_name: Barnes
   state: nc
@@ -371,6 +419,54 @@
     The objective should not be unquestioning trust in government, politicians, institutions, or even scientists.
 
     It should be a society in which evidence is accessible, claims can be examined, institutions are accountable, and people have good reasons to trust the processes used to reach important conclusions.
+
+- candidate_first_name: Tracy
+  candidate_last_name: Clark
+  state: nc
+  race: State House of Representatives
+  district: 57
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    The rise in data centers is extremely troubling! I will consult all parties before a vote to determine intended and unintended consequences. I support local moratoriums so that development isn’t rushed before consulting environmental experts.
+
+- candidate_first_name: Tracy
+  candidate_last_name: Clark
+  state: nc
+  race: State House of Representatives
+  district: 57
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    I am a strong public school supporter and support all opportunities for students to understand all STEM fields such as field trips, career days, assessment tools, and otherwise.
+
+- candidate_first_name: Tracy
+  candidate_last_name: Clark
+  state: nc
+  race: State House of Representatives
+  district: 57
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    My husband is a surgeon so we are adamant that the medical community knows best and we should always defer to medical professionals and their guidance when it comes to the health and well being of our community and NOT MAGA politicians and RFK.
+
+- candidate_first_name: Tracy
+  candidate_last_name: Clark
+  state: nc
+  race: State House of Representatives
+  district: 57
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    We all have a duty to only share trusted sources and call out misinformation and disinformation when we see it. I am hopeful that post maga we can return to trusting data and science!!!
 
 - candidate_first_name: Matthew
   candidate_last_name: Clements
@@ -634,6 +730,70 @@
   response: |
     The dangerous and terrible reality is that Dr. Fauci and the COVID response set us back decades in public trust. We need to rebuild that trust with honesty, humility, respect for personal decisions, and transparency. Government can easily dismiss legitimate questions and treat concerned citizens as uninformed. That creates suspicion and skepticism. Our scientific experts should communicate in easily understood language and avoid exaggeration and censorship so our neighbors are more willing to hear them out. It is a very human thing.
 
+- candidate_first_name: Steven
+  candidate_last_name: Feldman
+  state: nc
+  race: US House of Representatives
+  district: 10
+  party: Libertarian
+  question: nc-q1
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    The cost of electricity and water are on the rise with nearby data centers straining current resources in combination with increased energy costs to consumers. How will you navigate the economic, public health, and environmental impacts when considering new data centers and data center permissions, in general?
+
+
+
+    I think the federal government should stay out of regulating these issues.  These are all issues for state and local governments to consider.
+
+- candidate_first_name: Steven
+  candidate_last_name: Feldman
+  state: nc
+  race: US House of Representatives
+  district: 10
+  party: Libertarian
+  question: nc-q2
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    North Carolina is a growing hub for science and biotechnology industry and education. How will you ensure science workforce preparedness in community-based institutions like K–12 schools and community colleges across our state?
+
+
+
+    I’m a candidate for US House.  This is an important state issue, and the federal government should leave it to North Carolina to address education.
+
+- candidate_first_name: Steven
+  candidate_last_name: Feldman
+  state: nc
+  race: US House of Representatives
+  district: 10
+  party: Libertarian
+  question: nc-q3
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    What steps, if any, do you believe government should take to protect public health and community wellbeing (e.g., vaccine access, environmental health risks such as PFAS or asbestos, disease prevention, or emergency preparedness)?
+
+
+
+    The federal government should provide information on these risks and let citizens decide how to manage them.  The courts should be used to punish (and thereby discourage) any company that injures our citizenry.
+
+- candidate_first_name: Steven
+  candidate_last_name: Feldman
+  state: nc
+  race: US House of Representatives
+  district: 10
+  party: Libertarian
+  question: nc-q4
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    As the world is becoming more information dense, science mistrust has grown. How do you think elected officials can work with scientists to build the general public’s trust in science?
+
+
+
+    Elected officials should avoid partisan involvement in science and assure that political expediency stays out of government communication of scientific information.
+
 - candidate_first_name: Jim
   candidate_last_name: Harris
   state: nc
@@ -730,6 +890,169 @@
   response: |
     Education with events is the best way.
 
+- candidate_first_name: Eshonda
+  candidate_last_name: Hooper
+  state: nc
+  race: State House of Representatives
+  district: 47
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-13
+  primary_candidate: false
+  response: |
+    I would make sure new data centers help our community without hurting people’s health or the environment. Before approving a project, I would look at how much water and electricity it uses and how it could affect local families. Companies should help pay for the extra resources they need so residents do not have to pay higher electrical bills. I would also encourage clean energy and ways to save water. People in the community should have a chance to share their concerns before the decisions are made. My goal is to bring jobs and economic growth while protecting our families, natural resources, and quality of life. If a company cannot address serious problems, I would consider delaying or denying its approval.
+
+- candidate_first_name: Eshonda
+  candidate_last_name: Hooper
+  state: nc
+  race: State House of Representatives
+  district: 47
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-13
+  primary_candidate: false
+  response: |
+    I would work to improve science education in our schools and community colleges by giving teachers the tools and resources they need. I would encourage schools to partner with local businesses and colleges so students can get hands on experience and learn about careers in science, healthcare, and biotechnology.
+    I would also support job training, and internships, and affordable education to help students prepare for good paying jobs. Students in rural areas should have the same opportunities as those in larger cities. By investing in science education, we can help students build better futures and strengthen North Carolinas economy.
+
+- candidate_first_name: Eshonda
+  candidate_last_name: Hooper
+  state: nc
+  race: State House of Representatives
+  district: 47
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-13
+  primary_candidate: false
+  response: |
+    I believe the government should help keep people healthy by making vaccines and healthcare affordable and easy to get.
+    We should protect our drinking water and air by checking for harmful chemicals and holding companies responsible for pollution. I would also support programs that help prevent diseases and prepare communities for storms and other emergencies. The government should listen to people’s concerns and use science to make good decisions. Every one deserves clean water, safe air, and access to healthcare, no matter where they live or how much money they make.
+
+- candidate_first_name: Eshonda
+  candidate_last_name: Hooper
+  state: nc
+  race: State House of Representatives
+  district: 47
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-13
+  primary_candidate: false
+  response: |
+    I believe elected officials can build trust in science by being honest, sharing facts, and listening to people concerns. They should work with scientists, doctors and teachers to explain things in simple ways that everyone can understand. Officials should admit when they do not have all the answers and be willing to learn as new information comes available. They should use science to make good decisions about health and the environment. By teaching people about science and giving them a chance to ask questions, we can help build trust and keep our communities informed and safe.
+
+- candidate_first_name: Angela
+  candidate_last_name: Humphries
+  state: nc
+  race: State House of Representatives
+  district: 3
+  party: Libertarian
+  question: nc-q1
+  date: 2026-10-11
+  primary_candidate: false
+  response: |
+    Wouldn't it be great if North Carolinians had access to all information relating to Data Centers so they could evaluate for themselves whether they want them in their communities? I would survey constituents and provide them with detailed information so they can make decisions which impact the places they live.
+
+- candidate_first_name: Angela
+  candidate_last_name: Humphries
+  state: nc
+  race: State House of Representatives
+  district: 3
+  party: Libertarian
+  question: nc-q2
+  date: 2026-10-11
+  primary_candidate: false
+  response: |
+    I would work to get the government out of the way and reduce barriers for education pathways leading to higher earnings for North Carolinians, if that is what they seek. There's too much inconsistency, red tape, hoops to jump through and costly tests to take before you ever even land a seat in a 2 year science degree program pathway. The government should get out of the way, but it often stands in the way.
+
+- candidate_first_name: Angela
+  candidate_last_name: Humphries
+  state: nc
+  race: State House of Representatives
+  district: 3
+  party: Libertarian
+  question: nc-q3
+  date: 2026-10-11
+  primary_candidate: false
+  response: |
+    Government should get out of the way and let people have the freedom to decide which vaccines they want access to and which they would rather opt-out of due to allergies, personal decisions or religious freedoms and bodily autonomy.
+
+    Large companies contaminating valuable drinking water should have to return the water back to it's former condition and cease ongoing destruction via runoffs and dumping. Ratepayers should not foot the bill to restore clean water to its former condition.
+
+- candidate_first_name: Angela
+  candidate_last_name: Humphries
+  state: nc
+  race: State House of Representatives
+  district: 3
+  party: Libertarian
+  question: nc-q4
+  date: 2026-10-11
+  primary_candidate: false
+  response: |
+    I don't think people look to the government for honesty or trust. After the covid -19 scandals in North Carolina, I think it will be a very long time before people look to government for answers. Random controlled trails could've quickly demonstrated effectiveness/ineffectiveness for an experimental injection to limit virus symptoms, social distancing 6 ' and wearing face masks indefinitely, but the disease was instead used to control people and science went right out the window.
+
+- candidate_first_name: Bryson
+  candidate_last_name: Johnson
+  state: nc
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nc-q1
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    No tax breaks for data centers. They must meet clear, uncompromising standards for sustainable power and water without burdening residents or driving up costs.
+    Eminent domain must never be used to take a farmer’s land for a private data-center project. And communities should not have unwanted data centers forced into their backyards.
+
+- candidate_first_name: Bryson
+  candidate_last_name: Johnson
+  state: nc
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nc-q2
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    We demand a workforce that is prepared—not just with technical knowledge, but with the character and practical skills to succeed.
+
+    We must get the basics right in K–12 education: strong reading, math, science, critical thinking, and communication. We should also restore a real focus on character education—discipline, responsibility, teamwork, respect, and perseverance. Knowledge without those soft skills will not thrive in the age of AI.
+
+    Community colleges must remain a direct pathway into high-demand careers, with programs aligned to local employers, apprenticeships, industry certs, and opportunities for students to learn without taking on unnecessary debt.
+
+    And we must fund education honestly. I will hold the North Carolina Education Lottery accountable for delivering more of its proceeds to our schools. My plan requires the Lottery Commission to present a public five-year “settle-up” plan, beginning with an additional $150 million for education in the first year, with clear actions, deadlines, and public reporting.
+
+    North Carolina has the talent. Our responsibility is to give students the foundation, character, training, and resources to turn that talent into opportunity.
+
+- candidate_first_name: Bryson
+  candidate_last_name: Johnson
+  state: nc
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nc-q3
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    Government has a legitimate responsibility to protect public health and community wellbeing, especially where individuals and communities cannot reasonably protect themselves alone. That means clean drinking water, transparent testing and reporting for risks such as PFAS and asbestos, practical disease-prevention resources, and emergency systems that are prepared before a crisis—not after it.
+
+    In my work supporting the Florida Division of Emergency Management, I help secure critical infrastructure so government can respond to a wide range of emergency events. North Carolina must protect the systems people depend on every day: water, energy, communications, hospitals, transportation, and the digital networks behind them.
+
+    Cybersecurity is now a public-health and public-safety issue. A cyberattack on a hospital, water system, school, or emergency-response network can put lives at risk. I will bring a practical cybersecurity perspective to the General Assembly—one grounded in prevention, resilience, accountability, and protecting essential services.
+
+    With so many attorneys in the Assembly, I also believe there is value in bringing the perspective of a cybersecurity professional, small-business owner, and problem-solver.
+
+- candidate_first_name: Bryson
+  candidate_last_name: Johnson
+  state: nc
+  race: State House of Representatives
+  district: 21
+  party: Republican
+  question: nc-q4
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    Very simple, If you’re not an expert on it, refer to the expert.
+
 - candidate_first_name: Matthew
   candidate_last_name: Kordon
   state: nc
@@ -777,6 +1100,54 @@
   primary_candidate: false
   response: |
     The hard-to-swallow truth of how we got into this mess is that scientists competed with each other to win the favoritism of corrupt politicians who then gave said scientists nice, powerful jobs on the payroll of taxpayers as technocrats. We learned the hard way that we were placing too much trust in said people to have our best interests at heart and a willingness to pursue truth above all else. More often than not, they meant well, but even so, the public came around to realizing that the road to hell can be paved with good intentions and started resenting scientists and others bossing them around for their safety’s sake as though that was more important than the trade-offs. Nothing short of humility is going to fix this: fewer powerful technocrats in government, less elite hierarchy within the scientific community, oaths to fight misinformation/ our own assumptions, less politically correct speech on matters of fact, and a willingness to cautiously engage fringe views and questionable science. Meanwhile, elected officials can do the same, fighting misinformation as role models, which would be more reliable to expect out of my peers if getting elected was not so tantalizing that a person would lie and cheat their way to victory. For that, we would need to limit the government and treat the Constitution as the ultimate law of the land, not like a living, unimportant, flimsy document that has no restraints on elected officials.
+
+- candidate_first_name: Greg
+  candidate_last_name: McBryde
+  state: nc
+  race: State House of Representatives
+  district: 97
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    There needs to be at least a two year moratorium on new projects, while we review the individual projects already in place with an eye to instituting guardrails on the fly to ensure minimum impacts on the environment, public health and economic outlooks.
+
+- candidate_first_name: Greg
+  candidate_last_name: McBryde
+  state: nc
+  race: State House of Representatives
+  district: 97
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    We should immediately reexamine all school voucher programs with an eye to eliminating all but critical Opportunity Scholarships in well defined cases. That money, as well as other funds recently stripped from our public schools and community colleges should be restored and full funding restored in order to meet the demands of the tech based industries we’re currently hosting as well as new technologies we should be prepared for.
+
+- candidate_first_name: Greg
+  candidate_last_name: McBryde
+  state: nc
+  race: State House of Representatives
+  district: 97
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    It is the government’s responsibility to protect and encourage the health of its population. A healthy and stable society is paramount to the economic and cultural success of any modern civilization. Also, in this time of climate upheaval and unpredictability, we must absolutely be prepared for even the most catastrophic events in our state, as well as neighboring areas. We must be good citizens at home and across our borders.
+
+- candidate_first_name: Greg
+  candidate_last_name: McBryde
+  state: nc
+  race: State House of Representatives
+  district: 97
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    First and foremost, elected officials must be capable of discerning the facts from the misinformation being propagated in the furtherance of political agendas. We must absolutely reject the current wave of pseudo-scientific speculation that’s not based upon any credible, research based and peer reviewed evidence.
 
 - candidate_first_name: Tim
   candidate_last_name: Merrick
@@ -883,6 +1254,64 @@
   primary_candidate: false
   response: |
     This is an issue that is directly linked to the misinformation spread through our various forms of media either by malign actors or monied interests. No one in our communities is a Luddite. I have yet to meet a person without a cellphone or an automobile (if they can afford it). The answer to this issue is the same as the answer to the second question asked. Through quality, well-funded education that gives students the tools to make informed decisions by eschewing logical fallacies and personal biases in order to built trust in the institutions that add to the body of knowledge through rigorous scientific processes and by emphasizing critical thinking we will be able to build a capacity in our population that is able to separate fact from fiction.
+
+- candidate_first_name: Rodney
+  candidate_last_name: Pierce
+  state: nc
+  race: State House of Representatives
+  district: 27
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+    As a representative of rural North Carolina, I believe economic development should strengthen a community rather than place disproportionate costs on the people who already live there. Data centers can bring investment and jobs, but communities should not be expected to absorb higher electricity or water costs, strain on infrastructure, environmental risks, or impacts on agricultural land without a meaningful voice in the process.
+
+    I would support stronger transparency and community input before major data-center projects are approved, along with making sure developers, and not ordinary ratepayers, pay their fair share of the infrastructure costs they create. We also need to consider water availability, energy demand, environmental impacts, and the long-term character of rural communities before approving projects.
+
+- candidate_first_name: Rodney
+  candidate_last_name: Pierce
+  state: nc
+  race: State House of Representatives
+  district: 27
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+    Workforce preparation has to begin well before a student reaches a university. As a former classroom teacher, I believe we need to strengthen STEM education in our public schools while giving students meaningful pathways from high school into community colleges, apprenticeships, certifications, and four-year programs.
+
+    Community colleges should have the resources and industry partnerships necessary to train students for the jobs actually being created in North Carolina. Rural students should have access to those opportunities regardless of their ZIP code. We should also invest in teachers, lab facilities, career-and-technical education, and dual-enrollment opportunities so students can see a pathway from the classroom to a science, health, or biotechnology career.
+
+- candidate_first_name: Rodney
+  candidate_last_name: Pierce
+  state: nc
+  race: State House of Representatives
+  district: 27
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+    Government has a responsibility to protect the public from health risks that individuals cannot reasonably address on their own. That means maintaining access to vaccines and preventive care, protecting drinking water from contaminants such as PFAS, addressing environmental hazards such as asbestos, and ensuring communities are prepared for emergencies.
+
+    I also believe public health policy should be grounded in sound scientific evidence while recognizing that people deserve clear information and a voice in decisions affecting their communities. In rural North Carolina, access is often the biggest challenge. It does little good to have a health resource available somewhere in the state if a family cannot reasonably reach it or afford it. We need to invest in the local health departments, healthcare workforce, infrastructure, and emergency preparedness that rural communities depend upon.
+
+- candidate_first_name: Rodney
+  candidate_last_name: Pierce
+  state: nc
+  race: State House of Representatives
+  district: 27
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-06
+  primary_candidate: false
+  response: |
+    Trust is built through transparency, honesty, and consistency. Elected officials should not ask people to trust science simply because an official says so. We should help people understand how scientific conclusions are reached, what the evidence tells us, what remains uncertain, and why recommendations may change as new evidence becomes available.
+
+    As a former history teacher, I also know that people are more likely to trust institutions when they feel respected and heard. Scientists and public officials should engage communities directly, especially communities that have historically felt overlooked. We should create opportunities for scientists to communicate in plain language and for residents to ask questions without being dismissed.
+
+    My role as an elected official is not to substitute politics for science. It is to make sure people have access to credible information, that decisions are transparent, and that science is used responsibly in making public policy.
 
 - candidate_first_name: Clark
   candidate_last_name: Rinehart
@@ -1041,3 +1470,247 @@
 
     A scientific attitude with its emphasis on evidence can apply even to everyday decisions. I am an advocate of people-driven governance and of community engagement. I will investigate online tools that the County can host to help neighborhood communities to deliberate on problems that matter to them and exchange ideas about alternative solutions. When these problems and solutions affect larger regions within the County, they can provide a good starting point for further discussion, e.g., in public meetings. An important component here would be the involvement of scientists with the relevant expertise to provide advice based on the underlying science and help the public understand the consequences of various proposals. This would be a bottom-up approach of rebuilding public trust in science.
 
+- candidate_first_name: Kandie D.
+  candidate_last_name: Smith
+  state: nc
+  race: State Senate
+  district: 5
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    i will continue as I have and support a moratorium so that these details can be researched. The affects and strain on our power grid and water are key along with its environmental affects.
+
+- candidate_first_name: Kandie D.
+  candidate_last_name: Smith
+  state: nc
+  race: State Senate
+  district: 5
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    I will continue to promote STEM education in our state at all levels. I think this helps create a more prepared pipeline of workers in the field.  I will fight for appropriate funding that may assist both K12 schools and at the Community Colleges to teach and produce qualified constituents.
+
+- candidate_first_name: Kandie D.
+  candidate_last_name: Smith
+  state: nc
+  race: State Senate
+  district: 5
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    i think we should continue to rely on science that has allowed us to be more educated. Research has been conducted for years that we should take advantage of to keep our community safe with vaccine access and environmental health risks.
+
+- candidate_first_name: Kandie D.
+  candidate_last_name: Smith
+  state: nc
+  race: State Senate
+  district: 5
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    We as elected officials can work with the scientist by learning about their credentials and history of work. This information can be used to assist with creating trusted partners.  We can also allow the Scientist to do their jobs without hindering their trainings or without publicly sharing negative information not based of research and data.
+
+- candidate_first_name: Cheryl
+  candidate_last_name: Stallings
+  state: nc
+  race: Local County Races [All]
+  district: 3
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-11
+  county_race: Wake County Commissioner
+  primary_candidate: false
+  response: |
+    I believe it is important to balance technological and economic growth with the protection of residents, and our local infrastructure and financial needs. Modernizing zoning ordinances are important in this work, as well as mandates that the data center operator - not local residents/households - pay for the infrastructure and electricity needed for all operations. Building height, placement, set-backs, and buffers need to be carefully evaluated as well as water and energy usage plans. Noise, light, and air pollution (with back-up generators) mitigation would also be evaluated, and overall public health and environmental impacts would be scrutinized carefully as well.
+
+- candidate_first_name: Cheryl
+  candidate_last_name: Stallings
+  state: nc
+  race: Local County Races [All]
+  district: 3
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-11
+  county_race: Wake County Commissioner
+  primary_candidate: false
+  response: |
+    Public education funding makes up about 1/2 of our county budget. This includes funding for pre-school services (underserved 3- and 4-year olds), K-12 public education, and Wake Tech Community College. This funding includes capital costs (new buildings and renovations) and operating expenses. County Commissioners in NC are responsible for the capital costs, and the state legislature is responsible for operating expenses (salaries, transportation costs, instructional materials, and routine maintenance).  Our state legislature persistently underfunds their part, and County Commissioners get asked to stand in the funding gap. This unfunded mandate equates to about $500 million that Wake County tax payers are paying for Wake County Public Schools’ operating expenses (which is about 1/3 of Wake Public Schools’ operating expenses). We need a committed state legislature to public education. I remain a champion for public education and will work with our local school board in supporting their work in ensuring science workforce preparedness throughout the grades. We also have Wake Tech Community College as a strong ally in workforce preparedness in the science and biotechnology fields as well.
+
+- candidate_first_name: Cheryl
+  candidate_last_name: Stallings
+  state: nc
+  race: Local County Races [All]
+  district: 3
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-11
+  county_race: Wake County Commissioner
+  primary_candidate: false
+  response: |
+    County government plays a strong role in these areas, and I fully support our work in public safety and pubic health. In my county, we have a centrally located public health center, and also have several regional centers strategically placed in the four corners of the county to serve our residents. We try to maintain a strong media and social media presence with our residents and community partners as we share information about vaccines, environmental health, disease prevention and emergency preparedness. We also have a mobile community health mini-bus that works its way throughout the county, especially in more vulnerable communities. We partner with our public libraries for information sharing and public health pop-up events as well.
+    I also serve on a number of health and human services boards and committees, and see first-hand how our Staff work diligently in their public health work. I can also say that our first responders work very diligently with emergency preparedness and serve our residents with compassionate care every day. Our Board invests in public health and public safety to the fullest extent that we can with each annual budget cycle.
+
+- candidate_first_name: Cheryl
+  candidate_last_name: Stallings
+  state: nc
+  race: Local County Races [All]
+  district: 3
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-11
+  county_race: Wake County Commissioner
+  primary_candidate: false
+  response: |
+    I stand with scientists in this critical work. It is very important for elected officials to lead by example and to be critical thinkers who engage in data-driven decision-making. I welcome continued partnership in building the public’s trust in science.
+
+- candidate_first_name: Lorenza
+  candidate_last_name: Wilkins
+  state: nc
+  race: State House of Representatives
+  district: 25
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    Families in Nash County are already seeing Duke Energy rate increases on their monthly bills. They shouldn’t have to pay for the power and water demands of large data centers too. My philosophy is simple: growth has to pay for itself. I will support policies that force data centers to pay for all new generation, transmission and water infrastructure they need themselves instead of passing those costs along to residential ratepayers through the rate base. Before any permit is issued communities should get clear public information about projected electricity and water use, effects on local water supplies and how many quality local jobs the project actually creates. I’ll fight for real local input into siting decisions, protections for farmland and wetlands, and community benefit agreements that return value to counties hosting these facilities. I’ll also push data centers to rely on new clean energy and recycling of water rather than drawing down what our families and farms need. Economic development is important but not at the expense of affordable bills, clean water and public health.
+
+- candidate_first_name: Lorenza
+  candidate_last_name: Wilkins
+  state: nc
+  race: State House of Representatives
+  district: 25
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    Nash County is part of North Carolina’s life sciences story (Pfizer in Rocky Mount). Our kids should be first in line for those jobs. As a lifelong educator I believe that starts with strong K–12 schools: competitive teacher pay to recruit and keep science and math teachers, modern lab equipment and hands-on STEM learning in every school, not just well funded ones. I will support expanding dual enrollment so high school students can get college credit and industry credentials before graduation. Community colleges like Nash Community College are the backbone of this effort and I will fight for stable funding for biotech, advanced manufacturing and lab technician programs built in partnership with local employers. I also want to expand apprenticeships, paid internships and short term credential programs so adults changing careers can get these jobs too. When we educate, empower and elevate our students, rural and small town NC can compete for jobs of the future.
+
+- candidate_first_name: Lorenza
+  candidate_last_name: Wilkins
+  state: nc
+  race: State House of Representatives
+  district: 25
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    The government has a basic responsibility to keep people safe, including the air they breathe and water they drink. Water pollution is one of the top concerns I hear about in our district. I support enforceable state limits on PFAS and other forever chemicals; polluters being held accountable for cleanup costs; funding to upgrade rural water systems; asbestos and lead testing and abatement in older schools and public buildings. On health access, I will defend Medicaid expansion which brought coverage to hundreds of thousands of North Carolinians; vaccines remain affordable and easy to get through local health departments, pharmacies and schools (strong local health departments are first line of defense against disease prevention and emergency response from hurricanes to outbreaks). Mental health access will also continue to be a priority because community wellbeing is whole person wellbeing.
+
+- candidate_first_name: Lorenza
+  candidate_last_name: Wilkins
+  state: nc
+  race: State House of Representatives
+  district: 25
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    Trust is built locally through relationships and honesty. As an educator I know people trust information more when it comes from someone they know and is explained simply. Elected officials should bring scientists, doctors and researchers into the policymaking process early on and publicly (hearings, town halls, community forums) so people can see how decisions are made and ask questions directly. We need to be transparent about what science shows us, what’s still uncertain and why recommendations change sometimes as we learn more. I will support partnerships with our universities, community colleges, extension offices and trusted local messengers like pastors, nurses, teachers to share accurate information in our communities. I will call out misinformation when I see it but not talk down to people who have honest questions. Respecting voters means giving them the facts and the reasons behind them.
+
+- candidate_first_name: Christine
+  candidate_last_name: Winward
+  state: nc
+  race: State Senate
+  district: 35
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    I believe there is probably a place for data centers in our life but not as they exist today. Data centers as we are using them are in their infancy and there should be an emphasis on companies determining ways to increase efficiency in their data center processes. Until improvements have been made to how data centers run we need to limit their existence in North Carolina.
+
+- candidate_first_name: Christine
+  candidate_last_name: Winward
+  state: nc
+  race: State Senate
+  district: 35
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    As legislators, we need to make sure that we are not making decisions on things we have no idea about. Regarding education, we do need to lean on our school boards and our teachers to help inform us on what we need to make sure that we continue to improve and maintain the ability to fill the positions that are opening up within North Carolina. One thing most of us can agree on is making sure STEAM classes are funded and available at all schools.
+
+- candidate_first_name: Christine
+  candidate_last_name: Winward
+  state: nc
+  race: State Senate
+  district: 35
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    I believe the government's responsibility when it comes to protecting public health is regulation. Or vaccine access? We need to make sure there are regulations in place to ensure companies cannot overcharge individuals for vaccines that have a meaningful impact on our community. While we need to appreciate supply and demand, we do not need to allow price surging and price gouging. Environmental health risks need to be evaluated and corrected whenever possible. The health and welfare of North Carolinians should not be behind companies interests.
+
+- candidate_first_name: Christine
+  candidate_last_name: Winward
+  state: nc
+  race: State Senate
+  district: 35
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+    I think we need to start building trust in individuals and their credentials. There's been a growing disrespect for what it takes to produce research and what publications are reputable. I think the first thing that needs to be done in order to restore trust is to restore The prestige that comes with being published by an official organization rather than being published on a web page that anyone can make now. A lot of this will require transparency and explanation of the process of how results were gathered in order to show people how we came to that conclusion.
+
+- candidate_first_name: Julie
+  candidate_last_name: von Haefen
+  state: nc
+  race: State House of Representatives
+  district: 36
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    I believe that companies taking part in constructing new data centers are seeking to exploit inadequate and outdated regulations with no regard for their long term viability or for how to reduce negative community and environmental impacts. Other communities are placing moratoriums on data center construction to protect themselves, and I hope to see the same in NC. A moratorium on data center construction is vital to ensure we can protect NC and its citizens from exploitation by corporations. In particular, I want to see robust noise and environment impact regulations, including strong protections against noise pollution.
+
+- candidate_first_name: Julie
+  candidate_last_name: von Haefen
+  state: nc
+  race: State House of Representatives
+  district: 36
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    Overall, North Carolina needs to do a better job at funding public education. The state’s priority should be raising teacher pay and making sure every classroom is equipped with the tools students need to learn. We have to make sure our classrooms are equipped with up to date technology in order to foster a student's love for science, and provide them with opportunities to see science in action through field trips, labs and hands-on learning. Public schools prepare our future workforce and we must do all we can to ensure every student, regardless of zip code, has exposure to science careers and workforce development opportunities.
+
+- candidate_first_name: Julie
+  candidate_last_name: von Haefen
+  state: nc
+  race: State House of Representatives
+  district: 36
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    I believe that a government's role is to better the current state of public health and community wellbeing. We should be delegating more funding toward social services that ensure all people have access to healthcare and information regarding being up to date on their vaccinations. We should always prioritize clean air and water, by doing our best to eliminate pollution risks such as PFAS. In the House, I have been a strong supporter of bills that make it unlawful to use, process, or distribute PFAS in North Carolina, and have always supported the introduction of new drinking water protections when they come across my desk. Combatting climate change through investing in clean energy programs is one of the only methods that will sustainably reduce the impact of future storms. In the meantime, ensuring that we have robust building codes and well funded infrastructure will help to prepare us for future weather-induced emergencies.
+
+- candidate_first_name: Julie
+  candidate_last_name: von Haefen
+  state: nc
+  race: State House of Representatives
+  district: 36
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-10
+  primary_candidate: false
+  response: |
+    The issue of mistrust is one that is fixed through community, data, and education. I do my best to be as visible and accessible within my community and district as possible. I try to use my platform as a public official to post up-to-date and factually correct data online, and work with trusted organizations such as the NC Conservation Network, NC Environmental Justice Network, and the NC Department of Health and Human Services to make informed decisions when it comes to sponsoring and supporting legislation.

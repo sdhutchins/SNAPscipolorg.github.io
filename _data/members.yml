@@ -46,6 +46,18 @@
   twitter: 
   website: 
 
+- name: Andrés Arana
+  pronouns:
+  photo: Andrés_Arana.jpeg
+  info: Andrés is a PhD student at New York University Grossman School of Medicine, where he leads the Science Policy Chapter at NYU. Originally from Colombia, he moved to the United States to pursue interdisciplinary training in biomedical science and leadership, focusing on dismantling health barriers that affect child neurodevelopment and long-term health outcomes. He also works on global health research, advocating for child and maternal health and NCD prevention. These experiences motivate his passion for research dissemination, translation, advocacy, and health policy. In his spare time, he enjoys traveling, exploring global arts and cultures, photography, DJing, and working out.
+  email:
+  bluesky:
+  medium:
+  instagram:
+  linkedin: arana-andres
+  twitter:
+  website:
+
 - name: Anna Rader Groves
   pronouns: she/her
   photo: Anna.png
@@ -118,16 +130,28 @@
   twitter: 
   website: 
 
-- name: Brendon Davis
-  pronouns: he/him
-  photo: Brendon.jpg
-  info: Brendon is a 5th year PhD candidate in the Cellular, Molecular, and Developmental Biology and Biophysics (CMDB) Program at Johns Hopkins University. He studies the role of DNA replication and epigenetics in determining stem cell fate. Brendon is passionate about the representation of expert voices in policymaking, and he is the President of the Johns Hopkins Science Policy and Diplomacy Group (SPDG). He plans to continue with a science policy career after graduation. Beyond his professional life, Brendon enjoys traveling, powerlifting, reading, attending comedy shows, and playing board games.
-  email: bdavi119@jhu.edu
-  bluesky: bdavisbio.bsky.social
-  medium: 
-  instagram: 
-  linkedin: bdavis98
-  twitter: 
+- name: Breelyn Karno
+  pronouns: she/her
+  photo: Breelyn_Karno.jpeg
+  info: Breelyn Karno is a PhD candidate in Cancer Biology at Vanderbilt University. She studies the metabolic determinants of breast cancer metastasis with the long-term goal of developing therapies to treat bone-metastatic breast cancer. Outside of the lab, she is passionate about science policy and communication and is active in the Vanderbilt Science Policy Group.
+  email: breelyn.a.karno@vanderbilt.edu
+  bluesky: bkarno.bsky.social
+  medium: breelynkarno
+  instagram: breelynkarno
+  linkedin: breelyn-karno-a40084136
+  twitter:
+  website:
+
+- name: Bryanna Vilnaigre
+  pronouns: she/her/hers
+  photo: Bryanna_Vilnaigre.jpg
+  info: Bryanna is a 2nd year PhD student in the Neuroscience at Rutgers University. She studies how the epigenome powerfully modulates molecular and cortical plasticity during memory consolidation. She also serves at the Treasurer for the Science Policy & Advocacy at Rutgers (SPAR) graduate student organization. And she is interested in improving patient outcomes and science communication through policy!
+  email: bcv28@rutgers.edu
+  bluesky: bvilnaigre.bsky.social
+  medium:
+  instagram: brycastyne
+  linkedin: bryannavilnaigre
+  twitter:
   website:
 
 - name: Bryce Wedig
@@ -201,6 +225,18 @@
   linkedin: disha-patel1212
   twitter: disha_patel3
   website: 
+
+- name: Doga Tasdemir
+  pronouns: she/they
+  photo: Doga_Tasdemir.jpg
+  info: Doga is a 3rd year Infectious Disease and Immunity PhD candidate at Temple University, Lewis Katz School of Medicine. She is investigating the role of extracellular vesicles in neuroinflammation following HIV infection and opioid use. She is President and Communications Lead at the Temple Science Communication, Advocacy, and Policy group. Outside the lab she loves baking, photography, and rock climbing, and aerial arts!
+  email: dogatasd@gmail.com
+  bluesky:
+  medium: dogatasd
+  instagram: doga.tasdemir
+  linkedin: dogatasdemir
+  twitter:
+  website:
 
 - name: Doran Goldman
   pronouns: 
@@ -298,6 +334,30 @@
   twitter: 
   website: https://kassstem.com/
 
+- name: Leigh Harrison
+  pronouns: She/Her
+  photo: Leigh_Harrison.jpeg
+  info: Leigh brings an interdisciplinary perspective to scientific research and policy. With a background in law and a developing focus on neuropharmacology and biomedical sciences. Her interests lie at the intersection of scientific discovery, evidence-based policy, and the legal and regulatory frameworks that shape biomedical research and its applications. As she prepares to pursue doctoral study, she is particularly interested in how scientific evidence can inform policy, advance biomedical understanding, and support responsible decision-making.
+  email: rleigh90@gmail.com
+  bluesky:
+  medium:
+  instagram:
+  linkedin:
+  twitter:
+  website:
+
+- name: Mac Camardo
+  pronouns:
+  photo: Mac_Camardo.jpg
+  info: Mac is a 3rd year PhD candidate in the Department of Biomedical Engineering at the University of Illinois Chicago, conducting his research at the Shirley Ryan AbilityLab. He earned his BS (MechE) and MS (BME) at Case Western Reserve University. His research focuses on exoskeletons and personalized gait training for stroke rehabilitation. He is passionate about open science and making health technology more accessible.
+  email: maccamardo123@gmail.com
+  bluesky:
+  medium:
+  instagram:
+  linkedin: mac-camardo
+  twitter:
+  website:
+
 - name: Maria Maltepes
   pronouns: she/her
   photo: Maria-Maltepes.jpg
@@ -309,6 +369,30 @@
   linkedin: maria-maltepes
   twitter: 
   website: 
+
+- name: Maya Singh
+  pronouns: she/her
+  photo: Maya_Singh.jpg
+  info: Maya Singh is a PhD student in bioengineering at the University of Washington, where she focuses on creating low-cost tests to measure long-term HIV medication levels. She is passionate about being at the intersection of global health, engineering, and public policy to understand the impact of her work on people living with HIV.
+  email: msingh6@uw.edu
+  bluesky:
+  medium:
+  instagram:
+  linkedin: maya-a-singh
+  twitter:
+  website:
+
+- name: Michael Kaven
+  pronouns: he/him/his
+  photo: Michael_Kaven.jpg
+  info: Michael is a PhD candidate in biomedical engineering at University of South Carolina. His research profile spans (1) in vitro modeling of neuroinflammation, (2) inhibiting Alzheimer’s disease-associated protein aggregation via natural polyphenols, and (3) engineering safe pasteurization methods for breastmilk to maximize nutritional chemistry for infants. Michael enjoys volunteering as Reviewer in local science fairs and as Laboratory Supervisor of AP Research students. At SNAP, Michael advances his passion for science policy, which began with his 2018 presentation to Gov. Snyder of Michigan on the importance of expanding internet access to rural areas for education and STEM opportunities.
+  email:
+  bluesky:
+  medium:
+  instagram:
+  linkedin: michael-kaven
+  twitter:
+  website:
 
 - name: Mikayla Smith-Craven
   pronouns: 
@@ -348,8 +432,8 @@
 
 - name: Rishika Porandla
   pronouns: she/her
-  photo: Rishika.png
-  info: Rishika Porandla is an undergraduate at Princeton University studying Astrophysics, Engineering Physics, and Materials Science & Engineering. As a researcher at the Princeton Space Physics Laboratory and a Department of Energy intern at the Princeton Plasma Physics Laboratory, she optimizes entrance foils and electron energy analyzers for next-generation space plasma instruments. She is passionate about science policy as Princeton's Student Ambassador to the American Physical Society, an AGU Student Representative, Princeton Correspondent on Undergraduate Research, Science Outreach Fellow, NASA AstroCamp Coordinator, and STEM Lead of the Princeton Civic Leadership Council. Rishika is a two-time recipient of a Chambliss Astronomical Achievement Honor.
+  photo: Rishika.jpg
+  info: Rishika Porandla is an undergraduate at Princeton University studying Astrophysics with minors in Engineering Physics and Materials Science & Engineering. As a student researcher at the Princeton Space Physics Laboratory and a Department of Energy intern at the Princeton Plasma Physics Laboratory, she optimizes entrance foils and electron energy analyzers for next-generation space plasma instruments. She is passionate about science policy as Princeton's Student Ambassador to the American Physical Society, an AGU SPA Student Advisor, and Research-to-Policy Implementation Intern at Penn State.
   email: 
   bluesky: 
   medium: 
@@ -430,6 +514,18 @@
   twitter: 
   website: 
 
+- name: Sofie Strompf
+  pronouns: she/her
+  photo: Sofie_Strompf.jpg
+  info: Sofie Strompf is an undergraduate neuroscience student at George Mason University. After graduating in Spring 2027, she plans to pursue a Ph.D. in biomedical sciences. She is currently working on research exploring the role of the mitochondria (the powerhouse of the cell!) in cancer and Parkinson’s disease. Sofie is also a proud patient-scientist and an active advocate for accessibility in higher education, serving on the State Council for Higher Education for Virginia Disability Access to Higher Education Advisory Committee.
+  email: scstrompf@gmail.com
+  bluesky:
+  medium:
+  instagram:
+  linkedin:
+  twitter:
+  website:
+
 - name: Youssef El Gharably
   pronouns: 
   photo: Youssef.jpg
@@ -441,3 +537,15 @@
   linkedin: yelgharably
   twitter: 
   website: 
+
+- name: Zoe Filomeno
+  pronouns: She/Her
+  photo: Zoe_Filomeno.png
+  info: Neuroscience grad student at ASU (Global Tech & Development) and emerging tech researcher at the intersection of aesthetics, neuroethics, and global governance. From San Juan, Puerto Rico, she founded ErgoDev, an open-source, tech-philanthropic lab creating medical device solutions for end users (2025 Future Neuro Founders Cohort). Former ICANN79 Fellow and NextGen, she advocates in SNAP for early career scientist outreach to civilians and academia in emergent tech and disability policy. A Fashion Institute of Technology alum who worked with luxury heritage brands, she’s a hacker and maker at Noisebridge, NYC Resistor, and HOPE, bringing whimsical innovation to ethical neurotech.
+  email: yfilomen@asu.edu
+  bluesky: zfilomeno.bsky.social
+  medium: zfilomeno
+  instagram: zo.nyc
+  linkedin: zoefilomeno
+  twitter:
+  website: https://linktr.ee/zoefilomeno
