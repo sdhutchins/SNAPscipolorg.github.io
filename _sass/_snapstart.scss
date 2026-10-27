@@ -28,6 +28,10 @@
     }
   }
 
+  &__placeholder {
+    height: 120px;
+  }
+
   &__description {
     h4 {
       color: $snap-blue;
@@ -39,11 +43,6 @@
     p:last-child {
       margin-bottom: 0;
     }
-  }
-
-  // Keep the text aligned with other profiles when no image was supplied.
-  &--text-only &__description {
-    grid-column: 2;
   }
 
   @media (max-width: 575.98px) {
@@ -59,8 +58,8 @@
       }
     }
 
-    &--text-only &__description {
-      grid-column: 1;
+    &__placeholder {
+      height: 100px;
     }
   }
 }

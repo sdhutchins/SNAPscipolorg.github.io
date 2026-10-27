@@ -45,10 +45,14 @@ permalink: /initiatives/snapstart
   <p>Congratulations to the eight organizations receiving SNAPStart’s first round of mini-grants.</p>
 
   {% for recipient in site.data.snapstart_recipients %}
-  <article class="snapstart-recipient{% unless recipient.image %} snapstart-recipient--text-only{% endunless %}" aria-labelledby="snapstart-recipient-{{ forloop.index }}">
+  <article class="snapstart-recipient" aria-labelledby="snapstart-recipient-{{ forloop.index }}">
     {% if recipient.image %}
     <div class="snapstart-recipient__image">
       <img src="{{ recipient.image | relative_url }}" alt="{{ recipient.name | escape }} logo" loading="lazy" width="120" height="120">
+    </div>
+    {% else %}
+    <div class="snapstart-recipient__image snapstart-recipient__placeholder bg-light border rounded d-flex align-items-center justify-content-center" aria-hidden="true">
+      <i class="fa-solid fa-building-columns fs-2 text-secondary"></i>
     </div>
     {% endif %}
     <div class="snapstart-recipient__description">
