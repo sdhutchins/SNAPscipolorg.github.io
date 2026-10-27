@@ -166,3 +166,14 @@ blockquote {
 .team-members__toggle {
   font-size: inherit;
 }
+
+.home-announcement {
+  color: $snap-blue;
+  background-color: rgba($snap-blue, 0.08);
+  border-color: rgba($snap-blue, 0.2);
+
+  .alert-link {
+    color: $snap-blue;
+    text-decoration: underline;
+  }
+}
