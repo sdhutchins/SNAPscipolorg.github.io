@@ -187,7 +187,7 @@ blockquote {
 
 .home-announcement {
   color: $snap-blue;
-  background-color: rgba($snap-blue, 0.08);
+  background-color: mix(white, $snap-light-blue, 80%);
   border-color: rgba($snap-blue, 0.2);
 
   a {
