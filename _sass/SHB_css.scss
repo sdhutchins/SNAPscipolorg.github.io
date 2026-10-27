@@ -190,8 +190,7 @@ blockquote {
   background-color: rgba($snap-blue, 0.08);
   border-color: rgba($snap-blue, 0.2);
 
-  .alert-link {
+  a {
     color: $snap-blue;
-    text-decoration: underline;
   }
 }
