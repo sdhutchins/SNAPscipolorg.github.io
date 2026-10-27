@@ -48,7 +48,7 @@ permalink: /initiatives/snapstart
   <article class="snapstart-recipient{% unless recipient.image %} snapstart-recipient--text-only{% endunless %}" aria-labelledby="snapstart-recipient-{{ forloop.index }}">
     {% if recipient.image %}
     <div class="snapstart-recipient__image">
-      <img src="{{ recipient.image | relative_url }}" alt="{{ recipient.name | escape }} logo" loading="lazy" width="200" height="200">
+      <img src="{{ recipient.image | relative_url }}" alt="{{ recipient.name | escape }} logo" loading="lazy" width="120" height="120">
     </div>
     {% endif %}
     <div class="snapstart-recipient__description">
