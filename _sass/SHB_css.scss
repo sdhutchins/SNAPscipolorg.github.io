@@ -165,6 +165,24 @@ blockquote {
 
 .team-members__toggle {
   font-size: inherit;
+
+  &::after {
+    content: "";
+    display: inline-block;
+    width: 0.45em;
+    height: 0.45em;
+    margin-left: 0.5em;
+    vertical-align: 0.15em;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    transform: rotate(45deg);
+  }
+
+  // Follow the existing accessible state so the arrow and bio stay in sync.
+  &[aria-expanded="true"]::after {
+    vertical-align: -0.05em;
+    transform: rotate(225deg);
+  }
 }
 
 .home-announcement {
