@@ -1,0 +1,632 @@
+- candidate_first_name: Floyd
+  candidate_last_name: Taylor
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: in-q1
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    The balance starts with an honest premise: PFAS are a class of chemicals engineered specifically for persistence. That property is what makes them useful in cookware, firefighting foam, textiles, and medical devices — and it is the same property that makes them accumulate in soil, water, and human tissue. Policy that pretends we can have the utility without managing the persistence is policy that fails on contact with the science.
+
+    My framework rests on four principles:
+
+    1. Health protection scales with exposure data, not political convenience. EPA's enforceable drinking water limits for PFOA and PFOS were a necessary floor, not a ceiling. Congress should fund the monitoring infrastructure — state labs, rural water systems, biomonitoring studies — that lets us set future limits on evidence rather than estimates. You cannot regulate what you refuse to measure.
+
+    2. Testing and disclosure obligations belong on the manufacturer, not the public. The current system reverses that burden: a chemical enters commerce, communities get sick, and then taxpayers fund the epidemiology to prove it. A rational statute would require pre-market characterization of persistence, bioaccumulation, and toxicity for any new PFAS compound, with the data public and the cost borne by the party seeking to sell the product.
+
+    3. Feasibility for manufacturers is real and should be addressed through phased substitution, not denial. For uses where safer substitutes exist and perform (many consumer textiles, food packaging, cosmetics), the phase-out timeline should be aggressive. For uses where no adequate substitute yet exists (certain medical devices, semiconductor manufacturing, specific firefighting applications), the policy should fund substitution research and set defined sunset dates rather than indefinite exemptions. "Essential use" is a legitimate category. "Essential forever" is not.
+
+    4. Legacy contamination requires a liability regime, not a cleanup lottery. Communities in Indiana and across the country are already drinking, breathing, and farming PFAS they did not choose. Remediation costs should fall on the manufacturers who profited from the persistence, not on municipal water ratepayers who had no role in the decision. The polluter-pays principle is older than the chemistry.
+
+    Where Congress should move specifically: fully fund EPA's PFAS testing and remediation grants, close the "new PFAS" loophole in TSCA that allows manufacturers to introduce replacement compounds with minimal review, require disclosure of PFAS content in consumer products, and extend CERCLA liability to the broader PFAS class rather than compound-by-compound. None of this is anti-industry — it's pro-market. A market cannot allocate risk it is not allowed to see.
+
+    Through the Congress App, any specific vote I'd cast on PFAS legislation would be published with its fiscal breakdown and bound to the verified constituents of IN-09 before the vote. The science informs the position. The district confirms the vote.
+
+- candidate_first_name: Floyd
+  candidate_last_name: Taylor
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: in-q2
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Indiana is at the leading edge of a national build-out: 59 operating data centers, 12 under construction, 27 more proposed. The economic opportunity is real. So is the risk — and the risk falls disproportionately on residential ratepayers, rural grids, and water tables that were not designed for this load profile. Policy has to hold both truths at once.
+
+    On managing existing and new data centers, I support four mechanisms:
+
+    1. Mandatory Community Benefit Agreements (CBAs) as a condition of siting. I've drafted the Community Data Benefit Act specifically for this. Any facility above a defined load threshold would be required to negotiate an enforceable CBA with the host community covering local hiring targets, workforce training commitments, infrastructure contributions, and measurable environmental performance. "Jobs created" is not a CBA. A signed, auditable agreement with clawback provisions is.
+
+    2. Enforceable efficiency standards — specifically Power Usage Effectiveness (PUE) benchmarks. New facilities should be required to meet a defined PUE ceiling at commissioning, with scheduled tightening over the facility's life. Waste heat recovery for district heating, greenhouse agriculture, or adjacent industrial processes should be incentivized where geography permits. Heat is energy we already paid for; venting it to the sky is a policy failure, not an engineering one.
+
+    3. Public dashboards for energy, water, and emissions. Any facility of material size should publish quarterly data on electricity consumption, water withdrawal, PUE, and renewable energy mix. Residents cannot evaluate a facility they cannot measure. This is the same transparency logic I apply to my own campaign finances.
+
+    4. Ratepayer protection through cost-allocation reform at the state and federal level. This is the specific question on utility bills, and it deserves a specific answer.
+
+    On mitigating utility cost burden for residents — the mechanisms that actually work:
+
+    Separate rate classes for hyperscale load. Residential and small-commercial ratepayers should not subsidize transmission upgrades, generation capacity, or grid-hardening investments driven by data center demand. FERC and state utility commissions have the authority to require data centers to pay the full incremental cost of the infrastructure their load requires. Congress should reinforce that authority and close the loopholes that let hyperscale customers negotiate special rates whose costs get socialized onto households.
+
+    "Bring your own power" requirements for new facilities above threshold. Several states are moving toward requiring large new loads to contract directly for new generation (renewable, nuclear, or firm) rather than drawing from existing capacity that was built for residential and small-business use. Indiana should adopt this standard. It aligns the economics: the entity creating the demand funds the supply.
+
+    Water-use pricing that reflects aquifer impact. In regions where data centers draw from stressed aquifers, tiered pricing and withdrawal caps protect agricultural and residential users whose wells share the same water table.
+
+    Transparency on utility rate cases. When a utility files for a rate increase driven by data center load, the filing should disclose, in plain language, what share of the increase is attributable to that load. Ratepayers deserve to know when they are being asked to subsidize corporate infrastructure.
+
+    Why these steps: because the alternative — the status quo — is already playing out. Across the country, residential electricity rates are climbing in the same regions where hyperscale data center build-outs are concentrated. The economic benefit of the facility accrues to the operator and a narrow set of construction and operations jobs. The cost burden spreads across every household on the grid. That is a policy choice, not a market outcome, and Congress has the tools to change it.
+
+    Indiana can be a leader in the AI infrastructure economy without turning residential ratepayers into involuntary investors. The two goals are compatible — but only if the rules are written before the concrete is poured.
+
+    Through the Congress App, any specific vote I'd cast on data center or utility legislation would be published with its fiscal breakdown and bound to the verified constituents of IN-09 before the vote.
+
+- candidate_first_name: Floyd
+  candidate_last_name: Taylor
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: in-q3
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    My background is electrical engineering, which means two things for how I approach science in policy. First, I have the technical literacy to read primary sources — journal articles, agency technical reports, standards documents — without needing them pre-digested by a lobbyist or a cable news panel. Second, and more importantly, engineering teaches you that confidence should scale with evidence, not with volume. The loudest voice in the room is almost never the most informed one.  My process, in practice:  1. Start with primary sources, not summaries. For any science-adjacent policy question, I go to the underlying literature first — peer-reviewed journals, National Academies consensus reports, agency technical documents (EPA, NIH, NIST, DOE, CBO analyses). Press releases and advocacy summaries come later, if at all, and only as a check on whether the framing matches the data.  2. Weight the evidence hierarchy honestly. A single study is a data point. A meta-analysis is a signal. A National Academies consensus report is a settled position until new evidence displaces it. I try to be explicit — with myself and with constituents — about where on that hierarchy a given claim sits.  3. Cross-check with practitioners who have no stake in the policy outcome. Academic researchers, working engineers, clinicians, farmers, utility operators — people who deal with the physical reality of the issue daily. Their lived expertise catches the places where a clean study assumption breaks down in the field.  4. Separate the science from the value judgment. Science can tell you what a policy will do. It cannot tell you whether that outcome is worth the cost. I try to name that boundary out loud so constituents can distinguish "here's what the evidence shows" from "here's the value trade-off I'm asking you to weigh in on through the Congress App."  5. Update when the evidence does. This is the hardest part in politics, because flip-flopping is punished. But refusing to update when evidence changes is how we get bad policy that outlives its justification. I'd rather take the hit for changing my mind than govern on a position the data no longer supports.  An example of this process in action:  My position on large-scale data center siting evolved substantially over the last year. I started from a default pro-infrastructure stance — Indiana building the backbone of the AI economy is, in the abstract, a win for the state's economic future, and my engineering instinct is to welcome build-out.  What changed my view was reading the primary load-growth data: utility integrated resource plans (IRPs) filed with state commissions, FERC transmission queue data showing the scale of interconnection requests, and peer-reviewed analyses of PUE trends and water consumption at hyperscale facilities. The data showed a demand curve that residential and small-commercial grid infrastructure was never designed to absorb, with cost-allocation mechanisms that systematically shift the burden onto households.  Talking to utility engineers and municipal water managers in affected regions confirmed the picture: the problem wasn't the data centers themselves, it was the regulatory structure governing who pays for the infrastructure they require. That shifted my position from "welcome the build-out" to "welcome the build-out, but only with cost-allocation reform, mandatory community benefit agreements, and bring-your-own-power requirements first." The Community Data Benefit Act I've drafted is the direct output of that evidence-driven update.  The underlying value — Indiana should be a leader in advanced infrastructure — didn't change. The mechanism required to honor that value without harming the people already living here did.  That's the process. Primary sources, honest weighting, practitioner cross-checks, named value boundaries, and the willingness to update. Through the Congress App, every vote I'd cast on a science-related bill would carry the fiscal breakdown and the evidence base in plain English, so constituents can audit both the reasoning and the result.
+
+- candidate_first_name: Floyd
+  candidate_last_name: Taylor
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Independent
+  question: in-q4
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    A $24 million year-over-year decline in federal research funding to Indiana universities is not a budget line. It is graduate students who don't get recruited, early-career faculty who leave for industry or for other states, instruments that don't get purchased, and research programs — many of them agricultural, medical, and energy-focused — that lose continuity they cannot easily rebuild. Federal research dollars are patient capital. When you cut them, the damage shows up on a lag, and so does the recovery.
+
+    My view, directly: these reductions are a strategic error, and reversing them should be a priority. Here's the reasoning and the policy framework.
+
+    Why federal research funding matters, specifically for IN-09:
+
+    Indiana University, Purdue, and the regional campuses that serve the 9th District conduct research in areas that map directly onto this district's economy and quality of life — agricultural science and crop genetics, rural health delivery, pharmaceutical development, materials engineering, water quality, and energy systems. The federal dollars that fund that work return to Indiana as patents, startups, extension services, trained workforce, and clinical capacity. Cutting the input doesn't save money. It transfers the economic benefit to other states and other countries that are still investing.
+
+    The United States currently funds federal R&D at a lower share of GDP than it did during the Apollo era, and lower than several direct competitors — most notably China, which has been increasing its research investment at double-digit annual rates for over a decade. The question is not whether we can afford to fund research. It is whether we can afford not to.
+
+    Policies I would support:
+
+    1. Restore and stabilize baseline funding at NIH, NSF, DOE Office of Science, USDA NIFA, and NIST. These are the agencies whose grants reach Indiana universities most directly. Year-to-year volatility is almost as damaging as the headline cuts themselves — labs cannot plan multi-year research programs when the appropriation whipsaws. Multi-year authorizations with real floors would restore the predictability that makes long-horizon science possible.
+
+    2. Protect indirect cost recovery. Recent proposals to cap indirect cost rates at arbitrary low levels sound like efficiency reforms. They are not. Indirect costs fund the facilities, administrative compliance, data infrastructure, and safety systems that make research possible. Capping them below true cost forces universities to subsidize federal research out of tuition — which raises costs for Indiana families — or to stop competing for federal grants entirely. Either outcome is worse than the status quo.
+
+    3. Prioritize rural-serving and land-grant institutions in competitive grant structures. Indiana's land-grant and regional campuses serve populations and problems that elite coastal universities do not. Grant program design should reflect that — not through quotas, but through evaluation criteria that credit real-world deployment, extension capacity, and workforce impact alongside pure citation metrics.
+
+    4. Tie funding growth to accountability, not to ideology. Research funding should be defended against both arbitrary cuts and arbitrary ideological restrictions on what can be studied. Peer review, replication standards, and open-data requirements are legitimate accountability mechanisms. Political filters on which questions scientists are allowed to ask are not. I would oppose both the cuts and the content restrictions, and I would say so on the floor regardless of which party was proposing which.
+
+    5. Fund the training pipeline, not just the research. Graduate student stipends, postdoctoral fellowships, and early-career faculty startup packages are the leading indicators of American scientific capacity ten years out. The $24M decline hits those line items hardest and least visibly. Any restoration package should prioritize them.
+
+    On the honest tradeoff:
+
+    I am a fiscal conservative, and I do not believe every federal dollar is well spent. Research funding deserves scrutiny — specifically for duplication across agencies, for grants whose outputs never see the light of a replication study, and for administrative overhead that has grown faster than research output. Those are real problems and reform is warranted. But reform is not what the $24M cut represents. It represents retreat.
+
+    The policy question is whether Indiana wants to be a state that produces the next generation of agricultural science, medical research, and energy innovation, or a state that imports those outcomes from somewhere else. I know which future I am running to build.
+
+    Through the Congress App, any vote I would cast on an appropriations bill, authorization, or agency reauthorization affecting research funding would be published with its fiscal breakdown and bound to the verified constituents of IN-09 before the vote.
+
+- candidate_first_name: Brad
+  candidate_last_name: Meyer
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: in-q1
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We should evaluate PFAS compounds based on their toxicity, persistence, mobility, and bioaccumulation. They don't all pose the same risks.
+
+    We need to prioritize eliminating the compounds that pose the greatest health risks, using testing and monitoring to identify actual exposure. Where safer substitutes exist, we should use them. Where they don't, we need to weigh the benefits of their use against the risks and costs of controlling them.
+
+- candidate_first_name: Brad
+  candidate_last_name: Meyer
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: in-q2
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I'm not for or against data centers across the board but have called for a one-year moratorium on data centers to establish better standards for evaluating their impacts. They can bring jobs, investment, and infrastructure improvements, but they can also create problems with land use, energy demand, water consumption, and quality of life.
+
+    Local residents and their elected officials should decide whether a data center is right for their community. To do that:
+
+    1. The state should not block a community from welcoming a project or force one on a community that doesn't want it.
+    2. Non-disclosure agreements that prevent elected officials from sharing information about proposed data center projects should be illegal. People deserve to know what's being proposed and how it could affect their community.
+    3. Municipalities need better guidance on evaluating proposals. Companies should pay the additional costs their projects create, including electrical generation, transmission, and infrastructure, rather than shifting those costs onto existing utility customers. Communities also need clear answers about water use and its impact on local supplies.
+    4. Environmental and regulatory oversight needs to continue after a data center begins operating, not end when the project is approved. Current oversight is inadequate.
+
+- candidate_first_name: Brad
+  candidate_last_name: Meyer
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: in-q3
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    My background is in engineering, and I learned early on that you don't make good decisions without understanding the facts. I rely on my education and training to seek out people with the expertise to help me understand what I don't know. I question assumptions and try to understand the limitations of the evidence before reaching a conclusion.
+
+    In Congress, I would apply that same approach. I'd listen to qualified experts, examine the research, and consider how a proposed policy would affect people. My responsibility would be to make the best-informed decision I can, not simply follow a party line.  Decisions should be based on impact and benefit at 1, 10, and 100 years.
+
+    Both Scientific and social problems both require thoughtful, fact-based analysis. For example, I didn't have a policy position on disabilities early in the campaign. I researched current and proposed policies, then met with stakeholders to understand the realities they lived. After a series of roundtable discussions, I worked with people in the field to develop policy positions addressing education, healthcare, and economic opportunities for people with disabilities. Those positions are still relatively high-level, and I'll continue to improve them as I learn more.
+
+- candidate_first_name: Brad
+  candidate_last_name: Meyer
+  state: in
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: in-q4
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I support federal funding for scientific research, with appropriate oversight and accountability.
+
+    I spent years working in manufacturing and as an engineer at Crane. I've done research in both industry and academic settings, so I know its value.
+
+    Federal research funding supports Indiana universities, trains future scientists and engineers, and helps develop technologies that can benefit our economy.
+
+    A $24 million decline is concerning. Cutting research funding can mean losing work that took years to build, and discoveries that might never happen. Basic research is particularly important because its benefits may take years to emerge, making private investment less likely.
+
+    Research dollars will always be limited. Before deciding where to cut or invest, we need to understand what the research is intended to accomplish and what the consequences of those decisions will be.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Brant
+  state: in
+  race: State Senate
+  district: 23
+  party: Independent
+  question: in-q1
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    As policymakers, we serve the public first and foremost, and so public health should always be at the forefront of policy-making decisions. It is my understanding that filtering for PFAS at the source is currently the most effective mitigation strategy for handling these chemicals, and I would like to see that codified into law as a stipulation for doing business in Indiana.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Brant
+  state: in
+  race: State Senate
+  district: 23
+  party: Independent
+  question: in-q2
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I am adamantly opposed to the aggressive imposition of unchecked AI data center development that we have seen in Indiana. I would support a statewide moratorium, if not an outright ban, at least until we can establish appropriate standards to protect communities, the environment, and natural resources. We also need to reinforce utility infrastructure prior to these data centers being built rather than as an afterthought, and that needs to come entirely at the cost of the developer; not residents. Our electric grid in particular is already under enough stress, and further development without appropriate upgrades could have detrimental effects on the entire state.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Brant
+  state: in
+  race: State Senate
+  district: 23
+  party: Independent
+  question: in-q3
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    As with most of my positions, I start by listening to the arguments for and against any particular policy. I evaluate the merits of the arguments on both sides, look for underlying logic and biases, and investigate any sources cited in support of those arguments. In the case of scientific studies, I read the study itself to the best of my ability, verify the legitimacy of the publication, research who paid for the study, and look to see if the study has been peer-reviewed. I regularly try to seek out expert input on any proposal I put forward, even if I consider myself to be fairly well read on a subject, because I recognize that I am susceptible to unknown unknowns, misunderstandings, and my own personal biases. The first example that comes to mind of how this process influenced my perspective on an issue is my stance on public breast-feeding in restaurants. I used to think it was a public health risk, but after challenging those assumptions and doing a little more research, I came to the conclusion that the evidence suggests otherwise and changed my stance accordingly.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Brant
+  state: in
+  race: State Senate
+  district: 23
+  party: Independent
+  question: in-q4
+  date: 2026-10-19
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I strongly oppose the politicization of colleges and universities, and the withholding of funding to push political agendas. I would support supplemental funding at the state level to help offset this kind of behavior.
+
+- candidate_first_name: Austin
+  candidate_last_name: Meives
+  state: in
+  race: State House of Representatives
+  district: 23
+  party: Democratic
+  question: in-q1
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Policy should put people's health first. Since PFAs have been linked to harmful effects in humans and wildlife policy should work to phase out all uses.
+
+    PFAs manufacturers should be held accountable for the damage their products cause and be required to remediate any contaminated areas.
+
+- candidate_first_name: Austin
+  candidate_last_name: Meives
+  state: in
+  race: State House of Representatives
+  district: 23
+  party: Democratic
+  question: in-q2
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    First we need to stop the data center friendly tax incentives, and require developers to pay for the cost for their infrastructure up front.
+
+    As for utility costs, the state should abolish the residential sales tax, it would see a 7% drop immediately. Long term the state should be investing in renewable energy while at the same time funding research on new renewable sources.
+
+    As for why, why are we paying for the infrastructure data centers need? We pay for it every month with rising utility bills. Bills by the way that we pay taxes on but big data doesn't pay taxes on their bills.
+    Thats not right.
+    How many times can you use a fossil fuel? Once
+    How many time can you use a solar panel? Daily, as long as the sun shines
+    Wind turbines are carbon neutral within 2 years.
+    We have options.
+
+- candidate_first_name: Austin
+  candidate_last_name: Meives
+  state: in
+  race: State House of Representatives
+  district: 23
+  party: Democratic
+  question: in-q3
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    First I try to find a reputable website to source information. Then I source the sources if they are listed, if not I take the information presented as statements but non-factual. A person working in a feild they have studied in with evidenced information is top tier. For an example, at the start of my campaign I needed perspective into issues at local schools and was able to sit with a principal who was able to present the struggles from recent funding cuts.
+
+- candidate_first_name: Austin
+  candidate_last_name: Meives
+  state: in
+  race: State House of Representatives
+  district: 23
+  party: Democratic
+  question: in-q4
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    The reduction in funding to the sciences is always a tragedy because we have billions for bombs but never billions for science.
+
+    Government investment in our universities and students helps lift everyone up. It also leads to advancements we might otherwise not have had.
+
+    Where possible state government should take up when the federal government fails us.
+
+- candidate_first_name: Racheal
+  candidate_last_name: Bleicher
+  state: in
+  race: State House of Representatives
+  district: 24
+  party: Democratic
+  question: in-q1
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We shouldn’t have to worry about dangerous "forever chemicals" hiding in our everyday products, and local taxpayers certainly shouldn't be left holding the bill to clean up a mess they didn't create. My approach is simple and fair: let's hold the big chemical companies accountable for cleanup costs, while immediately getting these toxins out of everyday items where safe choices are already on the shelf. At the same time, we need to work hand-in-hand manufacturers; giving them a clear, realistic timeline and the support they need to switch over to safer alternatives without hurting local jobs. Protecting our families' health and keeping our economy strong don't have to be at odds, and I'll always stand up for clean water and common-sense solutions.
+
+- candidate_first_name: Racheal
+  candidate_last_name: Bleicher
+  state: in
+  race: State House of Representatives
+  district: 24
+  party: Democratic
+  question: in-q2
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I am not opposed to innovation or data centers in Indiana, but we cannot sell Indiana out to the highest bidder and we cannot bring in data centers at the expense of our environment, economy, and our communities. I believe data centers should always pay their share of utilities and infrastructure costs, and that communities should always have input on whether or not a data center is built in their backyard.
+
+- candidate_first_name: Racheal
+  candidate_last_name: Bleicher
+  state: in
+  race: State House of Representatives
+  district: 24
+  party: Democratic
+  question: in-q3
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Throughout my career in technology, I’ve always leaned on subject-matter experts—in fields like cybersecurity and AI—to guide critical decisions for my clients and teams. I will bring that same evidence-based approach to the Statehouse. I’m not a scientist, but I know how to listen to them. When science-related legislation comes across my desk, I will consult leading experts to ensure our policy decisions are grounded in facts.
+
+- candidate_first_name: Racheal
+  candidate_last_name: Bleicher
+  state: in
+  race: State House of Representatives
+  district: 24
+  party: Democratic
+  question: in-q4
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I believe we are divesting in the wrong areas in Indiana and I would like to see more dollars returned to research funding so that Indiana's Universities can continue to be industry leaders and contribute to the overall wellbeing of our state and country.
+
+- candidate_first_name: Karen
+  candidate_last_name: Whitney
+  state: in
+  race: State House of Representatives
+  district: 28
+  party: Democratic
+  question: in-q1
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I do not have an answer but I have a process to arrive at a set of answers. I would work with others to establish this item as an item of great interest. Then organize a fact finding and engagement with content experts to clearly define the problem in Indiana and arrive at a set of actions both the government, public and private sectors could take to reduce threats to public health.
+
+- candidate_first_name: Karen
+  candidate_last_name: Whitney
+  state: in
+  race: State House of Representatives
+  district: 28
+  party: Democratic
+  question: in-q2
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I would very much support legislation that would move us from rubber stamping Data Centers to clearly regulating them to ensure safety to people, land, air and water. I would further regulate to ensure that there are real and long term economic benefits to the state and counties. Finally I would ensure transparency in all future decisions and stop this special interest back room deal making.
+
+- candidate_first_name: Karen
+  candidate_last_name: Whitney
+  state: in
+  race: State House of Representatives
+  district: 28
+  party: Democratic
+  question: in-q3
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    As a former college president, I would use the approach to running a college. First define the problem to solve and or the priority to advance. Second create a sensible way to investigate and create sensible solutions based on proven research/best-practices.
+
+- candidate_first_name: Karen
+  candidate_last_name: Whitney
+  state: in
+  race: State House of Representatives
+  district: 28
+  party: Democratic
+  question: in-q4
+  date: 2026-10-25
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    The federal defunding of university based research is one of the most damaging policies of the current federal government. Their actions have our country back decades. As a state rep, I would loudly and critically call this out and bring light to the damage these actions are doing and will do to generations of Hoosiers. Most folks simple do not know or understand the damage. I would advance legislation for state funding to back fill key areas of research. I would also mobile voters to vote out the current federal administration and support federal candidates who are committed to the federal funding of credible and responsible university based research.
+
+- candidate_first_name: Jackson
+  candidate_last_name: Hayes
+  state: in
+  race: State House of Representatives
+  district: 41
+  party: Democratic
+  question: in-q1
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    PFAS chemical contamination is one of the great ecological concerns of our age, as they have been found diffused througout the water cycle. The full effects of this diffusion have not been fully studied as it covers such a wide range of issues from soil contamination and rainwater to food processing and even clothes. I'd like to see additional funding for studies into the full effects of PFAS chemicals on humans, and I will do my best to pass legislation limiting the amount of pollutants that enter our environment.
+
+- candidate_first_name: Jackson
+  candidate_last_name: Hayes
+  state: in
+  race: State House of Representatives
+  district: 41
+  party: Democratic
+  question: in-q2
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Data centers rightly serve as a focus and catalyst for the growing economic divide in America and in Indiana. Impossibly large, expensive, and secretive corporate structures going up in struggling communities. Frankfort, IN, where I live, just passed a resolution to allow DataOne to build one here. All this on the heels of SBA1 (legislation passed 2025) which cuts most communities property tax income from corporate entities in half, and it starts to feel like a conspiracy to force people to accept these new edifices or reduce available services.
+
+    My plan to deal with these issues is multifaceted. First, a moratorium on data center construction until structural change in the process can be implemented. Second, they must provide all of their own power/additional for local community and a comprehensive water treatment plan with zero pollutants added to the environment, including light and sound. Third, commitments to pay and invest in the communities that they are entering.
+
+- candidate_first_name: Jackson
+  candidate_last_name: Hayes
+  state: in
+  race: State House of Representatives
+  district: 41
+  party: Democratic
+  question: in-q3
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    In thinking of the difficulties of managing complex ideas like this recently, I decided on a personal policy of realizing that I cannot be an expert on most any given topic and should search out expert advice when a policy question comes forth. Thus, for policy concerns related to the sciences, which is just about everything I can think of right now. I will seek out counsel from experts in their field, from environmental, power, water usage, to urban development and logistics. In 1894, some misguided Indiana Assemblymen attempted to define pi as equal to 3, due to the influence of a misguided "mathematician," and the state was saved further embarrassment by the intervention of a Purdue professor. This to say that expert advice is key to ensuring good public policy.
+
+- candidate_first_name: Jackson
+  candidate_last_name: Hayes
+  state: in
+  race: State House of Representatives
+  district: 41
+  party: Democratic
+  question: in-q4
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Recent reductions in research funding is a grave concern which I hope will be rectified soon. For Indiana, I hope to be able to ameliorate this issue by issuing new research grants and funding to research institutions and working with such organizations to determine how best to improve and assist. Specifically, I'd like to see the founding of a department or organization dedicated to reading and testing research papers and proposals. I know that most published experiments go untested by other groups because it is a lot of work, but it needs done to test the hypothesizes/experiments of scientists around the world.
+
+- candidate_first_name: Rebecca
+  candidate_last_name: Mayfield
+  state: in
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: in-q1
+  date: 2026-10-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We should be actively protecting the health of our citizens by pursuing other safe alternatives.
+
+- candidate_first_name: Rebecca
+  candidate_last_name: Mayfield
+  state: in
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: in-q2
+  date: 2026-10-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    We definitely have need of data centers, but the impact they have on environment and public health needs to be closely monitored by other means than the companies themselves.  Legislation should be proposed that the companies should NOT get tax breaks and should pay they impact on utility costs.
+
+- candidate_first_name: Rebecca
+  candidate_last_name: Mayfield
+  state: in
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: in-q3
+  date: 2026-10-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Having a Master’s degree, I typically will read educational journals and research in order to understand complex topics
+
+- candidate_first_name: Rebecca
+  candidate_last_name: Mayfield
+  state: in
+  race: State House of Representatives
+  district: 45
+  party: Democratic
+  question: in-q4
+  date: 2026-10-21
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Indiana has some of the finest research universities and should continue to be supported.  As a person educated by THREE Indiana universities, I will always support our home-grown talent and edication.
+
+- candidate_first_name: James
+  candidate_last_name: Pittsford
+  state: in
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: in-q1
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    I have been made aware of PFAS and I believe that they will be the asbestos of this age.
+    Corporations should be held responsible for the actions they take in the pursuit of higher and higher profits without concern to the long term effects of their decisions.
+    Our culture in the last 100 years ago have made the choice to not hold corporations responsible, with exceptions in the 80’s and 90’s EPA.
+
+- candidate_first_name: James
+  candidate_last_name: Pittsford
+  state: in
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: in-q2
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    There should be room for responsible developers of data centers so long as they minimize the impact on residents.
+    Data centers, in my opinion, are not so necessary that they should receive benefits that no other industry is receiving.
+    They should pay all applicable taxes, pay for the production of their power needs, disclose their impact on the water table and consume no more land than is necessary.
+    They should not produce unnecessary or obnoxious noise or contribute to light polution.
+    I believe the only reason that we are having this debate is because our legislature put no restrictions whatsoever on this industry and I hope that I am provided the opportunity to make it stop.
+
+- candidate_first_name: James
+  candidate_last_name: Pittsford
+  state: in
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: in-q3
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Science has always been a guide to responsible government from the time of Ancient Greece. The biggest impact on my decision making that was informed by science was likely to get the COVID vaccine as soon as it was available to me
+
+- candidate_first_name: James
+  candidate_last_name: Pittsford
+  state: in
+  race: State House of Representatives
+  district: 46
+  party: Democratic
+  question: in-q4
+  date: 2026-10-20
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    If our state government chooses not to fund scientific research the funding for the research will come from private interests. If the research is funded privately the funding institutes will rightfully have ownership of the product of that research instead of the public ownership through government funded research.
+    Yes I wholeheartedly support public funding of scientific research.
+
+- candidate_first_name: Candace
+  candidate_last_name: Greer
+  state: in
+  race: State House of Representatives
+  district: 64
+  party: Democratic
+  question: in-q1
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Public safety should always be the priority.
+
+- candidate_first_name: Candace
+  candidate_last_name: Greer
+  state: in
+  race: State House of Representatives
+  district: 64
+  party: Democratic
+  question: in-q2
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    After seeing the affects of data centers on our grid in Gary, it is evident that our infrastructure is not ready to support them. I would discourage any further construction, especially since our people do not want them.
+
+- candidate_first_name: Candace
+  candidate_last_name: Greer
+  state: in
+  race: State House of Representatives
+  district: 64
+  party: Democratic
+  question: in-q3
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Using the Internet and looking up the research myself.
+
+- candidate_first_name: Candace
+  candidate_last_name: Greer
+  state: in
+  race: State House of Representatives
+  district: 64
+  party: Democratic
+  question: in-q4
+  date: 2026-10-24
+  primary_candidate: false
+  did_not_respond: false
+  response: |
+    Science is fundamental for progess. I would like to know more.

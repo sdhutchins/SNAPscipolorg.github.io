@@ -2200,3 +2200,157 @@
   date: 2026-10-10
   response: |
     "We need to find a way to get more funding for science-once we loose it it will be hard to replace. Tax the rich."
+
+- candidate_first_name: Michelle
+  candidate_last_name: Ravert
+  state: md
+  race: State House of Delegates
+  district: 36
+  party: Democratic
+  question: md-q1
+  date: 2026-10-24
+  response: |
+    "A moratorium on data centers in all four counties in District 36.  Most of the district gets its power delivered by Delmarva Power.  The State of Delaware, PUC limits rate hikes, so Marylanders forced to use an out of state service and pay much higher rates than the same customers next door in Delaware.  In the legislature, we must limit the powers of our own PUC to limit rate hike as well.  Delmarva stockholders reap big dividends off the backs of Maryland consumers."
+
+- candidate_first_name: Michelle
+  candidate_last_name: Ravert
+  state: md
+  race: State House of Delegates
+  district: 36
+  party: Democratic
+  question: md-q2
+  date: 2026-10-24
+  response: |
+    "The Maryland workforce exchange program requires a complete overhaul to serve all levels of workers.  Its main focus is placing workers in entry-level jobs.  College graduates and seasoned professionals looking for work, really have nowhere to turn.  However, a program was instituted to place laid off federal workers in Maryland State jobs.  This is a program that should be afforded to all experienced Marylanders to secure a second career."
+
+- candidate_first_name: Michelle
+  candidate_last_name: Ravert
+  state: md
+  race: State House of Delegates
+  district: 36
+  party: Democratic
+  question: md-q3
+  date: 2026-10-24
+  response: |
+    "We must reduce regulations to allow Nurse Practitioners and Physician Assistants to practice family medicine in rural areas.  Also, since there are no hospitals or birthing centers in any of the four counties of the District, we must implement a program to train midwives and doulas and allow them to practice to ensure the health of both women and children."
+
+- candidate_first_name: Michelle
+  candidate_last_name: Ravert
+  state: md
+  race: State House of Delegates
+  district: 36
+  party: Democratic
+  question: md-q4
+  date: 2026-10-24
+  response: |
+    "After-school programs, especially for middle school students, inspire children to learn STEM concepts outside of the classroom and have fun while cultivating a STEM-enriched student body."
+
+- candidate_first_name: Michelle
+  candidate_last_name: Ravert
+  state: md
+  race: State House of Delegates
+  district: 36
+  party: Democratic
+  question: md-q5
+  date: 2026-10-24
+  response: |
+    "We must protect our farms, our waterways, and open space from state-mandated clean energy projects.  The district is under siege and we must put an end to it."
+
+- candidate_first_name: Michelle
+  candidate_last_name: Ravert
+  state: md
+  race: State House of Delegates
+  district: 36
+  party: Democratic
+  question: md-q6
+  date: 2026-10-24
+  response: |
+    "Metrics.  We must be able to measure if programs are working and reallocate resources accordingly.  We must ensure our tax dollars are solving the problems we intend.  If they aren’t, they must be reallocated to programs that demonstrate measurable success."
+
+- candidate_first_name: Michelle
+  candidate_last_name: Ravert
+  state: md
+  race: State House of Delegates
+  district: 36
+  party: Democratic
+  question: md-q7
+  date: 2026-10-24
+  response: |
+    "Much of the research funding in the state goes to Baltimore.  We must fund scientific research on the eastern shore."
+
+- candidate_first_name: Timothy
+  candidate_last_name: McGarrahan
+  state: md
+  race: State House of Delegates
+  district: 12B
+  party: Republican
+  question: md-q1
+  date: 2026-10-26
+  response: |
+    "I believe that if data centers are necessary that they should be away from the community and have their own power supply and not use our water. I also would take measures to pass legislation forcing power companies to invest in free energy to reduce costs on people and take pressure off the already stressed grid."
+
+- candidate_first_name: Timothy
+  candidate_last_name: McGarrahan
+  state: md
+  race: State House of Delegates
+  district: 12B
+  party: Republican
+  question: md-q2
+  date: 2026-10-26
+  response: |
+    "I think people who have had federal jobs are easily hired in the private sector. I would try to expand entry level jobs, general labor and trade schools for the younger generation."
+
+- candidate_first_name: Timothy
+  candidate_last_name: McGarrahan
+  state: md
+  race: State House of Delegates
+  district: 12B
+  party: Republican
+  question: md-q3
+  date: 2026-10-26
+  response: |
+    "I’d target the opioid crisis at its core, the cartels that bring in the fentanyl should be charged for smuggling a weapon which is what I believe it is. Giving constant funding for rehabilitation centers is great for rehabilitation centers but does nothing for the crisis in the streets."
+
+- candidate_first_name: Timothy
+  candidate_last_name: McGarrahan
+  state: md
+  race: State House of Delegates
+  district: 12B
+  party: Republican
+  question: md-q4
+  date: 2026-10-26
+  response: |
+    "I think it’s a smartphone internet problem. The children don’t learn when they are dependent upon devices that do the work for them. I think less dependence on devices in schools is imperative."
+
+- candidate_first_name: Timothy
+  candidate_last_name: McGarrahan
+  state: md
+  race: State House of Delegates
+  district: 12B
+  party: Republican
+  question: md-q5
+  date: 2026-10-26
+  response: |
+    "I’ve got a design idea for a boat that provides free energy and also cleans the water at the same time. I’m going to try to get it off the ground and working because I am sure it would."
+
+- candidate_first_name: Timothy
+  candidate_last_name: McGarrahan
+  state: md
+  race: State House of Delegates
+  district: 12B
+  party: Republican
+  question: md-q6
+  date: 2026-10-26
+  response: |
+    "Science and common sense knowledge are so much more important than red and blue kool aid values stuff that everyone is really tired of hearing."
+
+- candidate_first_name: Timothy
+  candidate_last_name: McGarrahan
+  state: md
+  race: State House of Delegates
+  district: 12B
+  party: Republican
+  question: md-q7
+  date: 2026-10-26
+  response: |
+    "If it makes sense and has a future I would support it."

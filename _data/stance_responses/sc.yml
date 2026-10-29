@@ -1,10 +1,11 @@
 - candidate_first_name: Baba
   candidate_last_name: Amin Ojuok
   state: sc
-  race: State Superintendent of Education
+  race: Local County Races [All]
   party: United Citizens Party
   question: sc-q1
   date: 2026-10-07
+  county_race: State Superintendent of Education
   primary_candidate: false
   response: |
     I'm not anti-data center, and I'm certainly not anti-technology. I'm an educator who is actively putting artificial intelligence and emerging technology into the hands of K–12 students. My position isn't that we should run from technology. My position is that we should be smart enough to embrace innovation without allowing corporations to unnecessarily damage the communities and environments where that innovation takes place. I don't believe technological advancement and environmental responsibility are enemies. At Uhuru Academy Online, our students are learning AI now, and we're developing pathways into AI, cybersecurity, digital design, cloud technology and other emerging fields. Through our work with Conscious Ingenuity and Morgan State University, young people have been exposed to artificial intelligence, machine learning, coding, cybersecurity and engineering. So yes, I want South Carolina participating in the technological future.
@@ -16,10 +17,11 @@
 - candidate_first_name: Baba
   candidate_last_name: Amin Ojuok
   state: sc
-  race: State Superintendent of Education
+  race: Local County Races [All]
   party: United Citizens Party
   question: sc-q2
   date: 2026-10-07
+  county_race: State Superintendent of Education
   primary_candidate: false
   response: |
     This is an area where I'm not just talking about what I think we should do. I've been doing this work for years. Education is actually what brought me to South Carolina. I first came to Columbia in 2013 to present on Afrikan-centered education at Benedict College. I later returned to help develop what became UASC International Learning Center. As a managing educational consultant, I helped provide the academic and cultural model, cultivate partnerships, raise resources and build the educational program. That school is now in its 11th year. UASC is an A-STEAM school—Afrikan-centered Science, Technology, Engineering, Arts and Mathematics. Our young people experienced science through agriculture, gardening, kitchen science and nutrition, computer technology, engineering, building projects, healing sciences, sustainability and hands-on experimentation.
@@ -37,10 +39,11 @@
 - candidate_first_name: Baba
   candidate_last_name: Amin Ojuok
   state: sc
-  race: State Superintendent of Education
+  race: Local County Races [All]
   party: United Citizens Party
   question: sc-q3
   date: 2026-10-07
+  county_race: State Superintendent of Education
   primary_candidate: false
   response: |
     For me, public health starts with something pretty basic: people have a right to know what's happening to their bodies and what's happening in their environment. There are things individuals simply cannot monitor or regulate by themselves. I can't personally test every chemical coming through my drinking water, and a parent shouldn't need to be an environmental scientist to determine whether a school building has unsafe asbestos, lead, mold or another environmental hazard. That's where government has a legitimate responsibility. Test it, monitor it, tell people what you find, make the information understandable and fix problems when they're identified. We shouldn't hide information because it's inconvenient or expensive.
@@ -52,10 +55,11 @@
 - candidate_first_name: Baba
   candidate_last_name: Amin Ojuok
   state: sc
-  race: State Superintendent of Education
+  race: Local County Races [All]
   party: United Citizens Party
   question: sc-q4
   date: 2026-10-07
+  county_race: State Superintendent of Education
   primary_candidate: false
   response: |
     I think we have to start by changing the way we talk about this. I don't like the phrase "trust the science" when it is used to mean "stop asking questions." Science isn't supposed to work that way. Science is a process. You observe, ask questions, investigate, test and measure. Somebody challenges your conclusion. Somebody tries to replicate your work. New evidence comes along, and sometimes the conclusion changes. That's not a weakness of science. That's the beauty of science.
@@ -152,10 +156,10 @@
   candidate_last_name: Crosby
   state: sc
   race: State House of Representatives
-  district: 14
+  district: 44
   party: Democratic
   question: sc-q1
-  date: 2026-10-12
+  date: 2026-10-25
   primary_candidate: false
   response: |
     New data centers must be held accountable for producing their own energy and cleaning their own water; they cannot be allowed to take advantage of poor or rural communities or destroy protected lands. The substantial profits they claim to make should be plenty of money for them to build their own self-sustaining systems that don't cut deals that increase costs for consumers, and they should be able to afford to do it in environmentally safe ways. If they can't, they don't need to build a data center.
@@ -164,10 +168,10 @@
   candidate_last_name: Crosby
   state: sc
   race: State House of Representatives
-  district: 14
+  district: 44
   party: Democratic
   question: sc-q2
-  date: 2026-10-12
+  date: 2026-10-25
   primary_candidate: false
   response: |
     First, we have to keep pubic money in public schools and increase accountability and transparency into how that money is spent so stakeholders know it is benefiting students. When we have funding for sufficient school buildings, competitive teacher pay, and can shift the focus from banning books to boosting quality curriculum, we will see an increase in student performance. We have to successfully teach all the subjects: hands-on science, real social studies, writing, arts, and music, in addition to reading and math that boost test scores, so our students become successful citizens who are ready to succeed in the workforce and in our communities.
@@ -176,10 +180,10 @@
   candidate_last_name: Crosby
   state: sc
   race: State House of Representatives
-  district: 14
+  district: 44
   party: Democratic
   question: sc-q3
-  date: 2026-10-12
+  date: 2026-10-25
   primary_candidate: false
   response: |
     While our founding fathers weren't perfect, I wholeheartedly agree with the sentiment that governments are instituted to secure the rights to life, liberty, and the pursuit of happiness. Protecting pubic health and community well-being is the first and fundamental responsibility of a government; that of securing the right to life. Without it, the government cannot secure the rights to liberty or the pursuit of happiness. It is absolutely the government's responsibility to provide vaccine access, mitigate environmental health risks, prevent disease where possible, and execute emergency preparedness plans.
@@ -188,13 +192,103 @@
   candidate_last_name: Crosby
   state: sc
   race: State House of Representatives
-  district: 14
+  district: 44
   party: Democratic
   question: sc-q4
-  date: 2026-10-12
+  date: 2026-10-25
   primary_candidate: false
   response: |
     Nelson Mandela stated, "Education is the most powerful weapon which you can use to change the world." What we have to remember is that access to information is not education. We must follow in the footsteps of those like Modjeska Simpkins and meet people exactly where they are and show them why the information she had was important and could protect them from diseases like tuberculosis. Her personal connection built trust and saved lives. Elected officials need to do two things: build trust directly with their constituents through communication, whether by knocking on their doors, holding town halls, calling them personally on the phone, or whatever that looks like for their community; and publicly demonstrate trusting relationships with scientists by publicly working together. Many elected officials currently excel at one piece or the other, but it is certainly a challenge to achieve both. We need both our own open mindset and the support of our constituents and our scientists to achieve it.
+
+- candidate_first_name: Shannon N.
+  candidate_last_name: DeLoach
+  state: sc
+  race: State House of Representatives
+  district: 121
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    I recognize that data centers can bring economic investment, expand our technological infrastructure, and create jobs. However, economic development should never come at the expense of affordable utilities, public health, or environmental protection.
+
+    As a candidate for South Carolina House District 121, serving Beaufort and Colleton Counties, I believe we must take a responsible, balanced approach to data center development.
+
+    First, we must protect consumers from rising utility costs. Families, seniors on fixed incomes, and small businesses are already struggling with higher electricity and water bills. I would support legislation requiring data center operators to pay their fair share of the infrastructure, energy generation, transmission, and water system improvements necessary to support their operations. Residential customers should not be forced to subsidize large corporate developments.
+
+    Second, we must protect our water resources and public health. Before approving new data centers, I would advocate for comprehensive environmental and water-use impact assessments, including evaluations of groundwater availability, drinking water supplies, wastewater management, and potential impacts on surrounding communities. In coastal communities like ours, protecting our waterways, wetlands, and natural resources is essential to our economy and quality of life.
+
+    Third, we must strengthen transparency and local accountability. Local governments and residents deserve a meaningful voice in decisions affecting their communities. I would support stronger public notification requirements, independent infrastructure assessments, and protections for local zoning authority before major data center projects receive approval.
+
+    Finally, economic development must deliver measurable benefits. We should examine the number of permanent jobs created, the quality of those jobs, tax incentives requested, and the long-term costs to taxpayers. I would also encourage energy-efficient technologies, water recycling systems, and responsible energy sourcing.
+
+    I am not opposed to technological advancement or responsible economic development. However, I am opposed to developments that place corporate profits ahead of the financial security, health, and well-being of South Carolina families.
+
+    My position is simple: Growth must be responsible, development must be accountable, and the people of South Carolina must come first. We cannot continue asking hardworking families to pay more so that large corporations can pay less.
+
+- candidate_first_name: Shannon N.
+  candidate_last_name: DeLoach
+  state: sc
+  race: State House of Representatives
+  district: 121
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    I believe South Carolina’s economic future depends on how well we prepare the next generation for careers in science, technology, engineering, mathematics (STEM), healthcare, and other emerging industries. Every student, regardless of their ZIP code, family income, or whether they attend school in a rural or urban community, deserves access to a quality education that prepares them for the workforce of tomorrow.
+
+    As a candidate for South Carolina House District 121, representing Beaufort and Colleton Counties, I would focus on five key priorities.
+
+    First, strengthen STEM education in our K–12 public schools. We must invest in modern science laboratories, classroom technology, qualified educators, and hands-on learning opportunities. I would advocate for additional resources for rural and underserved school districts so that students in communities like ours have the same opportunities as students in wealthier districts.
+
+    Second, expand partnerships between public schools, technical colleges, universities, and local industries. Institutions such as the Technical College of the Lowcountry and other community-based educational institutions should play a central role in preparing students for high-demand careers. I would support dual-enrollment programs, apprenticeships, paid internships, and career pathways that allow students to earn industry-recognized credentials before graduating from high school.
+
+    Third, invest in recruiting and retaining qualified science and mathematics teachers. We cannot build a competitive workforce without investing in the educators responsible for preparing it. That means competitive salaries, professional development, classroom resources, and incentives for teachers willing to serve in rural and high-need communities.
+
+    Fourth, make workforce training affordable and accessible. I would support expanding need-based financial assistance, workforce scholarships, and short-term credential programs through South Carolina’s technical college system. Working adults, displaced workers, and individuals seeking career changes should also have opportunities to develop new skills without accumulating overwhelming debt.
+
+    Finally, connect workforce development to South Carolina’s economic needs. Our state must prepare workers for careers in healthcare, biotechnology, advanced manufacturing, environmental science, clean energy, cybersecurity, and other growing fields. We should also work with employers to ensure educational programs reflect actual workforce demands while providing pathways to good-paying jobs.
+
+    I also believe we must measure success through graduation rates, credential completion, job placement, and long-term career opportunities, not simply the number of programs we create.
+
+    My goal is to build a South Carolina where a student’s future is not determined by their family’s income or the community in which they were raised.
+
+    As someone who benefited from public education and understands the importance of career preparation, I recognize that education is more than a classroom experience. It is an investment in economic opportunity, stronger families, and thriving communities.
+
+    If we want South Carolina to attract the industries of tomorrow, we must invest in the students, teachers, and workforce of today.
+
+- candidate_first_name: Shannon N.
+  candidate_last_name: DeLoach
+  state: sc
+  race: State House of Representatives
+  district: 121
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    I believe protecting public health and community well-being is one of the fundamental responsibilities of government. Every South Carolinian, regardless of income, age, or ZIP code, deserves access to safe drinking water, preventive healthcare, reliable public health information, and a healthy environment in which to live, work, and raise a family.
+
+    As a candidate for South Carolina House District 121, serving Beaufort and Colleton Counties, I believe our approach must focus on prevention, accessibility, accountability, and preparedness.
+
+    First, we must strengthen access to preventive healthcare and vaccinations. I support ensuring that families have affordable access to recommended vaccines, routine screenings, and preventive medical services. This includes strengthening partnerships with local health departments, community health centers, schools, and healthcare providers. In rural communities, where transportation and healthcare access can be significant barriers, we should expand mobile health clinics and community-based outreach programs. I believe healthcare decisions should be informed by sound medical science, with clear, transparent information available to the public.
+
+    Second, we must address environmental health threats before they become public health crises. Contaminants such as PFAS, asbestos, and other hazardous substances can pose serious long-term health risks. I would support stronger water-quality testing, environmental monitoring, enforcement of applicable safety standards, and timely public notification when contamination is discovered. We must also ensure that schools, public buildings, and aging infrastructure are properly assessed for environmental hazards and that communities have access to resources for safe remediation.
+
+    Third, we must invest in rural healthcare and disease prevention. Too many South Carolina families face challenges accessing primary care, mental health services, and specialized treatment. I would advocate for strengthening rural healthcare facilities, expanding telehealth opportunities, supporting healthcare workforce recruitment, and improving access to screenings for chronic conditions such as diabetes, hypertension, and cancer. Preventing illness and identifying health concerns early can improve outcomes and reduce long-term healthcare costs.
+
+    Fourth, we must improve emergency preparedness and disaster response. Living in the Lowcountry, we understand the threats posed by hurricanes, flooding, extreme heat, and other emergencies. Drawing upon my background in law enforcement and community leadership, I recognize the importance of coordination among emergency management agencies, healthcare providers, first responders, schools, and local governments. I would support investments in emergency communication systems, evacuation planning, backup power for critical facilities, and additional protections for seniors, individuals with disabilities, and medically vulnerable residents.
+
+    Finally, government must operate with transparency and accountability. Public health policies should be guided by credible scientific evidence, developed with community input, and evaluated for effectiveness. Residents deserve timely information about health threats, responsible use of taxpayer dollars, and confidence that public officials are acting in the public’s interest.
+
+    I also believe that protecting public health and supporting economic development are not competing priorities. Healthy communities create stronger workforces, better educational outcomes, and more sustainable economic growth.
+
+    My position is simple: Government should be proactive in preventing harm rather than waiting until families are suffering to respond.
+
+    Whether we are discussing safe drinking water, access to vaccines, environmental contamination, or emergency preparedness, my commitment is to pursue practical, science-based solutions that protect our children, support our seniors, strengthen our communities, and ensure that no part of South Carolina is left behind.
+
+    Public health is not merely a healthcare issue; it is a matter of quality of life, economic security, and our shared responsibility to one another.
 
 - candidate_first_name: Chris
   candidate_last_name: Des Marais
@@ -302,6 +396,102 @@
 
     I’ll support making scientific information more accessible and public engagement a two-way conversation. We also need accountability in the form of independent research, transparency about potential conflicts of interest, and clear explanations of how scientific evidence informs government decisions.
 
+- candidate_first_name: Marina
+  candidate_last_name: Franco
+  state: sc
+  race: State House of Representatives
+  district: 29
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    Having in consideration the information we have from places like Lake Tahoe and how the data centers is affecting the community, adding to it the fact that we do not have a lack of data centers crisis, I do believe restrictions need to be put in place.
+
+- candidate_first_name: Marina
+  candidate_last_name: Franco
+  state: sc
+  race: State House of Representatives
+  district: 29
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    I will support stronger STEM education in K–12 schools, better resources for teachers, and partnerships between community colleges and local employers. My goal is to make affordable technical training and good-paying science and technology careers accessible to all South Carolinians, regardless of their ZIP code or income.
+
+- candidate_first_name: Marina
+  candidate_last_name: Franco
+  state: sc
+  race: State House of Representatives
+  district: 29
+  party: Democratic
+  question: sc-q3
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    All of them, educate the community on the vaccine’s importance and step up for the community
+
+- candidate_first_name: Marina
+  candidate_last_name: Franco
+  state: sc
+  race: State House of Representatives
+  district: 29
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    Elected officials must promote transparency, listen to scientists, and communicate facts honestly. We must support science education, make reliable information accessible, and ensure public policy is guided by evidence, not political agendas.
+
+- candidate_first_name: Hunter
+  candidate_last_name: Hackett
+  state: sc
+  race: State House of Representatives
+  district: 96
+  party: Republican
+  question: sc-q1
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    Growth should pay for growth. Data centers can bring economic benefits, but poor planning can strain electricity and water supplies and increase costs for existing customers. Developers should cover the infrastructure costs their projects create. Economic benefits must justify public costs and incentives, and residents deserve a voice. If infrastructure, public health and environmental safeguards cannot support a project responsibly, I would support delaying or denying approval.
+
+- candidate_first_name: Hunter
+  candidate_last_name: Hackett
+  state: sc
+  race: State House of Representatives
+  district: 96
+  party: Republican
+  question: sc-q2
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    I am a strong proponent of technical education. Working in industrial maintenance myself, I see how science and math apply every day, and I believe these career opportunities are often overlooked. I support hands-on learning in K–12 schools, stronger partnerships with technical colleges and local employers, and expanded access to apprenticeships and industry-recognized credentials. Students should learn about these pathways early and have opportunities to pursue them.
+
+- candidate_first_name: Hunter
+  candidate_last_name: Hackett
+  state: sc
+  race: State House of Representatives
+  district: 96
+  party: Republican
+  question: sc-q3
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    Government should provide reliable public health information, protect clean air and water, and help the public through emergency preparedness. I believe vaccine access and preventative care should be available while also allowing individuals to make important medical decisions. We should rely on sound scientific evidence to identify environmental hazards, mitigate risk, hold responsible parties accountable and address contamination correctly. Having a working relationship with first responders, medical professionals and local communities is necessary, especially in rural areas.
+
+- candidate_first_name: Hunter
+  candidate_last_name: Hackett
+  state: sc
+  race: State House of Representatives
+  district: 96
+  party: Republican
+  question: sc-q4
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    By communicating directly with them and holding public information sessions to clear the air. Science mistrust can be a product of a few confident voices that happen to be incorrect or their information is unreliable, even if well intentioned. Officials and scientists should explain clearly what is known, acknowledge what is unknown and treat others with respect.
+
 - candidate_first_name: Jeremy
   candidate_last_name: Jones
   state: sc
@@ -325,6 +515,7 @@
   primary_candidate: false
   response: |
     We should do a top to bottom audit of the SC K-12 and community colleges funding and how we prepare our students. We need to ensure our money is going directly to the students and to benefit them through their journey in our schools. And science and biotech should be at the top of the list in what we prioritize.
+    Science should be at the forefront of every conversation in K-12 and community colleges. We need to ensure that we can relate science to the real-world application of these competencies so that our students are learning these important applications of science-based learning throughout their time in school.
 
 - candidate_first_name: Jeremy
   candidate_last_name: Jones
@@ -337,6 +528,7 @@
   primary_candidate: false
   response: |
     We need to listen to and hire scientists that have done actual research on these specific vaccines etc. and that we should give them the funding to be innovative in how they use these resources to protect human life.
+    We need to ensure that we teach public health competency early in life in K-12 and the importance of getting vaccines etc. And also, we need to have classes for parents and grandparents to ensure they are taking the precautions on vaccines etc.
 
 - candidate_first_name: Jeremy
   candidate_last_name: Jones
@@ -348,7 +540,7 @@
   date: 2026-09-21
   primary_candidate: false
   response: |
-    We need to speak truth to power that we believe in the science around anything. And make sure our scientists and politicians can speak in terms to people that they can understand about how science will change the world.
+    State unequivocally in public every chance we get that science and scientists are officials that should be listened to on everything that they have competency in. And be sure to say we listen to scientists before skeptics.
 
 - candidate_first_name: Joshua
   candidate_last_name: Kendrick
@@ -399,6 +591,67 @@
   primary_candidate: false
   response: |
     I think the Government's role in this mistrust is shameful. I watch elected officials reject well-accepted science, question basic fundamentals, and criticize actual scientists who have done the work. We need to hold elected officials accountable for spreading misinformation any way we can, starting with voting out the ones who have rejected science. We need a better educated populace and more thoughtful elected officials. The amount of damage from this strange rejection of science is significant, but we can fix it by working together to listen and learn about subjects we are not familiar with. Elected officials need to lead that charge and set an example for the people.
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher
+  state: sc
+  race: US House of Representatives
+  district: 3
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    This from my website on data centers:
+
+    Eunice recommends...
+
+    Data centers must be required to generate their own renewable energy unless a company can prove that fossil fuel models can be implemented more quickly and cheaply
+    Rate payers should not see electricity rate hikes for the grid infrastructure needed for any  new data center (i.e., data centers must pay for their own electrical grid improvements)
+    New data center builds should be required to provide some community benefit - new local electricity  infrastructure, putting power lines underground in a certain radius, generating clean energy for the neighboring community, etc.
+    The federal government could mandate a minimum distance from neighborhoods, schools, and senior centers at which data centers must be constructed to prevent noise stress to nearby residents
+    We could create a federal agency to collect data on the jobs that are most affected by AI and assess severance benefits over time by industry
+    The government could own a percentage of AI and distribute proceeds to citizens and nonprofits for the common good
+    We could enact a national AI pause to allow informed leaders time for frontier model training
+    Local governments could be encouraged to create Flock camera bans and/or limits like the new law passed in Oconee County
+    Companies building data centers could be required to give estimates to communities about how long the data center will be used (because some experts estimate new data centers would only be utilized for 5 years before becoming obsolete)
+    Federal regulations could penalize data centers that are built with water-only cooling systems so that  other cooling methods see a financial advantage (and thereby protect  local lakes and rivers)
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher
+  state: sc
+  race: US House of Representatives
+  district: 3
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    Science classes should be required in all levels of education.  In lower grades the science should be integrated into all other subjects.
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher
+  state: sc
+  race: US House of Representatives
+  district: 3
+  party: Democratic
+  question: sc-q3
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    Support free access to vaccines for everyone, polluters should pay to clean up PFAS and other chemicals, support increased federal funding for FEMA and funding for resilience (e.g. government buy outs of homes in flood prone areas).  Support disease prevention programs with federal funding.
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher
+  state: sc
+  race: US House of Representatives
+  district: 3
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    Each legislator should have advisors who are scientists.
 
 - candidate_first_name: Annie
   candidate_last_name: McDaniel
@@ -562,6 +815,100 @@
   response: |
     It boggles my mind knowing we have access to more, and better, information than ever before, and yet so many are satisfied to accept unfounded theories, stories, fabrications, etc and perpetuate them with false authority. What can an elected official do?? Let's start by demanding our elected officials tell the truth. Every time. That lies are called out. Every time. And that these people, who hold the public's trust, are held accountable for deliberately betraying that trust. I'd like to see a world where truth is respected. Until then, I don't see how to regain trust.
 
+- candidate_first_name: Robert
+  candidate_last_name: Reese
+  state: sc
+  race: State House of Representatives
+  district: 70
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    I am in staunch opposition of the mega data centers that the industry has built in other parts of the country. The draining of our natural resources, disruption or destruction of wildlife habitat, the noise and light pollution caused, and the correlation of the energy hogs with higher residential energy rates are a “few” of the reasons why a statewide moratorium is needed until we learn what better technology advances are needed to ensure that we aren’t deceived by technology titans…willing to say ANYTHING on the front end of these deals, forcing us to - South Carolinians - to foot the bill.
+
+- candidate_first_name: Robert
+  candidate_last_name: Reese
+  state: sc
+  race: State House of Representatives
+  district: 70
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    Fortunately…school systems are “supposedly” autonomous and are “independently-controlled” to facilitate decision-making that affects students in local communities.
+
+    One way that the state legislature can affect workforce preparedness is to update the funding formula for education in this great state.
+
+    The core policy choice is whether South Carolina wants local property wealth or economic deprivation to play such a large role in what districts can provide. Increasing the state’s share of education funding can reduce dependency on local property taxes to determine education quality and parity in differing communities. But, this level of commitment requires sustained recurring revenue and a formula that directs additional dollars toward districts and students with greater needs.
+
+    The legislature can Increase the state funding share for districts with less local tax capacity. We can phase in more recurring state aid for districts that cannot raise comparable revenue locally, rather than expecting every district to meet the same needs with very different tax bases.
+
+    We ca set a predictable, multiyear path to parity, by establishing annual funding targets tied to inflation, enrollment and student needs, with progress reported publicly. This helps districts plan staffing and services instead of relying on one-time budget increases.
+
+    We should protect state investment from being offset by local tax limits. Additionally, we must review how property-tax policies affect school revenue and reimbursements, and we must ensure that tax relief for citizens does NOT leave districts with unfunded gaps.
+
+    Another important component of this equation is the plethora of unfunded mandates forced upon school districts in the form of “over regulation”. We must address this problem too.
+
+    A practical way to relieve the regulation burden is to identify requirements that take time away from instruction or duplicate other reporting, then streamline those specifically.
+
+    For example:
+
+    We should audit all mandated requirements and reports. Then, poll districts and teachers asking these practitioners to identify which state reports, plans and data submissions take the most staff time. After obtaining required inputs, legislators can require combining requirements that collect the same information and eliminate reports that aren’t used to make decisions.
+
+    Lastly, we should allow local flexibility in how schools meet learning goals. Districts could test different calendars, schedules, assessment approaches and ways of organizing instruction, while still teaching state standards and reporting student progress.
+
+    These substantive changes in k-12 regulations and funding, along with timely information about workforce needs can help districts increase science workforce preparedness in community-based institutions.
+
+- candidate_first_name: Robert
+  candidate_last_name: Reese
+  state: sc
+  race: State House of Representatives
+  district: 70
+  party: Democratic
+  question: sc-q3
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    Protecting public health and community wellbeing is one of the most critical tasks for governments.
+
+    In South Carolina, the issue of public health and community wellbeing and government’s role should be easy to correlate and to quantify.
+
+    Prior to our current administration and its relaxed vaccination policy, South Carolina had one (1) measles infection. Since the CDC (under the direction of Robert Kennedy and his boss - President Trump - more than 1,000 measles cases were reported for 2025 and 2026 combined. The state’s major Upstate outbreak alone totaled 997 cases from October 2025 through March 2026.
+
+    The first step that government can take to protect public health is to disseminate TRUTHFUL information.
+
+    There is reporting that misinformation was circulating in the Spartanburg area.  KFF Health News reported that a local health-system leader connected low vaccination rates to misinformation on social media and from nonmedical community figures. In Spartanburg County, students up to date on required immunizations fell from 95.1% in 2020–21 to 90% in 2024–25; the outbreak’s initial spread was largely linked to a school where only 17% of students had documentation of required vaccinations.
+
+    Some claims that were publicly repeated and could undermine confidence include:
+
+    * The MMR vaccine causes autism.
+
+    * The vaccine can cause the same severe illnesses as measles, such as encephalitis or blindness.
+
+    * Vitamin A, cod liver oil or a healthy diet can prevent or treat measles instead of vaccination.
+
+    * Measles is usually harmless, so there is little reason to worry about it.
+
+    * Natural infection is preferable because it gives useful immunity.
+
+    The second action that must be taken is to make vaccination easier to get. We could fund free or low-cost MMR clinics, mobile vaccination teams, school-based clinics and targeted outreach in communities with low coverage. additionally, we could secure funding for staffing, translation and transportation services.
+
+- candidate_first_name: Robert
+  candidate_last_name: Reese
+  state: sc
+  race: State House of Representatives
+  district: 70
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    We need multiple and verifiable “fact-checking” sources that can become the public’s “go-to” repository for accurate data and information.
+
+    This source should be nonpartisan and void of corporate influence.
+
 - candidate_first_name: Bill
   candidate_last_name: Reeside
   state: sc
@@ -710,6 +1057,103 @@
   response: |
     Elected officials have a responsibility to the truth. The largest cause of science denial and mistrust has been those very officials spreading misinformation and lies. The best way to build public trust again is to remove the rot and replace those who have contributed to needless deaths by lying to the public about life-saving vaccines and medication. We regrettably live in a time when millions of Americans treat the words of their elected officials as gospel on subjects they have no background in. Those officials have done tremendous damage to public trust and must be replaced before the next disaster and more people die needlessly.
 
+- candidate_first_name: Michanna
+  candidate_last_name: Tate
+  state: sc
+  race: State House of Representatives
+  district: 14
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    Currently, we have no research data to review in terms of the effect of data centers on the environment, on our health, and on our economy, long term.  We need that information in order to make an informed decision.  My Master's these focused on the impact of land use on water and I have post-bacc certification in epidemiology & biostatistics (public health).  I will apply that background to navigating the issue of data centers.
+
+- candidate_first_name: Michanna
+  candidate_last_name: Tate
+  state: sc
+  race: State House of Representatives
+  district: 14
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    Science workforce is so important.  I believe that we need to make sure everyone understands how without a healthy environment, we cease to exist.  There should be increased opportunities for not only k-12 students but also college students to see that importance in real time.  That can happen through hands on experiences either brought into the classroom or that students may take a field trip to.  As a former science professor at Greenville Tech and other colleges and universities, I saw first hand what was possible when students were provided the information to understand how science affected them every day.  Although manufacturing is big here in SC, we also need to make sure students are aware of opportunities in the science world.  Apprenticeships may also help.
+
+- candidate_first_name: Michanna
+  candidate_last_name: Tate
+  state: sc
+  race: State House of Representatives
+  district: 14
+  party: Democratic
+  question: sc-q3
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    I do believe it is the government's job to protect public health and community wellbeing.  Steps should be taken to regulate things like PFAS or asbestos, as those can have such wide reaching consequences if not handled properly.  Emergency preparedness is definitely something the government should have a strong hand in.  They are in the best position to make sure citizens are safe and have what they need after an emergency.  We saw that first hand in the Upstate after Hurricane Helen.  When it comes to disease prevention and vaccine access, this should be one focus of the government.  They should do their part to make sure that all state residents have access to vaccines to protect them, their family members, and the population at large.
+
+- candidate_first_name: Michanna
+  candidate_last_name: Tate
+  state: sc
+  race: State House of Representatives
+  district: 14
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-23
+  primary_candidate: false
+  response: |
+    I think mistrust has grown due to misinformation.  We have to get back to valuing the input of people who are experts in their field. These experts should reach out to the community on a 1:1 basis and have listening sessions to bring everyone together to discuss the issues, the science that applies, and how it works in the real world and how it affects individuals.  It may be a battle to fight incorrect information, but it is a battle worth fighting.
+
+- candidate_first_name: Clemson
+  candidate_last_name: Turregano
+  state: sc
+  race: State House of Representatives
+  district: 33
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    Plan for them - don’t put them up anywhere.  Develop and enforce data center restrictions to focus construction and impact. Treat data centers like prisons.  We need them but not near residential centers or crowded arteries. We need to make sure they are contributors to the community and if on the grid, do nit contribute to higher rates.
+
+- candidate_first_name: Clemson
+  candidate_last_name: Turregano
+  state: sc
+  race: State House of Representatives
+  district: 33
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    Reinforce STEM training in schools and why it is important.  Make science cool through competitions, compelling speakers, games and innovative instruction.
+
+- candidate_first_name: Clemson
+  candidate_last_name: Turregano
+  state: sc
+  race: State House of Representatives
+  district: 33
+  party: Democratic
+  question: sc-q3
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    Show that it is the best way forward.  Engage health insurance to have rates reflect the choices people
+    Make in their lives.  If they want to practice harmful ideas (smoking, bad nutrition), their insurance rates should reflect that.
+
+- candidate_first_name: Clemson
+  candidate_last_name: Turregano
+  state: sc
+  race: State House of Representatives
+  district: 33
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-24
+  primary_candidate: false
+  response: |
+    Fight and prosecute misinformation.  Hold scientists up as heroes and stop doubting whether science is effective.  Begin with science acceptance early in eduction and demonstrate the impact of not following scientific method and findings.
+
 - candidate_first_name: Byron
   candidate_last_name: Walters
   state: sc
@@ -763,3 +1207,164 @@
   primary_candidate: false
   response: |
     Rebuilding public trust in science must begin with elected officials acting in good faith. Unfortunately, some officials have deliberately misrepresented scientific findings or exploited uncertainty to deepen public distrust for political advantage. Elected leaders should work with qualified, independent experts; communicate evidence in clear and accessible language; openly acknowledge uncertainty and changing information; and disclose potential conflicts of interest. They should also support strong public institutions and partner with trusted local voices—including educators, healthcare professionals, faith leaders, and community organizations—to make reliable information more accessible. Scientific conclusions should always remain open to legitimate scrutiny, but elected officials have a responsibility to distinguish honest debate from deliberate misinformation and to base public policy on the best available evidence rather than political convenience.
+
+- candidate_first_name: Joe
+  candidate_last_name: White
+  state: sc
+  race: State House of Representatives
+  district: 40
+  party: Republican
+  question: sc-q1
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    I support economic development, but not at the expense of South Carolina families,
+    small businesses, or our natural resources.
+    My experience has taught me that one of the biggest problems with commercial
+    development is that local governments too often fail to negotiate enforceable
+    contracts that hold developers accountable for the promises they make.
+
+    Before approving incentives or agreements for any data center, I would scrutinize
+    those contracts with a fine-tooth comb. They should include clear performance
+    requirements, enforceable clawback provisions, and financial penalties when
+    developers fail to fulfill their commitments.
+    Data centers should also bear the costs of the additional electricity, water, and
+    infrastructure they require. Those costs should not be passed along to existing
+    residential or small-business customers. Public health, environmental impacts, and
+    long-term resource availability must also be carefully evaluated.
+
+    I believe in free-market capitalism, not taxpayer-subsidized corporate
+    development. Economic growth is important, but accountability is essential.
+    Promises should be written into enforceable contracts, not simply made at
+    press conferences
+
+- candidate_first_name: Joe
+  candidate_last_name: White
+  state: sc
+  race: State House of Representatives
+  district: 40
+  party: Republican
+  question: sc-q2
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    I believe preparing our young people for the workforce begins long before they graduate from high school. South Carolina should focus on giving students the knowledge, practical skills, and opportunities they need to succeed in today's rapidly changing economy.
+    We should strengthen science, technology, engineering, and mathematics (STEM) education in our K–12 schools while expanding partnerships between high schools, technical colleges,and local employers.
+    I especially support hands-on learning, apprenticeships, dual-enrollment programs, andtechnical certifications that allow students to graduate with marketable skills and a clear
+    pathway to employment.
+    Not every student needs a four-year college degree to have a successful career. Our
+    technical colleges should work directly with employers to ensure their training programs
+    match actual workforce needs, including advanced manufacturing, healthcare, energy, and emerging technologies.
+    I also believe we should teach entrepreneurship and financial literacy so students understand not only how to get a job, but how to create one.
+    My goal is simple: Prepare South Carolina students for the opportunities of tomorrow
+    without losing sight of the practical
+
+- candidate_first_name: Joe
+  candidate_last_name: White
+  state: sc
+  race: State House of Representatives
+  district: 40
+  party: Republican
+  question: sc-q3
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    I believe government has a legitimate responsibility to protect public health and community wellbeing, but that responsibility must be balanced with individual liberty, personal responsibility, and transparency.
+    Government should ensure that citizens have access to reliable medical information,
+    preventive healthcare, and vaccines while respecting informed consent and the relationship between patients and their healthcare providers.
+    We should also take seriously environmental health threats such as PFAS contamination,
+    asbestos exposure, and unsafe drinking water. That means using credible scientific
+    evidence, identifying risks early, enforcing appropriate safety standards, and holding
+    responsible parties accountable for contamination.
+    Emergency preparedness is another essential government responsibility. State and local
+    agencies should have coordinated plans, adequate resources, and clear communication
+    systems to respond effectively to hurricanes, disease outbreaks, and other emergencies.
+    Finally, I believe government should measure public health programs by their effectiveness,
+    not simply by how much taxpayer money is spent.
+    My guiding principle is straightforward: Protect public health, respect individual
+    freedom, follow credible science, and hold government accountable.
+
+- candidate_first_name: Joe
+  candidate_last_name: White
+  state: sc
+  race: State House of Representatives
+  district: 40
+  party: Republican
+  question: sc-q4
+  date: 2026-10-26
+  primary_candidate: false
+  response: |
+    I believe public trust in science must be earned through honesty, transparency, and
+    accountability, not simply demanded because someone holds a scientific title or
+    government position.
+    Throughout the years, what has been presented to the public as settled “science” has sometimes turned out to be incomplete, misleading, or simply wrong.
+    Having worked in the pharmaceutical industry, I understand the influence that money can
+    have on scientific research. When pharmaceutical companies fund university research, there is a potential for financial interests to influence how studies are designed, interpreted, and presented to the public.
+
+    That is why I believe scientists must first and foremost be men and women of integrity,
+    committed to discovering the truth rather than producing conclusions that satisfy those
+    funding their research.
+
+    Elected officials should work with qualified scientists while insisting on transparency,
+    independent verification, disclosure of financial conflicts, and open discussion of
+    legitimate scientific disagreements.
+    We must also recognize that questioning scientific conclusions is not necessarily rejecting science. Honest questioning, testing, and correcting mistakes are essential parts of the scientific process.
+    My guiding principle is simple: Science should be driven by truth, not money or politics. Public trust will return when scientific integrity becomes more important than financial interests, political agendas, or protecting reputations
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher, LISW-CP
+  state: sc
+  race: US House of Representatives # must match one of the options!
+  district: 3 
+  party: Democratic # must match one of the options!
+  question: sc-q1
+  date: 2026-10-22 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    The cost of electricity and water are on the rise with nearby data centers straining current resources in combination with increased energy costs to consumers. How will you navigate the economic, public health, and environmental impacts when considering new data centers and data center permissions, in general?
+    I want federal laws that require data centers to generate all their own power with renewable energy and that they pay for the infrastructure needs they have related to energy.  I also would require all data centers to offer some public good to the community/county they are coming to (e.g. they generate some energy for the community, they buy all transmission lines in the county, they raise teacher salaries the public schools, put solar on the roof of all big box stores and warehouses built in the community for the next 10 years, etc.).  I would forbid the building of any data centers that did not have solar on their roof and parking lots and were not generating a certain amount of energy in the community. I would like federal mandate that data centers can only be built that use the low water option for cooling. I want data centers to have decommissioning rules before the build.  
+    See all my ideas related to data centers [here](https://www.euniceforsc.com/data-centers-and-privacy).  
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher, LISW-CP
+  state: sc
+  race: US House of Representatives # must match one of the options!
+  district: 3 
+  party: Democratic # must match one of the options!
+  question: sc-q2
+  date: 2026-10-22 # optional
+  primary_candidate: false
+  response: |
+    Science needs to be taught in all grades and integrated into all subjects, not just as a stand alone subject (although stand alone science classes are also needed)  Students must also learn how to program, how to make AI prompts, and how to use critical thinking in all areas (including how to judge if information learned through AI or online is accurate).  
+    I support increased funding to public schools for science labs, for teacher training, and for workforce prep classes in high schools.
+
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher, LISW-CP
+  state: sc
+  race: US House of Representatives # must match one of the options!
+  district: 3 
+  party: Democratic # must match one of the options!
+  question: sc-q3
+  date: 2026-10-22 # optional
+  primary_candidate: false
+  response: |
+    Governments should test for PFAS, asbestos and other chemicals in water, land, and air and the EPA standards should be restored.  
+    I support free access to all vaccines.  I support disease education in all workplaces and schools and support funding that would help large businesses and local governments to hire NPs for employee wellness.  
+    I would increase funding for FEMA and resiliency programs run by the states (e.g. state purchase of land that is flood prone so that people don't build homes and businesses in areas likely to flood).
+
+- candidate_first_name: Eunice
+  candidate_last_name: Lehmacher, LISW-CP
+  state: sc
+  race: US House of Representatives # must match one of the options!
+  district: 3 
+  party: Democratic # must match one of the options!
+  question: sc-q4
+  date: 2026-10-22 # optional
+  primary_candidate: false
+  response: |
+    I would like to have groups of experts to advise the government (and government leaders) on issues related to science including for education, energy generation, AI/Data Centers, Surveillance (e.g. Flock cameras), disease, wellness, etc.  
+    I believe a diverse group of scientists and technology experts should be funded to help create guidelines (curbs) for AI in the coming year.
+

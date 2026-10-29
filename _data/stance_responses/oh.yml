@@ -1310,3 +1310,299 @@
   did_not_respond: false
   response: |
     The attack on student visas is part of Trump’s racist war on immigrants. This is unacceptable and must be vigorously opposed. My campaign is rooted in international solidarity: an injury to one is an injury to all. International students strengthen Ohio’s universities, medical centers, and research institutions, and they are members of our communities and part of our future scientific workforce. Ohio should respond by refusing to cooperate with federal visa crackdowns, protecting the students and researchers already here, and publicly welcoming international talent. We should expand state-level support so that Ohio remains a destination for the world’s scientists: more scholarships, research funding, and legal aid. We will fight to end the attacks on immigrants and students, defend every person’s rights and dignity, and stand with all who resist and defy these racist crackdowns.
+    
+- candidate_first_name: Joel
+  candidate_last_name: Greff
+  state: oh
+  race: State House of Representatives
+  district: 1
+  party: Republican
+  question: oh-q1
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Scientific evidence will be critical. Expert input depends on the expert as I have seen first hand experts present their agenda-based positions as facts.
+
+- candidate_first_name: Joel
+  candidate_last_name: Greff
+  state: oh
+  race: State House of Representatives
+  district: 1
+  party: Republican
+  question: oh-q2
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    We need to expand and do some with environmental responsibility. We have cities like Columbus expanding housing projects while ignoring public safety and coding regulations which stress infrastructure reliability and can affect environmental sustainability.
+
+- candidate_first_name: Joel
+  candidate_last_name: Greff
+  state: oh
+  race: State House of Representatives
+  district: 1
+  party: Republican
+  question: oh-q3
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    We need bipartisan support for funding such initiatives and strict oversight of how and where that funding is used. There are plenty of examples of both good and bad investments and many are party driven.
+
+- candidate_first_name: Joel
+  candidate_last_name: Greff
+  state: oh
+  race: State House of Representatives
+  district: 1
+  party: Republican
+  question: oh-q4
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Let’s take care of Ohio’s native students first before worrying about handing out more visas. 
+
+- candidate_first_name: Nathan
+  candidate_last_name: Weise
+  state: oh
+  race: US House of Representatives
+  district: 1
+  party: Libertarian
+  question: oh-q1
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Scientific evidence and expert opinion are vital to my policymaking. I'm not a subject matter expert in most matters, and I will never pretend to be. I will put my confidence in scientific consensus; when there isn't one, I will side with the most compelling or well-supported evidence. It's also important to understand that scientific understanding is always evolving - but that is science working as intended. I will address the American people and my peers in Congress, citing scientific evidence and expert opinions regarding an issue, and give my solution to a problem with that evidence in mind. 
+
+- candidate_first_name: Nathan
+  candidate_last_name: Weise
+  state: oh
+  race: US House of Representatives
+  district: 1
+  party: Libertarian
+  question: oh-q2
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    AI is going to help us do great things, but scientific breakthroughs cannot come at the expense of the people. I support moratoriums on data centers until the long term impact of the facilities are better understood. I also support any effort for transparency; there should not be NDAs surrounding data centers. The communities these facilities are going in should be just as informed as the government, investors, developers, and other involved parties. I also support cases regarding data centers (and most other facilities, for that matter) being prima facie so the corporations behind them can't avoid valid claims by bleeding plaintiffs dry. 
+
+- candidate_first_name: Nathan
+  candidate_last_name: Weise
+  state: oh
+  race: US House of Representatives
+  district: 1
+  party: Libertarian
+  question: oh-q3
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Government should play a part, but private investment should continue to be where most funding comes from. There are some things that are particularly important, where research needs to be done without bias, and that is where government should be involved. I would prioritize investments in areas that will provide the most benefit to the people: cancer research, environmental technology, chronic illnesses, and things like that. Over 60% of the federal R&D spending goes to defense - that should be reduced, and those funds should be used to fund research that will make a more meaningful impact on Americans. 
+
+- candidate_first_name: Nathan
+  candidate_last_name: Weise
+  state: oh
+  race: US House of Representatives
+  district: 1
+  party: Libertarian
+  question: oh-q4
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Politicians in Ohio should publicly condemn the actions of this administration, and the leadership of colleges and universities should take action to bring more attention to this issue. We want the best and brightest minds here, in the United States, working on issues that will positive shape the future. 
+
+    Much of my focus is on the immigration system. Not only should we make it easier and more welcoming for students to come here to study and research, their degree should come with a Green Card attached. Students that come here to learn should be encouraged to keep that knowledge here. 
+
+- candidate_first_name: Heather
+  candidate_last_name: Sample
+  state: oh
+  race: State House of Representatives
+  district: 67
+  party: Democratic
+  question: oh-q1
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Scientific evidence and expert input should play a central role in policymaking. I will listen to qualified experts, evaluate credible research, and hear from the people affected by those decisions. Whether we’re addressing healthcare, energy, or infrastructure, our policies should be grounded in facts and focused on practical results.
+
+    When evidence is uncertain or changes, I will communicate honestly about what we know, what we don’t know, and why a decision was made. Updating a policy when better evidence becomes available is responsible leadership. The public deserves transparency, clear explanations, and a representative willing to ask questions and keep learning.
+
+- candidate_first_name: Heather
+  candidate_last_name: Sample
+  state: oh
+  race: State House of Representatives
+  district: 67
+  party: Democratic
+  question: oh-q2
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    I support a statewide moratorium on new large-scale data centers while Ohio establishes strong, enforceable regulations. We need to understand their impact on our electric grid, water supplies, utility bills, and communities before approving more projects.
+
+    Before lifting that pause, we should require independent impact studies, public disclosure of energy and water use, and meaningful local input. Developers must pay for the infrastructure their projects require, with enforceable protections to keep those costs from being shifted onto residents.
+
+    Ohio can benefit from technological innovation, but growth must be responsible. Our communities deserve safeguards before construction begins—not promises after problems arise.
+
+- candidate_first_name: Heather
+  candidate_last_name: Sample
+  state: oh
+  race: State House of Representatives
+  district: 67
+  party: Democratic
+  question: oh-q3
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    I believe government has an important responsibility to support scientific research and innovation, especially when those investments improve the lives of everyday Ohioans. Public funding should help our universities, hospitals, research institutions, and technical education programs develop solutions that strengthen our communities, create good-paying jobs, and prepare our workforce for the future.
+
+    My priorities would include advancing medical research, lowering healthcare costs, improving public education, supporting agricultural innovation, protecting our natural resources, and expanding opportunities for skilled workers in rural communities like Ashland and Medina Counties.
+
+    However, taxpayer-funded research must come with accountability and transparency. We should evaluate investments based on measurable public benefits, including job creation, affordability, environmental sustainability, improved health outcomes, and whether those advancements are accessible to working families.
+
+    I also believe innovation should never come at the expense of our communities. As emerging technologies like artificial intelligence and data centers continue to expand, we must ensure that economic development does not threaten our water supplies, energy affordability, or local infrastructure.
+
+    Scientific progress should serve the people, not just corporate profits. As a state representative, I would prioritize responsible investments that strengthen Ohio’s economy while ensuring that rural communities and working families share in the benefits of innovation.
+
+- candidate_first_name: Heather
+  candidate_last_name: Sample
+  state: oh
+  race: State House of Representatives
+  district: 67
+  party: Democratic
+  question: oh-q4
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    I believe Ohio should remain a place where talented students, researchers, and innovators have the opportunity to learn, contribute, and succeed. International STEM students play an important role in our universities, medical research institutions, and growing technology industries. Policies that create unnecessary barriers to education and research can weaken our workforce and limit economic opportunities.
+
+    While immigration and visa policies are primarily federal responsibilities, Ohio should advocate for fair, transparent, and consistent visa processes that protect national security without unnecessarily disrupting legitimate educational and research opportunities.
+
+    At the state level, I would support stronger partnerships between universities, employers, community colleges, and technical schools to address workforce shortages and expand opportunities for Ohio students. We must invest in our own workforce while recognizing the valuable contributions international students and researchers make to our communities.
+
+    I also believe we must protect academic freedom, oppose discrimination, and ensure that students already contributing to our institutions are treated fairly.
+
+    Ohio should not have to choose between developing homegrown talent and welcoming international expertise. We can and should do both. Our priority must be building a skilled, competitive workforce that strengthens our economy, supports scientific advancement, and creates opportunities for everyone.
+
+- candidate_first_name: Don
+  candidate_last_name: Kissick
+  state: oh
+  race: Governor
+  district:
+  party: Libertarian
+  question: oh-q1
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Scientific evidence and expert input should play an important role in policymaking, especially in areas such as healthcare, energy, infrastructure and emerging technology. Good decisions require good information.
+
+    However, experts should inform policy, not dictate it. As elected officials, we are responsible for weighing scientific evidence alongside economic impacts, individual rights, community concerns and the real-world consequences of government action.
+
+    I would seek input from experts with different perspectives, examine the underlying data and remain willing to change course when new evidence warrants it.
+
+    Government also needs to be honest about uncertainty. Too often, evolving evidence is presented to the public as absolute certainty, which can undermine trust when recommendations later change. I would communicate what we know, what we do not know, where experts disagree and why a decision is being made.
+
+    Good government should follow evidence while remaining transparent, accountable and humble enough to admit when the evidence changes.
+
+- candidate_first_name: Don
+  candidate_last_name: Kissick
+  state: oh
+  race: Governor
+  district:
+  party: Libertarian
+  question: oh-q2
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    AI offers tremendous opportunities, but technological growth cannot come at the expense of Ohio communities.
+
+    I support an immediate pause on new large-scale data center construction until affected communities have meaningful input and buy-in. Before projects move forward, residents should know their projected energy and water consumption, infrastructure needs, environmental impact, permanent job creation and tax incentives.
+
+    I also support externality accounting. If a data center requires new electrical generation, transmission, water infrastructure or other public resources, those costs should be borne by the project, not shifted onto homeowners, farmers and small businesses.
+
+    We should also reevaluate taxpayer subsidies for these developments and protect private property from eminent domain primarily benefiting private projects.
+
+    Ohio should embrace innovation, including AI, but communities should help decide what gets built in their backyard. Growth should be transparent, sustainable and economically beneficial to the people who actually live there.
+
+- candidate_first_name: Don
+  candidate_last_name: Kissick
+  state: oh
+  race: Governor
+  district:
+  party: Libertarian
+  question: oh-q3
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Government has an appropriate role in supporting scientific research when there is a clear public benefit, particularly in areas where basic research may not attract immediate private investment but could produce significant long-term benefits.
+
+    In Ohio, I would prioritize research that improves healthcare outcomes, strengthens advanced manufacturing, develops reliable and affordable energy, improves agriculture and water quality, and helps create technologies that can become new Ohio businesses and jobs.
+
+    However, research funding should not become another form of corporate welfare. Grants should be competitive, transparent and regularly evaluated. Taxpayers should be able to see who received funding, why they received it and what resulted from the investment.
+
+    I would evaluate success through measurable outcomes such as scientific advancement, patents and commercialization, improved health or environmental outcomes, new businesses, private investment attracted and quality jobs created in Ohio.
+
+    Government can help innovation begin, but it should not permanently subsidize it.
+
+- candidate_first_name: Don
+  candidate_last_name: Kissick
+  state: oh
+  race: Governor
+  district:
+  party: Libertarian
+  question: oh-q4
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Immigration and visa policy is primarily a federal responsibility, but Ohio should be proactive in protecting our scientific and technical workforce.
+
+    International students and researchers contribute significantly to our universities, research institutions and economy. When talented people come to Ohio, earn advanced degrees and want to contribute here, we should want them to stay, innovate and build businesses.
+
+    I would work with universities and employers to identify workforce shortages created by federal visa changes and expand pathways for Ohio students into STEM, advanced manufacturing, engineering and research careers. Ohio can also help universities navigate changing federal requirements and advocate for predictable visa policies that protect national security without unnecessarily driving talented students and researchers elsewhere.
+
+    Long term, we should reduce our vulnerability to workforce disruptions by developing more homegrown STEM talent while continuing to make Ohio a destination for talented people from around the world.
+
+- candidate_first_name: Amy
+  candidate_last_name: Wright
+  state: oh
+  race: State House of Representatives
+  district: 91
+  party: Democratic
+  question: oh-q1
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Scientific evidence and expert input should play an important role in policymaking. As a state representative, I would listen to qualified experts, review credible research, and consider the real world experiences of the people affected by decisions. Whether we are addressing healthcare, energy, infrastructure, manufacturing, or emerging technologies, policies should be guided by reliable evidence, public safety, and what is best for Ohio families and communities. I also believe it is important to be honest when science is still evolving or when there is uncertainty. The public deserves transparency about what we know, what we do not know, and what new information could mean for a policy decision. I would communicate that information in clear, understandable language, listen to community concerns, and remain open to adjusting policies as stronger evidence becomes available. Good policymaking requires more than opinions or political talking points. It requires asking questions, listening to experts, weighing the evidence, and being accountable to the people we serve. My priority would be to make informed, responsible decisions that protect Ohioans, strengthen our communities, and prepare our state for the future.
+
+- candidate_first_name: Amy
+  candidate_last_name: Wright
+  state: oh
+  race: State House of Representatives
+  district: 91
+  party: Democratic
+  question: oh-q2
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    I believe Ohio can embrace technological innovation and the economic opportunities that come with it while ensuring our communities are protected. Data centers can bring investment to our state, but that growth must be responsible and must not come at the expense of our residents, our water resources, or reliable and affordable electricity.
+    
+    I would support policies that require data center developers to pay their fair share of the energy and water infrastructure their projects require, rather than shifting those costs onto Ohio families and small businesses. I would also support greater transparency around projected electricity demand, water consumption, environmental impacts, and the public incentives offered to these companies. Local communities deserve a meaningful voice in decisions that affect their future. Residents should have access to accurate information and opportunities to ask questions before major projects move forward. I would also support strong, science-based standards for water conservation, noise, and environmental protection, along with regular monitoring to ensure companies follow through on their commitments. Economic development should mean more than attracting large companies. It should mean creating lasting opportunities, protecting our natural resources, and making sure the people who already call Ohio home benefit from that growth. My approach would be to encourage innovation while holding developers accountable, protecting consumers, and putting the long-term interests of Ohio communities first.
+
+- candidate_first_name: Amy
+  candidate_last_name: Wright
+  state: oh
+  race: State House of Representatives
+  district: 91
+  party: Democratic
+  question: oh-q3
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    I believe government has an important role in supporting scientific research and innovation, particularly when that research improves public health, strengthens our economy, protects our environment, and creates opportunities for future generations. Investments in research at universities, medical centers, and technology institutions can lead to better treatments, new industries, and good-paying jobs for Ohioans. When evaluating these investments, I would prioritize measurable public benefits, including improvements in healthcare outcomes, advancements in agricultural and manufacturing technology, energy reliability, environmental protection, and workforce development. I would also look at whether these investments create opportunities for rural communities and ensure that the benefits of innovation reach working families, not just large corporations or major research institutions. Public funding must come with transparency, accountability, and responsible oversight. Taxpayers deserve to understand how their money is being spent, what goals are being pursued, and whether those goals are being met. I would support funding decisions guided by credible scientific evidence, competitive research opportunities, and clear measures of success. Ultimately, scientific research should help solve real-world problems and improve people's lives. I want Ohio to remain competitive in innovation while ensuring that public investments deliver meaningful benefits for our communities and future generations.
+
+- candidate_first_name: Amy
+  candidate_last_name: Wright
+  state: oh
+  race: State House of Representatives
+  district: 91
+  party: Democratic
+  question: oh-q4
+  primary_candidate: false 
+  did_not_respond: false
+  response: |
+    Ohio's universities, research institutions, and businesses benefit from attracting talented people who contribute to scientific discovery, technological innovation, and economic growth. International students and researchers, particularly in STEM fields, play an important role in our state's workforce and help strengthen our ability to compete in a changing global economy. While immigration and visa policy are primarily federal responsibilities, Ohio can take steps to support its universities, research institutions, and employers as they navigate changes in federal requirements. I would support working with these institutions to identify workforce shortages, strengthen partnerships between universities and Ohio employers, and expand opportunities for Ohio students to pursue education and careers in science, technology, engineering, and mathematics. I also believe Ohio should work to retain the talent educated in our state by encouraging research partnerships, internships, and career opportunities that help graduates contribute to our communities. At the same time, we must ensure that students and researchers understand applicable legal requirements and have access to accurate information as federal policies evolve. My priority would be to protect Ohio's ability to innovate, support our universities and employers, and build a strong domestic workforce while recognizing the valuable contributions international students and researchers make. Ohio should be prepared to respond to workforce challenges with practical solutions that keep our state competitive and create opportunities for Ohioans.

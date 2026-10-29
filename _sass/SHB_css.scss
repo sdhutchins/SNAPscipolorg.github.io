@@ -194,3 +194,15 @@ blockquote {
     color: $snap-blue;
   }
 }
+
+// Home page statement box (_includes/home_statement.html). The graphics reuse
+// the Stance "Meet the Team" strip (.stance-team), resized to fit the box.
+.home-statement__graphics.stance-team {
+  margin: 16px 0 0;
+
+  .stance-team__card { height: 420px; }
+
+  @media (max-width: 600px) {
+    .stance-team__card { height: 320px; }
+  }
+}

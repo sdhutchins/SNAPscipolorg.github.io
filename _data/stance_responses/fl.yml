@@ -336,6 +336,8 @@
     Florida also needs to strengthen the resilience of its core infrastructure. Communications systems, transportation networks, and logistics must be built and maintained with an all‑hazards approach in mind. Hurricanes, flooding, extreme heat, and other climate‑related threats will continue to affect the state, and our infrastructure must be able to withstand and recover from these events quickly.
     Protecting residents and the economy requires honest risk assessment, responsible land‑use policy, and a commitment to ensuring that the financial burden of building in dangerous areas does not fall on Floridians who live elsewhere or face lower levels of risk.
     
+    Keywords: Preparedeness, mitigation
+    
 - candidate_first_name: Joseph
   candidate_last_name: Thornton 
   state: fl
@@ -351,6 +353,8 @@
     At the same time, artificial intelligence is rapidly transforming how energy systems are designed, installed, and maintained. AI will automate many technical tasks that once required specialized training, which means Florida’s workforce strategy must evolve. Workers will need skills that complement AI—hands on expertise, judgment, and the ability to manage home-based microgrids and battery systems.
     To support job creation, I would promote training programs focused on practical skills such as solar installation, battery storage, energy efficiency upgrades, and community level resilience planning. Partnerships with technical colleges, trade schools, and apprenticeship programs can help build a workforce prepared for an energy sector that increasingly integrates AI tools.
     Renewable energy—especially decentralized, home-based solar—should be a central part of Florida’s economic future. By preparing workers to operate alongside AI, we can strengthen resilience, create durable jobs, and ensure that clean energy benefits reach every community.
+  
+    Keywords: home baed solar, AI 
   
 - candidate_first_name: Joseph
   candidate_last_name: Thornton 
@@ -369,6 +373,8 @@
     Clinical science offers clues about what is happening in real time, but it is always evolving as new data emerge. Policy, by contrast, is often rigid and binary. Policymakers must weigh economic, social, and psychological factors that extend far beyond the scope of clinical evidence. For example, a decision to reopen society earlier than other states may be justified by economic or psychological considerations for the broader population. But it is wrong to reshape or reinterpret science simply to support that decision.
     Sound decision‑making requires a clear assessment of risks, benefits, and alternatives. When leaders make difficult choices, they have a responsibility to explain the factors behind those decisions truthfully—without bending scientific information to fit a predetermined outcome.
 
+    Keywords: Risk, benefits, alternatives 
+
 - candidate_first_name: Joseph
   candidate_last_name: Thornton 
   state: fl
@@ -385,6 +391,8 @@
     The landscape is shifting quickly. STEM education alone cannot prepare students for a world where AI systems outperform humans in many technical tasks. At the same time, liberal arts education cannot remain static; it must evolve to teach students how to think, interpret, and create in partnership with powerful new technologies. The challenge before us is to redesign education so that it strengthens the human capacities that remain essential—judgment, ethics, creativity, and the ability to understand context.
     Preparing for this future requires clear thinking and collective action. The question is not whether AI will reshape education, but whether we will shape that transformation responsibly and equitably.
 
+    Keywords: Artificial intelligence,  Superintelligence
+
 - candidate_first_name: Joseph
   candidate_last_name: Thornton 
   state: fl
@@ -399,6 +407,8 @@
     Cancer prevention and treatment are undergoing rapid and fundamental change. Because of this, we should pause any long‑term strategic planning that relies on outdated assumptions. We can continue our current practices in the short term, but our future planning must incorporate the capabilities of modern AI.
     AI can help us evaluate the true impact of our existing efforts, re‑examine public‑health data to understand how cancer incidence is shifting, and synthesize emerging knowledge about new treatments and their expected effects on survival. Only after taking advantage of these tools should we return to the task of designing a forward‑looking public‑health strategy.
     In other words, the landscape is changing too quickly for us to rely on traditional planning alone. To build an effective cancer‑prevention and treatment plan for the next year—and the next two years—we need to integrate AI‑driven analysis, updated evidence, and a realistic understanding of how innovation is reshaping outcomes.
+
+    Keywords: Artificial intelligence 
 
 - candidate_first_name: Joseph
   candidate_last_name: Thornton 
@@ -416,3 +426,99 @@
     To address these problems, I have proposed the Florida AI Bill, which establishes an independent oversight commission and requires structured stakeholder engagement from the local to the global level. More information about the proposed legislation is available here:   https://thorntonforhumandignity.com/legislation-proposed/the-florida-ai-bill/
     The goal is not to halt innovation. It is to ensure that Florida builds an AI future that strengthens communities rather than bypassing them. Responsible governance requires open planning, honest communication, and a commitment to distributing the benefits of AI fairly.
     
+    Keywords: Transparency, stakeholders, collaboration 
+    
+- candidate_first_name: Judy
+  candidate_last_name: Ngying
+  state: fl
+  race: State Senate
+  district: 8
+  party: Democratic
+  question: fl-q1
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    We must provide incentives and funding to help harden homes against storms. We must regulate overdevelopment to prevent flooding to people's homes. I know climate change is real, and we must teach it to our children, and address it in everything we do.
+    
+    Keywords: Funding, overdevelopment and education
+    
+
+- candidate_first_name: Judy
+  candidate_last_name: Ngying
+  state: fl
+  race: State Senate
+  district: 8
+  party: Democratic
+  question: fl-q2
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    We already have proven clean energy creates jobs and lowers energy costs. Incentives for electric and hybrid vehicles must be reinstated along with rebates for solar panels. I support job training in the clean energy field.
+    
+    Keywords: electric vehicles, solar panels, rebates
+    
+- candidate_first_name: Judy
+  candidate_last_name: Ngying
+  state: fl
+  race: State Senate
+  district: 8
+  party: Democratic
+  question: fl-q3
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I taught chemistry for 23 years and biology for the last 3 years. Before being a teacher I worked in the scientific research field. I worked on the DNA level and the organismic level. I understand how to verify science, and I also understand how scientists devote their lives to their research and when it is called "false" or "fake", that shows unspeakable ignorance. Science must guide us in our decisions that affect health, environment, climate, and water.
+    
+    Keywords: Science, veracity, experience
+
+
+- candidate_first_name: Judy
+  candidate_last_name: Ngying
+  state: fl
+  race: State Senate
+  district: 8
+  party: Democratic
+  question: fl-q4
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I have worked as a STEM teacher for going on 29 years. Chemistry, Biology, Earth Science, and Physics. The value of these courses cannot be overstated. We must do everything possible to employ high quality teachers and attract students. And we must prioritize making these schools accessible to all students regardless of their zip codes.
+
+    Keywords: Quality, attraction, accessible
+    
+
+- candidate_first_name: Judy
+  candidate_last_name: Ngying
+  state: fl
+  race: State Senate
+  district: 8
+  party: Democratic
+  question: fl-q5
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    We must get a surgeon general who is not a quack. One who will guide our citizens with real verified science. Vaccines, education, free health clinics must all be prioritized in legislation and education.
+
+    Keywords: Vaccines, health, legislation
+    
+    
+- candidate_first_name: Judy
+  candidate_last_name: Ngying
+  state: fl
+  race: State Senate
+  district: 8
+  party: Democratic
+  question: fl-q6
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I do not believe the current legislation will  protect the citizens of Florida from bearing the brunt of the financial burden. The decision to build a data center must be left to the cities and the counties. In other words, the people should decide. Tallahassee has not been listening to the people for almost 30 years. Return local control, and let the people decide. With that said, I do not believe we should chance higher costs, unacceptable noise, or excess water use just because big tech says so.
+
+    Keywords: local control, higher costs, big tech
+

@@ -1,31 +1,41 @@
 ---
 title: "Home"
-layout: homelay
+layout: default
 sitemap: false
 permalink: /
 ---
 
-<!-- Info Banner -->
-<div class="alert alert-danger">
-  <a href="{{ '/initiatives/scipol-courses' | relative_url }}"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> Explore our newly launched <strong>SciPol 101 Course!</strong></a>
+<div class="col-12">
+  <!-- Info Banner -->
+  <div class="alert home-announcement">
+    <a href="{{ site.url }}{{ site.baseurl }}/initiatives/stance-on-science"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i><strong>Check out Stance on Science</strong>: What candidates think about data centers, vaccine policies, and more! Now in all 50 states and DC.</a>
+  </div>
+
+  <div class="alert alert-danger">
+    <a href="{{ site.url }}{{ site.baseurl }}/initiatives/scipol-courses"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> Explore our newly launched <strong>SciPol 101 Course!</strong></a>
+  </div>
+
+  {% include home_statement.html date="2026-10-27" %}
 </div>
 
-<div class="alert home-announcement">
-  <a href="{{ '/initiatives/stance-on-science' | relative_url }}"><i class="fa-solid fa-bullhorn" aria-hidden="true"></i> Get to know candidates’ science priorities with <strong>Stance on Science!</strong></a>
+<div id="homeid" class="col-sm-7 col-xs-12">
+  <h2>Welcome!</h2>
+
+  <p>The Scientist Network for Advancing Policy (SNAP) is a coalition of early-career scientists dedicated to mobilizing for large-scale initiatives and bridging gaps between scientists, their communities, and the general public. We uphold science as a unifying force—non-partisan and committed to advancing the good of humanity. Our mission is to inspire and engage fellow scientists by establishing a peer network, developing and sharing resources, and instigating meaningful change.</p>
+
+  <div class="container">
+  <div class="row" align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" width="100%">
+  </div>
+  </div>
+
+  {% include map.html %}
+
+  <br>
+  <h4>Visit <a href="{{ site.url }}{{ site.baseurl }}/about/">our About page</a> to learn more about SNAP and our member organizations.</h4>
+  <h4>Browse science policy resources, training programs, career tools, and more on <a href="{{ site.url }}{{ site.baseurl }}/resources/">our Resources page</a>.</h4>
 </div>
 
-<h2>Welcome!</h2>
-
-<p>The Scientist Network for Advancing Policy (SNAP) is a coalition of early-career scientists dedicated to mobilizing for large-scale initiatives and bridging gaps between scientists, their communities, and the general public. We uphold science as a unifying force—non-partisan and committed to advancing the good of humanity. Our mission is to inspire and engage fellow scientists by establishing a peer network, developing and sharing resources, and instigating meaningful change.</p>
-
-<div class="container">
-<div class="row" align="center">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logo.png" width="100%">
+<div id="sidebarid" class="col-sm-5 col-xs-12">
+  {% include sidebar.html %}
 </div>
-</div>
-
-{% include map.html %}
-
-<br>
-<h4>Visit <a href="{{ site.url }}{{ site.baseurl }}/about/">our About page</a> to learn more about SNAP and our member organizations.</h4>
-<h4>Browse science policy resources, training programs, career tools, and more on <a href="{{ site.url }}{{ site.baseurl }}/resources/">our Resources page</a>.</h4>

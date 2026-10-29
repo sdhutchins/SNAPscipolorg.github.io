@@ -3474,4 +3474,121 @@
   response: |
     This is a federal issue and is best addressed to those running for federal office. At the state level, we may need to increase budgets so we can fill any gaps in funding that could affect our research and development industries.  
     
- 
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q1
+  date: 2026-10-23
+  response: |
+    NY cannot be left behind. AI is an inevitability that will impact many aspects of work and life in NY. NY needs to be competitive and bank a share of commerce, jobs and tax revenue created by these centers. NY's moratorium is a joke. Where has Albany been for the last 5 years while this topic has been maturing. 
+
+    The single sensitivity I have is, where will they source their electricity from? NY's CLCPA has thrown our electric generation infrastructure into atrophy reducing supply and increasing costs. CLCPA and aggressive green bureaucracy effectively blocks data centers. Developers are willing to provide zero impact solutions. That is, co-locate electric power production to cover 125% or more of the centers peak use requirements. They will sell excess capacity back to the community at a discount to prevailing rates. 
+
+    Albany's moratorium is necessary to defend their green policies that block all new natural gas supply and electric plants. Both of these are required for data center developer to provide a zero community impact solution. (and we should pursue SMR nuclear as described below)
+
+    Local municipalities should have the authority to pursue zero impact solutions that benefit their communities.
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q2
+  date: 2026-10-23
+  response: |
+    Prioritize all, but for certain, stop blocking natural gas plants. New gas electric plants are far more efficient and cleaner. Gas plants provide reliable stable electricity to the grid that is essential to grid stability particularly during peak use times. This is the single quickest to market, safest, reliable solution available to us. We should also act quickly to begin development of 2 or 3 nuclear plants. Given long lead times on nuclear, slow development solar and wind, gas is the near term solution. 
+
+    NY ISO reports tell us that NY generation capacity is shrinking, solar and wind cannot be built fast enough, solar and wind do not provide stable electric generation capacity and cannot replace nuclear or natural gas. The reports also tell us NY is on a dangerous path as black-out risk is increasing and destined to get worse. As we slowly and effectively build out solar and wind, we need to develop more gas. fired generation plants as well as add a few nuclear plants. As nuclear plants are opened, older less efficient natural gas plants can be retired. The urgency is mounting and that is probably why Hochul finally decided to delay the CLCPA green implementation timeline. I fear this is not enough as electric generation capacity will continue to decline without new natural gas capacity coming on-line.
+
+    Many states are well on their way to deploying nuclear power via small modular reactor (SMR) technology. NY needs to get on board with this proven nuclear tech as it is the cleanest solution available, portable, scalable, and safer and quicker to market (compared to traditional nuclear).
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q3
+  date: 2026-10-23
+  response: |
+    Standards for truth in advertising need to be applied to SM particularly when it puts children, and adults, at risk. I support legislation that would hold authors and distributors accountable for civil damages caused by misinformation as well as applying criminal penalties. I am not in favor of any legislation that impairs free speech or freedom of the press. 
+
+    As the world around us changes so should our teaching techniques and curriculum. Schools should have a course covering a broad swath of social media ethics, fair practice, skepticism and awareness as it relates to posting, consumption and how to protect yourself. As they should for saving, investing, career and other impactful life disciplines and decisions.
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q4
+  date: 2026-10-23
+  response: |
+    Follow the science, if it is bad for people, animals, the environment, appropriately restrict use. 
+
+    We also need to examine the chemical additives we put in our foods. The rise of gastro-intestinal sensitivities and disorders is alarming.
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q5
+  date: 2026-10-23
+  response: |
+    Massive amounts of state and federal funding are poured into state, local and private schools. As such, I believe tax paying residents and their children should be our priority. Too many qualified resident STEM candidates are crowded out by international students. Higher education institutions favor international students as they pay full fare and often do not require any financial assistance. There is a balance to this formula of resident vs non-resident student population. Balancing a supply of student visa's to the institution's capacity and resident student supply is the correct approach. I think NY being 2nd highest state and concentrated in STEM is a problem that needs to be fixed. We are failing our children.
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q6
+  date: 2026-10-23
+  response: |
+    Everything they ask for within reason. I would balance assistance against the need to retain agricultural capacity, create jobs, and promote healthy food sources for our communities. 
+
+    The other question we need to ask ourselves is how many farm fields will we cover over with solar farms before we begin to examine that cost benefit metric.
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q7
+  date: 2026-10-23
+  response: |
+    Ensuring the privacy of personal data is of utmost importance, indisputable. Blocking the unauthorized monetizing of private data is also important. Public safety and the policing of communities needs to balance electronic collection of data against the first two pillars. Blocking ALPR's is the wrong solution to the problem. If you have data use issues, solve those. Don't take away an effective law enforcement tool that can materially benefit public safety. 
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q8
+  date: 2026-10-23
+  response: |
+    Communities already have solutions for extreme weather events such as warming and cooling centers. These could be modified to provide clean air. 
+
+- candidate_first_name: Bob
+  candidate_last_name: Welch
+  state: ny
+  race: State Assembly
+  district: 92
+  party: Republican
+  question: ny-q9
+  date: 2026-10-23
+  response: |
+    I cant count the number of NIH grants my wife applied for. Federal funding should have a role in supporting independent research. 
+
+    I am running for State Assembly so my opinion or view toward a NIH funding solution is not as meaningful here. However, here is my perspective. NYS supports the State, City and Community College systems. I would not support taxpayer funds being directed to private institutions. As each state/city/community governance board allocates state funds into their budgets, they should apply an appropriate allocation to research. The reality is, in NY, the vast majority of NIH funding goes to private institutions, where is the equity in that. If we want to promote access, we need to direct some NIH funding to faculty and students of our public higher education system. The reality is if you want to get an advanced degree in any science, you are forced into institutions that have research funding. That is the grinder of the private school system (which appear to prioritize international students). 
+
+    An even better question is; Why do scientists at these well healed institutions barely get paid? Why do medical resident students work 100 hour weeks across 50 weeks and get paid less then the janitor? Who would you trust to take care of you in the 23rd hour of a 24 hour shift?

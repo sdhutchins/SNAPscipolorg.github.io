@@ -1,0 +1,7 @@
+---
+layout: default
+---
+{%- assign stmt_date = page.name | remove: ".md" -%}
+<div class="col-12">
+  {% include home_statement.html date=stmt_date %}
+</div>

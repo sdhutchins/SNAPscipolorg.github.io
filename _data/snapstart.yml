@@ -1,0 +1,126 @@
+# SNAPStart awardees across all rounds, rendered by `_includes/snapstart_awardees.html`.
+#
+# Each entry may set:
+#   round        (required) funding round number, e.g. 1 for Fall 2026
+#   id           (required) slug that names the logo file. To add a logo, drop
+#                `<id>.png` (or .svg/.jpg/.webp) into
+#                `images/snapstart/round_<round>_logos/` - no edit here is needed.
+#   name         (required) full organization name
+#   short        (optional) abbreviation shown in the placeholder tile until a
+#                logo is added; defaults to the first letters of `name`
+#   institution  (optional) university or location, shown under the name
+#   website      (optional) makes the name a link
+#   description  (optional) Markdown blurb shown on the card
+
+- round: 1
+  id: coas
+  name: Coalition of Athens Scientists (COAS)
+  short: COAS
+  description: >-
+    We are a group of students, scientists, and science supporters. Our goal is
+    to foster a culture of civic engagement in the sciences by (1) supporting
+    scientists' involvement in local, state, & federal policy and (2)
+    establishing productive relationships with legislators to promote
+    science-informed policy making. With the SNAP Minigrant funds, our goal is
+    to increase public engagement in science related policy, with a specific
+    focus on local-level environment and energy science related legislation.
+
+- round: 1
+  id: gfsa
+  name: Graduate Food Science Association
+  short: GFSA
+  description: >-
+    The Graduate Food Science Association (GFSA) is a university-based student
+    organization dedicated to exploring the intersection of food research,
+    safety regulations, and public policy. We plan to utilize the SNAPStart
+    mini-grant to fund experiential learning initiatives for our 15–20 members,
+    directly covering the costs of interactive protein tasting mixers, a
+    labeling law trivia night, and a mock FDA regulatory hearing. Additionally,
+    these funds will support marketing materials to expand our campus footprint
+    and provide transportation for a field trip to a local food production
+    facility to see safety compliance in action.
+
+- round: 1
+  id: houston-spag
+  name: Houston Science Policy and Advocacy Group
+  short: HSPAG
+  description: >-
+    The Houston Science Policy and Advocacy Group is a group of early-career
+    scientists dedicated to sharing conversation, opportunities, and resources
+    related to science policy. Our membership spans across the Texas Medical
+    Center, with key partnerships at Baylor College of Medicine, MD Anderson,
+    UT Houston, and Rice University.
+
+- round: 1
+  id: m-span
+  name: Mizzou Science Policy Advocacy Network (M-SPAN)
+  short: M-SPAN
+  description: >-
+    The Mizzou Science Policy Advocacy Network (M-SPAN) aims to catalyze the
+    engagement of students and early career scientists at the University of
+    Missouri in science policy and decision-making. We hope to establish a
+    coalition of diverse leaders by forging connections with community
+    stakeholders and policymakers and by providing resources to train and
+    empower advocates for the role of science in society. With these funds, we
+    will fund our flagship "Policy on Tap" panel event in the Spring semester,
+    along with other programming events throughout the academic year.
+
+- round: 1
+  id: nu-soap
+  name: Northeastern University Science Outreach and Policy (NU-SOAP)
+  short: NU-SOAP
+  description: >-
+    Northeastern University Science Outreach, Advocacy, and Policy Group
+    (NU-SOAP) is a new university-wide science policy group committed to
+    supporting NU graduate students engaging in science communication and
+    public policy with diverse audiences. To support this mission, we plan to
+    organize events based on the current interests of our graduate student
+    body, including writing workshops, talks from science communication and
+    policy experts across fields, and collaboration with similar organizations
+    internal to and beyond our institution.
+
+- round: 1
+  id: rice-spcc
+  name: Rice Science Policy & Communication Club
+  short: Rice
+  description: >-
+    The Rice Science Policy and Communication Club (RSPCC) is a student-led
+    organization at Rice University dedicated to bridging the gap between
+    scientific research, public policy, and community engagement. Through
+    partnerships with science policy organizations, educational workshops, and
+    public engagement initiatives, RSPCC seeks to empower students to become
+    effective advocates. With support from the SNAPStart Grant, RSPCC plans to
+    host science communication workshops and civic engagement events that equip
+    students with the skills to communicate scientific findings to policymakers
+    and the broader public, with a particular emphasis on environmental health
+    issues affecting Greater Houston.
+
+- round: 1
+  id: uab-span
+  name: Science Policy Advocacy Network (SPAN) at UAB
+  short: SPAN
+  description: >-
+    SPAN@UAB brings together students, trainees, and researchers interested in
+    learning about and participating in science policy. We plan to use our
+    SNAPStart funds to host accessible science policy events, support outreach
+    and recruitment, and strengthen a welcoming community for members across
+    disciplines and career stages.
+
+- round: 1
+  id: spark
+  name: SPARK (Science Policy, Advocacy, Research, and Knowledge)
+  short: SPARK
+  description: |
+    SPARK's vision is a perpetual exchange of knowledge, trust, and genuine
+    consideration between researchers, scientists, healthcare professionals,
+    government officials, and the general public. Our mission is to provide
+    opportunities that foster bidirectional engagement between researchers at
+    Penn State College of Medicine, government workers, and the general public
+    in the surrounding communities and develop a foundation to combat
+    educational inequalities and improve access to STEM education for
+    underserved populations.
+
+    This year, SNAPStart funds will help us increase membership recruitment and
+    retention, as well as build community relationships, by hosting various
+    introductory workshops, participating in the PA Science Policy Symposium and
+    Hill Day, and hopefully starting a Science Café series in Harrisburg!

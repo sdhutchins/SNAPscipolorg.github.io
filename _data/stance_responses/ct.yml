@@ -348,3 +348,91 @@
     As AI changes the workforce, we should expand apprenticeships, technical education, and job training so Connecticut workers have the skills to succeed in high-demand industries. I also support using AI to improve government efficiency, reduce waste, and deliver better services to taxpayers while ensuring appropriate human oversight for decisions that affect people’s rights and livelihoods.
     
     America should lead the future of AI by promoting innovation, protecting constitutional freedoms, strengthening our economy, and ensuring this technology benefits American workers, businesses, and families.
+
+- candidate_first_name: Amy
+  candidate_last_name: Chai
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 1
+  party: Republican # must match one of the options!
+  question: ct-q1
+  date: 2026-10-18
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    As a physician and an epidemiologist with multiple fellowships, I am not worried about Hantavirus and Ebola outbreaks. I am worried about the weaponization of these viruses and others. I did pandemic gaming and also bioterror training. I have been dismayed by the politicization of public health that has been going on and I am a voice of reason and common sense.
+    I am very happy with the new emphasis on chronic disease and nutrition. I am disappointed that not as much has happened on these issues in the first year and a half of the administration. I am extremely focused on prevention, and my second fellowship is boarded with the American Board of Preventive Medicine. I am extremely concerned about the cognitive science being used without knowledge or consent to make food products and electronic products physically addictive. This literally changes neurobiology and I am not down with that. I am also virulently opposed to agrichem lobby interests and will consistently seek policies that use the European proof of safety standard. 
+    I personally have a raft of public health policies partially based on my new book (Addiction Proof Your Kids) which is using evidence and neuroscience to prevent excess mental illness and addiction. Trump has not done enough with this new policy.
+    The WHO has its problems. So does the CDC. I am not in favor of completely disengaging from the WHO, despite their kowtow to the PRC. Cutting CDC administrative bloat is fine. 
+    I am pro vaccine, but I also am in favor of informed consent. I am trying hard to regain the trust that was lost when people failed to notify us about the change in manufacture process of the covid vaccine. That was not okay. I am also not okay with demeaning or insulting patients as many of my colleagues have done. Highly inappropriate. Trust is information and honesty. I am not in favor of using infant bodies for public health initiatives when that infant is not at risk for the disease in question. (See hep B day zero)
+    I believe mental health is the most important preventive frontier and we know that the two hit hypothesis creates space for intervention. Pro health behaviors cannot occur without mental health. The same can be said for pro-social behaviors. I want to fully develop a program for the prevention of mental illness, or else the tsunami of mood disorders are going to come and overwhelm our healthcare system, mark my words.
+
+- candidate_first_name: Amy
+  candidate_last_name: Chai
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 1
+  party: Republican # must match one of the options!
+  question: ct-q2
+  date: 2026-10-18
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    I totally support capping the institutional portion of federal grants. Too many institutions rip us off when they are already tax exempt and already own the buildings. We all know this.
+    I want to increase the proportion of K Series grants. And I want the K Series spread geographically because there are unfair institutional clusters. 
+    I support a COOL IDEA that is part of my GREEN FUTURE INITIATIVE where we have crowdsourced input on grants with people who are vetted and credentialled as moderators. I would like this crowdsourced brain to bring vitality and local interests to the grantmaking process, and I want people to be able to literally invest directly in some of the research with opportunity to have small investments if research ends up being monetized. It is not fair that taxpayers pay for the research, but yet the top-down and ossified structural process creates the paradigm for the "sexy" research and the taxpayers have no say on what is important to them. This would not be a "wild west" but would be a geek friendly discussion portal with investment opportunities. I would like tax dollars to be able to be directed towards a particular project from "my" taxes. I pay for it, yet I cannot read it without buying the journal access, and I can't profit from the eventual monetization. That can change. 
+    When people have access to the information, when people can access grants, and learn more about research, we have a massive public pressure for research that matters. 
+
+- candidate_first_name: Amy
+  candidate_last_name: Chai
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 1
+  party: Republican # must match one of the options!
+  question: ct-q3
+  date: 2026-10-18
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Okay, everyone can hate me now, but I really want to stack small modular reactors and put them where the load is highest. We need research to make this much more affordable than it is now and I believe that this is possible. 
+    For solar, I am baffled by the push to add them to farm land. We must add them to car parks, to buildings, and to roadside berms, instead of using forested or farmed land. 
+    I am concerned about the complete impact on the environment of wind farms, and I support the development of small vertical axis wind turbines. I feel that these need to be developed.
+    I think new homes should have geothermal whenever possible.
+    In Connecticut in particular, we are affected by the loss of refineries and the high cost and political hassle with rebuilding them, and hence our heating oil crisis this year. We need to cut the energy taxes, but my office is federal not state. Plus, for CT the ridiculousness of overhead wires never getting buried, and the deregulation has been a very bad idea.
+
+- candidate_first_name: Amy
+  candidate_last_name: Chai
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 1
+  party: Republican # must match one of the options!
+  question: ct-q4
+  date: 2026-10-18
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    I have environmental credentials. In elementary school, I started the "Pollution Patrol." I was only 12 when I built my first passive solar window heater that worked very well, by the way.
+    Every region has unique and local environmental issues. That is why I am proposing the GFI, or Green future Initiative.
+    Everyone can see that the GND is the great green grift. It has been an excuse for cronies to get billions of dollars with absolutely zero plan of action and absolutely zero outcomes analysis. Suddenly the senator's brother in law has a new green business. Suddenly Stacy Abrams gets 2 billion for a new initiative that doesn't even have a business plan. Disgusting,
+    The GFI is crowdsourced, as I mentioned above. I intend to create "Sustainability Zones" that can produce local needs for water, energy, and food in their unique ecosystem. This can become a closed loop for national security in the event of supply chain disruption, and can also bring farm to table food sustainability, linking to my plans for both mental health and the promotion of nutrition without agrichemicals and without trucking and flying food from all over the place. Local, local, local. This will promote local business, local farms, and local involvement instead of a big money dump on a politically connected "green business."
+    How do I accomplish this? This is a secure server, regionally developed and linked to local universities and experts. It will be local people, voluntarily working together with passion and oversight, to request local grants and to create what they want to see. I have spoken with a number of persons who are deeply passionate about naturalizing, about heirloom seed preservation, about urban gardening, about food sovereignty, and the like. 
+    Best of all, there is OUTCOME ANALYSIS. I am done with policies that do not produce evidence or proof of concept after billions get poured in. That is a massive waste. Outcomes must be built in. 
+    Another point that brings mental health with the GFI is the opportunity for community engagement and volunteering.
+    I think that creating a better environment should be fun and voluntary, and it should not hurt the most vulnerable among us. 
+    A healthy world is a world where we are not forced, divided, controlled, robbed, blamed, or disempowered. 
+
+- candidate_first_name: Amy
+  candidate_last_name: Chai
+  state: ct
+  race: US House of Representatives # must match one of the options!
+  district: 1
+  party: Republican # must match one of the options!
+  question: ct-q5
+  date: 2026-10-18
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    I think we all know that AI is the new national security. After "Operation spider-web" disabled a significant part of Russia's nuclear capacity, pretty sure that we understood that autonomous weaponized drones acting in real time are here. If we do not crush it with AI, we are dead. Iran has already gave their military drones to Venezuela, and they are aimed at our back yard. The drones are very cheap compared to America's big hardware. We are already behind in this particular area, or at least we are as far as I am aware, not being privy to top secret military things. Cheap drones are the great equalizer that puts the little guy onto the playing field with the big players. 
+    I am under exactly zero illusions about what will be done.
+    That being said, what can we as people do to protect ourselves, our jobs, our data, and our safety in the world of AI? 
+    1-America must be the best.
+    2-NO biometric data. NO surveillance. NO kids being tracked. That is a hard no.
+    3-NO CBDC
+    4-We must bring a significant number of people back to actually preserving the natural environment, and I think this interaction of humans with the Earth will actually preserve jobs and create the next opportunities for small businesses. We need to push trades and other skills like soil chemistry and organic farming in high schools. We will have a scary moment where people are displaced and we must prepare for this.
+    5-We must be allowed to shoot down drones over our own property. 
+    My entire staff for my campaign is AI, because I don't have cash to hire people. They have been excellent workers and I am very happy. It was a learning curve for me, but I find it has really boosted my productivity. 

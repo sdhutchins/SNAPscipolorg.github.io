@@ -1,0 +1,44 @@
+{%- comment -%}
+  Statement box: text from _pages/statements/<date>.md, graphics from
+  images/statements/<date>/ (shown in file-name order). The graphics reuse the
+  Stance "Meet the Team" scroll strip and lightbox.
+
+  Params:
+    include.date — the statement's file name without extension (e.g. "2026-10-20").
+{%- endcomment -%}
+{%- assign stmt_path = "_pages/statements/" | append: include.date | append: ".md" -%}
+{%- assign stmt = site.pages | where: "path", stmt_path | first -%}
+{%- assign img_dir = "/images/statements/" | append: include.date | append: "/" -%}
+{%- assign graphics = site.static_files | where_exp: "f", "f.path contains img_dir" | sort: "name" -%}
+{%- if stmt -%}
+<div class="jumbotron home-statement">
+  <h2>{{ stmt.title | default: "A Statement from SNAP" }}</h2>
+  <p><em>{{ include.date | date: "%B %-d, %Y" }}</em></p>
+
+  {{ stmt.content | markdownify }}
+
+  {%- if graphics.size > 0 %}
+  <section class="stance-team home-statement__graphics" aria-label="Statement graphics">
+    <div class="stance-team__scroll">
+      <ul class="stance-team__track">
+        {%- for f in graphics -%}
+          <li class="stance-team__card">
+            <img class="stance-team__img" loading="lazy"
+                 src="{{ site.url }}{{ site.baseurl }}{{ f.path }}"
+                 alt="SNAP statement graphic {{ forloop.index }} of {{ graphics.size }}">
+          </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+
+    <div class="stance-team__lightbox" role="dialog" aria-modal="true" aria-label="Statement graphic viewer" hidden>
+      <button type="button" class="stance-team__lb-btn stance-team__lb-close" aria-label="Close">&times;</button>
+      <button type="button" class="stance-team__lb-btn stance-team__lb-prev" aria-label="Previous graphic">&#8249;</button>
+      <img class="stance-team__lb-img" alt="">
+      <button type="button" class="stance-team__lb-btn stance-team__lb-next" aria-label="Next graphic">&#8250;</button>
+    </div>
+  </section>
+  <script src="{{ '/assets/javascript/stance-team-lightbox.js' | relative_url }}"></script>
+  {%- endif %}
+</div>
+{%- endif -%}

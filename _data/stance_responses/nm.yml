@@ -872,3 +872,221 @@
       There is one common thread throughout these questions – I’m not the expert! I expect to rely on the considered input of those who are experts as well as those who are most impacted by a particular project or action. The bottom line in decision making is what’s right for New Mexicans, the state, and the country.
 
 
+- candidate_first_name: Victoria # this is Bryce's cat. titles and middle names go here
+  candidate_last_name: Garcia # used for alphabetical sorting
+  state: nm
+  race: State House of Representatives # must match one of the options!
+  district: 48 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: nm-q1
+  date: 2026-10-22 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+      New Mexico's oil and gas industry plays an important role in our economy, but protecting our water resources and public health must remain a priority.
+
+      I would support responsible produced-water management based on independent scientific testing, transparent reporting, and enforceable environmental standards.
+
+      Before produced water is approved for reuse outside oil and gas operations, research must demonstrate that treatment methods adequately address harmful chemicals, radioactive materials, and other contaminants. I would also support groundwater monitoring, evaluation of earthquake risks associated with underground injection, and accountability when contamination occurs.
+
+      Innovation should be encouraged, but public health and environmental safety should never depend on unverified promises.
+
+      I believe sound policy can support responsible energy development while protecting New Mexico's families, agricultural communities, and natural resources for future generations.
+
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q2
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      Water security is one of the most important long-term challenges facing New Mexico. Our families, farmers, ranchers, and businesses depend on reliable access to clean water.
+
+      I would prioritize repairing aging water infrastructure, reducing leaks, improving water storage, strengthening groundwater monitoring, and supporting practical conservation technologies.
+
+      Rural communities deserve particular attention because many lack the financial resources necessary to maintain or replace outdated systems.
+
+      I would support partnerships with universities, water districts, agricultural communities, and local governments to develop solutions appropriate for each region.
+
+      Success should be measured through documented reductions in water loss, improved groundwater data, increased system reliability, water-quality testing, and the number of households gaining dependable access to safe drinking water.
+
+      Taxpayer investments should produce measurable improvements rather than additional administrative spending.
+
+      Protecting New Mexico's water means protecting our future generations.
+
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q3
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      New Mexico must acknowledge the environmental and public-health consequences of historical uranium mining, particularly in communities that continue to experience contamination concerns.
+
+      I support identifying and prioritizing abandoned mine sites, strengthening environmental monitoring, and pursuing cleanup funding from legally responsible companies and federal programs rather than automatically shifting those costs to taxpayers.
+
+      Any proposal for new uranium mining should undergo rigorous scientific review of groundwater protection, radiation exposure, waste management, and long-term environmental impacts.
+
+      Affected Tribal governments must have meaningful participation in decisions involving their lands, resources, and communities. Their sovereignty and applicable legal authority must be respected.
+
+      I believe economic development and responsible resource management require transparency, enforceable safeguards, and accountability.
+
+      Decisions should rely on credible environmental studies, independent monitoring, and documented public-health risks.
+
+      Our responsibility is to protect families today while ensuring future generations do not inherit preventable environmental damage.
+      
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q4
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      New Mexico has opportunities to participate in aerospace research, innovation, and advanced manufacturing. However, economic development must be balanced with fiscal responsibility and public safety.
+
+      Before approving additional state investments in projects such as Spaceport America, I would require transparent financial reporting, measurable economic benefits, and clear accountability for public expenditures.
+
+      Private companies should bear an appropriate share of operating, infrastructure, and environmental costs associated with their commercial activities.
+
+      Independent assessments should evaluate wildfire risks, debris management, emergency response capabilities, environmental impacts, and the effects on surrounding communities.
+
+      I would also support evaluating actual job creation, local business participation, tax revenue, and long-term operating expenses against initial projections.
+
+      New Mexico should welcome responsible innovation without giving private enterprises unlimited access to taxpayer resources.
+
+      Public investments must demonstrate real benefits for New Mexico residents.
+
+      That requires a much more holistic approach. We need a tax structure that makes us competitive with our neighbor states. We need an education system that isn’t the last in the nation. We need to take our crime problem seriously to create a safe place where people want to live. 
+
+      Using your example of the Spaceport. Although it hasn’t been a total loss, it certainly hasn’t lived up to expectations and I don’t know what the environmental impact has been. But had the state not subsidized the project it probably would not have happened. 
+
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q5
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      Protecting New Mexico residents, workers, and the environment must remain central to decisions involving the Waste Isolation Pilot Plant (WIPP).
+
+      I support maintaining strict oversight of WIPP's existing mission and requiring comprehensive scientific, environmental, and safety reviews before considering any expansion or change in the types or quantities of waste accepted.
+
+      Any proposed changes must comply with federal and state laws, involve meaningful public participation, and demonstrate that worker safety, transportation safety, and groundwater protection will not be compromised.
+
+      I would support independent radiation monitoring, emergency preparedness training, transparent incident reporting, and continued coordination among federal, state, local, and Tribal authorities.
+
+      Effectiveness should be evaluated through inspection results, radiation measurements, worker exposure records, transportation incidents, and compliance with environmental permits.
+
+      New Mexico should not assume additional risks without credible scientific evidence, enforceable protections, and clear accountability.
+
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q6
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      New Mexico should welcome responsible technological development while ensuring that large corporations do not place unreasonable financial or environmental burdens on our communities.
+
+      For major data-center proposals, including Project Jupiter, I would support independent assessments of water consumption, electricity demand, air quality, noise, infrastructure needs, and long-term environmental impacts.
+
+      Developers should provide transparent information about projected employment, permanent jobs, tax revenue, and public incentives. These projections should be independently evaluated and compared with actual results.
+
+      Residents deserve meaningful opportunities to participate before major approvals are granted.
+
+      Companies should be responsible for infrastructure expenses directly attributable to their operations, rather than shifting unreasonable costs to residential utility customers or taxpayers.
+
+      I would support publicly accessible monitoring and reporting to verify environmental compliance and promised economic benefits.
+
+      Innovation should strengthen New Mexico's economy without compromising water security, affordable utilities, or the well-being of surrounding communities.
+
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q7
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      As a healthcare professional and Certified Dementia Practitioner, I have witnessed firsthand the challenges families face when trying to access quality healthcare, particularly in rural New Mexico.
+
+      I would prioritize strengthening rural hospitals and clinics, improving access to primary care and behavioral health services, expanding telehealth where appropriate, and supporting recruitment and retention of qualified healthcare professionals.
+
+      I also believe we must improve access to senior care, dementia services, home-based care, and reliable medical transportation.
+
+      Healthcare should not become inaccessible simply because someone lives outside a major city.
+
+      I would work directly with Tribal governments to understand their healthcare priorities, respect Tribal sovereignty, and support solutions developed in partnership with their communities.
+
+      Progress should be measured through appointment availability, travel distances, provider shortages, preventable hospitalizations, patient outcomes, and access to essential services.
+
+      My goal is a healthcare system that serves New Mexico families with dignity, accountability, and compassion.
+
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q8
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      Every child in New Mexico deserves access to a quality education, regardless of their ZIP code or family income.
+
+      I support strengthening science education through qualified teachers, hands-on laboratory experiences, reliable technology, and greater access to advanced coursework.
+
+      Rural and Tribal schools should have equitable opportunities to participate in science, technology, engineering, and mathematics programs.
+
+      I would prioritize recruiting and retaining qualified educators through competitive compensation, professional development, and support for schools facing staffing shortages.
+
+      Partnerships with New Mexico universities, laboratories, and local industries could provide valuable educational opportunities and introduce students to future careers.
+
+      Parents should remain active partners in their children's education, and schools should provide transparent information about academic performance and educational outcomes.
+
+      Progress should be measured through science proficiency, student participation in advanced courses, teacher retention, graduation rates, and access to instructional resources.
+
+      Educational investments must reach classrooms and produce measurable improvements for students.
+
+- candidate_first_name: Victoria 
+  candidate_last_name: Garcia
+  state: nm
+  race: State House of Representatives
+  district: 48
+  party: Republican
+  question: nm-q9
+  date: 2026-10-22
+  primary_candidate: false
+  response: |
+      New Mexico's national laboratories, universities, and research institutions contribute to scientific discovery, national security, technological innovation, and economic development.
+
+      I support responsible federal research investments that demonstrate scientific value, strengthen workforce opportunities, and provide measurable benefits to New Mexico residents.
+
+      Research funding should include transparent financial oversight, clear performance objectives, and accountability for taxpayer resources.
+
+      I would encourage partnerships that connect research institutions with local businesses, schools, and workforce-development programs, helping more New Mexicans benefit from scientific advancement.
+
+      At the same time, communities experiencing growth associated with major research facilities deserve attention to housing affordability, transportation, water infrastructure, and environmental protection.
+
+      I would evaluate research investments through independently reviewed scientific outcomes, job creation, workforce development, local economic participation, infrastructure impacts, and financial accountability.
+
+      Scientific progress and fiscal responsibility should work together.
+
+      New Mexico should continue contributing to American innovation while ensuring that public investments serve the people and communities supporting that work.

@@ -3,7 +3,7 @@
   candidate_last_name: Chung # used for alphabetical sorting
   state: hi
   race: Local County Races [All] # must match one of the options!
-  county_race: Maui County Council # feel free to remove if not applicable
+  county_race: Maui Councilmember (Makawao-Haiku Paia) # feel free to remove if not applicable
   party: Non-partisan # must match one of the options!
   question: hi-q1
   response: |
@@ -15,7 +15,7 @@
   candidate_last_name: Chung # used for alphabetical sorting
   state: hi
   race: Local County Races [All] # must match one of the options!
-  county_race: Maui County Council # feel free to remove if not applicable
+  county_race: Maui Councilmember (Makawao-Haiku Paia) # feel free to remove if not applicable
   party: Non-partisan # must match one of the options!
   question: hi-q2
   response: |
@@ -27,7 +27,7 @@
   candidate_last_name: Chung # used for alphabetical sorting
   state: hi
   race: Local County Races [All] # must match one of the options!
-  county_race: Maui County Council # feel free to remove if not applicable
+  county_race: Maui Councilmember (Makawao-Haiku Paia) # feel free to remove if not applicable
   party: Non-partisan # must match one of the options!
   question: hi-q3
   response: |
@@ -39,7 +39,7 @@
   candidate_last_name: Chung # used for alphabetical sorting
   state: hi
   race: Local County Races [All] # must match one of the options!
-  county_race: Maui County Council # feel free to remove if not applicable
+  county_race: Maui Councilmember (Makawao-Haiku Paia) # feel free to remove if not applicable
   party: Non-partisan # must match one of the options!
   question: hi-q4
   response: |
@@ -51,7 +51,7 @@
   candidate_last_name: Chung # used for alphabetical sorting
   state: hi
   race: Local County Races [All] # must match one of the options!
-  county_race: Maui County Council # feel free to remove if not applicable
+  county_race: Maui Councilmember (Makawao-Haiku Paia) # feel free to remove if not applicable
   party: Non-partisan # must match one of the options!
   question: hi-q5
   response: | 
@@ -70,7 +70,7 @@
   response: |
     "We should be relying primarily on solar and wind, not LNG. We can get very close to achieving goals given recent dramatic changes in solar technology, with increased efficientcy and lower costs."
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
   
 - candidate_first_name: Amy
   candidate_last_name: Perruso
@@ -82,7 +82,7 @@
   response: |
     "We need to get serious about hardening community centers, especially public schools, managed retreat and investing in watershed management based on aloha 'āina principles."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Amy
   candidate_last_name: Perruso
@@ -94,7 +94,7 @@
   response: |
     "Yes."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Amy
   candidate_last_name: Perruso
@@ -106,7 +106,7 @@
   response: |
     "Better funding for public education across the board."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Amy
   candidate_last_name: Perruso
@@ -118,7 +118,7 @@
   response: |
     "Moving rapidly to EV vehicles, decreasing distances people have to travel for work by implementing work from home policies as widely as possible, and making public transportation free."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 #candidate3_response
 - candidate_first_name: Daniel
@@ -350,7 +350,7 @@
   response: |
     "Our best defense is taking the steps now to reduce our carbon footprint by building Nuclear power plants and then we will be able to implement more electric vehicles while lowering our carbon output rather then shifting it to fossil fuel power plants."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
   
 - candidate_first_name: Max
   candidate_last_name: Hanna
@@ -362,7 +362,7 @@
   response: |
     "If a Data center is gonna be built, we need to ensure that the center won't damage the environment of the land around it and make sure that local residents aren't footing the bill in electric prices or having their water contaminated by making the corporations pay the bills instead of taxpayers."
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Max
   candidate_last_name: Hanna
@@ -374,7 +374,7 @@
   response: |
     "Shift Public school funding from property taxes to general funds insuring equal payout to schools, Have Teacher pay be determined through competition of the best educators through emphasizing Civics/Morality and STEM to foster a future generation that is educated and has a strong moral compass, thus ensuring good teachers thrive and bad teachers get cut while also having teachers pay match college professor pay."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Max
   candidate_last_name: Hanna
@@ -386,7 +386,7 @@
   response: |
     "Find the gaps in our current system and renovate/expand to decrease car dependence on the island."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
     
 #candidate7_response
 - candidate_first_name: Jonathan
@@ -399,7 +399,7 @@
   response: |
     "I definitely agree with and support alternative energy options. There are countries like Sweden who make use of their garbage to create Waste-to-energy options and make an excellent decision for us. While some of the mentioned options for energy are better used for small scale use like solar and wind, I do think other options need to be used and must be explored."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Jonathan
   candidate_last_name: Kennealy
@@ -411,7 +411,7 @@
   response: |
     "We can only work on climate when we focus on us individually. When we collect trash and waste and provide stiff fines for littering. Focusing on being more self-sustainable would also help to reduce our footprint as a state. These are direct answers to support the cause of climate change without wasting finances on global initiatives."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
   
 - candidate_first_name: Jonathan
   candidate_last_name: Kennealy
@@ -423,7 +423,7 @@
   response: |
     "We first need to ask the bigger questions. How would Hawaii benefit from the use of data gathering? Why can we not have data stored in Mainland data centers? Where do they want to place them as far as an island state. What data is being collected; are we illegally collecting private information? There are a lot of negative aspects to placing a data center in Hawaii, such as natural disasters of hurricanes, flooding, and lava flow. These questions need to be answered before we talk about placement."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Jonathan
   candidate_last_name: Kennealy
@@ -435,7 +435,7 @@
   response: |
     "I would like to push for a revamp of our entire education system. The need to implement parents into this discussion is dire. A strong but lean education department that focuses on good teachers and a strongly academic curriculum will help to alleviate some of the issues in this department. The federal system has granted states the ability to build and sustain our own education system. We must change the way things are currently run and yes, I would support putting STEM into our curriculum."
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Jonathan
   candidate_last_name: Kennealy
@@ -447,7 +447,7 @@
   response: |
     "Adapting Hydrogen technology into our transportation infrastructure to sustain our transportation obstacles. We also need to make sure there are multiple ways out of our rural communities in case of natural disasters which was evidenced in Maui during the fires and The Big Island during the 2014 and 2018 lava flows. Public transportation of a hydrogen powered trackless tram connecting areas which are highly trafficked such as Hilo to Kona over saddle road or Honolulu to North Shore would bring down traffic congestion in addition to being better for our environment than Lithium ion and gas."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
     
 #candidate8_response
 - candidate_first_name: Dan
@@ -578,62 +578,57 @@
   candidate_last_name: Cordery
   state: hi
   race: Governor
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican
   question: hi-q1
   response: |
     "Geothermal makes sense for the Big Island, hydrogen is for the future, SNR’s are the most efficient, clean scalable. They represent energy for Hawaii’s future."
   
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Gary
   candidate_last_name: Cordery
   state: hi
   race: Governor
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican
   question: hi-q2
   response: |
     "Contrary to most opinions, the actual global data shows the earth is in a cooling trend. This addresses the question of sea level rise
     Fire mitigation is a stewardship responsibility. Counties must maintain their lands ensuring the fuel is mitigated."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
   
 - candidate_first_name: Gary
   candidate_last_name: Cordery
   state: hi
   race: Governor
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican
   question: hi-q3
   response: |
     "I am opposed to data centers."
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Gary
   candidate_last_name: Cordery
   state: hi
   race: Governor
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican
   question: hi-q4
   response: |
     "The DOE must prioritize science in the classroom and support advanced placement."
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Gary
   candidate_last_name: Cordery
   state: hi
   race: Governor
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican
   question: hi-q5
   response: |
     "Hawaii must create competition in this sector, there is no incentive to improve our transportation infrastructure."
 
-    KEYWORDS: N/A
+    KEYWORDS: No response
     
 #candidate11_response
 - candidate_first_name: Adriel
@@ -861,8 +856,7 @@
   candidate_last_name: Coots
   state: hi
   race: Local County Races [All]
-  county_race: Kaua'i Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Kauai Councilmember # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q1
   response: |
@@ -874,8 +868,7 @@
   candidate_last_name: Coots
   state: hi
   race: Local County Races [All]
-  county_race: Kaua'i Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Kauai Councilmember # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q2
   response: |
@@ -887,48 +880,44 @@
   candidate_last_name: Coots
   state: hi
   race: Local County Races [All]
-  county_race: Kaua'i Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Kauai Councilmember # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q3
   response: |
     "Would oppose any and all data centers on Kaua'i."
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
 
 - candidate_first_name: Mike
   candidate_last_name: Coots
   state: hi
   race: Local County Races [All]
-  county_race: Kaua'i Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Kauai Councilmember # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q4
   response: |
     "Much needed, and strongly support."
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
     
 - candidate_first_name: Mike
   candidate_last_name: Coots
   state: hi
   race: Local County Races [All]
-  county_race: Kaua'i Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Kauai Councilmember # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q5
   response: |
-    N/A
+    No response
     
-    KEYWORDS: N/A
+    KEYWORDS: No response
     
 #candidate15_response
 - candidate_first_name: Tamara
   candidate_last_name: Paltin
   state: hi
   race: Local County Races [All]
-  county_race: West Maui Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Maui Councilmember (West Maui) # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q1
   response: |
@@ -940,8 +929,7 @@
   candidate_last_name: Paltin
   state: hi
   race: Local County Races [All]
-  county_race: West Maui Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Maui Councilmember (West Maui) # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q2
   response: |
@@ -953,21 +941,19 @@
   candidate_last_name: Paltin
   state: hi
   race: Local County Races [All]
-  county_race: West Maui Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Maui Councilmember (West Maui) # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q3
   response: |
     "Sure, from my research the large data centers would not be suitable for Hawaii and we have some of the smaller types already. I believe data centers that do not use/pollute large amounts of water or draw large amounts of energy are most concerning and the output of funny memes and flyers just arent worth that kind of trade off. There may be ethical data centers but as a community we would need to look into what is being offered, what it’s used for and what is the tradeoff in terms of our Natural resources."
 
-    KEYWORDS: Water/Energy comsumption, pollution, ethicalqqq
+    KEYWORDS: Water/Energy consumption, pollution, ethical
 
 - candidate_first_name: Tamara
   candidate_last_name: Paltin
   state: hi
   race: Local County Races [All]
-  county_race: West Maui Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Maui Councilmember (West Maui) # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q4
   response: |
@@ -979,11 +965,561 @@
   candidate_last_name: Paltin
   state: hi
   race: Local County Races [All]
-  county_race: West Maui Councilmember # feel free to remove if not applicable
-  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  county_race: Maui Councilmember (West Maui) # feel free to remove if not applicable
   party: Non-partisan
   question: hi-q5
   response: |
     "I support fare free public transit for buses especially in areas that have traffic congestion. Currently we are working on a county sponsored inter county ferry to help with transportation between Maui, Molokai and Lānaʻi. I support trying hybrid or electric buses with a designated way to get rid of those batteries at the end of their useful life and trying algae or seaweed based jet fuel. In more rural communities I support micro-transit or rideshare type programs."
 
     KEYWORDS: Fare-free, micro-transit, ride share
+
+#candidate16_response
+- candidate_first_name: Shannon
+  candidate_last_name: Matson
+  state: hi
+  race: Local County Races [All]
+  county_race: Hawaii Councilmember  # feel free to remove if not applicable
+  district: 5 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "Hawaiʻi’s dependence on imported fossil fuels is something that keeps me up at night, especially with such international instability. Our reliance on gas in such rural communities really leaves our residents vulnerable. Rising energy costs and global market disruptions are extremely real threats that we honestly are completely unprepared for. We must accelerate the transition to affordable, reliable, locally produced clean energy while ensuring that working families already struggling to make ends meet are not left paying the price.
+
+    I support expanding rooftop and community solar, responsibly sited wind projects, battery storage, wave generated power, and exploring geothermal energy if (big IF) cultural, geological conditions, and environmental safeguards make it appropriate. These resources can reduce our dependence on imported fuels, strengthen energy security, and keep more energy dollars circulating in our local economy. We should prioritize projects on existing rooftops, parking structures, and previously developed lands to minimize impacts on agricultural lands, native ecosystems, and culturally significant places.
+
+    County and State policies should streamline permitting for responsible renewable energy projects, renew or expand incentives for household solar and battery systems, and provide targeted assistance to low-income households and renters who might otherwise be excluded from the benefits of clean energy. As the recent storms and hurricanes have shown us this year we also must invest in grid modernization and redundant systems for our crucial grid-tied systems like water, food, and healthcare power needs. 
+
+    Our goal should be a resilient, equitable energy system that lowers utility bills, protects our environment, and moves Hawaiʻi toward energy independence."
+    
+    KEYWORDS: Solar, Independence, Renewable 
+    
+- candidate_first_name: Shannon
+  candidate_last_name: Matson
+  state: hi
+  race: Local County Races [All]
+  county_race: Hawaii Councilmember  # feel free to remove if not applicable
+  district: 5 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "I began the Hawaiian Acres Resilience Hub in 2020, mostly as a response to the pandemic shutdowns, but since that time we have responded to lava concerns, fire, hurricanes, tropical storms, flooding, governmental shutdowns, and addressing general poverty concerns. We cannot expect government to be responsive to these concerns, especially at the County level, as we simply do not have enough personnel and resources to meet the demand during times of recovery/disaster. 
+
+    Right now we are partnering with Vibrant Hawai'i which has a network of Resilience Hubs across Hawai'i County and has been expanding to neighbor islands, and this is a model I would like to see additional funding and support for at both the County and State level. It's tried and true, and most importantly, it works. The more we can have trusted partners and organizations within our communities that are already trained, resourced, and ready to respond, the more resilient we will be and the better our response will be. "
+    
+    KEYWORDS: Resilience, Disaster-Prepared, Hubs
+
+- candidate_first_name: Shannon
+  candidate_last_name: Matson
+  state: hi
+  race: Local County Races [All]
+  county_race: Hawaii Councilmember  # feel free to remove if not applicable
+  district: 5 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "Our communities welcome technological innovations when they benefit our residents, create quality local jobs, and strengthen our economy. However, we do not welcome innovation at the cost of our water security, increased electricity costs, damage to culturally or environmentally sensitive ecosystems, or undermine community priorities.
+
+    I support requiring proposed data centers to undergo transparent, site-specific reviews addressing electricity demand, water consumption, wastewater management, noise, backup generators, emissions, and cumulative environmental impacts. Developers should demonstrate that projects will not shift infrastructure costs onto residential ratepayers or compromise essential services during droughts, emergencies, or periods of peak electricity demand.
+
+    Counties should have clear authority to regulate these facilities through zoning, permitting, and enforceable environmental standards. Hawaiʻi County’s proposal to distinguish AI data centers from conventional data processing facilities raises important questions about differences in energy demand, cooling requirements, and community impacts. Other counties should evaluate similar safeguards and consider if bans would be beneficial statewide. 
+
+    Our land and water are finite and essential to our communities. Economic development must respect those limits. We can pursue technological progress without sacrificing environmental sustainability, reliable infrastructure, or the well-being of future generations."
+    
+    KEYWORDS: Water-usage, Electricity-usage, Sustainability
+
+- candidate_first_name: Shannon
+  candidate_last_name: Matson
+  state: hi
+  race: Local County Races [All]
+  county_race: Hawaii Councilmember  # feel free to remove if not applicable
+  district: 5 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "Disclaimer- most of the following applies more to State candidates, as County Council Members really don't have much say in the way of policy or funding for DOE. 
+
+    As a parent of keiki in a Native Hawaiian Immersion Public Charter School I am supportive of more funding going towards these types of "alternative" learning environments. I believe everyone learns differently and having diverse options is extremely important. I support increasing and sustaining public investment in qualified teachers, smaller instructional groups (whenever feasible), updated learning materials, modern science laboratories, reliable technology, and professional development. Rural and neighbor-island schools should receive resources that reflect their unique challenges, including teacher recruitment, transportation, broadband access, and limited opportunities to offer specialized courses.
+
+    We should expand hands-on STEM education through robotics, coding, environmental science, agricultural technology, internships, and partnerships with the University of Hawaiʻi, community colleges, and local employers. After-school programs, tutoring, summer learning, and extracurricular activities should be affordable and accessible to families who cannot pay additional fees.
+
+    AI has become so prevalent, I think the role of educators should be one of discernment- how are we helping our students recognize and adapt to a world filled with technology and AI? Are they learning clear boundaries, and safety measures? While AI may help teachers personalize instruction, provide additional practice, and improve accessibility for students with different learning needs, it should be used to support, not replace, teachers and meaningful student engagement. Any AI use in the classroom must protect student privacy, address bias, and ensure equitable access to technology.
+
+    I would support transparent reporting of achievement and opportunity gaps so schools can direct resources where they are most needed. Educational success should not depend on a family’s ability to purchase enrichment or a school’s geographic location. Investing in our schools, teachers, and students strengthens Hawaiʻi’s workforce, communities, and long-term future."
+
+    KEYWORDS: Alternative learning, investment, equity
+    
+- candidate_first_name: Shannon
+  candidate_last_name: Matson
+  state: hi
+  race: Local County Races [All]
+  county_race: Hawaii Councilmember  # feel free to remove if not applicable
+  district: 5 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "We need a transportation system that reduces emissions and traffic, especially in our rural communities on Hawai'i Island. Residents should not have to choose between affordable transportation and protecting our environment.
+
+    I support investing in reliable public transportation, including expanded bus service, improved inter-island and rural connections through our para-transit systems, safer pedestrian routes, and protected bicycle lanes. Transportation planning should prioritize access to jobs, schools, healthcare, grocery stores, and essential services.
+
+    We should accelerate the transition to electric buses and government fleets, expand charging infrastructure, and provide targeted incentives that help low- and moderate-income households transition to cleaner vehicles. Incentives must account for rural communities where charging infrastructure remains limited. 
+
+    Our ports, airports, roads, and transit systems must also be built with redundancy to mitigate against flooding, coastal erosion, lava, extreme weather, and other climate risks. I support pursuing federal funding and public-private partnerships with strong public accountability whenever possible. The Puna Alternate Route planning is underway and while it is long overdue, I am grateful for some of the volunteers that are serving on this committee as they are truly savvy members of our community who have long-term knowledge of the plans that already exist and connectivity routes that badly need to be prioritized. 
+
+    Ultimately, sustainable transportation must be practical and equitable. We should reduce dependence on fossil fuels without making everyday travel more expensive or leaving rural and lower-income residents behind."
+
+    KEYWORDS: Connectivity Routes, Infrastructure
+
+#candidate17_response
+- candidate_first_name: Umi
+  candidate_last_name: Martin
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "I support KIUC and their move towards more renewable energy that is how we hedge against volatile fuel costs. For Kauai, I prefer sun, water, and battery storage and I think we have done a good job incorporating that into our energy grid.
+
+    I'm not sure we can achieve 100% renewable energy, but I would continue to support KIUC's goal to be 100% renewable energy by 2033 and I'd like to see how close we can get."
+    
+    KEYWORDS: Affordability, reliability, and sustainability
+    
+- candidate_first_name: Umi
+  candidate_last_name: Martin
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "Understanding that we are seeing climate change, and an increase in weather patterns like el nino, tropical storms, and flooding, we need to be proactive in preparing our island to be able to adapt to these changes, withstand the effects, and to be able to bounce back in the aftermath.
+
+    Priority should be placed on the safety of our residents and our infrastructure: we have to plan and protect our roads, bridges, drains, and water systems. I would prioritize improvements that would make our infrastructure more resilient to extreme weather.
+
+    The county already has a Climate Adaptation and Action Plan and I believe we should use it to guide our priorities and investments."
+    
+    KEYWORDS: Preparedness, infrastructure, resilience
+    
+- candidate_first_name: Umi
+  candidate_last_name: Martin
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "To be honest I don't know enough about AI data centers to make a decision right now. There is so much noise about this topic it is hard to know what is true.  Before making any decisions I and would ask subject matter experts to get a clearer understanding."
+    
+    KEYWORDS: No response
+    
+- candidate_first_name: Umi
+  candidate_last_name: Martin
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "As a former substitute teacher, youth counselor, and father of two, I believe that every child deserves a quality education regardless of where they live or which school they went to.
+
+    While the state has the responsibility of our public school system there are ways the county can help through partnerships, community programs, and facilities.  I would support more STEM programs in school and extra curriculum activities. 
+
+    AI like every form of technology that has come before is a tool.  We have the responsibility at the school level and as parents to teach our children the ethical use of technology and help them incorporate it in there education without replacing the importance of critical thinking and social interactions.  It's a balance."
+    
+    KEYWORDS: opportunity equity
+    
+- candidate_first_name: Umi
+  candidate_last_name: Martin
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "This is why we should continue to fund innovation at the county, state, and federal level. We never know where the next breakthrough will come from or what new technology might help us build a more sustainable future. 
+
+    I am a strong supporter of public transportation and believe it is an essential service that deserves continued subsidies. Re liable transportation is important for a rural communities and for those that cannot afford they own personal vehicles.
+
+    As we transition towards cleaner technologies, access and affordability need to be considered.  Our goal should be to reduce our environmental impact, but we have to weigh that against the potential financial burden this may place on our residents."
+    
+    KEYWORDS: innovation, accessibility, affordability
+
+#candidate18_response
+- candidate_first_name: Adrian
+  candidate_last_name: Akina
+  state: hi
+  race: Local County Races [All]
+  county_race: Office of Hawaiian Affairs At-Large Trustee  # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "We need energy independence, but not at the cost of our ʻāina and wai. Solar and wind are fine if they do not destroy sacred sites or water sources. Geothermal has a legal wrinkle. The 1856 statute reserved minerals to the King, but the 1859 Civil Code left it out, and the courts ruled that omission repealed it. So mineral ownership is ambiguous. I would support geothermal only with free, prior, and informed consent, independent monitoring, and royalties flowing directly to the lāhui."
+    
+    KEYWORDS: Wai (Water), ʻĀina (Land), Lāhui (People)
+    
+- candidate_first_name: Adrian
+  candidate_last_name: Akina
+  state: hi
+  race: Local County Races [All]
+  county_race: Office of Hawaiian Affairs At-Large Trustee  # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "My plan is grounded in Kingdom law. The 1840 Constitution said water is free to all. The 1845 Land Commission reserved water for the people's common good. The 1876 Forestry Act protected watersheds to conserve water. We need to follow the 1860 Water Commission model: local knowledge, place-based governance.
+ 
+    We must protect wai first. No development gets to consume water that belongs to the people. We prepare for coastal and climate impacts on housing, agriculture, and cultural sites. We invest in resilience for beneficiary communities, not just OHA assets. When disaster hits, we respond together. That is our kuleana to future generations."
+    
+    KEYWORDS: Wai (Water), Kaiāulu (Community), Kuleana (Responsibility)
+    
+- candidate_first_name: Adrian
+  candidate_last_name: Akina
+  state: hi
+  race: Local County Races [All]
+  county_race: Office of Hawaiian Affairs At-Large Trustee  # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "Data centers consume enormous energy and water. Under the 1840 Constitution and 1845 Land Commission Principles, water is reserved for the people. Under the 1876 Forestry Act, watersheds are protected for water, not industry. I support the intent of Bill 170. AI data centers should not drain our limited resources.
+ 
+    Any data center in Hawaiʻi must use renewable energy without raising ratepayer costs. It must use closed-loop cooling so it does not consume public water. It must pay its own infrastructure costs. It must hire locally and provide enforceable community benefits. OHA's data must live on lāhui-controlled infrastructure. We need data sovereignty. We cannot let outside corporations control our records and our story."
+    
+    KEYWORDS: Wai (Water), ʻIke (Knowledge/Data), Pono (Balance)
+    
+- candidate_first_name: Adrian
+  candidate_last_name: Akina
+  state: hi
+  race: Local County Races [All]
+  county_race: Office of Hawaiian Affairs At-Large Trustee  # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "Forty percent proficiency is a crisis. We need to fund schools fairly, no matter the island. I have taught for 30 years. I know students learn best when they see themselves in the material. We should expand STEM by connecting it to the ʻāina and Hawaiis host culture Ahupuaʻa-based resource management is science. Traditional knowledge is science. Let us teach both.
+ 
+    We can use AI as a tool to help teachers, not replace them. But we must ensure every student has access to high-quality STEM, regardless of geography or resources. That means increasing public funding, supporting extracurriculars, and providing the technology and support our keiki need. We must bind our keiki to their ʻāina through education."
+    
+    KEYWORDS: Naʻauao (Knowledge), Haumāna (Student), Kumu (Teacher)  
+    
+- candidate_first_name: Adrian
+  candidate_last_name: Akina
+  state: hi
+  race: Local County Races [All]
+  county_race: Office of Hawaiian Affairs At-Large Trustee  # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "Transportation is a lifeline for our islands. We need sustainable options like electric vehicles, hybrid buses, and public transit. But we must ensure equity for rural communities and neighbor islands. We cannot just focus on Honolulu rail and forget Molokaʻi or Lānaʻi. Sustainable aviation fuel is good, but it must not come at the cost of our ʻāina and wai. Ports must be resilient to climate change.
+ 
+    We should invest in clean transit, but we must also protect the land. Any transportation project must respect cultural sites, water rights, and traditional practices. We must plan with communities, not for them. We need a transportation system that connects our people without harming the places they live. That is how we balance modern needs with our kuleana to the ʻāina."
+
+    KEYWORDS: Huakaʻi (Travel), ʻĀina (Land), Kaiāulu (Community)
+    
+    
+  #candidate19_response
+- candidate_first_name: Taylor
+  candidate_last_name: Shigemoto
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "The reason energy prices are so high and will continue to increase is due to the heavy reliance on fossil fuel to power our generators.  I appreciate what the Kauai Island Utility Co-op is doing to encourage and partner with private owners  and other entities to develop alternative renewal energy projects.  This movement and support from our only power company is extremely vital to reduce and/or at least stabilize the energy costs here on Kauai. 
+    
+    I would support KIUC's continued efforts to become totally energy-sufficient by 2045.  As a council we need to approve land use initiatives to allow more solar farms and provide tax incentives to the producers of renewable energy. We must also provide real property tax incentives to get taxpayers to install photo-voltaic systems to help reduce their total exposure."
+    
+    KEYWORDS: No response
+    
+- candidate_first_name: Taylor
+  candidate_last_name: Shigemoto
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "Kauai County has gained invaluable experiences from the five hurricanes hitting us over the past five decades.  We as a county understand what is necessary to protect our people and our island from such natural disasters.  We cannot avoid such events from happening but must prepare as best as we can to provide shelters, protect our power, water, wastewater and communications systems.  In preparing for such disasters the county council must support funding requests from our critical agencies to enhance these protective measures.  We can and must provide the administration with the proper equipment, tools and resources for such preparation."
+
+    KEYWORDS: No response  
+    
+- candidate_first_name: Taylor
+  candidate_last_name: Shigemoto
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "As frightening and fascinating at the same time as AI is, in my opinion it is where our future in technology is headed.  It is too new a phenomenon to understand the various risks and impacts it will have on us.  As a tool for all facets of informational technology, which I personally am not familiar with yet, as a council we must get indoctrinated to it and get a grasp of the pros and dangers of establishment of such data centers.
+
+    My position on AI relative to growing our economy, stabilizing our environment and preserving our natural resources is very positive as long as the results don't create negative impacts to our environment and pose any health risks."
+
+    KEYWORDS: No response 
+    
+- candidate_first_name: Taylor
+  candidate_last_name: Shigemoto
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "I support any and all equitable access to the programs available to enhance the use of most recent technological advances available to our students.  The County has a limited ability to influence educational proficiencies.  This is the responsibility of our State educational system.  Nevertheless, as parents, grandparents, uncles and aunties of our keiki, the councilmembers have an obligation to support such technology as AI for the betterment of the educational system, as long as such technology is scrubbed, vetted and researched to provide accurate and safe information."
+
+    KEYWORDS: No response
+    
+- candidate_first_name: Taylor
+  candidate_last_name: Shigemoto
+  state: hi
+  race: Local County Races [All]
+  county_race: Kauai Councilmember # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "Balancing green transportation in Hawaii requires shifting capital toward low-income and rural communities, expanding affordable electric vehicle (EV) charging, scaling rural public transit, and ensuring interisland aviation and maritime transition costs do not overburden working-class residents. Provide more EV charging stations in rural remote, and multi-unit housing neighborhoods on neighboring islands rather than tourist-heavy or densely populated municipalities like Honolulu.  Transportation dollars should be directed away from vehicle-centric road widening toward pedestrian bicycle, and frequent transit networks. Low-frequency rural bus routes could perhaps be replaced with on-demand shuttle services that connect isolated communities to medical, school, and work hubs.   For Rail, we should ensure that the rail system and feeder bus lines feature subsidized fares and seamless transfers for transit-dependent kupuna and keiki.  Finally, we must study and support the production of electric and hybrid interisland aircraft, if feasible, and regulate ticket prices so neighbor-island residents can afford essential medical and family travel."
+    
+    KEYWORDS: No response
+
+#candidate20_response
+- candidate_first_name: Tara Malia
+  candidate_last_name: Gregory
+  state: hi
+  race: Local County Races [All]
+  county_race: Honolulu Councilmember  # feel free to remove if not applicable
+  district: 4 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "I believe environmental stewardship, scientific innovation, energy affordability, and reliability must work together. I agree with SNAP's emphasis on science-informed policymaking and evaluating energy technologies through credible research and measurable outcomes.
+
+    My priority is expanding decentralized energy systems, including rooftop solar, battery storage, community microgrids, and energy-efficient infrastructure, while maintaining a stable, modernized electrical grid. Hawaiʻi needs reliable backup power and resilient infrastructure, particularly during emergencies.
+
+    I support continued research into wind, geothermal, ocean energy, and emerging technologies, evaluating their environmental impacts, affordability, reliability, and compatibility with Hawaiʻi's cultural and natural resources.
+
+    Regarding liquefied natural gas (LNG), I have not conducted sufficient research to take a definitive position. I believe responsible leadership requires examining scientific evidence, environmental consequences, and long-term costs before making policy commitments.
+
+    As a Honolulu City Council member, I would advocate for renewable energy on municipal properties, responsible permitting reform, resilient essential services, and greater transparency in infrastructure spending.
+
+    Our energy future should reflect the principles of the ahupuaʻa: responsible stewardship, local resource management, and community self-reliance. Ultimately, success must be measured by lower electricity costs, fewer outages, greater resilience, and meaningful protection of our ʻāina for future generations."
+
+    KEYWORDS: SNAP, LNG, Lower Costs
+    
+- candidate_first_name: Tara Malia
+  candidate_last_name: Gregory
+  state: hi
+  race: Local County Races [All]
+  county_race: Honolulu Councilmember  # feel free to remove if not applicable
+  district: 4 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "I believe climate resilience begins long before disaster strikes. We must shift from reacting to emergencies toward proactively protecting our communities, infrastructure, natural resources, and vulnerable residents through science-informed planning and measurable preparedness.
+
+    I support strengthening accountability under Hawaiʻi Revised Statutes Chapter 127A, particularly §127A-14(c), which designates the Governor or Mayor as the "sole judge" of circumstances justifying emergency declarations. I believe emergency authority should include documented evidence, transparency, legislative oversight, and meaningful judicial review without compromising immediate lifesaving responses.
+
+    As a Honolulu City Council member, I would prioritize flood mitigation, coastal protection, wildfire prevention, improved emergency warnings and evacuation systems, and reliable backup electricity and water for essential services.
+
+    I also believe we must critically examine whether our existing emergency shelters provide adequate protection during major disasters. Rather than automatically investing in additional community resilience hubs, I would advocate for independent assessments of shelter capacity, structural safety, and emergency infrastructure.
+
+    We should seriously evaluate hardened public shelters, underground protective facilities where geographically appropriate, and multipurpose structures capable of withstanding extreme weather. Why should access to robust emergency protection depend on someone's financial resources? Any investment must be supported by scientific risk assessments, engineering feasibility, environmental considerations, and transparent cost-benefit analysis.
+
+    Drawing from traditional ahupuaʻa principles, I would advocate for watershed protection, local food production, and community self-reliance.
+
+    Finally, I would push for transparent emergency preparedness spending, regular infrastructure assessments, and measurable readiness benchmarks.
+
+    Effective climate resilience requires sound science, proactive planning, community participation, and government accountability."
+
+    KEYWORDS: Chapter 127A, Ahupua'a, emergency preparedness
+    
+- candidate_first_name: Tara Malia
+  candidate_last_name: Gregory
+  state: hi
+  race: Local County Races [All]
+  county_race: Honolulu Councilmember  # feel free to remove if not applicable
+  district: 4 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "I support prohibiting new industrial-scale AI data centers in Hawaiʻi. Our islands have limited land, freshwater resources, and electrical infrastructure. Protecting these resources and the well-being of our residents must take precedence over large-scale industrial expansion.
+
+    I support scientific research, and responsible technological innovation. However, supporting technology does not mean accommodating every industrial facility, particularly when large data centers can place significant demands on electricity, cooling systems, water resources, and existing infrastructure.
+
+    I support the intent of Hawaiʻi County's Bill 170 and would advocate for similar protections in Honolulu, with clear definitions distinguishing industrial-scale AI data centers from essential telecommunications, smaller research facilities, and conventional data-processing operations.
+
+    As a Honolulu City Council member, I would pursue appropriate zoning restrictions, environmental safeguards, and transparent assessments of infrastructure capacity, resource consumption, and potential public costs.
+
+    I believe technological progress should be evaluated through scientific evidence, environmental sustainability, and measurable community benefits, not simply economic promises.
+
+    Our land, water, and energy are finite resources. My priority is protecting our ʻāina, maintaining reliable utilities, and ensuring technological innovation serves Hawaiʻi's people without imposing unnecessary environmental or financial burdens."
+
+    KEYWORDS: AI, protect our ʻāina
+    
+- candidate_first_name: Tara Malia
+  candidate_last_name: Gregory
+  state: hi
+  race: Local County Races [All]
+  county_race: Honolulu Councilmember  # feel free to remove if not applicable
+  district: 4 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "As a former middle school teacher, I strongly support expanding STEM and STEAM education while ensuring existing funding reaches classrooms and produces measurable results.
+
+    During COVID, I taught digital media to seventh- and eighth-grade students, integrating photography, nature, technology, and artistic expression. Students explored their identities through these projects and used Photoshop to create original works. This reinforced my belief that technology should develop creativity, critical thinking, and independent learning.
+
+    I also envision partnerships between schools, local muralists, and artists where students participate in transforming graffiti-prone walls into meaningful public art. Working alongside professionals, students could learn design, digital technology, project planning, cultural storytelling, and community stewardship while taking pride in their neighborhoods.
+
+    I support hands-on STEM opportunities, extracurricular programs, teacher development, and responsible AI integration that enhances rather than replaces foundational learning.
+
+    With approximately 40% of students demonstrating math and science proficiency, we must evaluate how education dollars are spent in the best areas for the growth of our students.
+
+    As a Honolulu City Council member, I would advocate for partnerships connecting schools, local businesses, artists, and community organizations.
+
+    Our keiki deserve opportunities to become creators, innovators, and problem-solvers, not simply consumers of technology."
+    
+    KEYWORDS: STEM, STEAM
+    
+- candidate_first_name: Tara Malia
+  candidate_last_name: Gregory
+  state: hi
+  race: Local County Races [All]
+  county_race: Honolulu Councilmember  # feel free to remove if not applicable
+  district: 4 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "I support sustainable transportation solutions that reduce environmental impacts, improve accessibility, and remain financially responsible. Hawaiʻi's unique geography requires practical, science-based approaches that serve our communities.
+
+    I support transportation technologies that demonstrate real improvements in efficiency, affordability, and environmental sustainability. As someone who drives a hybrid vehicle that uses regenerative braking, I recognize the benefits of innovation. However, before spending taxpayer dollars, government should provide transparent evidence that investments are practical, cost-effective, and beneficial to our communities.
+
+    Strengthening TheBus and TheHandi-Van should be priorities, particularly for kūpuna, individuals with disabilities, working families, and underserved communities. For example, improving bus connections between Waimānalo and Maunalua (Hawaiʻi Kai) could better serve residents commuting to work while potentially reducing congestion and emissions.
+
+    Countries like Japan and Singapore demonstrate the benefits of integrated transportation planning. Honolulu should learn from their successes while developing solutions appropriate for our island.
+
+    Sustainable transportation also requires government accountability. Honolulu's rail project demonstrates why transparent procurement, independent audits, realistic cost projections, and measurable outcomes are essential.
+
+    As a Honolulu City Council member, I would advocate for transportation investments that improve mobility, protect our environment, and demonstrate responsible use of taxpayer dollars."
+
+    KEYWORDS: No response
+    
+  
+#candidate21_response
+- candidate_first_name: Carol Lee
+  candidate_last_name: Kamekona
+  state: hi
+  race: Local County Races [All]
+  county_race: Maui Councilmember (Kahului) # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q1
+  response: |
+    "I support expanding solar as an alternative energy and continued subsidies for home use. Research should go into technologies that take us away from the use of conflict minerals to end the exploitation of those that mine it."
+
+    KEYWORDS: Solar, Research, Mindfulness
+    
+- candidate_first_name: Carol Lee
+  candidate_last_name: Kamekona
+  state: hi
+  race: Local County Races [All]
+  county_race: Maui Councilmember (Kahului) # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q2
+  response: |
+    "Managed retreat for our coastal roads and structures. Legislation to require private landowners be responsible for maintenance. Buffering between structures and sidewalks. Ensuring future developments include evacuation routes within their projects."
+
+    KEYWORDS: Management, Responsibility, Forethought
+    
+- candidate_first_name: Carol Lee
+  candidate_last_name: Kamekona
+  state: hi
+  race: Local County Races [All]
+  county_race: Maui Councilmember (Kahului) # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q3
+  response: |
+    "I support Bill 170. Maui has limited water for its current population and intended growth. AI must also be regulated at its base level to protect jobs and the economy."
+
+    KEYWORDS: Water, Regulation, Economy
+    
+- candidate_first_name: Carol Lee
+  candidate_last_name: Kamekona
+  state: hi
+  race: Local County Races [All]
+  county_race: Maui Councilmember (Kahului) # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q4
+  response: |
+    "AI is not needed in the classroom. Keiki need to fully engage before giving themselves an easy way out. I support funding programs that would enhance interpersonal interaction while connecting to the aina, like food sustainability, water usage, and land management & yield."
+
+    KEYWORDS: Aina, Pilina, No AI
+    
+- candidate_first_name: Carol Lee
+  candidate_last_name: Kamekona
+  state: hi
+  race: Local County Races [All]
+  county_race: Maui Councilmember (Kahului) # feel free to remove if not applicable
+  party: Non-partisan
+  question: hi-q5
+  response: |
+    "Electric/Hybrid public transit options, Ferry system for rural access, and new avaenues for interisland air travel"
+    
+    KEYWORDS: Electric, Rural, Accessibility
+    
+#candidate22_response
+- candidate_first_name: Amanda
+  candidate_last_name: Ybanez
+  state: hi
+  race: State House of Representatives
+  district: 30 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q1
+  response: |
+    "I require well saturated community input abd current research to support government positioning on any suggestion of possible energy mix used in Hawaii. Along with EUS and possible impacts on our environment."
+
+    KEYWORDS: No response
+    
+- candidate_first_name: Amanda
+  candidate_last_name: Ybanez
+  state: hi
+  race: State House of Representatives
+  district: 30 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q2
+  response: |
+    "We need to support our own local food resource on every island and have emergency hubs as well."
+
+    KEYWORDS: No response
+    
+- candidate_first_name: Amanda
+  candidate_last_name: Ybanez
+  state: hi
+  race: State House of Representatives
+  district: 30 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q3
+  response: |
+    "Yes"
+    
+    KEYWORDS: No response
+    
+- candidate_first_name: Amanda
+  candidate_last_name: Ybanez
+  state: hi
+  race: State House of Representatives
+  district: 30 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q4
+  response: |
+    "I believe that high school education should be mandatory, and that call the above said classes be also mandatory education to better prepare our future leaders with. All districts shall have the same classes."
+
+    KEYWORDS: No response
+
+- candidate_first_name: Amanda
+  candidate_last_name: Ybanez
+  state: hi
+  race: State House of Representatives
+  district: 30 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican
+  question: hi-q5
+  response: |
+    "Students should be free, Kupuna at reduced fair cost, kama aina rate and visitor rate separate. We should support hybrid, and incentivize the public when getting off fossil fuel consumption by rebates on solar. We all need to do our part to get off the reliance of fossil fuel."
+
+    KEYWORDS: No response
