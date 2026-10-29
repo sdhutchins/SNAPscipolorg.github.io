@@ -25,7 +25,7 @@ We are a coalition of early-career scientists dedicated to mobilizing for large-
 
 Check out our [events calendar]({{ site.url }}{{ site.baseurl }}/calendar)!
 
-## Member Organizations
+## Affiliate Organizations
 {: .h3 .mt-4 .mb-3 }
 
 <div class="row g-4 member-organizations" markdown="0">
